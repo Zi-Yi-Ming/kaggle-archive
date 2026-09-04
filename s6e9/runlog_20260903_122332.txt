@@ -1,0 +1,15 @@
+[��] id=id Ŀ��=Will_Buy_EV | ��ֵ 7 �� / ��� 6 ��
+  lgb ��0: ���
+  lgb ��1: ���
+  lgb ��2: ���
+  lgb ��3: ���
+  lgb ��4: ���
+lgb OOF AUC: 0.94140
+  xgb ��0: ���
+  xgb ��1: ���
+  xgb ��2: ���
+  xgb ��3: ���
+  xgb ��4: ���
+xgb OOF AUC: 0.93739
+  cat ��0: ���
+  cat ��1: ���

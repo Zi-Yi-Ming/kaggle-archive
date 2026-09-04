@@ -1,0 +1,18 @@
+{
+  "id": "ziyiming/rsna-knee-v3-fix8-run",
+  "title": "RSNA Knee v3 - fix8 run",
+  "code_file": "rsna_v3_fix.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "barun2104/rsna-knee-stratified-folds-and-llm-soft-labels",
+    "matteonaccarato/resnet34-imagenet-pth"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,20 @@
+# 原始比赛数据（GitHub 单文件限 100MB，需要时从 Kaggle 重新下载）
+**/data/
+*.zip
+
+# 模型权重 / oof 资产（超大）
+smartphone_addiction/oof/
+smartphone_addiction/public_oof/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 运行日志 / 临时文件
+*.log
+*.tmp
+catboost_info/
+
+# Kaggle / 环境
+kaggle.json
+.credentials

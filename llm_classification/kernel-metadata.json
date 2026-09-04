@@ -1,0 +1,18 @@
+{
+  "id": "ziyiming/llm-classification-finetuning-v1",
+  "title": "LLM Classification Finetuning v1",
+  "code_file": "llm_pref_v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "dataset_sources": [
+    "kozodoi/transformers"
+  ],
+  "model_sources": []
+}
