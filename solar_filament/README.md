@@ -1,5 +1,17 @@
 # Solar Filament — 太阳暗条分割（Playground S6E6）
 
+## Result
+
+| Metric | Best Score | Best Version | Status |
+|---|---:|---|---|
+| —¹ | —¹ | U-Net v1 | Completed |
+
+¹ Playground 无奖牌练习赛，以管线验证为主，未留最终成绩记录（CPU 冒烟验证，未跑完整 GPU 训练）。
+
+### Key Finding
+
+在 19 张训练图的条件下，先建立可运行的 patch-based segmentation pipeline（512² patch 扩样 + 纯 torch U-Net + Dice/BCE），比追求更复杂的模型路线更有价值。
+
 ## 比赛简介
 
 Kaggle Playground Series Season 6 Episode 6：太阳暗条（solar filament）图像分割。
@@ -38,7 +50,7 @@ Kaggle Playground Series Season 6 Episode 6：太阳暗条（solar filament）�
 
 ## 复盘
 
-1. **极小样本下 patch 切片是唯一可行的扩样手段**，512 patch 兼顾信号密度与感受野
+1. **极小样本下 patch 切片是当前数据规模下最直接可行的扩样手段**，512 patch 兼顾信号密度与感受野
 2. **Dice+BCE 混合损失** 对暗条这种细长稀疏目标（filament 占比常 <5%）比纯 BCE 稳定
 3. 该赛定位为 U-Net 分割练手场，未冲榜（Playground 无奖牌），代码沉淀了可复用的纯 torch 分割模板
 
@@ -56,7 +68,7 @@ Kaggle Playground Series Season 6 Episode 6：太阳暗条（solar filament）�
 而且每张 2048×2048、目标是细长稀疏的太阳暗条(filament 占比常 <5%)。
 当时的核心焦虑是"这么点数据怎么训练?"——答案几乎是被逼出来的:**patch 切片**。
 2048² 的大图切成 512×512 的小块,每图出多个 patch,19 张图瞬间扩成几百个
-训练样本。这是极小样本分割唯一可行的扩样手段。
+训练样本。在当前数据规模与实验预算下,这是极小样本分割最直接可行的扩样手段。
 
 第二个决策是**不引入重型依赖**。当时我在 RSNA(医学影像)上有 GPU 额度焦虑,
 习惯了"本地 CPU 先冒烟、Kaggle GPU 再全量"的工作流。所以 U-Net 用纯 torch

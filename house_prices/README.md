@@ -12,16 +12,23 @@ Kaggle 经典常驻赛(Getting Started,无截止日期):根据 79 个房屋特�
 house_prices/
 ├── data/                          # train.csv / test.csv / sample_submission.csv
 ├── submissions/
-│   ├── submission_baseline.csv    # v1 基线(XGB)
-│   ├── submission_v2.csv          # v2 组合特征 + 三模型混合
-│   ├── submission_v3.csv          # v3 +CatBoost 四模型混合
-│   └── submission_v4.csv          # v4 等权平均(公开榜最佳,最终版)
+│   └── submission_v4.csv          # v4 等权平均(公开榜最佳,最终版);早期版本见提交记录表
 ├── house_prices_baseline.py       # v1: log1p 目标 + Ridge/RF/XGB + 5 折 RMSE
 ├── house_prices_v2.py             # v2: 10 个组合特征 + Ridge/XGB/LGBM 权重混合
 ├── house_prices_v3.py             # v3: +MSSubClass 类别化等特征 + CatBoost 入队
 ├── house_prices_v4.py             # v4: XGB+LGBM+CatBoost 等权平均(最终版)
 └── README.md
 ```
+
+## Result
+
+| Metric | Best Score | Best Version | Status |
+|---|---:|---|---|
+| RMSE (log) | 0.12196 | v4 (equal-weight blend) | Completed |
+
+### Key Finding
+
+小样本上权重搜索选出的极端权重会过拟合 OOF、吃掉真实收益；等权平均本地略逊却最能兑现到公开榜。
 
 ## 提交记录(2026-08-18)
 
@@ -64,8 +71,12 @@ v2;但公开榜 0.12290 **略差于 v2 的 0.12223**(差 0.0007)。**教训**:�
 
 ```bash
 # 环境:conda activate kaggle(或直接用 C:\Users\Lenovo\.conda\envs\kaggle\python.exe)
-python house_prices/house_prices_baseline.py   # v1
-python house_prices/house_prices_v2.py         # v2(当前最佳)
+# 推荐:最终提交版本
+python house_prices/house_prices_v4.py         # v4(最终版,XGB+LGBM+CatBoost 等权平均,公开榜 0.12196)
+# 历史版本(按需查看演进)
+python house_prices/house_prices_baseline.py   # v1 基线(XGB 单模型)
+python house_prices/house_prices_v2.py         # v2(组合特征 + 三模型权重混合,公开榜 0.12223)
+python house_prices/house_prices_v3.py         # v3(+CatBoost 四模型权重搜索,公开榜 0.12290)
 ```
 
 ### 提交
@@ -75,8 +86,11 @@ python house_prices/house_prices_v2.py         # v2(当前最佳)
 NO_PROXY="*" no_proxy="*" HTTP_PROXY="" HTTPS_PROXY="" ALL_PROXY="" \
 http_proxy="" https_proxy="" all_proxy="" \
 kaggle competitions submit -c house-prices-advanced-regression-techniques \
-  -f house_prices/submissions/submission_v2.csv -m "说明"
+  -f house_prices/submissions/submission_v4.csv -m "说明"
 ```
+
+> 注:历史版本 `submission_v2.csv` / `submission_v3.csv` 未保留在本地(记录在
+> 上方提交表),当前目录的存档提交为最终版 `submission_v4.csv`。
 
 ## 进阶方向(无截止日期,可慢慢磨)
 

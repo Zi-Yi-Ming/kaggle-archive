@@ -7,15 +7,27 @@ Kaggle 官方月度练习赛(Tabular Playground Series - Season 6 Episode 8):
 赛程:2026-08-01 ~ 2026-08-31。数据为合成生成(信号干净、缺失为 MCAR),
 训练集 69.1 万行 / 测试集 29.6 万行。
 
+## Result
+
+| Metric | Best Score | Best Version | Status |
+|---|---:|---|---|
+| AUC | 0.97033 | v6 (OOF blend) | Completed |
+
+### Key Finding
+
+单模型调参到顶后，真正收益来自 OOF ensemble——拼接社区公开 OOF 库（74 模型 + rank 归一化解量纲陷阱 + 嵌套 CV 防过拟合），而非继续微调单模型。
+
 ## 项目结构
 
 ```
 smartphone_addiction/
 ├── data/                    # train.csv / test.csv / sample_submission.csv
 ├── submissions/
-│   ├── submission_baseline.csv   # v1 基线(RF)
-│   ├── submission_v2.csv         # v2 LightGBM(最佳)
-│   └── submission_v3.csv         # v3 调参后 LGBM(交互特征被 OOF 否决)
+│   ├── submission_v4.csv           # v4 三模型异构混合(见提交记录表)
+│   ├── submission_v6_sel_opt.csv   # v6 公开 OOF 库混合(最佳,0.97033,最终提交)
+│   ├── submission_v6_sel_opt_repro.csv  # v6 复现版
+│   ├── submission_v7_lrstack_all81.csv  # v7 后续实验(记录在 Kaggle 历史)
+│   └── submission_v8_gbdt_stack.csv     # v8 后续实验(记录在 Kaggle 历史)
 ├── smartphone_baseline.py   # v1: LR/RF 基线 + 单特征对照线 + 5 折 CV
 ├── smartphone_v2.py         # v2: LightGBM 原生缺失/类别 + n_missing 特征 + 集成
 ├── smartphone_tune.py       # 调参脚本:15 万行子样本扫描 LGBM 参数
@@ -90,11 +102,11 @@ titanic_v4 与 smartphone_v2 在新环境下输出与旧环境逐位一致)。
 
 ```bash
 # 先激活:conda activate kaggle
-# v1 基线(RF)
-python smartphone_addiction/smartphone_baseline.py
-
-# v2(LightGBM,当前最佳)
-python smartphone_addiction/smartphone_v2.py
+# 推荐:最终最佳版本(v6 公开 OOF 库混合,详见提交记录表)
+#   v6 依赖 public_oof/(社区 OOF 库,未入库),由 smartphone_v6_final2.py 等生成
+# 可独立复现的历史版本:
+python smartphone_addiction/smartphone_baseline.py   # v1 基线(RF)
+python smartphone_addiction/smartphone_v2.py         # v2(LightGBM,历史最佳,0.96518)
 ```
 
 ### 提交
@@ -104,7 +116,10 @@ python smartphone_addiction/smartphone_v2.py
 NO_PROXY="*" no_proxy="*" HTTP_PROXY="" HTTPS_PROXY="" ALL_PROXY="" \
 http_proxy="" https_proxy="" all_proxy="" \
 kaggle competitions submit -c playground-series-s6e8 \
-  -f smartphone_addiction/submissions/submission_v2.csv -m "说明"
+  -f smartphone_addiction/submissions/submission_v6_sel_opt.csv -m "说明"
+
+# 其他存档提交见 submissions/(v4 为 LGBM+XGB 混合;v7/v8 为后续实验,记录在 Kaggle 历史)
+```
 
 # 查询分数
 NO_PROXY="*" ... kaggle competitions submissions -c playground-series-s6e8

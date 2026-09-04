@@ -4,6 +4,18 @@
 **脚本**:`llm_pref_v1.py` / `llm_pref_v1.ipynb`(单 cell 版,上传直接跑)
 **类型**:Getting Started(练技术,不发奖牌/积分)
 
+## Result
+
+| Metric | Best Score | Best Version | Status |
+|---|---:|---|---|
+| LogLoss | —¹ | v1 (auto) | Completed |
+
+¹ Getting Started 练习赛，以方法验证为主，未留最终成绩记录（基线 log(3)≈1.0986，社区好成绩 ~1.045）。
+
+### Key Finding
+
+本赛是 RSNA 文本分支的预演：双塔 Siamese + 融合特征结构 + 离线 HF 权重挂载（kozodoi/transformers）在无需联网时即可微调 distilbert。
+
 ## 任务与指标
 
 - 给一个 prompt + 两个匿名 LLM 的响应(`response_a` / `response_b`),预测人类偏好:

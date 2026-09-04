@@ -13,15 +13,23 @@ Kaggle 常驻赛(Natural Language Processing with Disaster Tweets,滚动榜):
 nlp_getting_started/
 ├── data/                          # train.csv / test.csv / sample_submission.csv
 ├── submissions/
-│   ├── submission_v1.csv          # v1 基线(TF-IDF + LR,0.79895)
-│   ├── submission_v2.csv          # v2 特征增强(0.80784)
-│   └── submission_v3.csv          # v3 distilbert 微调(当前最佳,0.83174)
+│   └── submission_v2.csv          # v2 特征增强(0.80784);v1/v3 见提交记录表(v3 输出在 Kaggle Notebook 侧)
 ├── nlp_v1.py                      # v1: TF-IDF(词1-2gram) + LR/MNB 5 折对比
 ├── nlp_v2.py                      # v2: TF-IDF(word+char) + keyword + W2V 句向量
 ├── nlp_v3_kaggle.py               # v3: distilbert 微调(Kaggle Notebook + GPU 版)
 ├── nlp_v4_kaggle.py               # v4: distilbert + TF-IDF 概率集成(留待 Notebook 跑)
 └── README.md
 ```
+
+## Result
+
+| Metric | Best Score | Best Version | Status |
+|---|---:|---|---|
+| F1 | 0.83174 | v3 (distilbert) | Completed |
+
+### Key Finding
+
+自训练 W2V（0.687）远差于预训练 distilbert（0.8232）——差在语料不在方法：小数据微调不需要从零学习完整语义表示。
 
 ## 提交记录(2026-08-19)
 
@@ -37,7 +45,7 @@ nlp_getting_started/
 - **v3 公开榜 0.83174 创最佳**(v1 0.79895 → v2 0.80784 → v3 0.83174),
   预训练 Transformer 终于突破了词袋特征的天花板——v2 之后本地自训练
   W2V 只有 0.687, 而**预训练** distilbert 验证 F1 0.8232, 差在"语料"不在"方法":
-  BERT 的语义知识来自 8 亿网页预训练, 7613 条推文只负责微调。
+  distilbert 的语义知识来自大规模网页语料预训练, 7613 条推文只负责微调。
 - **v3 训练细节**: 分层 10% 验证(762 条), 4 epoch + 早停(patience=2,
   实际 epoch 2 就到 0.8232 平台), 最佳权重回滚; loss 0.445→0.284
   收敛正常; 分类头 MISSING 参数随机初始化是预期行为。
@@ -51,17 +59,22 @@ nlp_getting_started/
 
 ```bash
 # 环境:conda activate kaggle
-python nlp_getting_started/nlp_v1.py   # v1 基线(当前最佳)
+# 推荐:最佳版本(distilbert 微调,需 GPU,在 Kaggle Notebook 上跑)
+#   nlp_v3_kaggle.py 适配 Kaggle Notebook;本地 CPU 只能跑词袋基线
+# 本地可跑的版本:
+python nlp_getting_started/nlp_v2.py   # v2 特征增强(TF-IDF word+char,公开榜 0.80784)
+python nlp_getting_started/nlp_v1.py   # v1 基线(TF-IDF + LR,公开榜 0.79895)
 ```
 
 ### 提交
 
 ```bash
 # 需先 conda activate kaggle;NO_PROXY 绕过系统代理
+# 最佳版 v3 的提交文件在 Kaggle 侧(Notebook 输出),本地仅保留 v2 提交
 NO_PROXY="*" no_proxy="*" HTTP_PROXY="" HTTPS_PROXY="" ALL_PROXY="" \
 http_proxy="" https_proxy="" all_proxy="" \
 kaggle competitions submit -c nlp-getting-started \
-  -f nlp_getting_started/submissions/submission_v1.csv -m "说明"
+  -f nlp_getting_started/submissions/submission_v2.csv -m "说明"
 ```
 
 ## 进阶方向(无截止日期,可慢慢磨)
@@ -87,7 +100,7 @@ keyword 拼入,0.80784,当时觉得"特征工程又在奏效了"。
 真正的转折点是 v2 之后的探索:**我自己训练 Word2Vec 句向量,本地只有 0.687,
 比 TF-IDF 还差**。这个打击让我停下来想:为什么自训练的嵌入这么弱?
 答案很残酷——**差在语料,不在方法**。7613 条推文训练的 W2V 见过的词太少,
-语义空间是空的;而 distilbert 的语义来自 8 亿网页预训练,7613 条只负责微调。
+语义空间是空的;而 distilbert 的语义来自大规模语料预训练,7613 条只负责微调。
 
 于是 v3 直接上 distilbert 微调:分层 10% 验证(762 条),4 epoch + 早停
 (实际 epoch 2 就到 0.8232 平台),最佳权重回滚。公开榜 0.83174 创最佳
@@ -107,7 +120,7 @@ v2 TF-IDF(word+char)+keyword (0.80784)
  │  +char n-gram 抓词形 + keyword 拼入,仍无语义
  │  ↓ 关键探索失败:自训练 W2V 0.687(差在语料!)
 v3 distilbert-base-uncased 微调 (0.83174)
- │  ├ 预训练语义(8亿网页) + 微调(7613条只负责调头)
+ │  ├ 预训练语义(大规模语料) + 微调(7613条只负责调头)
  │  ├ 分层10%验证 + 早停(patience=2) + 最佳权重回滚
  │  └ loss 0.445→0.284 收敛正常
  └─ +0.024:预训练模型微调 > 一切词袋/自训练特征

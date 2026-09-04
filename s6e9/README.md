@@ -1,5 +1,17 @@
 # S6E9 — EV Purchase Prediction（Playground S6E9）
 
+## Result
+
+| Metric | Best Score | Best Version | Status |
+|---|---:|---|---|
+| AUC | — | — | In progress |
+
+进行中（Playground 无奖牌，未提交最终版本）。
+
+### Key Finding
+
+轻量练习场的定位是验证"异构混合 > 单模型"能否在 S6E9 上复现 S6E8 结论——先花最小成本（2 折 4 万行 cat 冒烟）判断方向，而不是直接堆完整 pipeline。
+
 ## 比赛简介
 
 Kaggle Playground Series Season 6 Episode 9：预测用户是否购买电动汽车（二分类）。

@@ -13,12 +13,21 @@ Kaggle 经典常驻赛(Getting Started,滚动榜):预测 3000 年的星际乘客
 spaceship_titanic/
 ├── data/                          # train.csv / test.csv / sample_submission.csv
 ├── submissions/
-│   ├── submission_baseline.csv    # v1 基线(GB,0.79401)
-│   └── submission_v2.csv          # v2 特征工程 + LGBM/XGB(当前最佳,0.80289)
+│   └── submission_v2.csv          # v2 特征工程 + LGBM/XGB(当前最佳,0.80289);v1 见提交记录表
 ├── spaceship_baseline.py          # v1: 填充 + one-hot + LR/RF/GB 3 模型 5 折
 ├── spaceship_v2.py                # v2: Cabin/组规模/消费聚合特征 + LGBM/XGB 混合
 └── README.md
 ```
+
+## Result
+
+| Metric | Best Score | Best Version | Status |
+|---|---:|---|---|
+| Accuracy | 0.80289 | v2 | Completed |
+
+### Key Finding
+
+样本量够大时特征工程是真杠杆——Cabin 甲板/组规模/消费一致性等"数据叙事还原"类特征，比硬造交互稳定得多。
 
 ## 提交记录(2026-08-19)
 

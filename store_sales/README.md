@@ -14,12 +14,21 @@ Kaggle 常驻赛(无截止日期,滚动榜):预测厄瓜多尔 Favorita 超市
 store_sales/
 ├── data/                          # train.csv / test.csv / stores.csv / oil.csv / holidays_events.csv / transactions.csv
 ├── submissions/
-│   ├── submission_v1.csv          # v1 基线(LGBM,0.47986)
-│   └── submission_v2.csv          # v2 时序特征 + 3 种子平均(当前最佳,0.43884)
+│   └── submission_v2.csv          # v2 时序特征 + 3 种子平均(当前最佳,0.43884);v1 见提交记录表
 ├── store_sales_v1.py              # v1: 日期特征 + 油价 + 节假日 + LGBM log1p
 ├── store_sales_v2.py              # v2: 滞后/滚动特征 + 节日距离 + 促销滞后 + 3 种子(可断点续跑)
 └── README.md
 ```
+
+## Result
+
+| Metric | Best Score | Best Version | Status |
+|---|---:|---|---|
+| SMAPE | 0.43884 | v2 | Completed |
+
+### Key Finding
+
+两次灾难分（提交 id 错位 3.50 / 测试滞后特征 NaN 塌陷 1.76）证明了 submission correctness 与模型质量是两件不同的事情。
 
 ## 提交记录(2026-08-19)
 
@@ -31,9 +40,10 @@ store_sales/
 **关键结论**:
 
 - **v2 公开榜 0.43884, 比 v1 提升 +0.041**(0.47986 → 0.43884), 已进入头部区间
-  (头部 ~0.43-0.44, 基线 ~0.55-0.60)。时序专有特征是这 +0.04 的全部来源:
-  滞后销售(去年同天 lag364 的季节项 + 滚动均值 r7/r14/r28 的趋势项)让模型
-  能"看到"每个 store×family 自己的近期水平, 这是全局日期特征给不了的。
+  (头部 ~0.43-0.44, 基线 ~0.55-0.60)。该版本同时加了时序特征与 3 种子平均;
+  从现有实验看主要贡献来自时序专有特征——滞后销售(去年同天 lag364 的季节项 +
+  滚动均值 r7/r14/r28 的趋势项)让模型能"看到"每个 store×family 自己的近期水平,
+  这是全局日期特征给不了的, 但当前没有对两者做完全独立的 ablation。
 - **v2 踩了两个导致灾难分的坑(本地验证完全看不出来!)**:
   1. **提交 id 错位**(3.49998 分): 特征工程把 train+test 合并后按
      (store,family,date) 排序, 但提交文件的 id 用了原始 test.csv 顺序
@@ -53,7 +63,10 @@ store_sales/
 
 ```bash
 # 环境:conda activate kaggle
-python store_sales/store_sales_v1.py   # v1 基线(当前最佳)
+# 推荐:当前最佳版本
+python store_sales/store_sales_v2.py   # v2(时序特征 + 3 种子平均,公开榜 0.43884)
+# 历史版本
+python store_sales/store_sales_v1.py   # v1 基线(日期特征 + LGBM,公开榜 0.47986)
 ```
 
 ### 提交
@@ -63,8 +76,10 @@ python store_sales/store_sales_v1.py   # v1 基线(当前最佳)
 NO_PROXY="*" no_proxy="*" HTTP_PROXY="" HTTPS_PROXY="" ALL_PROXY="" \
 http_proxy="" https_proxy="" all_proxy="" \
 kaggle competitions submit -c store-sales-time-series-forecasting \
-  -f store_sales/submissions/submission_v1.csv -m "说明"
+  -f store_sales/submissions/submission_v2.csv -m "说明"
 ```
+
+> 注:早期 `submission_v1.csv` 未保留在本地(已在 Kaggle 历史提交中),当前目录只有最佳版 `submission_v2.csv`。
 
 注意:本赛**每日提交上限 5 次**(比 playground 更严), 提交前先在本地用
 时间窗口验证确认提升, 避免浪费次数。
@@ -95,8 +110,8 @@ v1 公开榜 0.47986,不算差但离头部(~0.43)很远。
 当时我已经有表格赛的经验,知道下一步该做什么:**加滞后特征**。v2 加了
 lag1/7/364 + 滚动均值 r7/r14/r28 + 节日距离 + 促销滞后,本地时间窗口验证
 ~0.491,公开榜直接 0.43884(+0.041,进头部区间)。那一刻很有成就感——
-**时序专有特征(滞后/滚动)是 +0.04 的全部来源**,全局日期特征给不了每个
-store×family 自己的近期水平。
+从现有实验看,提升主要来自时序专有特征(滞后/滚动),全局日期特征给不了每个
+store×family 自己的近期水平(但该版本也含 3 种子平均,未做独立 ablation)。
 
 但这场比赛的真正教育在两个**灾难分**上,它们本地验证完全看不出来:
 
@@ -127,7 +142,7 @@ v2 滞后+滚动+节日距离+促销滞后+3种子 (0.43884)
  │  ├ r7/r14/r28:滚动均值(趋势项)
  │  ├ 节日距离 + 促销滞后:事件余波
  │  └ 3 种子 LGBM 平均(可断点续跑)
- └─ +0.041:时序专有特征是全部来源(进头部区间)
+ └─ +0.041:主要贡献来自时序专有特征(未独立 ablation,进头部区间)
 ```
 
 **切换动机**:v1 的全局特征给不了每个 (store,family) 的近期水平,
