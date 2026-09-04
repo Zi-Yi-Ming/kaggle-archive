@@ -18,3 +18,10 @@ catboost_info/
 # Kaggle / 环境
 kaggle.json
 .credentials
+
+# 活跃奖牌赛（赛期内不公开，赛后才归档）
+/kaggriculture/
+/rsna_knee/
+
+# Agent 配置（含记忆）
+/.atomcode/
