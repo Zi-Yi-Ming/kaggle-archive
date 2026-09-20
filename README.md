@@ -107,8 +107,17 @@ Kaggle/
 ## Active Competitions
 
 `kaggriculture`（Featured, Simulation）与 `rsna_knee`（Research, Medical Imaging）
-是两个仍在进行的奖牌赛，赛期内代码不公开。赛后（或赛期允许后）归档到本仓库。
+是两个仍在进行的奖牌赛，**赛期内代码不公开**（`.gitignore` 已排除对应目录）。
+
+| 比赛 | 截止（约） | 赛后计划 |
+|---|---|---|
+| kaggriculture（农场） | 2026-09-30 提交锁；BT 终榜 10-01→10-15 | 封榜后写详细 Featured 复盘，精选里程碑归档 |
+| rsna_knee | 以官方页为准 | 赛后实验链路归档 |
+
+赛后写作提纲（本地，赛期不入库）：`kaggriculture/_production/POST_COMP_GITHUB_OUTLINE.md`
+
+公开仓只包含练习赛与 landing 文档；**不虚构活跃赛成绩**。
 
 ---
 
-Last updated: 2026-09-04
+Last updated: 2026-09-26

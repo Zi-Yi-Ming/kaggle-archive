@@ -23,5 +23,19 @@ kaggle.json
 /kaggriculture/
 /rsna_knee/
 
+# 根目录禁止再出现提交泄漏
+/main.py
+/submission.py
+/submission.csv
+/submission.tar
+/submission.tar.gz
+/actions.json
+/kaggriculture-*.py
+
 # Agent 配置（含记忆）
 /.atomcode/
+/.agent-memory/
+
+# 赛中运营索引 / 工作区日志（含活跃奖牌赛细节，不进公开仓）
+/COMPETITIONS.md
+/_workspace/
