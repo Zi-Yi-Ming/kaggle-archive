@@ -12,7 +12,7 @@ Kaggle 经典常驻赛(Getting Started,滚动榜):识别 28×28 灰度手写数�
 digit_recognizer/
 ├── data/                          # train.csv / test.csv / sample_submission.csv
 ├── submissions/
-│   └── submission_cnn.csv         # CNN(最佳,0.98778);基线提交见下方提交记录表
+│   └── submission_cnn_v2.csv      # v2 BN-CNN+增广+3seed+TTA(最佳,0.99535);更早版本见提交记录表
 ├── digit_recognizer_baseline.py   # 基线:RF / PCA+LR / MLP 三模型 3 折对比
 ├── digit_recognizer_cnn.py        # CNN:双层卷积 + 验证集最佳权重
 ├── digit_recognizer_cnn_kaggle.py # Kaggle Notebook 版 CNN(自适应路径 + GPU)
@@ -23,18 +23,20 @@ digit_recognizer/
 
 | Metric | Best Score | Best Version | Status |
 |---|---:|---|---|
-| Accuracy | 0.98778 | CNN | Completed |
+| Accuracy | 0.99535 | v2 (BN-CNN + aug + 3seed + TTA) | Completed |
 
 ### Key Finding
 
-模型需要匹配数据的归纳偏置：CNN 通过卷积共享权重 + 局部感受野显式利用空间结构，相对 RF/MLP 有 +0.024 的明显提升——这是"选对模型范式"比堆特征更有效的实例。
+模型需要匹配数据的归纳偏置：CNN 相对 RF/MLP 有碾压优势；在此之上，BN 加深、轻量增广、多种子 + TTA 还能再兑现约 +0.008 公开榜。
 
-## 提交记录(2026-08-18)
+## 提交记录(2026-08-18 / 2026-09-25)
 
 | 版本 | 文件 | 模型思路 | 本地验证 | 公开榜 |
 |---|---|---|---|---|
 | baseline | `submissions/submission_baseline.csv` | RF / PCA+LR / MLP 3 折对比,RF 最优 | 0.9602 (3折CV) | 0.96378 |
-| **cnn** | `submissions/submission_cnn.csv` | **双层 CNN(Conv32→Conv64→FC128→10),Adam,10 epoch** | **0.9893 (验证集)** | **0.98778** |
+| cnn | `submissions/submission_cnn.csv` | 双层 CNN(Conv32→Conv64→FC128→10),Adam,10 epoch | 0.9893 (验证集) | 0.98778 |
+| cnn v3 | （Kaggle 历史） | 同结构续调 | — | 0.98803 |
+| **v2** | `submissions/submission_cnn_v2.csv` | **BN-CNN 加深 + 平移/噪声增广 + 3 seed + 5 视图 TTA** | **0.9951** | **0.99535** |
 
 **关键结论**:
 

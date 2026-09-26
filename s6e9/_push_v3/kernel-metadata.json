@@ -1,0 +1,13 @@
+{
+  "id": "ziyiming/s6e9-v3-blend",
+  "title": "s6e9-v3-blend",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": ["playground-series-s6e9"],
+  "dataset_sources": [],
+  "model_sources": []
+}

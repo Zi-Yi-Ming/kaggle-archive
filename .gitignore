@@ -15,6 +15,10 @@ __pycache__/
 *.tmp
 catboost_info/
 
+# kernel 运行产物（大体积 npy / 中间输出；提交 CSV 仍在各赛 submissions/）
+**/_out/
+**/_out_*/
+
 # Kaggle / 环境
 kaggle.json
 .credentials
@@ -22,6 +26,11 @@ kaggle.json
 # 活跃奖牌赛（赛期内不公开，赛后才归档）
 /kaggriculture/
 /rsna_knee/
+/gemma4_agent/
+
+# 跨赛临时 / 研究扫描（不进公开仓）
+/_top_replay_agent/
+/.firecrawl/
 
 # 根目录禁止再出现提交泄漏
 /main.py

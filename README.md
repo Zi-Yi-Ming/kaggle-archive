@@ -48,18 +48,18 @@ Competition / Systems Thinking (kaggriculture — 赛后归档)
 | 比赛 | Metric | Best Score | Best Version | Status |
 |---|---:|---|---|---|
 | [Titanic](titanic/) | Accuracy | 0.77272 | v4 | Completed |
-| [Digit Recognizer](digit_recognizer/) | Accuracy | 0.98778 | CNN | Completed |
-| [House Prices](house_prices/) | RMSE (log) | 0.12196 | v4 | Completed |
+| [Digit Recognizer](digit_recognizer/) | Accuracy | 0.99535 | v2 | Completed |
+| [House Prices](house_prices/) | RMSE (log) | 0.12053 | v5 stack | Completed |
 | [Spaceship Titanic](spaceship_titanic/) | Accuracy | 0.80289 | v2 | Completed |
 | [Store Sales](store_sales/) | SMAPE | 0.43884 | v2 | Completed |
 | [NLP Disaster Tweets](nlp_getting_started/) | F1 | 0.83174 | v3 | Completed |
 | [Smartphone S6E8](smartphone_addiction/) | AUC | 0.97033 | v6 | Completed |
 | [LLM Classification](llm_classification/) | LogLoss | —¹ | v1 | Completed |
 | [Solar Filament](solar_filament/) | —¹ | —¹ | U-Net | Completed |
-| [S6E9 EV Purchase](s6e9/) | AUC | —² | —² | In progress |
+| [S6E9 EV Purchase](s6e9/) | AUC | 0.94163 | v2_nl31 | Completed |
 
 ¹ 练习赛/无最终成绩记录（以方法验证为主，详见各自 README）。
-² 进行中，未提交最终版本。
+² （已删除：S6E9 已有最终成绩，见上表。）
 
 ## Methodology Across Competitions
 
@@ -120,4 +120,4 @@ Kaggle/
 
 ---
 
-Last updated: 2026-09-26
+Last updated: 2026-09-26 (practice-round polish: digit 0.99535 / house 0.12053 / s6e9 closed at 0.94163)

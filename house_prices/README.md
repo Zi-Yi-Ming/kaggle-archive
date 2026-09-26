@@ -24,20 +24,23 @@ house_prices/
 
 | Metric | Best Score | Best Version | Status |
 |---|---:|---|---|
-| RMSE (log) | 0.12196 | v4 (equal-weight blend) | Completed |
+| RMSE (log) | 0.12053 | v5 stack-only | Completed |
 
 ### Key Finding
 
-小样本上权重搜索选出的极端权重会过拟合 OOF、吃掉真实收益；等权平均本地略逊却最能兑现到公开榜。
+小样本上权重搜索选出的极端权重会过拟合 OOF、吃掉真实收益；等权平均本地略逊却最能兑现到公开榜。v5 表明 OOF stacking 在本赛可以兑现（0.12053），但仍不宜把 OOF 分数当公开榜预期。
 
-## 提交记录(2026-08-18)
+## 提交记录(2026-08-18 / 2026-09-25)
 
 | 版本 | 文件 | 模型思路 | 本地 OOF/CV RMSE | 公开榜 |
 |---|---|---|---|---|
 | v1 | `submissions/submission_baseline.csv` | log 目标 + Ridge/RF/XGB 5 折,XGB 最优 | 0.1345 | 0.13325 |
 | v2 | `submissions/submission_v2.csv` | 10 个组合特征 + Ridge/XGB/LGBM 权重混合 | 0.13008 | 0.12223 |
 | v3 | `submissions/submission_v3.csv` | +MSSubClass 类别化等 4 特征 + CatBoost 入队四模型混合 | 0.12598 | 0.12290 |
-| **v4(最终)** | `submissions/submission_v4.csv` | **XGB+LGBM+CatBoost 等权平均(不做权重搜索)** | 0.12766 | **0.12196** |
+| v4 | `submissions/submission_v4.csv` | XGB+LGBM+CatBoost 等权平均(不做权重搜索) | 0.12766 | 0.12196 |
+| v5 blend | `submissions/submission_v5_blend.csv` | 四模型两种子 + OOF meta，50% 等权 + 50% stack | 0.12239 | 0.12062 |
+| **v5 stack** | `submissions/submission_v5_stack.csv` | **同上特征，OOF RidgeCV stacking** | **0.12187** | **0.12053** |
+| v5 tree-equal | （Kaggle 历史） | LGB/XGB/Cat 两种子等权 | 0.12316 | 0.12083 |
 
 **关键结论**:
 

@@ -4,13 +4,11 @@
 
 | Metric | Best Score | Best Version | Status |
 |---|---:|---|---|
-| AUC | — | — | In progress |
-
-进行中（Playground 无奖牌，未提交最终版本）。
+| AUC | 0.94163 | v2_nl31 | Completed |
 
 ### Key Finding
 
-轻量练习场的定位是验证"异构混合 > 单模型"能否在 S6E9 上复现 S6E8 结论——先花最小成本（2 折 4 万行 cat 冒烟）判断方向，而不是直接堆完整 pipeline。
+完整 LGB/XGB/Cat 多种子混合把本地 OOF 推到 0.94183，但公开榜停在 0.94158–0.94150，仍略逊旧提交 0.94163——**OOF 与公开榜在本合成榜上几乎贴边，再堆特征/权重收益趋零**。
 
 ## 比赛简介
 
@@ -20,15 +18,23 @@ Kaggle Playground Series Season 6 Episode 9：预测用户是否购买电动汽�
 - **目标**: 二分类 `Will_Buy_EV`，指标 **AUC**
 - **随机基线**: 0.5
 
+## 提交记录
+
+| 版本 | 本地 | 公开榜 | 说明 |
+|---|---:|---:|---|
+| v1 | — | 0.94140 | 初版 |
+| **v2_nl31** | — | **0.94163** | 当前最佳 |
+| v3 blend（Kaggle CPU kernel `s6e9-v3-blend`） | OOF 0.94183 | 0.94158 | FE + 目标编码 + 3 模型 × 2 seed |
+| v3b cat-only | OOF 0.94151 | 0.94150 | 单模型族对照 |
+
 ## 方法
 
-`cat_quick.py` — CatBoost 快速验证：
-- 2 折小样本冒烟（4万行），确认 cat 对混合模型的贡献方向
-- 类别特征转 string + `MISSING` 填充，`StratifiedKFold` + `Logloss` + `AUC`
+1. `cat_quick.py` — 2 折 4 万行 cat 冒烟，确认贡献方向
+2. `s6e9_v3_blend.py` / `_push_v3/` — Kaggle CPU kernel：交互特征 + 折内目标编码 + LGB/XGB/Cat × 2 seed 5 折，OOF 权重搜索混合
 
 ## 当前状态
 
-🟡 进行中（Playground 无奖牌，作为 LGB/XGB/Cat 混合技巧的练手场）
+🟢 完赛归档（Playground 无奖牌）
 
 ---
 

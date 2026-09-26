@@ -1,0 +1,13 @@
+{
+  "id": "ziyiming/house-prices-v5-stack",
+  "title": "house-prices-v5-stack",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": ["house-prices-advanced-regression-techniques"],
+  "dataset_sources": [],
+  "model_sources": []
+}
