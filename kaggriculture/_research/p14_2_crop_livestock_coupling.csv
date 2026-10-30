@@ -1,0 +1,10 @@
+metric,COW,SHEEP,GOOSE,note
+cost,400,500,300,engine
+first_yield_day,8,6,4,engine
+interval,2,3,1,engine
+max_held,6,6,4,engine
+product,MILK,WOOL,EGG,engine
+secondary,0,fert_trickle,0,sheep fertilizer_available
+EV_d0_blended,322,1056,-170,self_grown_feed+peak_px
+first_value_window,d8+,d6+,d4+,ttc
+feed_coupling,needs_wheat_daily,needs_wheat_daily,needs_wheat_daily,unfed>=2 escapes

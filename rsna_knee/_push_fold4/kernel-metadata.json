@@ -1,0 +1,19 @@
+{
+  "id": "ziyiming/rsna-exp001-fold4-only-gpu",
+  "title": "RSNA EXP-001 fold4 only GPU",
+  "code_file": "rsna_exp001_fold4_only_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "matteonaccarato/resnet34-imagenet-pth",
+    "ziyiming/torch-cu118-offline",
+    "ziyiming/rsna-exp001-fold0-artifacts"
+  ],
+  "model_sources": []
+}

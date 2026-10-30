@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "generated": "2026-09-10",
+    "engine": "kaggle-environments 1.32.7",
+    "v11E_baseline_elo": "~942-950",
+    "search_scope": "GitHub (gh search repos), local tmp files, reference_agents, prior benchmark JSON"
+  },
+  "candidates": [
+    {
+      "key": "lonespear",
+      "name": "lonespear / Kaggriculture",
+      "source_url": "https://github.com/lonespear/Kaggriculture",
+      "type": "livestock economy + CARE + Hungarian matching",
+      "claimed": "Internal league 48-2, v13 beats v11 40-0, leaderboard 808.8 (v11c)",
+      "verification": "smoke_pass",
+      "smoke": {
+        "vs_random_seed99": 145619,
+        "vs_starter_seed42": 127000,
+        "notes": "Import OK, valid action dict, 720-step game completes DONE/DONE"
+      },
+      "priority": "S",
+      "rationale": "Sophisticated stateless policy with standing-on-work assignment and global Hungarian matching. Highest smoke-test scores observed. Clear strategic difference from v11E (livestock-focused vs mixed)."
+    },
+    {
+      "key": "ronin5205",
+      "name": "Ronin5205 / kaggriculture",
+      "source_url": "https://github.com/Ronin5205/kaggriculture",
+      "type": "opponent modeling + market simulation + day strategy",
+      "claimed": null,
+      "verification": "smoke_pass",
+      "smoke": {
+        "vs_random_seed42": 179235,
+        "notes": "Import OK, valid action dict, 720-step game completes DONE/DONE. Uses package structure (agent/agent.py)."
+      },
+      "priority": "S",
+      "rationale": "Highest single smoke score (179k vs random). Modular architecture with explicit opponent model and market view. Strategy orthogonal to v11E."
+    },
+    {
+      "key": "gzmcr",
+      "name": "GzmCR / Kaggriculture",
+      "source_url": "https://github.com/GzmCR/Kaggriculture",
+      "type": "deterministic scenario-aware economic policy",
+      "claimed": null,
+      "verification": "smoke_pass",
+      "smoke": {
+        "notes": "Import OK, valid action dict, 720-step game completes DONE/DONE. Scenario-based crop/animal mix with cash-reserve logic."
+      },
+      "priority": "S",
+      "rationale": "Clean stateless design with explicit scenario branches (core/mid/target herd, crop mix, land expansion calendar). Economic policy layer is complementary to v11E's tape+repair approach."
+    },
+    {
+      "key": "asajjadi",
+      "name": "asajjadi / kaggriculture",
+      "source_url": "https://github.com/asajjadi/kaggriculture",
+      "type": "diversified greedy + ROI-gated investment",
+      "claimed": null,
+      "verification": "smoke_pass",
+      "smoke": {
+        "vs_random_seed99": 16279,
+        "notes": "Import OK, valid action dict, 720-step game completes DONE/DONE. Lower smoke score but robust."
+      },
+      "priority": "A",
+      "rationale": "Stateless diversified greedy with per-unit task assignment and market-aware batch selling. ROI gate on hires/land/animals provides natural economic braking."
+    },
+    {
+      "key": "sey_v21",
+      "name": "Seyamalam / Kaggriculture V21",
+      "source_url": "https://github.com/Seyamalam/Kaggriculture",
+      "type": "tape + router + closed-loop market + capital latch",
+      "claimed": "Live rating 2053.6 (V18 open 24-3), V21 100/110 wins vs frozen V18 corpus",
+      "verification": "benchmark_complete",
+      "benchmark": {
+        "games": 8,
+        "v11E_wins": 5,
+        "candidate_wins": 3,
+        "avg_margin_v11E": 3879.88,
+        "wilson_ci": [0.1368, 0.6943],
+        "verdict": "NO"
+      },
+      "priority": "A",
+      "rationale": "The 2053.6 agent is real and executable in our environment. However, 8-game head-to-head vs local v11E shows v11E winning 5-3 with +3879 avg margin. Claims appear context-dependent (earlier competition phase or different opponent pool)."
+    },
+    {
+      "key": "cok_v10",
+      "name": "COK-ZhangZiliang / Kaggriculture V10",
+      "source_url": "https://github.com/COK-ZhangZiliang/Kaggriculture",
+      "type": "tape + repair (fail-closed opening recovery)",
+      "claimed": "Target 2600+ operational",
+      "verification": "benchmark_complete",
+      "benchmark": {
+        "games": 8,
+        "v11E_wins": 6,
+        "candidate_wins": 2,
+        "avg_margin_v11E": 1234.5,
+        "verdict": "NO"
+      },
+      "priority": "C",
+      "rationale": "Executable but clearly outclassed by v11E in 8-game benchmark. Tape+repair architecture is well-understood and already present in v11E."
+    },
+    {
+      "key": "gytdrop_v5",
+      "name": "gytdrop / KaggricultureAgent v5",
+      "source_url": "https://github.com/gytdrop/KaggricultureAgent",
+      "type": "mined heuristic (no tapes, no learned weights)",
+      "claimed": "Target 2 lakhs (200,000)",
+      "verification": "benchmark_complete",
+      "benchmark": {
+        "games": 8,
+        "v11E_wins": 6,
+        "candidate_wins": 2,
+        "avg_margin_v11E": 869.62,
+        "verdict": "NO"
+      },
+      "priority": "C",
+      "rationale": "Executable but lost 6-2 to v11E. Architecture is simple mined heuristics without tape replay, which limits ceiling against strong opponents."
+    },
+    {
+      "key": "pomagrenate",
+      "name": "pomagrenate / kaggriculture",
+      "source_url": "https://github.com/pomagrenate/kaggriculture",
+      "type": "unknown (crashes on obs adaptation)",
+      "claimed": null,
+      "verification": "fail_obs_adapter",
+      "error": "AttributeError: 'list' object has no attribute 'items' at main.py:197. Agent expects dict for farmer_inv but kaggle-env passes list.",
+      "priority": "B",
+      "rationale": "Code exists and imports, but obs structure assumption is incompatible with kaggle-environments 1.32.7. Likely fixable with a small obs adapter (~10-20 lines)."
+    },
+    {
+      "key": "grigorii_iurev",
+      "name": "GrigoriiIurev / Kaggriculture",
+      "source_url": "https://github.com/GrigoriiIurev/Kaggriculture",
+      "type": "unknown (requires full repo structure)",
+      "claimed": null,
+      "verification": "fail_repo_structure",
+      "error": "ModuleNotFoundError: No module named 'src'. Entry point `from src.kaggriculture.agent import build_production_agent` requires full repo layout.",
+      "priority": "C",
+      "rationale": "Cannot run from flat file copy. Would need full git clone + src/ package import path setup. Unknown strategic value until code is inspected."
+    },
+    {
+      "key": "diffmap_rl",
+      "name": "diffmap / kaggicultureRL",
+      "source_url": "https://github.com/diffmap/kaggicultureRL",
+      "type": "RL policy system",
+      "claimed": "Open-source Kaggriculture policy system",
+      "verification": "discovered_not_tested",
+      "priority": "B",
+      "rationale": "Only RL-flavored repo found in GitHub search. Learned policies can discover non-human strategies, but training infrastructure and inference cost are unknown. Needs repo inspection."
+    },
+    {
+      "key": "oumar_mai_agric",
+      "name": "oumar-code / mai-agric",
+      "source_url": "https://github.com/oumar-code/mai-agric",
+      "type": "unknown",
+      "claimed": "Farming Agent",
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Generic farming agent description. No evidence of Kaggriculture-specific tuning from README search."
+    },
+    {
+      "key": "sidhul_yalkar",
+      "name": "sidhulyalkar / kaggriculture",
+      "source_url": "https://github.com/sidhulyalkar/kaggriculture",
+      "type": "autonomous AI agent",
+      "claimed": "autonomous AI agent to manage a virtual farm, navigate a dynamic economy",
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Claims dynamic economy navigation. Needs repo inspection to confirm Kaggriculture compatibility and strategy type."
+    },
+    {
+      "key": "beiciccc",
+      "name": "Beiciccc / Kaggriculture",
+      "source_url": "https://github.com/Beiciccc/Kaggriculture",
+      "type": "notes/experiments",
+      "claimed": "Public project notes and experiment results",
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "May contain useful analysis or agent snippets, but description suggests notes/reports rather than a submission-ready agent."
+    },
+    {
+      "key": "elliotkim2",
+      "name": "Elliotkim2 / kaggricultureAgent",
+      "source_url": "https://github.com/Elliotkim2/kaggricultureAgent",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No README description. Needs repo inspection."
+    },
+    {
+      "key": "kennedy_ikeka",
+      "name": "kennedy-ikeka / kagriculture",
+      "source_url": "https://github.com/kennedy-ikeka/kagriculture",
+      "type": "unknown",
+      "claimed": "Kaggriculture competition",
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. Likely a student/learning repo. Needs repo inspection."
+    },
+    {
+      "key": "florian_tusek",
+      "name": "FlorianTusek / kaggle-kaggriculture",
+      "source_url": "https://github.com/FlorianTusek/kaggle-kaggriculture",
+      "type": "unknown",
+      "claimed": "Kaggle Kaggriculture Competition Repository",
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. Generic repo name. Needs repo inspection."
+    },
+    {
+      "key": "bravefe",
+      "name": "bravefe / Kaggriculture",
+      "source_url": "https://github.com/bravefe/Kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "hidenori24",
+      "name": "Hidenori24 / Kaggle_kaggriculture",
+      "source_url": "https://github.com/Hidenori24/Kaggle_kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "stevefindjob",
+      "name": "stevefindjob / karrigriculture",
+      "source_url": "https://github.com/stevefindjob/karrigriculture",
+      "type": "unknown",
+      "claimed": "Kaggriculture agent",
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. Name suggests agriculture agent. Needs repo inspection."
+    },
+    {
+      "key": "jqyinny",
+      "name": "jqyinny / kaggriculture",
+      "source_url": "https://github.com/jqyinny/kaggriculture",
+      "type": "unknown",
+      "claimed": "submission for kaggriculture",
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Explicitly labeled as a submission. Needs repo inspection for strategy and compatibility."
+    },
+    {
+      "key": "basavarajbaboji",
+      "name": "basavarajbaboji / kaggriculture",
+      "source_url": "https://github.com/basavarajbaboji/kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "tktk1130mk",
+      "name": "tktk1130mk-dotcom / Kaggriculture",
+      "source_url": "https://github.com/tktk1130mk-dotcom/Kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "ram1o1",
+      "name": "ram1o1 / kaggriculture",
+      "source_url": "https://github.com/ram1o1/kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "karthic_44",
+      "name": "Karthic-44 / Kaggriculture",
+      "source_url": "https://github.com/Karthic-44/Kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "srinivas_5303",
+      "name": "Srini-5303 / Kaggriculture",
+      "source_url": "https://github.com/Srini-5303/Kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "aioraito0716",
+      "name": "AioRaito0716 / kaggriculture",
+      "source_url": "https://github.com/AioRaito0716/kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "jashan19",
+      "name": "Jashan19 / kaggriculture",
+      "source_url": "https://github.com/Jashan19/kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "sayidmabrur",
+      "name": "sayidmabrur / kaggriculturev1",
+      "source_url": "https://github.com/sayidmabrur/kaggriculturev1",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. v1 suffix suggests early version. Needs repo inspection."
+    },
+    {
+      "key": "n9uyen3n",
+      "name": "N9uyen3n / Kaggriculture",
+      "source_url": "https://github.com/N9uyen3N/Kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "sarthak_aiml",
+      "name": "SARTHAK-AIML-0182 / kaggriculture",
+      "source_url": "https://github.com/SARTHAK-AIML-0182/kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "andreluizpedroso",
+      "name": "andreluizpedroso / Kaggriculture",
+      "source_url": "https://github.com/andreluizpedroso/Kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "rupam378",
+      "name": "rupam378 / Kaggriculture",
+      "source_url": "https://github.com/rupam378/Kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    },
+    {
+      "key": "ar_srivas",
+      "name": "Ar-Srivas / kaggriculture",
+      "source_url": "https://github.com/Ar-Srivas/kaggriculture",
+      "type": "unknown",
+      "claimed": null,
+      "verification": "discovered_not_tested",
+      "priority": "C",
+      "rationale": "Found in GitHub search. No description. Needs repo inspection."
+    }
+  ]
+}

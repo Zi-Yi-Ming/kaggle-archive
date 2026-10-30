@@ -1,0 +1,122 @@
+{
+  "variants": {
+    "full_tape": {
+      "metav4": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 39452.0,
+            "opp": 108221.0,
+            "margin": -68769.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 39452.0,
+            "opp": 108221.0,
+            "margin": -68769.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 43882.0,
+            "opp": 144494.0,
+            "margin": -100612.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 43882.0,
+            "opp": 144494.0,
+            "margin": -100612.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cand": 33241.0,
+            "opp": 119036.0,
+            "margin": -85795.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cand": 33241.0,
+            "opp": 119036.0,
+            "margin": -85795.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cand": 42847.0,
+            "opp": 124281.0,
+            "margin": -81434.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cand": 42847.0,
+            "opp": 124281.0,
+            "margin": -81434.0,
+            "win": false
+          }
+        ],
+        "summary": {
+          "n": 8,
+          "wins": 0,
+          "win_rate": 0.0,
+          "mean_margin": -84152.5
+        }
+      },
+      "shop": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 39606.0,
+            "opp": 116318.0,
+            "margin": -76712.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 39606.0,
+            "opp": 116318.0,
+            "margin": -76712.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 47800.0,
+            "opp": 132527.0,
+            "margin": -84727.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 47800.0,
+            "opp": 132527.0,
+            "margin": -84727.0,
+            "win": false
+          }
+        ],
+        "summary": {
+          "n": 4,
+          "wins": 0,
+          "win_rate": 0.0,
+          "mean_margin": -80719.5
+        }
+      }
+    }
+  }
+}

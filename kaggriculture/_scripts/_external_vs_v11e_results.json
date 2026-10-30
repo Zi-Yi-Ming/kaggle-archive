@@ -1,0 +1,218 @@
+[
+  {
+    "status": "ok",
+    "bank_v11e": 86507.0,
+    "bank_opp": 84005.0,
+    "v11e_win": 1,
+    "candidate": "sey_v21",
+    "seed": 1,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 69859.0,
+    "bank_opp": 70027.0,
+    "v11e_win": 0,
+    "candidate": "sey_v21",
+    "seed": 1,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 53000.0,
+    "bank_opp": 42285.0,
+    "v11e_win": 1,
+    "candidate": "sey_v21",
+    "seed": 2,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 61073.0,
+    "bank_opp": 61855.0,
+    "v11e_win": 0,
+    "candidate": "sey_v21",
+    "seed": 2,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 87267.0,
+    "bank_opp": 75603.0,
+    "v11e_win": 1,
+    "candidate": "sey_v21",
+    "seed": 3,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 57424.0,
+    "bank_opp": 53597.0,
+    "v11e_win": 1,
+    "candidate": "sey_v21",
+    "seed": 3,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 79462.0,
+    "bank_opp": 75111.0,
+    "v11e_win": 1,
+    "candidate": "sey_v21",
+    "seed": 4,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 88931.0,
+    "bank_opp": 90001.0,
+    "v11e_win": 0,
+    "candidate": "sey_v21",
+    "seed": 4,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 75618.0,
+    "bank_opp": 73805.0,
+    "v11e_win": 1,
+    "candidate": "gyt_v5",
+    "seed": 1,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 61951.0,
+    "bank_opp": 70434.0,
+    "v11e_win": 0,
+    "candidate": "gyt_v5",
+    "seed": 1,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 97531.0,
+    "bank_opp": 95372.0,
+    "v11e_win": 1,
+    "candidate": "gyt_v5",
+    "seed": 2,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 73341.0,
+    "bank_opp": 69423.0,
+    "v11e_win": 1,
+    "candidate": "gyt_v5",
+    "seed": 2,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 109824.0,
+    "bank_opp": 106645.0,
+    "v11e_win": 1,
+    "candidate": "gyt_v5",
+    "seed": 3,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 85515.0,
+    "bank_opp": 83465.0,
+    "v11e_win": 1,
+    "candidate": "gyt_v5",
+    "seed": 3,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 57936.0,
+    "bank_opp": 59203.0,
+    "v11e_win": 0,
+    "candidate": "gyt_v5",
+    "seed": 4,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 30128.0,
+    "bank_opp": 26540.0,
+    "v11e_win": 1,
+    "candidate": "gyt_v5",
+    "seed": 4,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 83919.0,
+    "bank_opp": 88926.0,
+    "v11e_win": 0,
+    "candidate": "cok_v10",
+    "seed": 1,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 109801.0,
+    "bank_opp": 106530.0,
+    "v11e_win": 1,
+    "candidate": "cok_v10",
+    "seed": 1,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 34072.0,
+    "bank_opp": 31217.0,
+    "v11e_win": 1,
+    "candidate": "cok_v10",
+    "seed": 2,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 60550.0,
+    "bank_opp": 57652.0,
+    "v11e_win": 1,
+    "candidate": "cok_v10",
+    "seed": 2,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 98038.0,
+    "bank_opp": 97066.0,
+    "v11e_win": 1,
+    "candidate": "cok_v10",
+    "seed": 3,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 75678.0,
+    "bank_opp": 74629.0,
+    "v11e_win": 1,
+    "candidate": "cok_v10",
+    "seed": 3,
+    "seat_v11e_first": false
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 43632.0,
+    "bank_opp": 39754.0,
+    "v11e_win": 1,
+    "candidate": "cok_v10",
+    "seed": 4,
+    "seat_v11e_first": true
+  },
+  {
+    "status": "ok",
+    "bank_v11e": 128260.0,
+    "bank_opp": 128300.0,
+    "v11e_win": 0,
+    "candidate": "cok_v10",
+    "seed": 4,
+    "seat_v11e_first": false
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "exists": {
+    "epoch1.ckpt": true,
+    "latest.ckpt": true
+  },
+  "epoch_done": 1,
+  "global_step": 8,
+  "has_model": true,
+  "has_optimizer": true,
+  "has_scheduler": true,
+  "has_rng": true,
+  "rng_keys": [
+    "numpy",
+    "python",
+    "torch_cpu",
+    "torch_cuda"
+  ],
+  "has_runtime": true,
+  "runtime": {
+    "python": "3.12.13",
+    "executable": "/usr/bin/python3",
+    "pid": 6,
+    "torch": "2.10.0+cu128",
+    "cuda_available": true,
+    "torch_cuda": "12.8",
+    "gpu": "Tesla T4",
+    "vram_total_gb": 14.562,
+    "numpy": "2.0.2",
+    "host_total_ram_gb": 31.347
+  },
+  "has_config": true,
+  "has_memory_snapshot": true,
+  "has_steps_per_epoch": true,
+  "steps_per_epoch": {
+    "0": 8
+  },
+  "param_hash_epoch1": "c8d7ea3606fd2db20c9e2f4865992e5a42aaedea9c79a3cc8c00e8dbe35607cf",
+  "ckpt_lr": 0.00015,
+  "ckpt_scheduler_T_max": 2,
+  "ckpt_scheduler_last_epoch": 1,
+  "param_hash_final": "ad670a0d13a123bda9a689cb37a209a7cb8fa73a16d9b177e627e5b15e69f6e0",
+  "ckpt_bytes_epoch1": 38094,
+  "ckpt_bytes_latest": 38094
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ziyiming/rsna-exp018-resume-b-read-ckpt",
+  "title": "RSNA EXP018 resume B read ckpt",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:37c64f7dd9c54116ecd1bcc88817c5469b88387388fade02bfa8bf3fc647d461",
+  "docker_image_pinning_type": "original",
+  "competition_sources": [],
+  "dataset_sources": [
+    "ziyiming/rsna-exp018-v2-frozen-code",
+    "ziyiming/torch-cu118-offline",
+    "ziyiming/rsna-exp018-resume-gate-ckpt-a"
+  ],
+  "model_sources": []
+}

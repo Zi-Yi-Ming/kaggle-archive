@@ -1,0 +1,4 @@
+bank_s1,bank_s2,bank_s3,error,mean3,name,nearest,nearest_sim,sim_Q,sim_R2,sim_kaito,sim_rayk,status,tape_hash
+169294.0,177239.0,171447.0,,172660.0,salem_2900,R2,0.0,0.0,0.0,0.08205841446453407,0.0,ok,29fcdb4df095572d
+169294.0,177239.0,171447.0,,172660.0,boatlee_v16,R2,0.0,0.0,0.0,0.08205841446453407,0.0,ok,29fcdb4df095572d
+,,,"invalid syntax (flexon_route.py, line 1)",,flexon_route,,,,,,,load_fail,

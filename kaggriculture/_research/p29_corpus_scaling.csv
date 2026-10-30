@@ -1,0 +1,6 @@
+corpus_n,n_buckets,mean_ratio,min_ratio,max_ratio,note
+1,168,0.2483,0.163,0.404,
+2,170,0.2483,0.163,0.404,identical_holdout_banks
+4,170,0.2483,0.163,0.404,identical_holdout_banks
+8,181,0.2483,0.163,0.404,identical_holdout_banks
+DECISION,CORPUS_SCALING_NO_GAIN,,,,"same-policy elite xN does not raise transfer",

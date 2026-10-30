@@ -1,0 +1,598 @@
+[
+  {
+    "file": "episode-110855312-replay.json",
+    "team_names": [
+      "wadigongren",
+      "ZiYiMing"
+    ],
+    "our_seat": 0,
+    "opp_seat": 1,
+    "rewards": [
+      96384.0,
+      95349.0
+    ],
+    "our_final": 96384.0,
+    "opp_final": 95349.0,
+    "n_frames": 720,
+    "our_money": {
+      "n": 720,
+      "start": 3000.0,
+      "end": 96384.0,
+      "min": 2.0,
+      "max": 96384.0,
+      "peak_frame": 719
+    },
+    "opp_money": {
+      "n": 720,
+      "start": 3000.0,
+      "end": 95349.0,
+      "min": 2.0,
+      "max": 95349.0,
+      "peak_frame": 719
+    },
+    "first_diverge": null,
+    "market_ops_our": {
+      "BUY_PRODUCT": 77,
+      "SELL": 419,
+      "HIRE": 305,
+      "BUY_ANIMAL": 13,
+      "BUY_SEED": 187,
+      "BUY_LAND": 3
+    },
+    "market_ops_opp": {
+      "BUY_PRODUCT": 62,
+      "SELL": 404,
+      "HIRE": 305,
+      "BUY_ANIMAL": 13,
+      "BUY_SEED": 187,
+      "BUY_LAND": 3
+    },
+    "field_ops_our": {
+      "PASS": 739,
+      "NORTH": 957,
+      "SOUTH": 611,
+      "PICKUP": 181,
+      "BUILD_PASTURE": 23,
+      "PLACE": 137,
+      "WEST": 911,
+      "CARE": 500,
+      "PLANT": 238,
+      "WATER": 1093,
+      "FEED": 467,
+      "COLLECT_FERTILIZER": 439,
+      "EAST": 673,
+      "HARVEST": 494,
+      "DROP": 24,
+      "DIG": 36,
+      "BUILD_COOP": 2,
+      "FERTILIZE": 95
+    },
+    "field_ops_opp": {
+      "PASS": 739,
+      "NORTH": 957,
+      "SOUTH": 611,
+      "PICKUP": 181,
+      "BUILD_PASTURE": 23,
+      "PLACE": 137,
+      "WEST": 911,
+      "CARE": 500,
+      "PLANT": 238,
+      "WATER": 1093,
+      "FEED": 467,
+      "COLLECT_FERTILIZER": 439,
+      "EAST": 673,
+      "HARVEST": 494,
+      "DROP": 24,
+      "DIG": 36,
+      "BUILD_COOP": 2,
+      "FERTILIZE": 95
+    },
+    "day_gaps_tail": [
+      {
+        "day": 22,
+        "our": 74736.0,
+        "opp": 74282.0,
+        "gap": 454.0
+      },
+      {
+        "day": 23,
+        "our": 76010.0,
+        "opp": 75532.0,
+        "gap": 478.0
+      },
+      {
+        "day": 24,
+        "our": 76858.0,
+        "opp": 76020.0,
+        "gap": 838.0
+      },
+      {
+        "day": 25,
+        "our": 77948.0,
+        "opp": 77110.0,
+        "gap": 838.0
+      },
+      {
+        "day": 26,
+        "our": 80930.0,
+        "opp": 80086.0,
+        "gap": 844.0
+      },
+      {
+        "day": 27,
+        "our": 83554.0,
+        "opp": 82519.0,
+        "gap": 1035.0
+      },
+      {
+        "day": 28,
+        "our": 87816.0,
+        "opp": 86781.0,
+        "gap": 1035.0
+      },
+      {
+        "day": 29,
+        "our": 96384.0,
+        "opp": 95349.0,
+        "gap": 1035.0
+      }
+    ],
+    "day_gaps_all_n": 30,
+    "meta": {
+      "episode_id": 110855312,
+      "create_time": "2026-09-19T14:17:41.425Z",
+      "our": 95349,
+      "opp": 96384,
+      "margin": -1035,
+      "opp_team": "wadigongren",
+      "opp_sub": 56357298
+    }
+  },
+  {
+    "file": "episode-110853137-replay.json",
+    "team_names": [
+      "ZiYiMing",
+      "Thomas Tschinkel"
+    ],
+    "our_seat": 0,
+    "opp_seat": 1,
+    "rewards": [
+      103768.0,
+      104580.0
+    ],
+    "our_final": 103768.0,
+    "opp_final": 104580.0,
+    "n_frames": 720,
+    "our_money": {
+      "n": 720,
+      "start": 3000.0,
+      "end": 103768.0,
+      "min": 2.0,
+      "max": 103768.0,
+      "peak_frame": 719
+    },
+    "opp_money": {
+      "n": 720,
+      "start": 3000.0,
+      "end": 104580.0,
+      "min": 2.0,
+      "max": 104580.0,
+      "peak_frame": 719
+    },
+    "first_diverge": null,
+    "market_ops_our": {
+      "BUY_PRODUCT": 75,
+      "SELL": 466,
+      "HIRE": 267,
+      "BUY_ANIMAL": 12,
+      "BUY_SEED": 181,
+      "BUY_LAND": 2
+    },
+    "market_ops_opp": {
+      "BUY_PRODUCT": 75,
+      "SELL": 341,
+      "HIRE": 267,
+      "BUY_ANIMAL": 12,
+      "BUY_SEED": 181,
+      "BUY_LAND": 2
+    },
+    "field_ops_our": {
+      "PASS": 468,
+      "NORTH": 918,
+      "SOUTH": 499,
+      "PICKUP": 208,
+      "BUILD_PASTURE": 14,
+      "PLACE": 99,
+      "WEST": 868,
+      "CARE": 404,
+      "PLANT": 239,
+      "WATER": 1095,
+      "FEED": 324,
+      "COLLECT_FERTILIZER": 373,
+      "EAST": 582,
+      "HARVEST": 482,
+      "DROP": 51,
+      "DIG": 38,
+      "BUILD_COOP": 5,
+      "FERTILIZE": 122
+    },
+    "field_ops_opp": {
+      "PASS": 469,
+      "NORTH": 918,
+      "SOUTH": 499,
+      "PICKUP": 208,
+      "BUILD_PASTURE": 14,
+      "PLACE": 99,
+      "WEST": 868,
+      "CARE": 404,
+      "PLANT": 238,
+      "WATER": 1095,
+      "FEED": 324,
+      "COLLECT_FERTILIZER": 373,
+      "EAST": 582,
+      "HARVEST": 482,
+      "DROP": 51,
+      "DIG": 38,
+      "BUILD_COOP": 5,
+      "FERTILIZE": 122
+    },
+    "day_gaps_tail": [
+      {
+        "day": 22,
+        "our": 75016.0,
+        "opp": 75168.0,
+        "gap": -152.0
+      },
+      {
+        "day": 23,
+        "our": 79027.0,
+        "opp": 79211.0,
+        "gap": -184.0
+      },
+      {
+        "day": 24,
+        "our": 82585.0,
+        "opp": 82782.0,
+        "gap": -197.0
+      },
+      {
+        "day": 25,
+        "our": 84832.0,
+        "opp": 85536.0,
+        "gap": -704.0
+      },
+      {
+        "day": 26,
+        "our": 87812.0,
+        "opp": 88517.0,
+        "gap": -705.0
+      },
+      {
+        "day": 27,
+        "our": 90652.0,
+        "opp": 91436.0,
+        "gap": -784.0
+      },
+      {
+        "day": 28,
+        "our": 95378.0,
+        "opp": 96180.0,
+        "gap": -802.0
+      },
+      {
+        "day": 29,
+        "our": 103768.0,
+        "opp": 104580.0,
+        "gap": -812.0
+      }
+    ],
+    "day_gaps_all_n": 30,
+    "meta": {
+      "episode_id": 110853137,
+      "create_time": "2026-09-19T14:09:41.407Z",
+      "our": 103768,
+      "opp": 104580,
+      "margin": -812,
+      "opp_team": "Thomas Tschinkel",
+      "opp_sub": 56358231
+    }
+  },
+  {
+    "file": "episode-110851220-replay.json",
+    "team_names": [
+      "ZiYiMing",
+      "Master_S1ave"
+    ],
+    "our_seat": 0,
+    "opp_seat": 1,
+    "rewards": [
+      64632.0,
+      65239.0
+    ],
+    "our_final": 64632.0,
+    "opp_final": 65239.0,
+    "n_frames": 720,
+    "our_money": {
+      "n": 720,
+      "start": 3000.0,
+      "end": 64632.0,
+      "min": 15.0,
+      "max": 64632.0,
+      "peak_frame": 719
+    },
+    "opp_money": {
+      "n": 720,
+      "start": 3000.0,
+      "end": 65239.0,
+      "min": 5.0,
+      "max": 65239.0,
+      "peak_frame": 719
+    },
+    "first_diverge": null,
+    "market_ops_our": {
+      "BUY_PRODUCT": 76,
+      "SELL": 461,
+      "HIRE": 266,
+      "BUY_ANIMAL": 12,
+      "BUY_SEED": 180,
+      "BUY_LAND": 2
+    },
+    "market_ops_opp": {
+      "BUY_PRODUCT": 75,
+      "SELL": 345,
+      "HIRE": 267,
+      "BUY_ANIMAL": 12,
+      "BUY_SEED": 187,
+      "BUY_LAND": 2
+    },
+    "field_ops_our": {
+      "PASS": 465,
+      "NORTH": 919,
+      "SOUTH": 495,
+      "PICKUP": 207,
+      "BUILD_PASTURE": 14,
+      "PLACE": 99,
+      "WEST": 861,
+      "CARE": 404,
+      "PLANT": 239,
+      "WATER": 1096,
+      "FEED": 324,
+      "COLLECT_FERTILIZER": 375,
+      "EAST": 581,
+      "HARVEST": 480,
+      "DROP": 51,
+      "BUILD_COOP": 5,
+      "DIG": 37,
+      "FERTILIZE": 116
+    },
+    "field_ops_opp": {
+      "PASS": 469,
+      "NORTH": 917,
+      "SOUTH": 499,
+      "PICKUP": 208,
+      "BUILD_PASTURE": 14,
+      "PLACE": 99,
+      "WEST": 868,
+      "CARE": 405,
+      "PLANT": 238,
+      "WATER": 1100,
+      "FEED": 324,
+      "COLLECT_FERTILIZER": 377,
+      "EAST": 583,
+      "HARVEST": 476,
+      "DROP": 51,
+      "BUILD_COOP": 5,
+      "DIG": 37,
+      "FERTILIZE": 119
+    },
+    "day_gaps_tail": [
+      {
+        "day": 22,
+        "our": 41283.0,
+        "opp": 40145.0,
+        "gap": 1138.0
+      },
+      {
+        "day": 23,
+        "our": 43696.0,
+        "opp": 42846.0,
+        "gap": 850.0
+      },
+      {
+        "day": 24,
+        "our": 45921.0,
+        "opp": 45675.0,
+        "gap": 246.0
+      },
+      {
+        "day": 25,
+        "our": 48526.0,
+        "opp": 48549.0,
+        "gap": -23.0
+      },
+      {
+        "day": 26,
+        "our": 50580.0,
+        "opp": 50644.0,
+        "gap": -64.0
+      },
+      {
+        "day": 27,
+        "our": 53650.0,
+        "opp": 53839.0,
+        "gap": -189.0
+      },
+      {
+        "day": 28,
+        "our": 56854.0,
+        "opp": 56840.0,
+        "gap": 14.0
+      },
+      {
+        "day": 29,
+        "our": 64632.0,
+        "opp": 65239.0,
+        "gap": -607.0
+      }
+    ],
+    "day_gaps_all_n": 30,
+    "meta": {
+      "episode_id": 110851220,
+      "create_time": "2026-09-19T14:01:42.836Z",
+      "our": 64632,
+      "opp": 65239,
+      "margin": -607,
+      "opp_team": "Master_S1ave",
+      "opp_sub": 56355727
+    }
+  },
+  {
+    "file": "episode-110856460-replay.json",
+    "team_names": [
+      "ZiYiMing",
+      "Maciek Kiryla"
+    ],
+    "our_seat": 0,
+    "opp_seat": 1,
+    "rewards": [
+      111867.0,
+      111925.0
+    ],
+    "our_final": 111867.0,
+    "opp_final": 111925.0,
+    "n_frames": 720,
+    "our_money": {
+      "n": 720,
+      "start": 3000.0,
+      "end": 111867.0,
+      "min": 2.0,
+      "max": 111867.0,
+      "peak_frame": 719
+    },
+    "opp_money": {
+      "n": 720,
+      "start": 3000.0,
+      "end": 111925.0,
+      "min": 2.0,
+      "max": 111925.0,
+      "peak_frame": 719
+    },
+    "first_diverge": null,
+    "market_ops_our": {
+      "BUY_PRODUCT": 78,
+      "SELL": 402,
+      "HIRE": 291,
+      "BUY_ANIMAL": 12,
+      "BUY_SEED": 191,
+      "BUY_LAND": 3
+    },
+    "market_ops_opp": {
+      "BUY_PRODUCT": 78,
+      "SELL": 398,
+      "HIRE": 291,
+      "BUY_ANIMAL": 12,
+      "BUY_SEED": 191,
+      "BUY_LAND": 3
+    },
+    "field_ops_our": {
+      "PASS": 510,
+      "NORTH": 961,
+      "SOUTH": 554,
+      "PICKUP": 217,
+      "BUILD_PASTURE": 11,
+      "PLACE": 110,
+      "WEST": 937,
+      "CARE": 402,
+      "PLANT": 249,
+      "WATER": 1209,
+      "FEED": 305,
+      "COLLECT_FERTILIZER": 377,
+      "EAST": 666,
+      "HARVEST": 545,
+      "DROP": 50,
+      "BUILD_COOP": 9,
+      "DIG": 38,
+      "FERTILIZE": 148
+    },
+    "field_ops_opp": {
+      "PASS": 510,
+      "NORTH": 961,
+      "SOUTH": 554,
+      "PICKUP": 217,
+      "BUILD_PASTURE": 11,
+      "PLACE": 110,
+      "WEST": 937,
+      "CARE": 402,
+      "PLANT": 249,
+      "WATER": 1209,
+      "FEED": 305,
+      "COLLECT_FERTILIZER": 377,
+      "EAST": 666,
+      "HARVEST": 545,
+      "DROP": 50,
+      "BUILD_COOP": 9,
+      "DIG": 38,
+      "FERTILIZE": 148
+    },
+    "day_gaps_tail": [
+      {
+        "day": 22,
+        "our": 60385.0,
+        "opp": 60420.0,
+        "gap": -35.0
+      },
+      {
+        "day": 23,
+        "our": 66529.0,
+        "opp": 66564.0,
+        "gap": -35.0
+      },
+      {
+        "day": 24,
+        "our": 71641.0,
+        "opp": 71676.0,
+        "gap": -35.0
+      },
+      {
+        "day": 25,
+        "our": 75178.0,
+        "opp": 75213.0,
+        "gap": -35.0
+      },
+      {
+        "day": 26,
+        "our": 83207.0,
+        "opp": 83242.0,
+        "gap": -35.0
+      },
+      {
+        "day": 27,
+        "our": 89015.0,
+        "opp": 89053.0,
+        "gap": -38.0
+      },
+      {
+        "day": 28,
+        "our": 101312.0,
+        "opp": 101370.0,
+        "gap": -58.0
+      },
+      {
+        "day": 29,
+        "our": 111867.0,
+        "opp": 111925.0,
+        "gap": -58.0
+      }
+    ],
+    "day_gaps_all_n": 30,
+    "meta": {
+      "episode_id": 110856460,
+      "create_time": "2026-09-19T14:21:41.928Z",
+      "our": 111867,
+      "opp": 111925,
+      "margin": -58,
+      "opp_team": "Maciek Kiryla",
+      "opp_sub": 56357922
+    }
+  }
+]

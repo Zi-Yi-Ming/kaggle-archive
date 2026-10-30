@@ -1,0 +1,13 @@
+{
+  "competition_sources": [
+    "kaggriculture"
+  ],
+  "language": "python",
+  "enable_internet": false,
+  "is_private": true,
+  "id": "ziyiming/kaggriculture-alperen-path-twin",
+  "title": "Kaggriculture Alperen Path Twin",
+  "code_file": "main.py",
+  "enable_gpu": false,
+  "kernel_type": "script"
+}

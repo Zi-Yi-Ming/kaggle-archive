@@ -1,0 +1,1008 @@
+{
+  "results": {
+    "ahmed_v48_embedded": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p79_kernels\\extracted\\ahmed_v48_embedded.py",
+      "rows": [
+        {
+          "cand": "ahmed_v48_embedded",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (ahmed_v48_embedded.py, line 100)"
+        },
+        {
+          "cand": "ahmed_v48_embedded",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (ahmed_v48_embedded.py, line 100)"
+        },
+        {
+          "cand": "ahmed_v48_embedded",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (ahmed_v48_embedded.py, line 100)"
+        },
+        {
+          "cand": "ahmed_v48_embedded",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (ahmed_v48_embedded.py, line 100)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "thomas95": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p79_kernels\\extracted\\thomas95_clean.py",
+      "rows": [
+        {
+          "cand": "thomas95",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 103009.0,
+          "thomas_bank": 142422.0,
+          "margin": -39413.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        },
+        {
+          "cand": "thomas95",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 103009.0,
+          "thomas_bank": 142422.0,
+          "margin": -39413.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.9
+        },
+        {
+          "cand": "thomas95",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 78022.0,
+          "thomas_bank": 114526.0,
+          "margin": -36504.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.0
+        },
+        {
+          "cand": "thomas95",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 78022.0,
+          "thomas_bank": 114526.0,
+          "margin": -36504.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.0
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -37958.5,
+        "errors": 0
+      }
+    },
+    "dmitrii_pkg": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p79_kernels\\extracted\\dmitrii_herd_pkg\\load_agent.py",
+      "rows": [
+        {
+          "cand": "dmitrii_pkg",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (router.py, line 962)"
+        },
+        {
+          "cand": "dmitrii_pkg",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (router.py, line 962)"
+        },
+        {
+          "cand": "dmitrii_pkg",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (router.py, line 962)"
+        },
+        {
+          "cand": "dmitrii_pkg",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (router.py, line 962)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "farming_score_v5": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p70_extracted\\farming_score_v5_timing_optimized__0.py",
+      "rows": [
+        {
+          "cand": "farming_score_v5",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 148841.0,
+          "thomas_bank": 150529.0,
+          "margin": -1688.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.8
+        },
+        {
+          "cand": "farming_score_v5",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 148841.0,
+          "thomas_bank": 150529.0,
+          "margin": -1688.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        },
+        {
+          "cand": "farming_score_v5",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 70512.0,
+          "thomas_bank": 79618.0,
+          "margin": -9106.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.4
+        },
+        {
+          "cand": "farming_score_v5",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 70512.0,
+          "thomas_bank": 79618.0,
+          "margin": -9106.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.9
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -5397.0,
+        "errors": 0
+      }
+    },
+    "farming_score_v2": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p70_extracted\\farming_score_v2_a_better_approach__0.py",
+      "rows": [
+        {
+          "cand": "farming_score_v2",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 148382.0,
+          "thomas_bank": 149849.0,
+          "margin": -1467.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.1
+        },
+        {
+          "cand": "farming_score_v2",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 148382.0,
+          "thomas_bank": 149849.0,
+          "margin": -1467.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        },
+        {
+          "cand": "farming_score_v2",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 70526.0,
+          "thomas_bank": 79598.0,
+          "margin": -9072.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.8
+        },
+        {
+          "cand": "farming_score_v2",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 70526.0,
+          "thomas_bank": 79598.0,
+          "margin": -9072.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.4
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -5269.5,
+        "errors": 0
+      }
+    },
+    "v46_micro": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p70_extracted\\kaggriculture_v46_first_turn_microstructure_and___0.py",
+      "rows": [
+        {
+          "cand": "v46_micro",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v46_micro",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v46_micro",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v46_micro",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "shop_router_v7": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p70_extracted\\kaggriculture_shop_router_reactive_v7__0.py",
+      "rows": [
+        {
+          "cand": "shop_router_v7",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 148174.0,
+          "thomas_bank": 150659.0,
+          "margin": -2485.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.9
+        },
+        {
+          "cand": "shop_router_v7",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 148174.0,
+          "thomas_bank": 150659.0,
+          "margin": -2485.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.9
+        },
+        {
+          "cand": "shop_router_v7",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 69909.0,
+          "thomas_bank": 77744.0,
+          "margin": -7835.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "cand": "shop_router_v7",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 69909.0,
+          "thomas_bank": 77744.0,
+          "margin": -7835.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -5160.0,
+        "errors": 0
+      }
+    },
+    "shop_router_v6": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p66_extracted\\kaggriculture_shop_router_reactive_v6.py",
+      "rows": [
+        {
+          "cand": "shop_router_v6",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 101797.0,
+          "thomas_bank": 104442.0,
+          "margin": -2645.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "shop_router_v6",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 101797.0,
+          "thomas_bank": 104442.0,
+          "margin": -2645.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "shop_router_v6",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 87576.0,
+          "thomas_bank": 91260.0,
+          "margin": -3684.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "shop_router_v6",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 87576.0,
+          "thomas_bank": 91260.0,
+          "margin": -3684.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -3164.5,
+        "errors": 0
+      }
+    },
+    "shop_router_v5": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p51_extracted\\kaggriculture_shop_router_reactive_v5.py",
+      "rows": [
+        {
+          "cand": "shop_router_v5",
+          "seed": 1,
+          "seat0": true,
+          "error": "IndentationError:expected an indented block after 'try' statement on line 3349 (kaggriculture_shop_router_reactive_v5.py, line 3350)"
+        },
+        {
+          "cand": "shop_router_v5",
+          "seed": 1,
+          "seat0": false,
+          "error": "IndentationError:expected an indented block after 'try' statement on line 3349 (kaggriculture_shop_router_reactive_v5.py, line 3350)"
+        },
+        {
+          "cand": "shop_router_v5",
+          "seed": 2,
+          "seat0": true,
+          "error": "IndentationError:expected an indented block after 'try' statement on line 3349 (kaggriculture_shop_router_reactive_v5.py, line 3350)"
+        },
+        {
+          "cand": "shop_router_v5",
+          "seed": 2,
+          "seat0": false,
+          "error": "IndentationError:expected an indented block after 'try' statement on line 3349 (kaggriculture_shop_router_reactive_v5.py, line 3350)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "v62_metabalance": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p66b_extracted\\v62_metabalance_kaggriculture.py",
+      "rows": [
+        {
+          "cand": "v62_metabalance",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v62_metabalance",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v62_metabalance",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v62_metabalance",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "adaptive_route_v2": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p67_extracted\\adaptive_route_agent_v2.py",
+      "rows": [
+        {
+          "cand": "adaptive_route_v2",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "adaptive_route_v2",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "adaptive_route_v2",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "adaptive_route_v2",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "adaptive_farming": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p51_extracted2\\adaptive_farming_strategy_for_kaggriculture.py",
+      "rows": [
+        {
+          "cand": "adaptive_farming",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "adaptive_farming",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "adaptive_farming",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "adaptive_farming",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'HTML' is not defined"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "pipe5_extract": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p66_extracted\\kaggriculture_pipe_5_terminal_boost.py",
+      "rows": [
+        {
+          "cand": "pipe5_extract",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "pipe5_extract",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "pipe5_extract",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "pipe5_extract",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "farming_score_v4": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p62c_main\\farming_score_v4_a_better_shop.py",
+      "rows": [
+        {
+          "cand": "farming_score_v4",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 148841.0,
+          "thomas_bank": 150529.0,
+          "margin": -1688.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "farming_score_v4",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 148841.0,
+          "thomas_bank": 150529.0,
+          "margin": -1688.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        },
+        {
+          "cand": "farming_score_v4",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 70080.0,
+          "thomas_bank": 79675.0,
+          "margin": -9595.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "cand": "farming_score_v4",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 70080.0,
+          "thomas_bank": 79675.0,
+          "margin": -9595.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.2
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -5641.5,
+        "errors": 0
+      }
+    },
+    "v62_composite": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\git\\v66\\candidate_v62_composite_bakery_yarn.py",
+      "rows": [
+        {
+          "cand": "v62_composite",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 77860.0,
+          "thomas_bank": 145283.0,
+          "margin": -67423.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.8
+        },
+        {
+          "cand": "v62_composite",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 77860.0,
+          "thomas_bank": 145283.0,
+          "margin": -67423.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.8
+        },
+        {
+          "cand": "v62_composite",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 79892.0,
+          "thomas_bank": 96220.0,
+          "margin": -16328.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 13.1
+        },
+        {
+          "cand": "v62_composite",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 79892.0,
+          "thomas_bank": 96220.0,
+          "margin": -16328.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 14.9
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -41875.5,
+        "errors": 0
+      }
+    },
+    "prvsiyan_main": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\top5_notebooks\\prvsiyan\\prvsiyan_main.py",
+      "rows": [
+        {
+          "cand": "prvsiyan_main",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.6
+        },
+        {
+          "cand": "prvsiyan_main",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.9
+        },
+        {
+          "cand": "prvsiyan_main",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 67275.0,
+          "thomas_bank": 79358.0,
+          "margin": -12083.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.3
+        },
+        {
+          "cand": "prvsiyan_main",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 67275.0,
+          "thomas_bank": 79358.0,
+          "margin": -12083.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.3
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -8706.5,
+        "errors": 0
+      }
+    },
+    "danilchil_champ": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\git\\danilchil\\champ\\main.py",
+      "rows": [
+        {
+          "cand": "danilchil_champ",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        },
+        {
+          "cand": "danilchil_champ",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.1
+        },
+        {
+          "cand": "danilchil_champ",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 80237.0,
+          "thomas_bank": 97395.0,
+          "margin": -17158.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.2
+        },
+        {
+          "cand": "danilchil_champ",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 80237.0,
+          "thomas_bank": 97395.0,
+          "margin": -17158.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.1
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -11244.0,
+        "errors": 0
+      }
+    },
+    "qeinstein_sub009": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\git\\qeinstein\\dist\\sub-009-moev2\\main.py",
+      "rows": [
+        {
+          "cand": "qeinstein_sub009",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 71369.0,
+          "thomas_bank": 94830.0,
+          "margin": -23461.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.2
+        },
+        {
+          "cand": "qeinstein_sub009",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 71369.0,
+          "thomas_bank": 94830.0,
+          "margin": -23461.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.4
+        },
+        {
+          "cand": "qeinstein_sub009",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 102867.0,
+          "thomas_bank": 121071.0,
+          "margin": -18204.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.9
+        },
+        {
+          "cand": "qeinstein_sub009",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 102867.0,
+          "thomas_bank": 121071.0,
+          "margin": -18204.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.9
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -20832.5,
+        "errors": 0
+      }
+    },
+    "shape_shop_pasture": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p51_extracted\\shape_the_shop_work_the_pasture_kaggriculture.py",
+      "rows": [
+        {
+          "cand": "shape_shop_pasture",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "shape_shop_pasture",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "shape_shop_pasture",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "shape_shop_pasture",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'HTML' is not defined"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    }
+  }
+}

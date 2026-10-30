@@ -1,0 +1,259 @@
+{
+  "cand": "D:\\\u684c\u9762\\Kaggle\\kaggriculture\\_external\\scan_20260919\\extracted\\thomas_2945_clean.py",
+  "seeds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "rows": [
+    {
+      "opp": "alperen",
+      "seed": 1,
+      "cand_seat0": true,
+      "cand_bank": 150597.0,
+      "opp_bank": 148286.0,
+      "margin": 2311.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.8
+    },
+    {
+      "opp": "alperen",
+      "seed": 1,
+      "cand_seat0": false,
+      "cand_bank": 150597.0,
+      "opp_bank": 148286.0,
+      "margin": 2311.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.1
+    },
+    {
+      "opp": "alperen",
+      "seed": 2,
+      "cand_seat0": true,
+      "cand_bank": 79681.0,
+      "opp_bank": 70076.0,
+      "margin": 9605.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.6
+    },
+    {
+      "opp": "alperen",
+      "seed": 2,
+      "cand_seat0": false,
+      "cand_bank": 79681.0,
+      "opp_bank": 70076.0,
+      "margin": 9605.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.7
+    },
+    {
+      "opp": "alperen",
+      "seed": 3,
+      "cand_seat0": true,
+      "cand_bank": 77444.0,
+      "opp_bank": 71206.0,
+      "margin": 6238.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.0
+    },
+    {
+      "opp": "alperen",
+      "seed": 3,
+      "cand_seat0": false,
+      "cand_bank": 77444.0,
+      "opp_bank": 71206.0,
+      "margin": 6238.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.0
+    },
+    {
+      "opp": "alperen",
+      "seed": 4,
+      "cand_seat0": true,
+      "cand_bank": 74815.0,
+      "opp_bank": 71885.0,
+      "margin": 2930.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.6
+    },
+    {
+      "opp": "alperen",
+      "seed": 4,
+      "cand_seat0": false,
+      "cand_bank": 74815.0,
+      "opp_bank": 71885.0,
+      "margin": 2930.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 7.1
+    },
+    {
+      "opp": "R2",
+      "seed": 1,
+      "cand_seat0": true,
+      "cand_bank": 149991.0,
+      "opp_bank": 144661.0,
+      "margin": 5330.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.4
+    },
+    {
+      "opp": "R2",
+      "seed": 1,
+      "cand_seat0": false,
+      "cand_bank": 149991.0,
+      "opp_bank": 144661.0,
+      "margin": 5330.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.4
+    },
+    {
+      "opp": "R2",
+      "seed": 2,
+      "cand_seat0": true,
+      "cand_bank": 79358.0,
+      "opp_bank": 67275.0,
+      "margin": 12083.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.5
+    },
+    {
+      "opp": "R2",
+      "seed": 2,
+      "cand_seat0": false,
+      "cand_bank": 79358.0,
+      "opp_bank": 67275.0,
+      "margin": 12083.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.3
+    },
+    {
+      "opp": "R2",
+      "seed": 3,
+      "cand_seat0": true,
+      "cand_bank": 76539.0,
+      "opp_bank": 68943.0,
+      "margin": 7596.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.8
+    },
+    {
+      "opp": "R2",
+      "seed": 3,
+      "cand_seat0": false,
+      "cand_bank": 76539.0,
+      "opp_bank": 68943.0,
+      "margin": 7596.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.9
+    },
+    {
+      "opp": "R2",
+      "seed": 4,
+      "cand_seat0": true,
+      "cand_bank": 74807.0,
+      "opp_bank": 66411.0,
+      "margin": 8396.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.0
+    },
+    {
+      "opp": "R2",
+      "seed": 4,
+      "cand_seat0": false,
+      "cand_bank": 74807.0,
+      "opp_bank": 66411.0,
+      "margin": 8396.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.1
+    }
+  ],
+  "summary": {
+    "alperen": {
+      "wins": 8,
+      "n": 8,
+      "mean_margin": 5271.0,
+      "seat0_wins": 4,
+      "seat1_wins": 4,
+      "all_done": true
+    },
+    "R2": {
+      "wins": 8,
+      "n": 8,
+      "mean_margin": 8351.25,
+      "seat0_wins": 4,
+      "seat1_wins": 4,
+      "all_done": true
+    }
+  },
+  "full_gate_still_needed": [
+    "seeds 5-8 if smoke pattern holds",
+    "vs additional elite (tetsu/kaito/rayk) if available",
+    "fingerprint novelty review"
+  ],
+  "submit": false
+}

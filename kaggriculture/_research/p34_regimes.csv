@@ -1,0 +1,5 @@
+policy,bank,phases,landmark_order
+R2,181389.0,"{'P0_BOOT': (0, 1), 'P1_EXPAND': (0, 10), 'P2_CONVERT': (10, 10), 'P3_SCALE': (10, 26), 'P4_END': (26, 29)}",field_filled@0→first_animals2@0→melon5@0→animals8@6→sell_2k@6→cash_5k@10→melon_convert@10→cash_20k@12
+kaito_v27,174341.0,"{'P0_BOOT': (0, 1), 'P1_EXPAND': (0, 20), 'P2_CONVERT': (20, 10), 'P3_SCALE': (10, 26), 'P4_END': (26, 29)}",first_animals2@0→melon5@0→animals8@7→sell_2k@7→cash_5k@10→cash_20k@15→field_filled@20→melon_convert@20
+qeinstein,162690.0,"{'P0_BOOT': (0, 1), 'P1_EXPAND': (0, 10), 'P2_CONVERT': (10, 10), 'P3_SCALE': (10, 26), 'P4_END': (26, 29)}",field_filled@0→first_animals2@0→melon5@0→animals8@6→sell_2k@6→cash_5k@10→melon_convert@10→cash_20k@12
+rayk_rank,163494.0,"{'P0_BOOT': (0, 1), 'P1_EXPAND': (0, 10), 'P2_CONVERT': (10, 10), 'P3_SCALE': (10, 26), 'P4_END': (26, 29)}",field_filled@0→first_animals2@0→melon5@0→animals8@6→sell_2k@6→cash_5k@10→melon_convert@10→cash_20k@12

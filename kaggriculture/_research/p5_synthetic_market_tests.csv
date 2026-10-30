@@ -1,0 +1,6 @@
+test,bank0,bank1,inv_wheat,shed0_wheat
+A_lockstep_sell,3000.0,3000.0,9592,0
+B_dump10_vs_1x10,3000.0,3000.0,9484,0
+C_sell_then_buy_same_turn,3000.0,3000.0,9574,0
+D_simultaneous_dump20,3000.0,3000.0,9304,0
+E_slot_order_sell_buy,3000.0,3000.0,9682,0

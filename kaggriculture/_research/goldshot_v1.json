@@ -1,0 +1,1350 @@
+{
+  "updated": "2026-09-21T16:09:48",
+  "n_train": 90,
+  "train_elapsed_s": 688.3797752857208,
+  "train_rows": [
+    {
+      "i": 0,
+      "opp": "metav4",
+      "seed": 200,
+      "seat0": true,
+      "cand": 109893.0,
+      "opp_bank": 112306.0,
+      "margin": -2413.0,
+      "reward": -0.384455,
+      "sec": 6.301268815994263
+    },
+    {
+      "i": 1,
+      "opp": "shop_v7",
+      "seed": 201,
+      "seat0": false,
+      "cand": 74014.0,
+      "opp_bank": 77141.0,
+      "margin": -3127.0,
+      "reward": -0.40944499999999995,
+      "sec": 9.789754390716553
+    },
+    {
+      "i": 2,
+      "opp": "thomas",
+      "seed": 202,
+      "seat0": true,
+      "cand": 127421.0,
+      "opp_bank": 144673.0,
+      "margin": -17252.0,
+      "reward": -0.9038200000000001,
+      "sec": 10.201692819595337
+    },
+    {
+      "i": 3,
+      "opp": "alperen",
+      "seed": 203,
+      "seat0": false,
+      "cand": 68531.0,
+      "opp_bank": 68706.0,
+      "margin": -175.0,
+      "reward": -0.306125,
+      "sec": 9.006096124649048
+    },
+    {
+      "i": 4,
+      "opp": "pipe16",
+      "seed": 204,
+      "seat0": true,
+      "cand": 81327.0,
+      "opp_bank": 81377.0,
+      "margin": -50.0,
+      "reward": -0.30174999999999996,
+      "sec": 9.831429719924927
+    },
+    {
+      "i": 5,
+      "opp": "kaito_v48",
+      "seed": 205,
+      "seat0": false,
+      "cand": 86342.0,
+      "opp_bank": 65870.0,
+      "margin": 20472.0,
+      "reward": 1.0,
+      "sec": 8.575056791305542
+    },
+    {
+      "i": 6,
+      "opp": "metav4",
+      "seed": 206,
+      "seat0": true,
+      "cand": 82348.0,
+      "opp_bank": 87077.0,
+      "margin": -4729.0,
+      "reward": -0.465515,
+      "sec": 9.85070538520813
+    },
+    {
+      "i": 7,
+      "opp": "shop_v7",
+      "seed": 207,
+      "seat0": false,
+      "cand": 73239.0,
+      "opp_bank": 78732.0,
+      "margin": -5493.0,
+      "reward": -0.492255,
+      "sec": 9.287424564361572
+    },
+    {
+      "i": 8,
+      "opp": "thomas",
+      "seed": 208,
+      "seat0": true,
+      "cand": 99871.0,
+      "opp_bank": 96263.0,
+      "margin": 3608.0,
+      "reward": 0.42628,
+      "sec": 10.05046820640564
+    },
+    {
+      "i": 9,
+      "opp": "alperen",
+      "seed": 209,
+      "seat0": false,
+      "cand": 101900.0,
+      "opp_bank": 92628.0,
+      "margin": 9272.0,
+      "reward": 0.62452,
+      "sec": 8.926549673080444
+    },
+    {
+      "i": 10,
+      "opp": "pipe16",
+      "seed": 210,
+      "seat0": true,
+      "cand": 67469.0,
+      "opp_bank": 67035.0,
+      "margin": 434.0,
+      "reward": 0.31518999999999997,
+      "sec": 9.249693155288696
+    },
+    {
+      "i": 11,
+      "opp": "kaito_v48",
+      "seed": 211,
+      "seat0": false,
+      "cand": 53282.0,
+      "opp_bank": 26685.0,
+      "margin": 26597.0,
+      "reward": 1.0,
+      "sec": 9.013551235198975
+    },
+    {
+      "i": 12,
+      "opp": "metav4",
+      "seed": 212,
+      "seat0": true,
+      "cand": 73709.0,
+      "opp_bank": 84815.0,
+      "margin": -11106.0,
+      "reward": -0.6887099999999999,
+      "sec": 10.96916389465332
+    },
+    {
+      "i": 13,
+      "opp": "shop_v7",
+      "seed": 213,
+      "seat0": false,
+      "cand": 79395.0,
+      "opp_bank": 81194.0,
+      "margin": -1799.0,
+      "reward": -0.362965,
+      "sec": 6.453964471817017
+    },
+    {
+      "i": 14,
+      "opp": "thomas",
+      "seed": 214,
+      "seat0": true,
+      "cand": 88241.0,
+      "opp_bank": 87012.0,
+      "margin": 1229.0,
+      "reward": 0.34301499999999996,
+      "sec": 6.877764463424683
+    },
+    {
+      "i": 15,
+      "opp": "alperen",
+      "seed": 215,
+      "seat0": false,
+      "cand": 102006.0,
+      "opp_bank": 100557.0,
+      "margin": 1449.0,
+      "reward": 0.350715,
+      "sec": 5.9470977783203125
+    },
+    {
+      "i": 16,
+      "opp": "pipe16",
+      "seed": 216,
+      "seat0": true,
+      "cand": 105274.0,
+      "opp_bank": 118988.0,
+      "margin": -13714.0,
+      "reward": -0.77999,
+      "sec": 9.211173057556152
+    },
+    {
+      "i": 17,
+      "opp": "kaito_v48",
+      "seed": 217,
+      "seat0": false,
+      "cand": 133009.0,
+      "opp_bank": 63765.0,
+      "margin": 69244.0,
+      "reward": 1.0,
+      "sec": 9.283899068832397
+    },
+    {
+      "i": 18,
+      "opp": "metav4",
+      "seed": 218,
+      "seat0": true,
+      "cand": 111980.0,
+      "opp_bank": 111967.0,
+      "margin": 13.0,
+      "reward": 0.30045499999999997,
+      "sec": 10.068064451217651
+    },
+    {
+      "i": 19,
+      "opp": "shop_v7",
+      "seed": 219,
+      "seat0": false,
+      "cand": 84406.0,
+      "opp_bank": 86195.0,
+      "margin": -1789.0,
+      "reward": -0.362615,
+      "sec": 9.360572338104248
+    },
+    {
+      "i": 20,
+      "opp": "thomas",
+      "seed": 220,
+      "seat0": true,
+      "cand": 79292.0,
+      "opp_bank": 80354.0,
+      "margin": -1062.0,
+      "reward": -0.33716999999999997,
+      "sec": 9.694559097290039
+    },
+    {
+      "i": 21,
+      "opp": "alperen",
+      "seed": 221,
+      "seat0": false,
+      "cand": 68848.0,
+      "opp_bank": 70153.0,
+      "margin": -1305.0,
+      "reward": -0.345675,
+      "sec": 8.922902822494507
+    },
+    {
+      "i": 22,
+      "opp": "pipe16",
+      "seed": 222,
+      "seat0": true,
+      "cand": 100176.0,
+      "opp_bank": 95323.0,
+      "margin": 4853.0,
+      "reward": 0.469855,
+      "sec": 10.171319961547852
+    },
+    {
+      "i": 23,
+      "opp": "kaito_v48",
+      "seed": 223,
+      "seat0": false,
+      "cand": 99155.0,
+      "opp_bank": 74453.0,
+      "margin": 24702.0,
+      "reward": 1.0,
+      "sec": 8.596871852874756
+    },
+    {
+      "i": 24,
+      "opp": "metav4",
+      "seed": 224,
+      "seat0": true,
+      "cand": 83361.0,
+      "opp_bank": 83953.0,
+      "margin": -592.0,
+      "reward": -0.32072,
+      "sec": 10.214136838912964
+    },
+    {
+      "i": 25,
+      "opp": "shop_v7",
+      "seed": 225,
+      "seat0": false,
+      "cand": 131425.0,
+      "opp_bank": 121533.0,
+      "margin": 9892.0,
+      "reward": 0.64622,
+      "sec": 9.271289587020874
+    },
+    {
+      "i": 26,
+      "opp": "thomas",
+      "seed": 226,
+      "seat0": true,
+      "cand": 105935.0,
+      "opp_bank": 105097.0,
+      "margin": 838.0,
+      "reward": 0.32933,
+      "sec": 9.122910737991333
+    },
+    {
+      "i": 27,
+      "opp": "alperen",
+      "seed": 227,
+      "seat0": false,
+      "cand": 92908.0,
+      "opp_bank": 78350.0,
+      "margin": 14558.0,
+      "reward": 0.8095299999999999,
+      "sec": 9.328760147094727
+    },
+    {
+      "i": 28,
+      "opp": "pipe16",
+      "seed": 228,
+      "seat0": true,
+      "cand": 87959.0,
+      "opp_bank": 89305.0,
+      "margin": -1346.0,
+      "reward": -0.34711,
+      "sec": 9.601327657699585
+    },
+    {
+      "i": 29,
+      "opp": "kaito_v48",
+      "seed": 229,
+      "seat0": false,
+      "cand": 104244.0,
+      "opp_bank": 80160.0,
+      "margin": 24084.0,
+      "reward": 1.0,
+      "sec": 8.445021390914917
+    },
+    {
+      "i": 30,
+      "opp": "metav4",
+      "seed": 230,
+      "seat0": true,
+      "cand": 83120.0,
+      "opp_bank": 90534.0,
+      "margin": -7414.0,
+      "reward": -0.5594899999999999,
+      "sec": 10.372169733047485
+    },
+    {
+      "i": 31,
+      "opp": "shop_v7",
+      "seed": 231,
+      "seat0": false,
+      "cand": 97193.0,
+      "opp_bank": 98620.0,
+      "margin": -1427.0,
+      "reward": -0.349945,
+      "sec": 9.771179437637329
+    },
+    {
+      "i": 32,
+      "opp": "thomas",
+      "seed": 232,
+      "seat0": true,
+      "cand": 110607.0,
+      "opp_bank": 109681.0,
+      "margin": 926.0,
+      "reward": 0.33241,
+      "sec": 9.519434213638306
+    },
+    {
+      "i": 33,
+      "opp": "alperen",
+      "seed": 233,
+      "seat0": false,
+      "cand": 116463.0,
+      "opp_bank": 110496.0,
+      "margin": 5967.0,
+      "reward": 0.508845,
+      "sec": 9.058223009109497
+    },
+    {
+      "i": 34,
+      "opp": "pipe16",
+      "seed": 234,
+      "seat0": true,
+      "cand": 106213.0,
+      "opp_bank": 106263.0,
+      "margin": -50.0,
+      "reward": -0.30174999999999996,
+      "sec": 9.864782094955444
+    },
+    {
+      "i": 35,
+      "opp": "kaito_v48",
+      "seed": 235,
+      "seat0": false,
+      "cand": 139814.0,
+      "opp_bank": 73889.0,
+      "margin": 65925.0,
+      "reward": 1.0,
+      "sec": 9.032492637634277
+    },
+    {
+      "i": 36,
+      "opp": "metav4",
+      "seed": 236,
+      "seat0": true,
+      "cand": 66999.0,
+      "opp_bank": 66424.0,
+      "margin": 575.0,
+      "reward": 0.320125,
+      "sec": 9.909821271896362
+    },
+    {
+      "i": 37,
+      "opp": "shop_v7",
+      "seed": 237,
+      "seat0": false,
+      "cand": 101907.0,
+      "opp_bank": 95696.0,
+      "margin": 6211.0,
+      "reward": 0.517385,
+      "sec": 9.82796597480774
+    },
+    {
+      "i": 38,
+      "opp": "thomas",
+      "seed": 238,
+      "seat0": true,
+      "cand": 134291.0,
+      "opp_bank": 133887.0,
+      "margin": 404.0,
+      "reward": 0.31414,
+      "sec": 9.090911626815796
+    },
+    {
+      "i": 39,
+      "opp": "alperen",
+      "seed": 239,
+      "seat0": false,
+      "cand": 93579.0,
+      "opp_bank": 97943.0,
+      "margin": -4364.0,
+      "reward": -0.45274,
+      "sec": 9.381712913513184
+    },
+    {
+      "i": 40,
+      "opp": "pipe16",
+      "seed": 240,
+      "seat0": true,
+      "cand": 67189.0,
+      "opp_bank": 69285.0,
+      "margin": -2096.0,
+      "reward": -0.37335999999999997,
+      "sec": 9.155898809432983
+    },
+    {
+      "i": 41,
+      "opp": "kaito_v48",
+      "seed": 241,
+      "seat0": false,
+      "cand": 64976.0,
+      "opp_bank": 65974.0,
+      "margin": -998.0,
+      "reward": -0.33493,
+      "sec": 5.496662139892578
+    },
+    {
+      "i": 42,
+      "opp": "metav4",
+      "seed": 242,
+      "seat0": true,
+      "cand": 109189.0,
+      "opp_bank": 109189.0,
+      "margin": 0.0,
+      "reward": 0.0,
+      "sec": 6.122939348220825
+    },
+    {
+      "i": 43,
+      "opp": "shop_v7",
+      "seed": 243,
+      "seat0": false,
+      "cand": 104273.0,
+      "opp_bank": 103483.0,
+      "margin": 790.0,
+      "reward": 0.32765,
+      "sec": 5.814709901809692
+    },
+    {
+      "i": 44,
+      "opp": "thomas",
+      "seed": 244,
+      "seat0": true,
+      "cand": 116343.0,
+      "opp_bank": 118034.0,
+      "margin": -1691.0,
+      "reward": -0.359185,
+      "sec": 5.890095949172974
+    },
+    {
+      "i": 45,
+      "opp": "alperen",
+      "seed": 245,
+      "seat0": false,
+      "cand": 74793.0,
+      "opp_bank": 80896.0,
+      "margin": -6103.0,
+      "reward": -0.513605,
+      "sec": 5.604100704193115
+    },
+    {
+      "i": 46,
+      "opp": "pipe16",
+      "seed": 246,
+      "seat0": true,
+      "cand": 93363.0,
+      "opp_bank": 81521.0,
+      "margin": 11842.0,
+      "reward": 0.7144699999999999,
+      "sec": 6.065566539764404
+    },
+    {
+      "i": 47,
+      "opp": "kaito_v48",
+      "seed": 247,
+      "seat0": false,
+      "cand": 119315.0,
+      "opp_bank": 85391.0,
+      "margin": 33924.0,
+      "reward": 1.0,
+      "sec": 5.4774792194366455
+    },
+    {
+      "i": 48,
+      "opp": "metav4",
+      "seed": 248,
+      "seat0": true,
+      "cand": 98226.0,
+      "opp_bank": 115275.0,
+      "margin": -17049.0,
+      "reward": -0.8967149999999999,
+      "sec": 5.926317930221558
+    },
+    {
+      "i": 49,
+      "opp": "shop_v7",
+      "seed": 249,
+      "seat0": false,
+      "cand": 57804.0,
+      "opp_bank": 66089.0,
+      "margin": -8285.0,
+      "reward": -0.5899749999999999,
+      "sec": 5.703232049942017
+    },
+    {
+      "i": 50,
+      "opp": "thomas",
+      "seed": 250,
+      "seat0": true,
+      "cand": 77213.0,
+      "opp_bank": 83096.0,
+      "margin": -5883.0,
+      "reward": -0.505905,
+      "sec": 5.953958749771118
+    },
+    {
+      "i": 51,
+      "opp": "alperen",
+      "seed": 251,
+      "seat0": false,
+      "cand": 76887.0,
+      "opp_bank": 79948.0,
+      "margin": -3061.0,
+      "reward": -0.40713499999999997,
+      "sec": 5.9144628047943115
+    },
+    {
+      "i": 52,
+      "opp": "pipe16",
+      "seed": 252,
+      "seat0": true,
+      "cand": 136963.0,
+      "opp_bank": 137941.0,
+      "margin": -978.0,
+      "reward": -0.33422999999999997,
+      "sec": 6.0269858837127686
+    },
+    {
+      "i": 53,
+      "opp": "kaito_v48",
+      "seed": 253,
+      "seat0": false,
+      "cand": 107239.0,
+      "opp_bank": 96195.0,
+      "margin": 11044.0,
+      "reward": 0.6865399999999999,
+      "sec": 5.281008005142212
+    },
+    {
+      "i": 54,
+      "opp": "metav4",
+      "seed": 254,
+      "seat0": true,
+      "cand": 98379.0,
+      "opp_bank": 99444.0,
+      "margin": -1065.0,
+      "reward": -0.337275,
+      "sec": 6.1976165771484375
+    },
+    {
+      "i": 55,
+      "opp": "shop_v7",
+      "seed": 255,
+      "seat0": false,
+      "cand": 115378.0,
+      "opp_bank": 122957.0,
+      "margin": -7579.0,
+      "reward": -0.5652649999999999,
+      "sec": 5.63178825378418
+    },
+    {
+      "i": 56,
+      "opp": "thomas",
+      "seed": 256,
+      "seat0": true,
+      "cand": 82876.0,
+      "opp_bank": 84496.0,
+      "margin": -1620.0,
+      "reward": -0.3567,
+      "sec": 6.034189462661743
+    },
+    {
+      "i": 57,
+      "opp": "alperen",
+      "seed": 257,
+      "seat0": false,
+      "cand": 102497.0,
+      "opp_bank": 98403.0,
+      "margin": 4094.0,
+      "reward": 0.44328999999999996,
+      "sec": 5.433563470840454
+    },
+    {
+      "i": 58,
+      "opp": "pipe16",
+      "seed": 258,
+      "seat0": true,
+      "cand": 101373.0,
+      "opp_bank": 113231.0,
+      "margin": -11858.0,
+      "reward": -0.7150299999999999,
+      "sec": 6.061979293823242
+    },
+    {
+      "i": 59,
+      "opp": "kaito_v48",
+      "seed": 259,
+      "seat0": false,
+      "cand": 158378.0,
+      "opp_bank": 143117.0,
+      "margin": 15261.0,
+      "reward": 0.8341349999999998,
+      "sec": 5.078726291656494
+    },
+    {
+      "i": 60,
+      "opp": "metav4",
+      "seed": 260,
+      "seat0": true,
+      "cand": 122209.0,
+      "opp_bank": 123511.0,
+      "margin": -1302.0,
+      "reward": -0.34557,
+      "sec": 6.0911736488342285
+    },
+    {
+      "i": 61,
+      "opp": "shop_v7",
+      "seed": 261,
+      "seat0": false,
+      "cand": 86085.0,
+      "opp_bank": 83741.0,
+      "margin": 2344.0,
+      "reward": 0.38204,
+      "sec": 5.795547723770142
+    },
+    {
+      "i": 62,
+      "opp": "thomas",
+      "seed": 262,
+      "seat0": true,
+      "cand": 62162.0,
+      "opp_bank": 72406.0,
+      "margin": -10244.0,
+      "reward": -0.6585399999999999,
+      "sec": 5.970909595489502
+    },
+    {
+      "i": 63,
+      "opp": "alperen",
+      "seed": 263,
+      "seat0": false,
+      "cand": 77780.0,
+      "opp_bank": 80747.0,
+      "margin": -2967.0,
+      "reward": -0.403845,
+      "sec": 5.486171245574951
+    },
+    {
+      "i": 64,
+      "opp": "pipe16",
+      "seed": 264,
+      "seat0": true,
+      "cand": 139954.0,
+      "opp_bank": 145089.0,
+      "margin": -5135.0,
+      "reward": -0.47972499999999996,
+      "sec": 5.883062124252319
+    },
+    {
+      "i": 65,
+      "opp": "kaito_v48",
+      "seed": 265,
+      "seat0": false,
+      "cand": 86409.0,
+      "opp_bank": 58633.0,
+      "margin": 27776.0,
+      "reward": 1.0,
+      "sec": 5.435009717941284
+    },
+    {
+      "i": 66,
+      "opp": "metav4",
+      "seed": 266,
+      "seat0": true,
+      "cand": 136399.0,
+      "opp_bank": 137914.0,
+      "margin": -1515.0,
+      "reward": -0.353025,
+      "sec": 6.206431150436401
+    },
+    {
+      "i": 67,
+      "opp": "shop_v7",
+      "seed": 267,
+      "seat0": false,
+      "cand": 59343.0,
+      "opp_bank": 62814.0,
+      "margin": -3471.0,
+      "reward": -0.421485,
+      "sec": 5.615179538726807
+    },
+    {
+      "i": 68,
+      "opp": "thomas",
+      "seed": 268,
+      "seat0": true,
+      "cand": 75715.0,
+      "opp_bank": 73462.0,
+      "margin": 2253.0,
+      "reward": 0.378855,
+      "sec": 5.758298873901367
+    },
+    {
+      "i": 69,
+      "opp": "alperen",
+      "seed": 269,
+      "seat0": false,
+      "cand": 130197.0,
+      "opp_bank": 126742.0,
+      "margin": 3455.0,
+      "reward": 0.420925,
+      "sec": 5.430542707443237
+    },
+    {
+      "i": 70,
+      "opp": "pipe16",
+      "seed": 270,
+      "seat0": true,
+      "cand": 94834.0,
+      "opp_bank": 104967.0,
+      "margin": -10133.0,
+      "reward": -0.654655,
+      "sec": 5.97728419303894
+    },
+    {
+      "i": 71,
+      "opp": "kaito_v48",
+      "seed": 271,
+      "seat0": false,
+      "cand": 85572.0,
+      "opp_bank": 59592.0,
+      "margin": 25980.0,
+      "reward": 1.0,
+      "sec": 5.388485670089722
+    },
+    {
+      "i": 72,
+      "opp": "metav4",
+      "seed": 272,
+      "seat0": true,
+      "cand": 105706.0,
+      "opp_bank": 122547.0,
+      "margin": -16841.0,
+      "reward": -0.889435,
+      "sec": 5.803454637527466
+    },
+    {
+      "i": 73,
+      "opp": "shop_v7",
+      "seed": 273,
+      "seat0": false,
+      "cand": 100111.0,
+      "opp_bank": 107017.0,
+      "margin": -6906.0,
+      "reward": -0.5417099999999999,
+      "sec": 5.527386665344238
+    },
+    {
+      "i": 74,
+      "opp": "thomas",
+      "seed": 274,
+      "seat0": true,
+      "cand": 100416.0,
+      "opp_bank": 99496.0,
+      "margin": 920.0,
+      "reward": 0.3322,
+      "sec": 5.892079591751099
+    },
+    {
+      "i": 75,
+      "opp": "alperen",
+      "seed": 275,
+      "seat0": false,
+      "cand": 111173.0,
+      "opp_bank": 107171.0,
+      "margin": 4002.0,
+      "reward": 0.44006999999999996,
+      "sec": 5.515685796737671
+    },
+    {
+      "i": 76,
+      "opp": "pipe16",
+      "seed": 276,
+      "seat0": true,
+      "cand": 70649.0,
+      "opp_bank": 71275.0,
+      "margin": -626.0,
+      "reward": -0.32191,
+      "sec": 5.856282949447632
+    },
+    {
+      "i": 77,
+      "opp": "kaito_v48",
+      "seed": 277,
+      "seat0": false,
+      "cand": 122597.0,
+      "opp_bank": 102587.0,
+      "margin": 20010.0,
+      "reward": 1.0,
+      "sec": 5.4269022941589355
+    },
+    {
+      "i": 78,
+      "opp": "metav4",
+      "seed": 278,
+      "seat0": true,
+      "cand": 92066.0,
+      "opp_bank": 98601.0,
+      "margin": -6535.0,
+      "reward": -0.528725,
+      "sec": 6.026714563369751
+    },
+    {
+      "i": 79,
+      "opp": "shop_v7",
+      "seed": 279,
+      "seat0": false,
+      "cand": 76028.0,
+      "opp_bank": 75926.0,
+      "margin": 102.0,
+      "reward": 0.30357,
+      "sec": 5.752639055252075
+    },
+    {
+      "i": 80,
+      "opp": "thomas",
+      "seed": 280,
+      "seat0": true,
+      "cand": 71072.0,
+      "opp_bank": 73114.0,
+      "margin": -2042.0,
+      "reward": -0.37146999999999997,
+      "sec": 5.93695592880249
+    },
+    {
+      "i": 81,
+      "opp": "alperen",
+      "seed": 281,
+      "seat0": false,
+      "cand": 119808.0,
+      "opp_bank": 115903.0,
+      "margin": 3905.0,
+      "reward": 0.436675,
+      "sec": 5.5073277950286865
+    },
+    {
+      "i": 82,
+      "opp": "pipe16",
+      "seed": 282,
+      "seat0": true,
+      "cand": 76710.0,
+      "opp_bank": 82355.0,
+      "margin": -5645.0,
+      "reward": -0.497575,
+      "sec": 5.878722667694092
+    },
+    {
+      "i": 83,
+      "opp": "kaito_v48",
+      "seed": 283,
+      "seat0": false,
+      "cand": 79631.0,
+      "opp_bank": 52091.0,
+      "margin": 27540.0,
+      "reward": 1.0,
+      "sec": 5.4860310554504395
+    },
+    {
+      "i": 84,
+      "opp": "metav4",
+      "seed": 284,
+      "seat0": true,
+      "cand": 124100.0,
+      "opp_bank": 130208.0,
+      "margin": -6108.0,
+      "reward": -0.51378,
+      "sec": 5.953433036804199
+    },
+    {
+      "i": 85,
+      "opp": "shop_v7",
+      "seed": 285,
+      "seat0": false,
+      "cand": 110627.0,
+      "opp_bank": 155806.0,
+      "margin": -45179.0,
+      "reward": -1.0,
+      "sec": 5.666698932647705
+    },
+    {
+      "i": 86,
+      "opp": "thomas",
+      "seed": 286,
+      "seat0": true,
+      "cand": 81836.0,
+      "opp_bank": 80067.0,
+      "margin": 1769.0,
+      "reward": 0.361915,
+      "sec": 6.0333685874938965
+    },
+    {
+      "i": 87,
+      "opp": "alperen",
+      "seed": 287,
+      "seat0": false,
+      "cand": 70616.0,
+      "opp_bank": 71654.0,
+      "margin": -1038.0,
+      "reward": -0.33633,
+      "sec": 5.537607908248901
+    },
+    {
+      "i": 88,
+      "opp": "pipe16",
+      "seed": 288,
+      "seat0": true,
+      "cand": 142627.0,
+      "opp_bank": 144189.0,
+      "margin": -1562.0,
+      "reward": -0.35467,
+      "sec": 6.145864486694336
+    },
+    {
+      "i": 89,
+      "opp": "kaito_v48",
+      "seed": 289,
+      "seat0": false,
+      "cand": 110655.0,
+      "opp_bank": 104467.0,
+      "margin": 6188.0,
+      "reward": 0.51658,
+      "sec": 5.441012144088745
+    }
+  ],
+  "eval": {
+    "metav4": {
+      "n": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": 0.0
+    },
+    "shop_v7": {
+      "n": 6,
+      "wins": 6,
+      "win_rate": 1.0,
+      "mean_margin": 4521.3
+    },
+    "thomas": {
+      "n": 6,
+      "wins": 4,
+      "win_rate": 0.667,
+      "mean_margin": 617.0
+    },
+    "alperen": {
+      "n": 6,
+      "wins": 6,
+      "win_rate": 1.0,
+      "mean_margin": 3979.3
+    },
+    "pipe16": {
+      "n": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -50.0
+    },
+    "kaito_v48": {
+      "n": 6,
+      "wins": 6,
+      "win_rate": 1.0,
+      "mean_margin": 21856.0
+    }
+  },
+  "eval_rows": [
+    {
+      "opp": 87947.0,
+      "seed": 800,
+      "seat0": true,
+      "cand": 87947.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 87947.0,
+      "seed": 800,
+      "seat0": false,
+      "cand": 87947.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 67143.0,
+      "seed": 801,
+      "seat0": true,
+      "cand": 67143.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 67143.0,
+      "seed": 801,
+      "seat0": false,
+      "cand": 67143.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 95833.0,
+      "seed": 802,
+      "seat0": true,
+      "cand": 95833.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 95833.0,
+      "seed": 802,
+      "seat0": false,
+      "cand": 95833.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 84183.0,
+      "seed": 800,
+      "seat0": true,
+      "cand": 87934.0,
+      "margin": 3751.0,
+      "win": true
+    },
+    {
+      "opp": 84183.0,
+      "seed": 800,
+      "seat0": false,
+      "cand": 87934.0,
+      "margin": 3751.0,
+      "win": true
+    },
+    {
+      "opp": 64327.0,
+      "seed": 801,
+      "seat0": true,
+      "cand": 69607.0,
+      "margin": 5280.0,
+      "win": true
+    },
+    {
+      "opp": 64327.0,
+      "seed": 801,
+      "seat0": false,
+      "cand": 69607.0,
+      "margin": 5280.0,
+      "win": true
+    },
+    {
+      "opp": 95799.0,
+      "seed": 802,
+      "seat0": true,
+      "cand": 100332.0,
+      "margin": 4533.0,
+      "win": true
+    },
+    {
+      "opp": 95799.0,
+      "seed": 802,
+      "seat0": false,
+      "cand": 100332.0,
+      "margin": 4533.0,
+      "win": true
+    },
+    {
+      "opp": 86774.0,
+      "seed": 800,
+      "seat0": true,
+      "cand": 87824.0,
+      "margin": 1050.0,
+      "win": true
+    },
+    {
+      "opp": 86774.0,
+      "seed": 800,
+      "seat0": false,
+      "cand": 87824.0,
+      "margin": 1050.0,
+      "win": true
+    },
+    {
+      "opp": 66066.0,
+      "seed": 801,
+      "seat0": true,
+      "cand": 68099.0,
+      "margin": 2033.0,
+      "win": true
+    },
+    {
+      "opp": 66066.0,
+      "seed": 801,
+      "seat0": false,
+      "cand": 68099.0,
+      "margin": 2033.0,
+      "win": true
+    },
+    {
+      "opp": 96034.0,
+      "seed": 802,
+      "seat0": true,
+      "cand": 94802.0,
+      "margin": -1232.0,
+      "win": false
+    },
+    {
+      "opp": 96034.0,
+      "seed": 802,
+      "seat0": false,
+      "cand": 94802.0,
+      "margin": -1232.0,
+      "win": false
+    },
+    {
+      "opp": 84591.0,
+      "seed": 800,
+      "seat0": true,
+      "cand": 88631.0,
+      "margin": 4040.0,
+      "win": true
+    },
+    {
+      "opp": 84591.0,
+      "seed": 800,
+      "seat0": false,
+      "cand": 88631.0,
+      "margin": 4040.0,
+      "win": true
+    },
+    {
+      "opp": 63762.0,
+      "seed": 801,
+      "seat0": true,
+      "cand": 69708.0,
+      "margin": 5946.0,
+      "win": true
+    },
+    {
+      "opp": 63762.0,
+      "seed": 801,
+      "seat0": false,
+      "cand": 69708.0,
+      "margin": 5946.0,
+      "win": true
+    },
+    {
+      "opp": 98318.0,
+      "seed": 802,
+      "seat0": true,
+      "cand": 100270.0,
+      "margin": 1952.0,
+      "win": true
+    },
+    {
+      "opp": 98318.0,
+      "seed": 802,
+      "seat0": false,
+      "cand": 100270.0,
+      "margin": 1952.0,
+      "win": true
+    },
+    {
+      "opp": 87973.0,
+      "seed": 800,
+      "seat0": true,
+      "cand": 87923.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 87973.0,
+      "seed": 800,
+      "seat0": false,
+      "cand": 87923.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 67185.0,
+      "seed": 801,
+      "seat0": true,
+      "cand": 67135.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 67185.0,
+      "seed": 801,
+      "seat0": false,
+      "cand": 67135.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 95861.0,
+      "seed": 802,
+      "seat0": true,
+      "cand": 95811.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 95861.0,
+      "seed": 802,
+      "seat0": false,
+      "cand": 95811.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 108026.0,
+      "seed": 800,
+      "seat0": true,
+      "cand": 126741.0,
+      "margin": 18715.0,
+      "win": true
+    },
+    {
+      "opp": 108026.0,
+      "seed": 800,
+      "seat0": false,
+      "cand": 126741.0,
+      "margin": 18715.0,
+      "win": true
+    },
+    {
+      "opp": 53527.0,
+      "seed": 801,
+      "seat0": true,
+      "cand": 81235.0,
+      "margin": 27708.0,
+      "win": true
+    },
+    {
+      "opp": 53527.0,
+      "seed": 801,
+      "seat0": false,
+      "cand": 81235.0,
+      "margin": 27708.0,
+      "win": true
+    },
+    {
+      "opp": 92855.0,
+      "seed": 802,
+      "seat0": true,
+      "cand": 112000.0,
+      "margin": 19145.0,
+      "win": true
+    },
+    {
+      "opp": 92855.0,
+      "seed": 802,
+      "seat0": false,
+      "cand": 112000.0,
+      "margin": 19145.0,
+      "win": true
+    }
+  ],
+  "kill_gate": {
+    "throughput_gate": "FAIL_COMMUNITY_SCALE",
+    "measured_sps_approx": 94.1,
+    "games_per_hour": 470.7,
+    "wr_mv": 0,
+    "mean_margin_mv": 0.0,
+    "wr_shop": 1.0,
+    "field_wr": 0.733,
+    "collapses": [
+      "metav4",
+      "pipe16"
+    ],
+    "slot_a": false,
+    "slot_b_signal": false,
+    "decision": "STOP_NO_SIGNAL",
+    "policy_stats": {
+      "explore": 201,
+      "default": 539,
+      "updates": 90,
+      "greedy": 16
+    },
+    "q_states": 66,
+    "note": "v1 is within-budget multi-window macro bandit, NOT 100M-step JAX RL"
+  },
+  "production": "Metav4 56390446 HOLD; Thomas slot B not replaced unless SIGNAL"
+}

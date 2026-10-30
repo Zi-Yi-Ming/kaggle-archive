@@ -1,0 +1,6 @@
+window,metric,value,note
+lab_T3,d11_shed_melon,4,water+harvest+drop works
+B_p13_1,d10_field_melon,0,plants died pre-harvest
+B_p13_1,d10_shed_melon,0,
+B_p13_1,d10_melon_revenue,0,
+R2_p13,d10_melon_revenue,30432,d7-10 window

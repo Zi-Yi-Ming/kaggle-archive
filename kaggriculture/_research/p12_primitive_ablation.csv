@@ -1,0 +1,9 @@
+variant,description,n_vs_R2,mean_bank,d10_mean,d20_mean,wins_vs_R2,status
+B0,P11 original,8,4362,177,1624,0,
+B1,+daily_labor,8,10829,471,4754,0,keep
+B2,+EOD DROP,4,12842,~200,3660,0,keep
+B3_all,animal_care all workers,4,8078,,,0,REJECT plants starved
+B3,animal_care shepherd<=3,4,30132,~90,16036,0,CURRENT BEST
+B4,feed-wheat product buffer,4,26500,~165,9246,0,REJECT d10 unchanged
+B5,plant_fill seed flood,4,17623,~160,7871,0,REJECT cash drained
+R2,champion,4,149267,17000,,0,target

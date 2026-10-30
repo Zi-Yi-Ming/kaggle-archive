@@ -1,0 +1,17 @@
+{
+  "peak2950": {
+    "mv": {
+      "n": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "mean_margin": 50.0
+    },
+    "sh": {
+      "n": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -16627.0
+    },
+    "dual": "FAIL"
+  }
+}

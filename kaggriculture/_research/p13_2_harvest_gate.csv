@@ -1,0 +1,6 @@
+case,water,harvest,drop,plants_d9,plants_d11,max_inv_melon,max_shed_melon,final_shed,survive,inv,shed
+T_no_water_no_harvest,0,0,0,0,0,0,0,0,FAIL,FAIL,FAIL
+T_water_only,1,0,0,1,1,0,0,0,PASS,FAIL,FAIL
+T_water_harvest_drop,1,1,1,1,0,0,4,0,PASS,FAIL,PASS
+T_harvest_no_water,0,1,1,0,0,0,0,0,FAIL,FAIL,FAIL
+DECISION,HARVEST_NOT_THE_GAP,,,,"gap=water survival (unwatered>=2->WEED); harvest path works in lab T3",,,,

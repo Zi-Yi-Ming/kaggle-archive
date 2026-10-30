@@ -1,0 +1,5 @@
+selector,wins,bank,d15,bankrupt,S2_gt_S1,S2_gt_S0
+S0,0,14033,4637,0,,
+S1,0,17420,16642,0,,
+S2,0,11961,5479,1,3,3
+DECISION,RETRIEVAL_NOT_TRANSFERRED,,,,"kNN R2 library < rules; not 2900 path as-is",

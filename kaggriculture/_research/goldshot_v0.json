@@ -1,0 +1,888 @@
+{
+  "updated": "2026-09-21T14:08:46",
+  "phase": "eval",
+  "train": [
+    {
+      "i": 0,
+      "opp": "metav4",
+      "seed": 100,
+      "seat0": true,
+      "cand": 83468.0,
+      "opp_bank": 83468.0,
+      "margin": 0.0,
+      "reward": 0.0,
+      "overrides": []
+    },
+    {
+      "i": 1,
+      "opp": "shop_v7",
+      "seed": 101,
+      "seat0": false,
+      "cand": 93996.0,
+      "opp_bank": 103854.0,
+      "margin": -9858.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 108,
+          "to": 3,
+          "feat": "(('BAKERY', 'SMOOTHIE_SHOP'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "opp": "thomas",
+      "seed": 102,
+      "seat0": true,
+      "cand": 100256.0,
+      "opp_bank": 111347.0,
+      "margin": -11091.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 105,
+          "to": 1,
+          "feat": "(('BRUNCH_SPOT', 'ICE_CREAM_SHOP'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "opp": "alperen",
+      "seed": 103,
+      "seat0": false,
+      "cand": 108164.0,
+      "opp_bank": 103868.0,
+      "margin": 4296.0,
+      "reward": 1.0,
+      "overrides": []
+    },
+    {
+      "i": 4,
+      "opp": "pipe16",
+      "seed": 104,
+      "seat0": true,
+      "cand": 106559.0,
+      "opp_bank": 108940.0,
+      "margin": -2381.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 105,
+          "to": 1,
+          "feat": "(('BRUNCH_SPOT', 'ICE_CREAM_SHOP'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "opp": "metav4",
+      "seed": 105,
+      "seat0": false,
+      "cand": 92750.0,
+      "opp_bank": 92750.0,
+      "margin": 0.0,
+      "reward": 0.0,
+      "overrides": []
+    },
+    {
+      "i": 6,
+      "opp": "shop_v7",
+      "seed": 106,
+      "seat0": true,
+      "cand": 89765.0,
+      "opp_bank": 96663.0,
+      "margin": -6898.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 105,
+          "to": 5,
+          "feat": "(('BAKERY', 'ICE_CREAM_SHOP'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "opp": "thomas",
+      "seed": 107,
+      "seat0": false,
+      "cand": 109547.0,
+      "opp_bank": 109394.0,
+      "margin": 153.0,
+      "reward": 1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 105,
+          "to": 0,
+          "feat": "(('BRUNCH_SPOT', 'SMOOTHIE_SHOP'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "opp": "alperen",
+      "seed": 108,
+      "seat0": true,
+      "cand": 63349.0,
+      "opp_bank": 65711.0,
+      "margin": -2362.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 106,
+          "to": 7,
+          "feat": "(('BAKERY', 'PET_CAFE'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "opp": "pipe16",
+      "seed": 109,
+      "seat0": false,
+      "cand": 73388.0,
+      "opp_bank": 73438.0,
+      "margin": -50.0,
+      "reward": -1.0,
+      "overrides": []
+    },
+    {
+      "i": 10,
+      "opp": "metav4",
+      "seed": 110,
+      "seat0": true,
+      "cand": 154376.0,
+      "opp_bank": 154376.0,
+      "margin": 0.0,
+      "reward": 0.0,
+      "overrides": []
+    },
+    {
+      "i": 11,
+      "opp": "shop_v7",
+      "seed": 111,
+      "seat0": false,
+      "cand": 63572.0,
+      "opp_bank": 61001.0,
+      "margin": 2571.0,
+      "reward": 1.0,
+      "overrides": []
+    },
+    {
+      "i": 12,
+      "opp": "thomas",
+      "seed": 112,
+      "seat0": true,
+      "cand": 122460.0,
+      "opp_bank": 121853.0,
+      "margin": 607.0,
+      "reward": 1.0,
+      "overrides": []
+    },
+    {
+      "i": 13,
+      "opp": "alperen",
+      "seed": 113,
+      "seat0": false,
+      "cand": 116006.0,
+      "opp_bank": 113661.0,
+      "margin": 2345.0,
+      "reward": 1.0,
+      "overrides": []
+    },
+    {
+      "i": 14,
+      "opp": "pipe16",
+      "seed": 114,
+      "seat0": true,
+      "cand": 69918.0,
+      "opp_bank": 69968.0,
+      "margin": -50.0,
+      "reward": -1.0,
+      "overrides": []
+    },
+    {
+      "i": 15,
+      "opp": "metav4",
+      "seed": 115,
+      "seat0": false,
+      "cand": 74955.0,
+      "opp_bank": 74955.0,
+      "margin": 0.0,
+      "reward": 0.0,
+      "overrides": []
+    },
+    {
+      "i": 16,
+      "opp": "shop_v7",
+      "seed": 116,
+      "seat0": true,
+      "cand": 69901.0,
+      "opp_bank": 71135.0,
+      "margin": -1234.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 108,
+          "to": 3,
+          "feat": "(('BAKERY', 'SMOOTHIE_SHOP'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "opp": "thomas",
+      "seed": 117,
+      "seat0": false,
+      "cand": 90853.0,
+      "opp_bank": 102313.0,
+      "margin": -11460.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 105,
+          "to": 5,
+          "feat": "(('BRUNCH_SPOT', 'BAKERY'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "opp": "alperen",
+      "seed": 118,
+      "seat0": true,
+      "cand": 142057.0,
+      "opp_bank": 142396.0,
+      "margin": -339.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 9,
+          "to": 1,
+          "feat": "(('YARN_STORE', 'ICE_CREAM_SHOP'), 1, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "opp": "pipe16",
+      "seed": 119,
+      "seat0": false,
+      "cand": 100003.0,
+      "opp_bank": 114493.0,
+      "margin": -14490.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 105,
+          "to": 11,
+          "feat": "(('SMOOTHIE_SHOP', 'PET_CAFE'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "opp": "metav4",
+      "seed": 120,
+      "seat0": true,
+      "cand": 91418.0,
+      "opp_bank": 92568.0,
+      "margin": -1150.0,
+      "reward": -1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 9,
+          "to": 0,
+          "feat": "(('BRUNCH_SPOT', 'YARN_STORE'), 1, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "opp": "shop_v7",
+      "seed": 121,
+      "seat0": false,
+      "cand": 91916.0,
+      "opp_bank": 75236.0,
+      "margin": 16680.0,
+      "reward": 1.0,
+      "overrides": []
+    },
+    {
+      "i": 22,
+      "opp": "thomas",
+      "seed": 122,
+      "seat0": true,
+      "cand": 63678.0,
+      "opp_bank": 57659.0,
+      "margin": 6019.0,
+      "reward": 1.0,
+      "overrides": []
+    },
+    {
+      "i": 23,
+      "opp": "alperen",
+      "seed": 123,
+      "seat0": false,
+      "cand": 92655.0,
+      "opp_bank": 91030.0,
+      "margin": 1625.0,
+      "reward": 1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 105,
+          "to": 2,
+          "feat": "(('BAKERY', 'ICE_CREAM_SHOP'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "opp": "pipe16",
+      "seed": 124,
+      "seat0": true,
+      "cand": 93891.0,
+      "opp_bank": 93941.0,
+      "margin": -50.0,
+      "reward": -1.0,
+      "overrides": []
+    },
+    {
+      "i": 25,
+      "opp": "metav4",
+      "seed": 125,
+      "seat0": false,
+      "cand": 68458.0,
+      "opp_bank": 68458.0,
+      "margin": 0.0,
+      "reward": 0.0,
+      "overrides": []
+    },
+    {
+      "i": 26,
+      "opp": "shop_v7",
+      "seed": 126,
+      "seat0": true,
+      "cand": 99082.0,
+      "opp_bank": 96117.0,
+      "margin": 2965.0,
+      "reward": 1.0,
+      "overrides": []
+    },
+    {
+      "i": 27,
+      "opp": "thomas",
+      "seed": 127,
+      "seat0": false,
+      "cand": 83122.0,
+      "opp_bank": 80885.0,
+      "margin": 2237.0,
+      "reward": 1.0,
+      "overrides": []
+    },
+    {
+      "i": 28,
+      "opp": "alperen",
+      "seed": 128,
+      "seat0": true,
+      "cand": 135723.0,
+      "opp_bank": 119353.0,
+      "margin": 16370.0,
+      "reward": 1.0,
+      "overrides": [
+        {
+          "step": 144,
+          "from": 105,
+          "to": 1,
+          "feat": "(('BRUNCH_SPOT', 'ICE_CREAM_SHOP'), 0, 2, 2, 0, 1)"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "opp": "pipe16",
+      "seed": 129,
+      "seat0": false,
+      "cand": 68565.0,
+      "opp_bank": 68615.0,
+      "margin": -50.0,
+      "reward": -1.0,
+      "overrides": []
+    }
+  ],
+  "policy_stats": {
+    "default": 14,
+    "updates": 30,
+    "explore": 11,
+    "greedy_q": 5
+  },
+  "q_states": 24,
+  "baseline_metav4": {
+    "metav4": {
+      "n": 4,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": 0.0
+    },
+    "shop_v7": {
+      "n": 4,
+      "wins": 4,
+      "win_rate": 1.0,
+      "mean_margin": 4481.0
+    }
+  },
+  "eval": {
+    "metav4": {
+      "n": 8,
+      "wins": 1,
+      "win_rate": 0.125,
+      "mean_margin": 0.0
+    },
+    "shop_v7": {
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 4672.0
+    },
+    "thomas": {
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 2169.8
+    },
+    "alperen": {
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 5905.0
+    },
+    "pipe16": {
+      "n": 8,
+      "wins": 1,
+      "win_rate": 0.125,
+      "mean_margin": -50.0
+    },
+    "kaito_v48": {
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 31759.4
+    }
+  },
+  "eval_rows": [
+    {
+      "opp": 161248.0,
+      "seed": 500,
+      "seat0": true,
+      "cand": 161248.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 161248.0,
+      "seed": 500,
+      "seat0": false,
+      "cand": 161248.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 62250.0,
+      "seed": 501,
+      "seat0": true,
+      "cand": 62250.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 62250.0,
+      "seed": 501,
+      "seat0": false,
+      "cand": 62250.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 97629.0,
+      "seed": 502,
+      "seat0": true,
+      "cand": 97629.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 97629.0,
+      "seed": 502,
+      "seat0": false,
+      "cand": 97629.0,
+      "margin": 0.0,
+      "win": false
+    },
+    {
+      "opp": 69845.0,
+      "seed": 503,
+      "seat0": true,
+      "cand": 69790.0,
+      "margin": -55.0,
+      "win": false
+    },
+    {
+      "opp": 69790.0,
+      "seed": 503,
+      "seat0": false,
+      "cand": 69845.0,
+      "margin": 55.0,
+      "win": true
+    },
+    {
+      "opp": 155428.0,
+      "seed": 500,
+      "seat0": true,
+      "cand": 164296.0,
+      "margin": 8868.0,
+      "win": true
+    },
+    {
+      "opp": 155428.0,
+      "seed": 500,
+      "seat0": false,
+      "cand": 164296.0,
+      "margin": 8868.0,
+      "win": true
+    },
+    {
+      "opp": 62111.0,
+      "seed": 501,
+      "seat0": true,
+      "cand": 62205.0,
+      "margin": 94.0,
+      "win": true
+    },
+    {
+      "opp": 62111.0,
+      "seed": 501,
+      "seat0": false,
+      "cand": 62205.0,
+      "margin": 94.0,
+      "win": true
+    },
+    {
+      "opp": 93890.0,
+      "seed": 502,
+      "seat0": true,
+      "cand": 96709.0,
+      "margin": 2819.0,
+      "win": true
+    },
+    {
+      "opp": 93890.0,
+      "seed": 502,
+      "seat0": false,
+      "cand": 96709.0,
+      "margin": 2819.0,
+      "win": true
+    },
+    {
+      "opp": 73644.0,
+      "seed": 503,
+      "seat0": true,
+      "cand": 80496.0,
+      "margin": 6852.0,
+      "win": true
+    },
+    {
+      "opp": 73590.0,
+      "seed": 503,
+      "seat0": false,
+      "cand": 80552.0,
+      "margin": 6962.0,
+      "win": true
+    },
+    {
+      "opp": 161065.0,
+      "seed": 500,
+      "seat0": true,
+      "cand": 161256.0,
+      "margin": 191.0,
+      "win": true
+    },
+    {
+      "opp": 161065.0,
+      "seed": 500,
+      "seat0": false,
+      "cand": 161256.0,
+      "margin": 191.0,
+      "win": true
+    },
+    {
+      "opp": 61579.0,
+      "seed": 501,
+      "seat0": true,
+      "cand": 62731.0,
+      "margin": 1152.0,
+      "win": true
+    },
+    {
+      "opp": 61579.0,
+      "seed": 501,
+      "seat0": false,
+      "cand": 62731.0,
+      "margin": 1152.0,
+      "win": true
+    },
+    {
+      "opp": 96809.0,
+      "seed": 502,
+      "seat0": true,
+      "cand": 98247.0,
+      "margin": 1438.0,
+      "win": true
+    },
+    {
+      "opp": 96809.0,
+      "seed": 502,
+      "seat0": false,
+      "cand": 98247.0,
+      "margin": 1438.0,
+      "win": true
+    },
+    {
+      "opp": 74246.0,
+      "seed": 503,
+      "seat0": true,
+      "cand": 80087.0,
+      "margin": 5841.0,
+      "win": true
+    },
+    {
+      "opp": 74203.0,
+      "seed": 503,
+      "seat0": false,
+      "cand": 80158.0,
+      "margin": 5955.0,
+      "win": true
+    },
+    {
+      "opp": 155317.0,
+      "seed": 500,
+      "seat0": true,
+      "cand": 164719.0,
+      "margin": 9402.0,
+      "win": true
+    },
+    {
+      "opp": 155317.0,
+      "seed": 500,
+      "seat0": false,
+      "cand": 164719.0,
+      "margin": 9402.0,
+      "win": true
+    },
+    {
+      "opp": 61172.0,
+      "seed": 501,
+      "seat0": true,
+      "cand": 63530.0,
+      "margin": 2358.0,
+      "win": true
+    },
+    {
+      "opp": 61172.0,
+      "seed": 501,
+      "seat0": false,
+      "cand": 63530.0,
+      "margin": 2358.0,
+      "win": true
+    },
+    {
+      "opp": 94423.0,
+      "seed": 502,
+      "seat0": true,
+      "cand": 98233.0,
+      "margin": 3810.0,
+      "win": true
+    },
+    {
+      "opp": 94423.0,
+      "seed": 502,
+      "seat0": false,
+      "cand": 98233.0,
+      "margin": 3810.0,
+      "win": true
+    },
+    {
+      "opp": 73309.0,
+      "seed": 503,
+      "seat0": true,
+      "cand": 81269.0,
+      "margin": 7960.0,
+      "win": true
+    },
+    {
+      "opp": 73266.0,
+      "seed": 503,
+      "seat0": false,
+      "cand": 81406.0,
+      "margin": 8140.0,
+      "win": true
+    },
+    {
+      "opp": 161272.0,
+      "seed": 500,
+      "seat0": true,
+      "cand": 161222.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 161272.0,
+      "seed": 500,
+      "seat0": false,
+      "cand": 161222.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 62280.0,
+      "seed": 501,
+      "seat0": true,
+      "cand": 62230.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 62280.0,
+      "seed": 501,
+      "seat0": false,
+      "cand": 62230.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 97671.0,
+      "seed": 502,
+      "seat0": true,
+      "cand": 97621.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 97671.0,
+      "seed": 502,
+      "seat0": false,
+      "cand": 97621.0,
+      "margin": -50.0,
+      "win": false
+    },
+    {
+      "opp": 69877.0,
+      "seed": 503,
+      "seat0": true,
+      "cand": 69772.0,
+      "margin": -105.0,
+      "win": false
+    },
+    {
+      "opp": 69822.0,
+      "seed": 503,
+      "seat0": false,
+      "cand": 69827.0,
+      "margin": 5.0,
+      "win": true
+    },
+    {
+      "opp": 65739.0,
+      "seed": 500,
+      "seat0": true,
+      "cand": 109286.0,
+      "margin": 43547.0,
+      "win": true
+    },
+    {
+      "opp": 65739.0,
+      "seed": 500,
+      "seat0": false,
+      "cand": 109286.0,
+      "margin": 43547.0,
+      "win": true
+    },
+    {
+      "opp": 96364.0,
+      "seed": 501,
+      "seat0": true,
+      "cand": 111333.0,
+      "margin": 14969.0,
+      "win": true
+    },
+    {
+      "opp": 96364.0,
+      "seed": 501,
+      "seat0": false,
+      "cand": 111333.0,
+      "margin": 14969.0,
+      "win": true
+    },
+    {
+      "opp": 93283.0,
+      "seed": 502,
+      "seat0": true,
+      "cand": 119043.0,
+      "margin": 25760.0,
+      "win": true
+    },
+    {
+      "opp": 93283.0,
+      "seed": 502,
+      "seat0": false,
+      "cand": 119043.0,
+      "margin": 25760.0,
+      "win": true
+    },
+    {
+      "opp": 55996.0,
+      "seed": 503,
+      "seat0": true,
+      "cand": 98580.0,
+      "margin": 42584.0,
+      "win": true
+    },
+    {
+      "opp": 55768.0,
+      "seed": 503,
+      "seat0": false,
+      "cand": 98707.0,
+      "margin": 42939.0,
+      "win": true
+    }
+  ],
+  "kill_gate": {
+    "wr_mv": 0.125,
+    "mean_margin_mv": 0.0,
+    "wr_shop": 1.0,
+    "field_wr": 0.825,
+    "collapses": [],
+    "slot_a": false,
+    "slot_b_signal": false,
+    "decision": "STOP_NO_SIGNAL",
+    "policy_stats": {
+      "default": 22,
+      "updates": 30,
+      "explore": 11,
+      "greedy_q": 45
+    }
+  }
+}

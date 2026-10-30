@@ -1,0 +1,16 @@
+{
+  "experiment_id": "exp_002_a3_fold0",
+  "label_variant": "A3",
+  "description": "baseline + Contusion-only conservative (edema/degenerative/subchondral without trauma -> silent)",
+  "sha256": "8d95e710d7e19ba58a5162071703b2388b2a84edc453e5686f36a4c0af7de17a",
+  "parent": "rsna_report_labels.py baseline",
+  "changes": [
+    "Contusion scorer only"
+  ],
+  "not_included": [
+    "A0 dual-pol",
+    "Effusion negation change",
+    "Synovitis inheritance"
+  ],
+  "exp001_fold0_LB_reference": 0.663
+}

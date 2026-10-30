@@ -1,0 +1,11 @@
+{
+  "competition_sources": ["kaggriculture"],
+  "language": "python",
+  "enable_internet": false,
+  "is_private": true,
+  "id": "ziyiming/kaggriculture-thomas-2945-farm",
+  "title": "kaggriculture-thomas-2945-farm",
+  "code_file": "main.py",
+  "enable_gpu": false,
+  "kernel_type": "script"
+}

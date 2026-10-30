@@ -1,0 +1,9 @@
+pair,sha_a,sha_b,jaccard,verdict,note
+R2-Moon,ec2fc15d9216,02b1fee4b0e4,0.982,SAME_FAMILY,yhay81+aurax7 exact tie 6/6
+R2-prvsiyan,ec2fc15d9216,5ed6141b3aa8,0.994,SAME_FAMILY,packaging of yhay81
+R2-tetsu_msf_router,ec2fc15d9216,3a444a70ea9d,0.183,SAME_FAMILY_HEADER,yhay81 header present
+R2-tetsu_shape,ec2fc15d9216,2b97e2c65301,0.030,INDEPENDENT,third router candidate
+R2-tetsu,ec2fc15d9216,f34a54b960a0,,PARTIAL,different tape family
+R2-boatlee,ec2fc15d9216,8ac34abce129,,INDEPENDENT,tetsu-like Jaccard 0.996
+R2-rayk,ec2fc15d9216,08297a9d977c,0.040,INDEPENDENT,public replay recon
+R2-kaito58,ec2fc15d9216,b041058ec187,,INDEPENDENT,minimax closed-loop

@@ -1,0 +1,12 @@
+repair_id,name,layer,trigger,original,fallback,risk,cost
+R1,weed_dig,repair_weeds,tile=WEED and cmd in PLANT/BUILD,PLANT/BUILD,DIG + queue original,lose 1 turn plant,low
+R2,day_queue_reset,repair_weeds,day change,queued cmds,clear queues,unfinished work lost,none
+R3,advance_sell,advance_sales,next-turn SELL and stock and price>=2,none,SELL now + subtract next,price impact,slot use
+R4,projected_shed,projected_shed,any PICKUP/DROP/PLACE,estimate stock,use for sell qty,wrong if engine differs,none
+R5,liquidate_718,liquidate,step==718,tape sell,DROP+full sell projected,miss 1 step if engine ends early,none
+R6,v219_walk,_v219,need move to target,complex cmd,WALK toward shed/target,wasted steps,low
+R7,v233_sheep_commit,V233,day>=12 funded+hands,tape cmds,override workers for wool/fert,conflict with tape,medium
+R8,v233_credit_sell,V233,WOOL/FERT credit and stock,none,append SELL,market slot,low
+R9,v234_feed_rescue,V234,hungry sheep afternoon and wheat short,none,BUY_PRODUCT WHEAT,cash,low
+R10,v226_topup,V226,missing cash/input,none,top-up buy,overbuy,low
+R11,v231_controller,V231,capacity/cash state,tape,adjust orders,may fight tape,medium

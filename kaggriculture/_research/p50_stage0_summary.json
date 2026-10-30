@@ -1,0 +1,41 @@
+{
+  "stage0_pass": true,
+  "baselines": [
+    {
+      "name": "R2",
+      "W-L": 3,
+      "bank_mean": 183849.66666666666,
+      "bank_std": 13074.098065343636,
+      "arity": 2
+    },
+    {
+      "name": "V16",
+      "W-L": 3,
+      "bank_mean": 172660.0,
+      "bank_std": 3355.0243913668746,
+      "arity": 1
+    },
+    {
+      "name": "kaito_v27",
+      "W-L": 3,
+      "bank_mean": 175506.66666666666,
+      "bank_std": 4005.320156436381,
+      "arity": 2
+    },
+    {
+      "name": "qeinstein",
+      "W-L": 3,
+      "bank_mean": 170467.33333333334,
+      "bank_std": 18297.778760154346,
+      "arity": 2
+    },
+    {
+      "name": "rayk_rank",
+      "W-L": 3,
+      "bank_mean": 176893.33333333334,
+      "bank_std": 15729.139186730963,
+      "arity": 2
+    }
+  ],
+  "dt": 125.23927092552185
+}

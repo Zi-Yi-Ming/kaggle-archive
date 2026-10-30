@@ -1,0 +1,8 @@
+scope,n,positive,mean_delta,median,best,worst,note
+all_seeds,72,20/72,-19713,-17238,38424,-95066,28% pos
+DROP_SELL,18,9/18,1465,,,,only_kind_mean_positive
+SKIP_HIRE,18,2/18,-37040,,,,daily_hire_critical
+NO_WORK,18,3/18,-28188,,,,
+DROP_BUY,18,6/18,-15090,,,,
+day10,12,0/12,-42300,,,,never_perturb_d10
+DECISION,LOCAL_ROBUST_WITH_NOISY_POSITIVES,,,,,,"not a climbable neighborhood yet"

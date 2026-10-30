@@ -1,0 +1,6 @@
+case,empty,cash,day,crops,animals,wheat_tiles
+d0_start,25,3000,0,"{'WHEAT': 5, 'MELON': 16, 'TOMATO': 4}",{'SHEEP': 2},5
+d0_empty20,20,3000,0,"{'WHEAT': 4, 'MELON': 12, 'TOMATO': 4}",{'SHEEP': 2},4
+d2_after,8,400,2,"{'WHEAT': 5, 'MELON': 1, 'TOMATO': 1}",{},5
+d5_mid,6,800,5,{'WHEAT': 6},{'SHEEP': 1},6
+d8,4,1500,8,"{'WHEAT': 6, 'MELON': 1}",{'SHEEP': 1},6

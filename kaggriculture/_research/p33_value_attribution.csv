@@ -1,0 +1,14 @@
+audit,metric,value,verdict
+P33A,A0_R2_bank,183850,
+P33A,A1_R2mkt_ourworkers,14840,
+P33A,A2_ourmkt_R2workers,23415,
+P33A,A3_ours,27491,
+P33A,coupling,market_x_worker_not_separable,COUPLED_NOT_SEPARABLE
+P33B,kaito_worker_sim,0.003,
+P33B,qeinstein_worker_sim,0.038,
+P33B,rayk_worker_sim,0.317,
+P33B,shared_worker_policy,NO,NOT_SUPPORTED
+P33C,current_state_acc,0.573,
+P33C,day_hour_openloop_acc,1.0,
+P33C,open_loop,SUPPORTED,market_f_day_hour
+DECISION,R2_IS_COUPLED_OPENLOOP_PLAN,,,not_reactive_policy

@@ -1,0 +1,16 @@
+error,finn_mean,name,status,vs_alp_D,vs_alp_L,vs_alp_W,vs_alp_WL
+,188534.0,farming_score_v4_a_better_shop,ok,0,0,3,3
+,172660.0,harvestforge_x_high_throughput_farming,ok,0,3,0,-3
+,180945.33333333334,kaggriculture_93_8_win_rate_public_state_router,ok,0,3,0,-3
+name 'plt' is not defined,,kaggriculture_frontier_the_moon_counts_melons,load_fail,,,,
+,,kaggriculture_master_engine_v3,no_agent,,,,
+,188530.66666666666,kaggriculture_route_replay_agent,ok,0,0,3,3
+,79616.5,kaggriculture_terminal_logistics,ok,,,,
+module 'c62c_kaggricultur' has no attribute 'build_agent',,kaggriculture_v43_recovering_lost_harvests,load_fail,,,,
+,188534.0,kaggriculture_v6,ok,0,0,3,3
+,,kaggriculture_what_2600_farms_do_differently,no_agent,,,,
+,,kaggriculture_what_the_top_farms_do_a_live_meta,no_agent,,,,
+,,no_cow_left_behind_v40_autopsy_fix,no_agent,,,,
+,188991.33333333334,score2710_t23_kaggriculture_smart_harvest,ok,3,0,0,0
+,,shape_the_shop_work_the_pasture_top_10,no_agent,,,,
+,,sovereign_swarm_kinematics_the,no_agent,,,,

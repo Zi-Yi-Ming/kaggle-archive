@@ -1,0 +1,415 @@
+{
+  "results": {
+    "the-2965-master-hybrid-engine": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p88_new\\extracted\\the-2965-master-hybrid-engine.py",
+      "vs_metav4": {
+        "cand": "the-2965-master-hybrid-engine",
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "cand": "the-2965-master-hybrid-engine",
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_thomas": {
+        "cand": "the-2965-master-hybrid-engine",
+        "opp": "thomas",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 2
+      },
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2965-master-hybrid-engine.py, line 9)"
+        }
+      ]
+    },
+    "the-2950-peak-farm": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p88_new\\extracted\\the-2950-peak-farm.py",
+      "vs_metav4": {
+        "cand": "the-2950-peak-farm",
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "cand": "the-2950-peak-farm",
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_thomas": {
+        "cand": "the-2950-peak-farm",
+        "opp": "thomas",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 2
+      },
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (the-2950-peak-farm.py, line 9)"
+        }
+      ]
+    },
+    "countering-the-big-3-meta": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p88_new\\extracted\\countering-the-big-3-meta.py",
+      "vs_metav4": {
+        "cand": "countering-the-big-3-meta",
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "cand": "countering-the-big-3-meta",
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_thomas": {
+        "cand": "countering-the-big-3-meta",
+        "opp": "thomas",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 2
+      },
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (countering-the-big-3-meta.py, line 9)"
+        }
+      ]
+    },
+    "demystifying-2900-meta-reflex-engine-and": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p88_new\\extracted\\demystifying-2900-meta-reflex-engine-and-bot.py",
+      "vs_metav4": {
+        "cand": "demystifying-2900-meta-reflex-engine-and",
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "cand": "demystifying-2900-meta-reflex-engine-and",
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_thomas": {
+        "cand": "demystifying-2900-meta-reflex-engine-and",
+        "opp": "thomas",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 2
+      },
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:invalid character '🌾' (U+1F33E) (demystifying-2900-meta-reflex-engine-and-bot.py, line 9)"
+        }
+      ]
+    },
+    "ahmed_v51_raw": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p85_new_0920\\extracted\\ahmedberatozer__kaggriculture-v51-lean-flock.py",
+      "vs_metav4": {
+        "cand": "ahmed_v51_raw",
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "cand": "ahmed_v51_raw",
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_thomas": {
+        "cand": "ahmed_v51_raw",
+        "opp": "thomas",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 2
+      },
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "error": "RuntimeError:SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        }
+      ]
+    }
+  },
+  "updated": "2026-09-21T11:52:24"
+}

@@ -1,0 +1,84 @@
+{
+  "v11E_bank": 75388.21,
+  "candidates": [
+    {
+      "name": "Seyamalam V21",
+      "source_url": "https://github.com/Seyamalam/Kaggriculture",
+      "architecture": "tape + router + closed-loop market + frozen MLP ranker + capital-latch recovery",
+      "reset_needed": true,
+      "smoke": {
+        "seeds": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "seats": [
+          "first",
+          "second"
+        ],
+        "n": 8,
+        "v11E_wins": 5,
+        "candidate_wins": 3,
+        "ties": 0,
+        "avg_margin": 3879.88,
+        "wilson_ci_lower": 0.1368,
+        "wilson_ci_upper": 0.6943
+      },
+      "verdict": "NO"
+    },
+    {
+      "name": "gytdrop v5",
+      "source_url": "https://github.com/gytdrop/KaggricultureAgent",
+      "architecture": "mined heuristic (no tapes, no learned weights, optional RL policy=None by default)",
+      "reset_needed": false,
+      "smoke": {
+        "seeds": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "seats": [
+          "first",
+          "second"
+        ],
+        "n": 8,
+        "v11E_wins": 6,
+        "candidate_wins": 2,
+        "ties": 0,
+        "avg_margin": 869.62,
+        "wilson_ci_lower": 0.0715,
+        "wilson_ci_upper": 0.5907
+      },
+      "verdict": "NO"
+    },
+    {
+      "name": "COK V10",
+      "source_url": "https://github.com/COK-ZhangZiliang/Kaggriculture",
+      "architecture": "tape + repair (fail-closed opening recovery)",
+      "reset_needed": true,
+      "smoke": {
+        "seeds": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "seats": [
+          "first",
+          "second"
+        ],
+        "n": 8,
+        "v11E_wins": 6,
+        "candidate_wins": 2,
+        "ties": 0,
+        "avg_margin": 1234.5,
+        "wilson_ci_lower": 0.0715,
+        "wilson_ci_upper": 0.5907
+      },
+      "verdict": "NO"
+    }
+  ],
+  "next_step": "None"
+}

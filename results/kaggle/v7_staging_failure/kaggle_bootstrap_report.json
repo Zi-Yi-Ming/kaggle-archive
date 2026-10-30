@@ -1,0 +1,150 @@
+{
+  "target_model": "gemma-4-31b-it-qat-w4a16-ct",
+  "require_gpu": true,
+  "hardware": {
+    "python": "3.12.13",
+    "gpu_count": 4,
+    "gpu_names": [
+      "NVIDIA L4",
+      "NVIDIA L4",
+      "NVIDIA L4",
+      "NVIDIA L4"
+    ],
+    "vram_per_gpu_gb": [
+      22.03,
+      22.03,
+      22.03,
+      22.03
+    ],
+    "vram_total_gb": 88.12,
+    "nvidia_smi": "Sun Oct  4 17:13:58 2026       \n+-----------------------------------------------------------------------------------------+\n| NVIDIA-SMI 580.178.04             Driver Version: 580.178.04     CUDA Version: 13.0     |\n+-----------------------------------------+------------------------+----------------------+\n| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n|                                         |                        |               MIG M. |\n|=========================================+========================+======================|\n|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |\n| N/A   48C    P8             17W /   72W |       3MiB /  23034MiB |      0%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n|   1  NVIDIA L4                      Off |   00000000:00:04.0 Off |                    0 |\n| N/A   46C    P8             15W /   72W |       3MiB /  23034MiB |      0%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n|   2  NVIDIA L4                      Off |   00000000:00:05.0 Off |                    0 |\n| N/A   45C    P8             14W /   72W |       3MiB /  23034MiB |      0%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n|   3  NVIDIA L4                      Off |   00000000:00:06.0 Off |                    0 |\n| N/A   47C    P8             17W /   72W |       3MiB /  23034MiB |      0%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n\n+-----------------------------------------------------------------------------------------+\n| Processes:                                                                              |\n|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n|        ID   ID                                                               Usage      |\n|=========================================================================================|\n|  No running processes found                                                             |\n+-----------------------------------------------------------------------------------------+\n",
+    "torch": "2.10.0+cu128",
+    "cuda": "12.8",
+    "cuda_available": true,
+    "disk_free_gb": 1069.92,
+    "disk_total_gb": 8156.88,
+    "ram_gb": 188.69,
+    "gpu_profile": "OFFICIAL_4xL4"
+  },
+  "gpu_profile": "OFFICIAL_4xL4",
+  "effective_vram_gb": 88.12,
+  "gpu_status": "GOOD_CANDIDATE",
+  "runtime_initial": {
+    "torch": {
+      "ok": true,
+      "version": "2.10.0+cu128"
+    },
+    "transformers": {
+      "ok": true,
+      "version": "5.0.0"
+    },
+    "google.adk": {
+      "ok": true,
+      "version": ""
+    },
+    "swegemma": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'swegemma'\")"
+    },
+    "adk_submission": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'adk_submission'\")"
+    },
+    "adk_eval_core": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'adk_eval_core'\")"
+    },
+    "_binaries": {
+      "swegemma": null,
+      "adk_submission": null,
+      "adk_eval_core": null
+    },
+    "_all_ok": false
+  },
+  "wheelhouse_dir": "/kaggle/input/datasets/metric/gemma-4-developer-agent-wheelhouse",
+  "wheel_compatibility": {
+    "current_python": "cp312",
+    "python_version": "3.12.13",
+    "compatible_count": 41,
+    "incompatible_count": 0,
+    "incompatible": [],
+    "compatible": true
+  },
+  "install": {
+    "wheelhouse": "/kaggle/input/datasets/metric/gemma-4-developer-agent-wheelhouse",
+    "ok": true,
+    "wheel_count": 41
+  },
+  "runtime_after_install": {
+    "torch": {
+      "ok": true,
+      "version": "2.10.0+cu128"
+    },
+    "transformers": {
+      "ok": true,
+      "version": "5.13.1"
+    },
+    "google.adk": {
+      "ok": true,
+      "version": ""
+    },
+    "swegemma": {
+      "ok": true,
+      "version": "0.2.7"
+    },
+    "adk_submission": {
+      "ok": true,
+      "version": "0.2.12"
+    },
+    "adk_eval_core": {
+      "ok": true,
+      "version": "0.1.0"
+    },
+    "_binaries": {
+      "swegemma": "/usr/local/bin/swegemma",
+      "adk_submission": null,
+      "adk_eval_core": null
+    },
+    "_all_ok": true
+  },
+  "harness_init": true,
+  "runtime_action": "installed_from_wheelhouse",
+  "data_dir": "/kaggle/input/competitions/gemma-4-developer-agent",
+  "data": {
+    "data_dir": "/kaggle/input/competitions/gemma-4-developer-agent",
+    "exists": true,
+    "tasks.jsonl": {
+      "present": true,
+      "mb": 1.89
+    },
+    "snapshots": {
+      "present": true,
+      "files": 129
+    },
+    "wheels": {
+      "present": true,
+      "files": 124
+    },
+    "graphs": {
+      "present": true,
+      "files": 127
+    },
+    "embeddings": {
+      "present": true,
+      "files": 127
+    },
+    "sample_submission": {
+      "present": true,
+      "files": 10
+    }
+  },
+  "model_dir": "/kaggle/input/models/google/gemma-4/other/gemma-4-31b-it-qat-w4a16-ct/2",
+  "model_size_gb": 21.7,
+  "persist": {
+    "path": "/kaggle/working/gemma4_runs",
+    "persistent": true,
+    "note": "/kaggle/working is saved with the notebook version. Download it before the session ends."
+  },
+  "repo_dir": "/kaggle/input/datasets/ziyiming/gemma4-agent",
+  "verdict": "READY_FOR_MODEL_GATE"
+}

@@ -1,0 +1,140 @@
+{
+  "Synovitis": [
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "Exam Type: MRI KNEE RIGHT WO CONTRAST Exam Date and Time: [DATE] [TIME] Indication: 2 years of pain with walking up and down the stairs twisting and squatting. Comparison: No relevant prior studies available for comparison.  TECHNIQUE: MRI of the right knee was performed on a 1.5 Tesla system body coil in three planes (axial, sagittal, and coronal), using a standard non-contrast protocol.  FINDING"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": " In the medial compartment, the meniscus is not torn and there is no focal chondrosis or chondral injury.      The lateral compartment, there is complex tear (main radial and longitudinal vertical component) at the posterior horn of the lateral meniscus. There is no focal chondrosis or chondral injury.      The patellofemoral joint, the patellar and trochlear cartilage appears congruent without ch"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "Técnica: RMN de la rodilla. Resultados: Fricción de la banda iliotibial. Síndrome de pinzamiento de la almohadilla grasa de Hoffa. Condropatía rotuliana. Impresión: Fricción de la banda iliotibial. Síndrome de pinzamiento de la almohadilla grasa de Hoffa. Condropatía rotuliana."
+    }
+  ],
+  "Medial OA": [
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "Exam Type: MRI KNEE RIGHT WO CONTRAST Exam Date and Time: [DATE] [TIME] Indication: Pain Comparison: No relevant prior studies available for comparison.  TECHNIQUE: MRI of the right knee was performed on a 3.0 Tesla system with a dedicated knee coil in three planes (axial, sagittal, and coronal), using a standard non-contrast protocol.  FINDINGS: OSSEOUS STRUCTURES: Alignment is anatomic. Subchond"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "Technique: MRI of the knee. ACL normal. MCL normal. Medial meniscus tear. Lateral meniscus tear. Incipient OA of all three compartmens.  Baker's cyst present. Large effusion. Insufficient fracture of medial femoral condyl with adjacent bone marrow oedema. Conclusion: Medial meniscus tear. Lateral meniscus tear. Incipient OA of all three compartmens.  Baker's cyst present. Large effusion. Medial co"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404",
+      "gold": 1.0,
+      "pseudo": 0.12000000000000001,
+      "kind": "neg_on_pos",
+      "report_head": "Exam Type: MRI KNEE LEFT WO CONTRAST Exam Date and Time: [DATE] [TIME] Indication: Pain. Comparison: [REDACTED].  TECHNIQUE: MRI of the lumbar knee was performed on a 3.0 Tesla system with a dedicated knee coil in three planes (axial, sagittal, and coronal), using a standard non-contrast protocol.  FINDINGS: OSSEOUS STRUCTURES: Minimal degenerative subchondral bone marrow edema is present at the l"
+    }
+  ],
+  "Lateral OA": [
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "Technique: MRI of the knee. ACL normal. MCL normal. Medial meniscus tear. Lateral meniscus tear. Incipient OA of all three compartmens.  Baker's cyst present. Large effusion. Insufficient fracture of medial femoral condyl with adjacent bone marrow oedema. Conclusion: Medial meniscus tear. Lateral meniscus tear. Incipient OA of all three compartmens.  Baker's cyst present. Large effusion. Medial co"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "MRI right knee  INDICATION: Assess ligamentous injury  There is a vertical tear in the periphery of the posterior horn of the medial meniscus. No lateral meniscal tear. Complete rupture of the ACL. Complete rupture of the PCL. Extensor mechanism intact. Complete rupture of the MCL at the level of the medial jointline. The proximal fibers are squiggly. IT band intact. High-grade partial tear of the"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": " In the medial compartment, there is radial tear at the posterior root of the medial meniscus. There is displaced meniscal fragment into the medial gutter. There is diffuse high grade and low grade chondrosis (less than and more than 50% thickness cartilage loss) along weightbaring medial femoral condyle and medial tibial plateau. There is subchondral edema. Osteophytes are present.      The later"
+    }
+  ],
+  "PF OA": [
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "Technique: MRI of the knee. ACL normal. MCL normal. Medial meniscus tear. Lateral meniscus tear. Incipient OA of all three compartmens.  Baker's cyst present. Large effusion. Insufficient fracture of medial femoral condyl with adjacent bone marrow oedema. Conclusion: Medial meniscus tear. Lateral meniscus tear. Incipient OA of all three compartmens.  Baker's cyst present. Large effusion. Medial co"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608",
+      "gold": 1.0,
+      "pseudo": 0.12000000000000001,
+      "kind": "neg_on_pos",
+      "report_head": "SAĞ DİZ MRG. Tetkik protokolü: Çok düzlemli, çok sekanslı. Bulgular: Lateral menisküs normal. Medial menisküs ekstrüde görünümde olup posterior hornunda yırtık ile uyumlu sinyal değişiklikleri mevcuttur. Arka çapraz bağ, çm çapraz bağ , lateral ve medial kollateral ligaman normaldir.Medial kollateral ligaman çevresinde sıvı artışı izlenmiştir. Distal kuadriseps ve patellar tendonlar normaldir. Pat"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "Technique: MRI of the knee. ACL normal. MCL normal. Medial meniscus mucoid degeneration. Lateral meniscus normal. OA of medial compartment. No baker's cyst. Effusion with synovitis. Conclusion: OA of medial compartment. Effusion with synovitis."
+    }
+  ],
+  "Fracture": [
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604",
+      "gold": 1.0,
+      "pseudo": 0.12000000000000001,
+      "kind": "neg_on_pos",
+      "report_head": "Exam Type: MRI KNEE RIGHT WO CONTRAST Exam Date and Time: [DATE] [TIME] Indication: Pain Comparison: No relevant prior studies available for comparison.  TECHNIQUE: MRI of the right knee was performed on a 3.0 Tesla system with a dedicated knee coil in three planes (axial, sagittal, and coronal), using a standard non-contrast protocol.  FINDINGS: OSSEOUS STRUCTURES: Alignment is anatomic. Subchond"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "Técnica: RMN de la rodilla. Resultados: Rotura del LCA. Rotura parcial del LCM. Rotura de menisco interno y lateral. Derrame. Contusiones óseas femorotibiales. Impresión: Rotura del LCA. Rotura parcial del LCM. Rotura de menisco interno y lateral. Derrame. Contusiones óseas femorotibiales."
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "No evidence of knee effusion. Normal medial and lateral menisci. No evidence of tears.  ACL is ruptured. There is mild anterior translation of the lateral tibial plateau in relation to femur.  Normal PCL, MCL and LCL. Normal extensor mechanism.  The tibiofemoral and patellofemoral articular cartilage is normal. A bone contusion is noted in the posterolateral corner of the lateral tibial plateau.  "
+    }
+  ],
+  "Contusion": [
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "ΜΑΓΝΗΤΙΚΗ ΤΟΜΟΓΡΑΦΙΑ ∆ΕΞΙΟΥ ΓΟΝΑΤΟΣ Τεχνική: Η εξέταση έγινε µε ακολουθίες παλµών Τ1, PD fs και Τ2*. Ευρήµατα: - Εκτεταµένο οίδηµα του οστικού µυελού στην εγγύς µετάφυση/επίφυση της κνήµης παριστά οστικό µώλωπα στο πλαίσιο της αναφερόµενης κάκωσης. - Οιδηµατώδης απεικόνιση του πρόσθιου χιαστού συνδέσµου µε ασυνέχεια των ινών του στο πλαίσιο υφολικής (σχεδόν πλήρους) ρήξης. - Οιδηµατώδης απεικόνιση"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "COMPARISON:None.  CLINICAL HISTORY:Left knee pain and swelling after fall. Medial joint line pain. Suspected bone contusion/meniscal tear.  PROCEDURE:Multisequence, multiplanar unenhanced MRI of the left knee according to routine protocol.  IMAGING FINDINGS:  Nondiagnostic scout localizing images reviewed.  The lateral meniscus is intact. The medial meniscus is intact.  High-grade partial-thicknes"
+    },
+    {
+      "uid": "1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190",
+      "gold": 1.0,
+      "pseudo": null,
+      "kind": "silent",
+      "report_head": "МР находка: МР данни за ставен излив. Изобразява се остеохондрална фрактура в областта на медиалния кондил на бедрената кост. Фрактурата се представя като хипоинтензна линия с дъговидна форма. Налице е костно-мозъчен едем в костта, както и депресия на медиалното плато. В този участък се изобразява и изтъняване на артикулиращия хрущял на кондила на протежение от около 9 мм. Костно-мозъчен едем е на"
+    }
+  ]
+}

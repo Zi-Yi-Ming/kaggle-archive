@@ -1,0 +1,13 @@
+opp,W,L,mean_margin,min_margin,cluster
+broker_bea,2,0,41702,38349,active_mid
+ledger_lena,2,0,42267,38920,active_mid
+slotter_silas,2,0,42274,39012,active_mid
+closer_cleo,2,0,45122,40541,active_mid
+fallow_finn,2,0,155186,145548,passive_noop
+wheat_walter,2,0,155186,145548,passive_noop
+rotation_rosa,2,0,155186,145548,passive_noop
+homestead_hana,2,0,155186,145548,passive_noop
+melon_mateo,2,0,155186,145548,passive_noop
+rancher_rita,2,0,155186,145548,passive_noop
+SUMMARY,20,0,,,NO_LOSSES_TO_CLUSTER
+DECISION,OPPONENT_ARCHETYPE_CONCENTRATION=NOT_APPLICABLE_NO_LOSSES,,,

@@ -1,0 +1,42 @@
+{
+  "decision": "SHOP_CONDITIONED_BRANCH_SUPPORTED",
+  "n_seeds": 8,
+  "banks": {
+    "1": 181389.0,
+    "2": 169210.0,
+    "3": 200950.0,
+    "4": 178754.0,
+    "5": 191857.0,
+    "11": 85390.0,
+    "12": 189936.0,
+    "13": 184565.0
+  },
+  "live_sim_mean": 0.5372044506258693,
+  "div_types": {
+    "SELL": 17,
+    "WORKER": 9,
+    "BUY_HIRE": 2
+  },
+  "div_days": {
+    "6": 17,
+    "9": 3,
+    "24": 1,
+    "7": 7
+  },
+  "state_diff_at_div": {
+    "shops": 25,
+    "prices": 25,
+    "money": 17,
+    "empty": 6
+  },
+  "shop_prev_frac": 0.8928571428571429,
+  "shop_now_frac": 1.0,
+  "unique_shop_sigs": 8,
+  "unique_fd_days": [
+    6,
+    7,
+    9,
+    24
+  ],
+  "dt": 29.01191020011902
+}

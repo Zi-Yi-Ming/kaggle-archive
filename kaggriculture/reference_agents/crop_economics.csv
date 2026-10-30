@@ -1,0 +1,9 @@
+item,kind,structure,buy_cost,base_price,days_to_first_yield,units_per_cycle,cycle_days,yield_window,units_per_tile_per_day,gross_per_tile_per_day,needs_daily_wheat,units_until_price_floor,season_revenue_ceiling
+WHEAT,CROP,none,10,25,2,4,5,water days 2-4,0.8,20.0,False,>6000,111464
+CARROT,CROP,none,20,35,2,3,4,water days 2-3,0.75,26.2,False,842,10680
+TOMATO,CROP,none,50,60,8,4,12,every 1d from day 8,0.333,20.0,False,529,11128
+STRAWBERRY,CROP,none,100,120,10,4,17,every 2d from day 10,0.235,28.2,False,62,3809
+MELON,CROP,none,80,250,10,6,13,water days 6-12,0.462,115.4,False,158,26485
+GOOSE,ANIMAL,COOP,300,50,4,2,1,every 1d from day 4,2.0,100.0,True,>6000,220308
+COW,ANIMAL,PASTURE,400,160,8,3,2,every 2d from day 8,1.5,240.0,True,76,6181
+SHEEP,ANIMAL,PASTURE,500,200,6,4,3,every 3d from day 6,1.333,266.7,True,59,7928

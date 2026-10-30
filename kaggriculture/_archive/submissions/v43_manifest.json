@@ -1,0 +1,18 @@
+{
+  "version": "v43",
+  "classification": "evaluated_upgrade",
+  "protocol": "EXP277 targeted warehouse / EXP278\u2013279 action-equivalent performance revisions",
+  "independent_reacting_confirmation_passed": true,
+  "complete_physical_audit_passed": true,
+  "all_confirmation_actions_equivalent": true,
+  "original_exp277_runtime_passed": false,
+  "exp278_runtime_passed": false,
+  "exp279_isolated_runtime_passed": true,
+  "exp279_linux_replay_passed": true,
+  "main_sha256": "919fc1d61050cd96f799979e49177ae3ac7bce98ec9835724238bea73f4a08ed",
+  "archive_sha256": "f76baf851aecc13edefcc640dbf61cd409fd321a719dccb2f1b00559041e4f1e",
+  "source_integrity": "PASS",
+  "archive_integrity": "PASS",
+  "optional_game_checks": "NOT RUN",
+  "live_rating_guarantee": null
+}

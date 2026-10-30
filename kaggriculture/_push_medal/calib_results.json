@@ -1,0 +1,230 @@
+{
+  "MEDAL__vs__v11E": {
+    "n": 6,
+    "wins_A": 6,
+    "losses_A": 0,
+    "ties": 0,
+    "mean_margin_A": 51369.0,
+    "games": [
+      {
+        "seed": 1,
+        "seat": 0,
+        "bank_A": 123189.0,
+        "bank_B": 63215.0,
+        "margin_A": 59974.0,
+        "errors": []
+      },
+      {
+        "seed": 2,
+        "seat": 0,
+        "bank_A": 125653.0,
+        "bank_B": 59478.0,
+        "margin_A": 66175.0,
+        "errors": []
+      },
+      {
+        "seed": 3,
+        "seat": 0,
+        "bank_A": 127226.0,
+        "bank_B": 92828.0,
+        "margin_A": 34398.0,
+        "errors": []
+      },
+      {
+        "seed": 1,
+        "seat": 1,
+        "bank_A": 148517.0,
+        "bank_B": 92915.0,
+        "margin_A": 55602.0,
+        "errors": []
+      },
+      {
+        "seed": 2,
+        "seat": 1,
+        "bank_A": 122093.0,
+        "bank_B": 77692.0,
+        "margin_A": 44401.0,
+        "errors": []
+      },
+      {
+        "seed": 3,
+        "seat": 1,
+        "bank_A": 90640.0,
+        "bank_B": 42976.0,
+        "margin_A": 47664.0,
+        "errors": []
+      }
+    ]
+  },
+  "MEDAL__vs__closer_cleo": {
+    "n": 6,
+    "wins_A": 6,
+    "losses_A": 0,
+    "ties": 0,
+    "mean_margin_A": 48372.5,
+    "games": [
+      {
+        "seed": 1,
+        "seat": 0,
+        "bank_A": 99779.0,
+        "bank_B": 53604.0,
+        "margin_A": 46175.0,
+        "errors": []
+      },
+      {
+        "seed": 2,
+        "seat": 0,
+        "bank_A": 161938.0,
+        "bank_B": 124282.0,
+        "margin_A": 37656.0,
+        "errors": []
+      },
+      {
+        "seed": 3,
+        "seat": 0,
+        "bank_A": 106906.0,
+        "bank_B": 57034.0,
+        "margin_A": 49872.0,
+        "errors": []
+      },
+      {
+        "seed": 1,
+        "seat": 1,
+        "bank_A": 144281.0,
+        "bank_B": 73147.0,
+        "margin_A": 71134.0,
+        "errors": []
+      },
+      {
+        "seed": 2,
+        "seat": 1,
+        "bank_A": 121385.0,
+        "bank_B": 75521.0,
+        "margin_A": 45864.0,
+        "errors": []
+      },
+      {
+        "seed": 3,
+        "seat": 1,
+        "bank_A": 51051.0,
+        "bank_B": 11517.0,
+        "margin_A": 39534.0,
+        "errors": []
+      }
+    ]
+  },
+  "MEDAL__vs__tetsu2131": {
+    "n": 6,
+    "wins_A": 6,
+    "losses_A": 0,
+    "ties": 0,
+    "mean_margin_A": 35671.833333333336,
+    "games": [
+      {
+        "seed": 1,
+        "seat": 0,
+        "bank_A": 94620.0,
+        "bank_B": 72749.0,
+        "margin_A": 21871.0,
+        "errors": []
+      },
+      {
+        "seed": 2,
+        "seat": 0,
+        "bank_A": 163399.0,
+        "bank_B": 109037.0,
+        "margin_A": 54362.0,
+        "errors": []
+      },
+      {
+        "seed": 3,
+        "seat": 0,
+        "bank_A": 147869.0,
+        "bank_B": 132116.0,
+        "margin_A": 15753.0,
+        "errors": []
+      },
+      {
+        "seed": 1,
+        "seat": 1,
+        "bank_A": 143225.0,
+        "bank_B": 82132.0,
+        "margin_A": 61093.0,
+        "errors": []
+      },
+      {
+        "seed": 2,
+        "seat": 1,
+        "bank_A": 96458.0,
+        "bank_B": 65540.0,
+        "margin_A": 30918.0,
+        "errors": []
+      },
+      {
+        "seed": 3,
+        "seat": 1,
+        "bank_A": 89491.0,
+        "bank_B": 59457.0,
+        "margin_A": 30034.0,
+        "errors": []
+      }
+    ]
+  },
+  "MEDAL__vs__fallow_finn": {
+    "n": 6,
+    "wins_A": 6,
+    "losses_A": 0,
+    "ties": 0,
+    "mean_margin_A": 160892.0,
+    "games": [
+      {
+        "seed": 1,
+        "seat": 0,
+        "bank_A": 178241.0,
+        "bank_B": 3000.0,
+        "margin_A": 175241.0,
+        "errors": []
+      },
+      {
+        "seed": 2,
+        "seat": 0,
+        "bank_A": 116151.0,
+        "bank_B": 3000.0,
+        "margin_A": 113151.0,
+        "errors": []
+      },
+      {
+        "seed": 3,
+        "seat": 0,
+        "bank_A": 163442.0,
+        "bank_B": 3000.0,
+        "margin_A": 160442.0,
+        "errors": []
+      },
+      {
+        "seed": 1,
+        "seat": 1,
+        "bank_A": 181292.0,
+        "bank_B": 3000.0,
+        "margin_A": 178292.0,
+        "errors": []
+      },
+      {
+        "seed": 2,
+        "seat": 1,
+        "bank_A": 166609.0,
+        "bank_B": 3000.0,
+        "margin_A": 163609.0,
+        "errors": []
+      },
+      {
+        "seed": 3,
+        "seat": 1,
+        "bank_A": 177617.0,
+        "bank_B": 3000.0,
+        "margin_A": 174617.0,
+        "errors": []
+      }
+    ]
+  }
+}

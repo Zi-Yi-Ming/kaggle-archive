@@ -1,0 +1,13 @@
+metric,R2,B
+plants_WHEAT_d0_10,62,46
+seed_buy_WHEAT_d0_10,66,52
+plants_CARROT_d0_10,0,0
+seed_buy_CARROT_d0_10,0,20
+plants_TOMATO_d0_10,0,0
+seed_buy_TOMATO_d0_10,0,0
+plants_STRAWBERRY_d0_10,40,0
+seed_buy_STRAWBERRY_d0_10,40,15
+plants_MELON_d0_10,24,0
+seed_buy_MELON_d0_10,24,0
+money_d10,3193.0,368.5
+score_top1_match,12/18,0/6

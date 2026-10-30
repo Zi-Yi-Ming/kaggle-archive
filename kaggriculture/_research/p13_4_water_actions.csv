@@ -1,0 +1,8 @@
+metric,B0,B1,delta
+WATER,45,74,+29
+MOVE,3063,3065,+2
+PLANT,23,22,-1
+HARVEST_cmd,155,167,+12
+PICKUP,164,176,+12
+FEED,151,154,+3
+CARE,,,unchanged_policy

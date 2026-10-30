@@ -1,0 +1,5 @@
+case,pass,farmer,market
+empty_sell,True,['PASS'],[]
+no_cash_buy,True,['PASS'],[]
+invalid_plant,True,['PASS'],[]
+garbage,True,['PASS'],"[['SELL', 'WHEAT', 3]]"

@@ -1,0 +1,254 @@
+P76 thomas_2945 layer inventory
+source=D:\桌面\Kaggle\kaggriculture\_external\scan_20260919\extracted\thomas_2945_clean.py
+bytes=862186 lines=5760
+
+=== agent redefs / assignments (order = wrap order) ===
+  987| def agent(observation,configuration=None):
+  998| def agent(observation,configuration=None):
+ 1070| def agent(observation,configuration=None):
+ 1126| def agent(observation,configuration=None):
+ 1222| def agent(observation,configuration=None):
+ 1410| def agent(observation, configuration=None):
+ 1484| def agent(observation,configuration=None):
+ 1514| def agent(observation,configuration=None):
+ 1528| def agent(observation,configuration=None):
+ 1636| def agent(observation,configuration=None):
+ 1724| def agent(observation,configuration=None):
+ 1741| agent = globals().pop("agent")
+ 1889| def agent(observation, configuration=None):
+ 1932| def agent(observation,configuration=None):
+ 1949| agent=globals().pop('agent')
+ 2072| def agent(observation,configuration=None):
+ 2132| def agent(observation,configuration=None):
+ 2144| agent=globals().pop('agent')
+ 2284| def agent(observation,configuration=None):
+ 2300| agent=globals().pop('agent')
+ 2357| def agent(observation,configuration=None):
+ 2365| agent=globals().pop('agent')
+ 2400| def agent(observation,configuration=None):
+ 2408| agent=globals().pop('agent')
+ 2425| agent=globals().pop('agent')
+ 2448| agent=globals().pop('agent')
+ 2507| def agent(observation,configuration=None):
+ 2519| agent=globals().pop('agent')
+ 2538| agent=globals().pop('agent')
+ 2614| def agent(observation, configuration=None):
+ 2633| agent=globals().pop('agent')
+ 2668| agent=globals().pop('agent')
+ 2696| agent = globals().pop('agent')
+ 2751| def agent(observation,configuration=None):
+ 2764| agent=globals().pop('agent')
+ 2881| def agent(observation,configuration=None):
+ 2894| agent=globals().pop('agent')
+ 3014| def agent(observation, configuration=None):
+ 3031| agent = globals().pop("agent")
+ 3126| def agent(observation, configuration=None):
+ 3143| agent = globals().pop("agent")
+ 3230| def agent(observation, configuration=None):
+ 3247| agent = globals().pop("agent")
+ 3322| def agent(observation, configuration=None):
+ 3334| agent = globals().pop("agent")
+ 3379| def agent(observation, configuration=None):
+ 3387| agent = globals().pop("agent")
+ 3541| def agent(observation, configuration=None):
+ 3556| agent = globals().pop("agent")
+ 3709| def agent(observation, configuration=None):
+ 3724| agent = globals().pop("agent")
+ 3847| def agent(observation, configuration=None):
+ 3881| agent = globals().pop("agent")
+ 3953| def agent(observation, configuration=None):
+ 3964| agent = globals().pop("agent")
+ 4050| def agent(observation, configuration=None):
+ 4061| agent = globals().pop("agent")
+ 4107| def agent(observation, configuration=None):
+ 4122| agent = globals().pop("agent")
+ 4193| def agent(observation, configuration=None):
+ 4203| agent = globals().pop("agent")
+ 4305| agent=globals().pop('agent')
+ 4369| agent = globals().pop('agent')
+ 4464| agent = globals().pop('agent')
+ 4587| def agent(observation, configuration=None):
+ 4721| agent = globals().pop('agent')
+ 4789| def agent(observation, configuration=None):
+ 4969| agent = globals().pop('agent')
+ 5028| def agent(observation, configuration=None):
+ 5119| agent = globals().pop('agent')
+ 5144| def agent(observation, configuration=None):
+ 5234| agent = globals().pop('agent')
+ 5489| def agent(observation, configuration=None):
+ 5520| agent = globals().pop('agent')
+ 5629| def agent(observation, configuration=None):
+ 5760| agent = globals().pop('agent')
+
+=== named helper funcs ===
+_v219_fib
+_v219_native_day
+_v219_qualifies
+_v219_walk
+_v219_home
+_v219_request
+_v219_worker
+_v224_sales_first
+_v231_new_state
+_v231_controller
+_r36_native_lead
+_r36_suppress
+_r36_reserve
+_r37_shape
+_r37_market_price
+_r37_similarity
+_r37_quote_priority
+_r37_reorder_sales
+_r44_before
+_r44_after
+_v233_eligible
+_v233_request
+_v233_worker
+_v234_rescue
+_r51_input_forecast
+_r51_input_gain
+_r51_input_path
+_r51_input_control
+_r51_close_warehouse
+_r53_labor_assignment
+_r62_input_start
+_r68_joint_plans
+_r70_parent_fert_qty
+_r70_before
+_r70_after
+_r79_tomato_fertilizer_worthwhile
+_r85_feed
+_r85_reserve
+_r85_fertilizer
+_r86_next_feed
+_r88_feed_bonus_cost
+_r95_reserve
+_r95_replenish
+_r97_market_stock
+_r97_delivery
+_r97_budget
+_r97_supply
+_v9_courier_walk
+_v9_courier_plan
+_v9_courier
+_v9_carrot
+_v9_herd_choose
+_v9_herd
+_v9_fert
+_v9_opening
+_v9_town_draw
+_v9_planned_sells
+_v9_race_update
+_v9_racepx_lead
+_r36_reserve
+_v233_request
+_v233_worker
+_v233_eligible
+_v233_request
+_v233_worker
+_v234_rescue
+
+=== V9 constants ===
+  V9_COURIER_ITEMS = ("STRAWBERRY", "MILK", "WOOL", "MELON")
+  V9_COURIER_FROM_HOUR = 12
+  V9_CARROT_RATIO = 1.8
+  V9_CARROT_FIRST_DAY = 10
+  V9_CARROT_LAST_DAY = 23
+  V9_CARROT_WHEAT_RESERVE = 40
+  V9_CARROT_BOOM_RATIO = 3.5   # from this ratio the feed reserve is bought instead of grown
+  V9_CARROT_BOOM_RESERVE = 10
+  V9_HERD_MIN_WOOL = 150         # wool quote needed to swap to sheep
+  V9_HERD_MIN_MILK = 150         # milk quote needed to swap to cows
+  V9_HERD_MAX_EGG_SHOPS = 1         # sheep swap: at most this many BAKERY + BRUNCH_SPOT
+  V9_HERD_MAX_EGG_SHOPS_COW = 0  # cow swap: at most this many
+  V9_HERD_MIN_MILK_SHOPS = 3      # cow swap: at least this many PIZZA / ICE_CREAM / SMOOTHIE
+  V9_FERT_CROPS = ("WHEAT", "CARROT")
+  V9_FERT_AGES = (1,)
+  V9_FERT_FIRST_DAY = 16
+  V9_OPENING_STEP0 = (("BUY_PRODUCT", "WHEAT", 20), ("SELL", "WHEAT", 15))
+  V9_OPENING_TAPE = ((("BUY_PRODUCT", "WHEAT", 13), ("BUY_PRODUCT", "WHEAT", 30), ("SELL", "WHEAT", 
+  V9_RACE_DEFAULT = 40
+  V9_RACE_MAX = 48
+  V9_RACE_MARGIN = 12
+  V9_RACE_GAP = 3            # a sale this soon after our previous planned lot is a late fill
+  V9_RACE_WINDOW = 30        # turns of tape searched for planned sales around a rival sale
+  V9_RACE_ITEMS = ("CARROT", "TOMATO", "STRAWBERRY", "MELON", "EGG", "MILK", "WOOL")
+  V9_RACEPX_BASE = {"WHEAT": 25, "CARROT": 35, "TOMATO": 60, "STRAWBERRY": 120, "MELON": 250,
+  V9_RACEPX_MARGIN = 0
+  V9_RACEGATE_BASE = {"WHEAT": 25, "CARROT": 35, "TOMATO": 60, "STRAWBERRY": 120, "MELON": 250,
+  V9_RACEGATE_MARGIN = 0
+
+=== comment banners (sample) ===
+    4| # EXP-173 isolate opening market sequence inspired by yhay81/shop-router-0911-simple (Apache-2.0).
+  281| # --------------------------------------------------------------------------- helpers
+  403| # --------------------------------------------------------------------------- chassis
+  907| # --------------------------------------------------------------------------- factory
+  942| # EXP239 native schedules: Yusuke Hayashi (yhay81), Shop Router 0913.
+  951| # EXP241: fixed two-policy choice, learned with five whole-team held-out folds.
+ 1014| # EXP-154 modifications: Ahmed Berat Ozer; public capabilities credited below.
+ 1021| # EXP-154 integration by Ahmed Berat Ozer, derived from Dmitrii Gluzdov E182.
+ 1122| # EXP-154: aurax7 Reactive v2 day-end storage guard, adapted to our v27 view.
+ 1230| # EXP-155: prvsiyan V221B finite tomato investment, adapted by Ahmed Berat Ozer.
+ 1653| # EXP-167, adapted from Dmitrii Gluzdov's Two Coins, One Sheep (Apache-2.0).
+ 1848| # EXP175: bounded public cash-response probe inspired by leoprovorov,
+ 1879| # EXP-168: adapted from lucifer19 / Harvest Nocturne, Apache-2.0.
+ 2146| # EXP182: finite-harvest wheat/carrot input planner; original adaptation.
+ 2302| # EXP182: project the final hour's actual worker actions before automatic deposit.
+ 2410| # EXP193: deterministic HIRE spawn after native unit actions, then next-turn pickup.
+ 2540| # EXP216: original adaptation of economic feed and fertilizer-sale concepts.
+ 2635| # EXP217: planned next-day service is required before discretionary feed cuts.
+ 2670| # EXP219: charge care credits only when this feeding decision can affect them.
+ 2698| # EXP226: retain physical grain for two complete days before trimming a buy.
+ 2766| # EXP231: protect inputs using funded current orders without unassigned cash padding from observed physical resources.
+ 2897| # ---------------------------------------------------------------------------
+ 2898| # v9 COURIER: deliver premium cargo before midnight and sell it the same day.
+ 2910| # ---------------------------------------------------------------------------
+ 3034| # ---------------------------------------------------------------------------
+ 3035| # v9 CARROT: plant carrots instead of wheat when the carrot book pays for it.
+ 3044| # ---------------------------------------------------------------------------
+ 3146| # ---------------------------------------------------------------------------
+ 3147| # v9 HERD: raise the tape's day-10 geese as sheep or cows when the draw pays.
+ 3158| # ---------------------------------------------------------------------------
+ 3250| # ---------------------------------------------------------------------------
+ 3251| # v9 FERT: spend carried fertilizer on young wheat and carrots.
+ 3262| # ---------------------------------------------------------------------------
+ 3337| # ---------------------------------------------------------------------------
+ 3338| # v9 OPENING: a cash-safe step-0 wheat trade.
+ 3353| # ---------------------------------------------------------------------------
+ 3392| # ---------------------------------------------------------------------------
+ 3393| # v9/2 PREDICT: forecast the rival's premium sales from a library of recorded
+ 3402| # ---------------------------------------------------------------------------
+ 3560| # ---------------------------------------------------------------------------
+ 3561| # v9/2 PREDICT2: forecast the rival's premium sales from the whole library of
+ 3572| # ---------------------------------------------------------------------------
+ 3726| # ---------------------------------------------------------------------------
+ 3727| # v9 RACE: fit the sale-reservation horizon to the rival's observed sale lead.
+ 3749| # v9/2: the shipped horizon is 40 turns with a 12-turn margin (was 6 and 4).
+ 3760| # v9/2b: the reservation window starts at step 192 (day 8) instead of 288 (day 12),
+ 3770| # ---------------------------------------------------------------------------
+ 3884| # ---------------------------------------------------------------------------
+ 3885| # v9 RACEPX: lead-sell a planned lot early only while its book is not glutted.
+ 3908| # ---------------------------------------------------------------------------
+ 3967| # ---------------------------------------------------------------------------
+ 3968| # v9 RACEGATE: the same glut gate for the *reservation* (the 40-turn pull-forward).
+ 3977| # ---------------------------------------------------------------------------
+ 4067| # ---------------------------------------------------------------------------
+ 4068| # v9/3 CTRTABLE: rival-specific early wheat counters.
+ 4074| # ---------------------------------------------------------------------------
+ 4128| # ---------------------------------------------------------------------------
+ 4129| # v9/3 OVERFLOW (ported from public V43 R148, Ahmed Berat Ozer, Apache-2.0):
+ 4133| # ---------------------------------------------------------------------------
+ 4308| # v9/4 VE: commit the six-sheep expansion on day 11 when two of the first three
+ 4372| # v9/4 VT: the sheep expansion's last two days.
+ 4467| # ---------------------------------------------------------------------------
+ 4470| # ---------------------------------------------------------------------------
+ 4724| # ---------------------------------------------------------------------------
+ 4727| # ---------------------------------------------------------------------------
+ 4972| # ---------------------------------------------------------------------------
+ 4975| # ---------------------------------------------------------------------------
+ 5122| # ---------------------------------------------------------------------------
+ 5125| # ---------------------------------------------------------------------------
+ 5237| # ---------------------------------------------------------------------------
+ 5240| # ---------------------------------------------------------------------------
+ 5523| # ---------------------------------------------------------------------------
+ 5526| # ---------------------------------------------------------------------------

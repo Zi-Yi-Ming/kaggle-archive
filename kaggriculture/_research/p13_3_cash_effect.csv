@@ -1,0 +1,5 @@
+metric,B0,B1,delta,note
+d10_cash,103,94,-9,day-boundary before sell
+d15_cash,1039,7326,+6287,primary economic lift
+d29_bank,7813,21220,+13407,2.7x
+melon_rev_d7_12,0,9023,+9023,lifecycle completed

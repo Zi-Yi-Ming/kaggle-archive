@@ -1,0 +1,8 @@
+day,b1_melon_plants,b1_all_plants,b1_empty,b1_shed_melon,b1_money,note
+0,0,0,25,0,3000,
+1,11,15,5,0,148,planted
+5,11,14,0,0,235,
+9,11,14,0,0,119,still in ground
+10,0,0,25,0,1696,plants gone; no shed melon
+11,2,2,0,0,888,
+16,2,2,0,0,2914,never melon revenue

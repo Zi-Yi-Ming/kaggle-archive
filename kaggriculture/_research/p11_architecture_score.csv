@@ -1,0 +1,6 @@
+architecture,novelty,dist_from_r2,impl_cost_inv,observable,searchable,falsifiable,ig,selected,notes
+A_receding_horizon,4,5,4,5,3,5,24,NO,second_choice_if_B_null
+B_resource_targets,5,5,3,5,4,5,27,YES,production_capable_targets
+C_opponent_aware,3,4,3,4,3,5,22,NO,H3_non_actionable
+D_intent_imitation,3,2,2,5,4,4,22,PRIOR_IN_B,not_standalone_clone
+E_learned_value,4,5,1,3,3,3,19,NO,too_early_no_baseline

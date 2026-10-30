@@ -1,0 +1,301 @@
+menu
+
+[Skip to\\
+\\
+content](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/discussion/743148#site-content)
+
+[![](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/)
+
+Create
+
+search​
+
+- [explore\\
+\\
+Home](https://www.kaggle.com/)
+
+
+[emoji\_events\\
+\\
+Competitions](https://www.kaggle.com/competitions)
+
+- [leaderboard\\
+\\
+Benchmarks](https://www.kaggle.com/benchmarks)
+
+- [smart\_toy\\
+\\
+Game Arena](https://www.kaggle.com/game-arena)
+
+
+- [code\\
+\\
+Data Hub](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/discussion/743148#)
+
+expand\_more
+
+
+- [format\_list\_bulleted\\
+\\
+More](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/discussion/743148#)
+
+expand\_more
+
+
+menu
+
+[Skip to\\
+\\
+content](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/discussion/743148#site-content)
+
+[![](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/)
+
+search​
+
+[Sign In](https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2Fcompetitions%2Frsna-knee-abnormality-detection%2Fdiscussion%2F743148) [Register](https://www.kaggle.com/account/login?phase=startRegisterTab&returnUrl=%2Fcompetitions%2Frsna-knee-abnormality-detection%2Fdiscussion%2F743148)
+
+[Radiological Society of North America's profile](https://www.kaggle.com/organizations/RSNA) Radiological Society of North America  · Research Code Competition · 24 days to go
+
+Join Competition
+
+more\_horiz
+
+# RSNA Knee Abnormality Detection
+
+Create a model that can detect knee abnormalities based on multimodal imaging data
+
+![](https://www.kaggle.com/competitions/154281/images/header)
+
+## RSNA Knee Abnormality Detection
+
+[Overview](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/overview) [Data](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/data) [Code](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/code) [Models](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/models) [Discussion](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/discussion) [Leaderboard](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/leaderboard) [Rules](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/rules)
+
+[Myo Min Htet(wnp)🇲🇲's profile](https://www.kaggle.com/myominhtet)
+
+[Myo Min Htet(wnp)🇲🇲](https://www.kaggle.com/myominhtet) · 122nd in this Competition · Posted 4 days ago
+
+arrow\_drop\_up4
+
+more\_vert
+
+### Does anyone try to generate report text from images?
+
+so the problem for me is labelling part, LLM extracted labels got 0.9083 label auc on 58 gold and 0.935 lb on single fold, i could not reach further, so the idea comes to my mind is to generate report text label from image using qwen model. have someone tried that? does that works? coz i have limited GPU compute.
+
+Please [sign in](https://www.kaggle.com/account/login) to reply to this topic.
+
+comment
+
+## 10 Comments
+
+Hotness
+
+[Chris Deotte's profile](https://www.kaggle.com/cdeotte)
+
+[**Chris Deotte**](https://www.kaggle.com/cdeotte)
+
+Posted 3 days ago
+
+· 89th in this Competition
+
+arrow\_drop\_up1
+
+more\_vert
+
+Interesting suggestion. This is similar to using zero shot model to predict labels that we can then use to train supervised learning on other models. (In other words, have GPT-6-Astra or other strong multi-modality models like Qwen series look at images and give us a label zero shot)
+
+[Myo Min Htet(wnp)🇲🇲's profile](https://www.kaggle.com/myominhtet)
+
+[**Myo Min Htet(wnp)🇲🇲**](https://www.kaggle.com/myominhtet)
+
+Topic Author
+
+Posted 3 days ago
+
+· 122nd in this Competition
+
+arrow\_drop\_up1
+
+more\_vert
+
+yes like the radiologist look at the images not report text, u already know some report text are against labels
+
+[Yann Majewski's profile](https://www.kaggle.com/yannmajewski)
+
+[**Yann Majewski**](https://www.kaggle.com/yannmajewski)
+
+Posted 4 days ago
+
+· 80th in this Competition
+
+arrow\_drop\_up1
+
+more\_vert
+
+I've tried multiple sets of labels scoring ranging from 0.86 to 0.895 on gold labels, and my models all gave very similar results on the LB score. Using only 58 labels to evaluate the quality of your dataset is not a reliable indicator of how well they will perform. I suggest you try using public datasets for these labels, as they tend to work pretty well!
+
+[Myo Min Htet(wnp)🇲🇲's profile](https://www.kaggle.com/myominhtet)
+
+[**Myo Min Htet(wnp)🇲🇲**](https://www.kaggle.com/myominhtet)
+
+Topic Author
+
+Posted 3 days ago
+
+· 122nd in this Competition
+
+arrow\_drop\_up0
+
+more\_vert
+
+nice point, i did use 58 gold to measure the label quality, but in trianing i used silver labels only for both train and val set, 58 golds are excluded
+
+[Navneet's profile](https://www.kaggle.com/navneetbende)
+
+[**Navneet**](https://www.kaggle.com/navneetbende)
+
+Posted 4 days ago
+
+arrow\_drop\_up-1
+
+more\_vert
+
+Please infrom us if you got the report [@myominhtet](https://www.kaggle.com/myominhtet)
+
+[Myo Min Htet(wnp)🇲🇲's profile](https://www.kaggle.com/myominhtet)
+
+[**Myo Min Htet(wnp)🇲🇲**](https://www.kaggle.com/myominhtet)
+
+Topic Author
+
+Posted 4 days ago
+
+· 122nd in this Competition
+
+arrow\_drop\_up0
+
+more\_vert
+
+it is negative and i have limited compute so not fully trained just fold0 and few epochs
+
+[Sanjib Biswas's profile](https://www.kaggle.com/aidiagnosis)
+
+[**Sanjib Biswas**](https://www.kaggle.com/aidiagnosis)
+
+Posted 4 days ago
+
+· 492nd in this Competition
+
+arrow\_drop\_up-1
+
+more\_vert
+
+I went down a version of this road and it didn't pay, so hopefully this saves you the GPU time.
+
+The short answer: the text round-trip can't add information, only lose it. At inference you have pixels and nothing else. Image -> generated report -> extracted labels is image -> labels with a lossy text bottleneck inserted in the middle. Whatever the VLM can see, a classifier trained directly on the same pixels can also see, without the generation and re-extraction steps each contributing their own errors.
+
+The one version that isn't circular is using image -> text as pretraining - train the encoder to match report embeddings, then fine-tune a label head on top. I tested the premise of that and it failed: a linear probe on BGE-M3 embeddings of the reports (PCA to 128 dims) scored 0.8423 on 58 gold, against 0.8843 for LLM+regex extraction on the same studies. The embedding carried less retrievable label signal than twelve extracted numbers - much worse on MCL (0.78 vs 0.95) and lateral meniscus (0.78 vs 0.89), marginally better on contusion and fracture, all within the ±0.02 that 58 studies carry. I dropped the idea on that result.
+
+Two things I measured that might be more useful to you:
+
+Swapping the LLM is worth nothing. On all 58 gold: qwen2.5:14b rev4 0.8619, qwen3:14b 0.8572, qwen3:30b-a3b 0.8677. A 0.010 spread on 58 studies is noise. Watch out for reasoning models - qwen3's block collides with JSON-constrained decoding and silently eats answers (12/58 and 52/58 unparsed until we turned thinking off).
+
+Extraction is closer to its ceiling than it looks. I audited every gold positive, report score missed and asked whether the report contains any term for that finding, negation ignored. Extraction caught 207 of 240 positives, and 22 of the 33 misses were reports that never name the finding at all - synovitis, fracture and effusion miss only on silent reports. No reader recovers text that was never written, and neither will a VLM.
+
+Given your labels already read 0.9083 on gold, I'd guess extraction isn't where your remaining headroom is either.
+
+Reciprocating with a question, since your 0.935 on a single fold is well ahead of where I am: how many slices per series are you caching, and how many 2.5D windows do you feed per series? I measured mine corpus at median 30 slices per series (p90 39, p99 160), and going from 24 to 32 cached slices - 69% to 84% of all slices retained - was worth more to me than anything I did to the labels.
+
+[Cody_Null's profile](https://www.kaggle.com/cody11null)
+
+[**Cody\_Null**](https://www.kaggle.com/cody11null)
+
+Posted 4 days ago
+
+· 2002nd in this Competition
+
+arrow\_drop\_up0
+
+more\_vert
+
+If that extraction score comes from single shot and not a weighted blend then I think thats the highest match with the data that I have heard on gold. Labels shouldnt be your setback. There are a number of teams who have reported taking effnet b0 to 0.94+ on LB with 5 fold ensemble + TTA with 0.88 AUC on extraction labels. I obviously dont know anything about your pipeline but I would say your inference may give you more in TTA + 5 fold. And there is probably a bit of headroom in modeling or unique tricks from that point that I dont think have gone public in detail like pseudo labels? But it sounds like you are at the edge of top public knowledge. I can save you the GPU hours and say confidently that it shouldnt be your labels.
+
+[Sanjib Biswas's profile](https://www.kaggle.com/aidiagnosis)
+
+[**Sanjib Biswas**](https://www.kaggle.com/aidiagnosis)
+
+Posted 4 days ago
+
+· 492nd in this Competition
+
+arrow\_drop\_up-1
+
+more\_vert
+
+That's a genuinely useful calibration. My single-shot extraction (LLM + regex, no image predictions blended in) reads 0.8843 on the 58, so I am right where you'd expect and I'll stop treating labels as the bottleneck.
+
+On the effnet-b0 teams reaching 0.94+ - do you know what input geometry those runs use? Specifically slices cached per series, how many 2.5D windows per study, and whether they train per-study across series or per-series with the predictions pooled afterwards. I am at 5 plane/fat-sat slots × 12 windows at 448 px with attention pooling over both windows and series, and I'm starting to suspect that's more machinery than the problem wants.
+
+[emoji\_people](https://www.kaggle.com/laymond)
+
+[**Raymond Yuen**](https://www.kaggle.com/laymond)
+
+Posted 4 days ago
+
+· 76th in this Competition
+
+arrow\_drop\_up0
+
+more\_vert
+
+448px is a bit too expensive. I began with 384px and downgraded to 288px, and it barely had any effect on my results. I think many top LBs even use 224px
+
+8 more repliesarrow\_drop\_down
+
+![Profile picture for Cà Rốt Production](https://storage.googleapis.com/kaggle-avatars/thumbnails/20960131-kg.jpg?t=2026-09-18-09-17-55)
+
+![Profile picture for Raymond Yuen](https://storage.googleapis.com/kaggle-avatars/thumbnails/28874055-kg.jpg?t=2026-08-02-03-35-19)
+
+![Profile picture for Myo Min Htet(wnp)🇲🇲](https://storage.googleapis.com/kaggle-avatars/thumbnails/4600631-kg.jpg)
+
+[Myo Min Htet(wnp)🇲🇲's profile](https://www.kaggle.com/myominhtet)
+
+[**Myo Min Htet(wnp)🇲🇲**](https://www.kaggle.com/myominhtet)
+
+Topic Author
+
+Posted 4 days ago
+
+· 122nd in this Competition
+
+arrow\_drop\_up0
+
+more\_vert
+
+i have been working and focusing on my own work. i use simple resnet model, feeding better quality data to the model with 24 sclices. there are some low qulaity and no info sclices i remove them, and heavy augmentation and regularization helps the model a lot. 5 fold ensemble got 0.94, i dont know why i am not breaking the wall, one thing i suspect is i used patience=8 with 50 epoch and got best val at 28
+
+[Myo Min Htet(wnp)🇲🇲's profile](https://www.kaggle.com/myominhtet)
+
+[**Myo Min Htet(wnp)🇲🇲**](https://www.kaggle.com/myominhtet)
+
+Topic Author
+
+Posted 4 days ago
+
+· 122nd in this Competition
+
+arrow\_drop\_up0
+
+more\_vert
+
+224 resolution, i mean image size and different models doesnt matter . for me it is all about adding aug and regulariztion coz the model easy to get overfit
+
+4 more repliesarrow\_drop\_down
+
+![Profile picture for Cà Rốt Production](https://storage.googleapis.com/kaggle-avatars/thumbnails/20960131-kg.jpg?t=2026-09-18-09-17-55)
+
+![Profile picture for Myo Min Htet(wnp)🇲🇲](https://storage.googleapis.com/kaggle-avatars/thumbnails/4600631-kg.jpg)
+
+![Profile picture for zhenglei_001](https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png)
+
+![Profile picture for Enai](https://storage.googleapis.com/kaggle-avatars/thumbnails/2630633-kg.png)

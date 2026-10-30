@@ -1,0 +1,54 @@
+{
+  "wins": [
+    {
+      "file": "episode-111923898-replay.json",
+      "score": 78058.0
+    },
+    {
+      "file": "episode-111924042-replay.json",
+      "score": 104032.0
+    },
+    {
+      "file": "episode-111935192-replay.json",
+      "score": 111581.0
+    }
+  ],
+  "losses": [
+    {
+      "file": "episode-111920350-replay.json",
+      "score": 97387.0
+    },
+    {
+      "file": "episode-111920357-replay.json",
+      "score": 88008.0
+    },
+    {
+      "file": "episode-111921487-replay.json",
+      "score": 93823.0
+    },
+    {
+      "file": "episode-111922604-replay.json",
+      "score": 101679.0
+    },
+    {
+      "file": "episode-111922611-replay.json",
+      "score": 90697.0
+    },
+    {
+      "file": "episode-111928223-replay.json",
+      "score": 129520.0
+    },
+    {
+      "file": "episode-111928231-replay.json",
+      "score": 120751.0
+    },
+    {
+      "file": "episode-111931862-replay.json",
+      "score": 101611.0
+    },
+    {
+      "file": "episode-111933973-replay.json",
+      "score": 107972.0
+    }
+  ]
+}

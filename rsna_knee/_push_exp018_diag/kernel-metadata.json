@@ -1,0 +1,20 @@
+{
+  "id": "ziyiming/rsna-exp018-memory-diagnostic",
+  "title": "RSNA EXP018 memory diagnostic",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:37c64f7dd9c54116ecd1bcc88817c5469b88387388fade02bfa8bf3fc647d461",
+  "docker_image_pinning_type": "original",
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "ziyiming/rsna-exp017-frozen-code",
+    "ziyiming/torch-cu118-offline"
+  ],
+  "model_sources": []
+}

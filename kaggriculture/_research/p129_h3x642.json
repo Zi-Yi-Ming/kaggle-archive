@@ -1,0 +1,24 @@
+{
+  "h3x642": {
+    "metav4": {
+      "n": 16,
+      "wins": 16,
+      "win_rate": 1.0,
+      "mean_margin": 508.5
+    },
+    "shop": {
+      "n": 12,
+      "wins": 12,
+      "win_rate": 1.0,
+      "mean_margin": 3709.1666666666665
+    },
+    "thomas": {
+      "n": 6,
+      "wins": 6,
+      "win_rate": 1.0,
+      "mean_margin": 2188.0
+    },
+    "dual_gate": "PASS",
+    "package": "D:\\\u684c\u9762\\Kaggle\\kaggriculture\\_push_h3x_term642\\submission.tar.gz"
+  }
+}

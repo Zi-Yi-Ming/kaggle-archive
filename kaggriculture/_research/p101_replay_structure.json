@@ -1,0 +1,279 @@
+{
+  "gold": {
+    "file": "episode-111920350-replay.json",
+    "n_steps": 720,
+    "rewards": [
+      97387.0,
+      111759.0
+    ],
+    "step_type0": "list",
+    "n_agents_in_step": 2,
+    "agent0_type": "dict",
+    "agent0_keys": [
+      "action",
+      "info",
+      "observation",
+      "reward",
+      "status"
+    ],
+    "a0_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "a0_info_keys": [],
+    "a0_observation_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ],
+    "s1_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "s1_market": [
+      [
+        "HIRE"
+      ],
+      [
+        "HIRE"
+      ],
+      [
+        "HIRE"
+      ],
+      [
+        "HIRE"
+      ],
+      [
+        "HIRE"
+      ],
+      [
+        "BUY_PRODUCT",
+        "WHEAT",
+        5
+      ],
+      [
+        "BUY_ANIMAL",
+        "COW",
+        2
+      ],
+      [
+        "BUY_SEED",
+        "MELON",
+        6
+      ],
+      [
+        "BUY_ANIMAL",
+        "SHEEP",
+        3
+      ],
+      [
+        "BUY_SEED",
+        "WHEAT",
+        2
+      ]
+    ],
+    "s1_obs_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ],
+    "s200_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "s200_market": [
+      [
+        "SELL",
+        "FERTILIZER",
+        3
+      ]
+    ],
+    "s200_obs_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ],
+    "s600_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "s600_market": [
+      [
+        "SELL",
+        "WHEAT",
+        6
+      ]
+    ],
+    "s600_obs_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ],
+    "s700_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "s700_obs_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ]
+  },
+  "h3": {
+    "file": "episode-111922263-replay.json",
+    "n_steps": 720,
+    "rewards": [
+      70792.0,
+      62911.0
+    ],
+    "step_type0": "list",
+    "n_agents_in_step": 2,
+    "agent0_type": "dict",
+    "agent0_keys": [
+      "action",
+      "info",
+      "observation",
+      "reward",
+      "status"
+    ],
+    "a0_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "a0_info_keys": [],
+    "a0_observation_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ],
+    "s1_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "s1_market": [
+      [
+        "BUY_PRODUCT",
+        "WHEAT",
+        20
+      ],
+      [
+        "SELL",
+        "WHEAT",
+        15
+      ]
+    ],
+    "s1_obs_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ],
+    "s200_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "s200_market": [
+      [
+        "BUY_SEED",
+        "STRAWBERRY",
+        1
+      ]
+    ],
+    "s200_obs_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ],
+    "s600_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "s600_market": [
+      [],
+      []
+    ],
+    "s600_obs_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ],
+    "s700_action_keys": [
+      "farmer",
+      "hands",
+      "market"
+    ],
+    "s700_obs_keys": [
+      "day",
+      "farms",
+      "hour",
+      "market",
+      "player",
+      "private",
+      "remainingOverageTime",
+      "step",
+      "town"
+    ]
+  }
+}

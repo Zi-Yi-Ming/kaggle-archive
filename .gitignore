@@ -24,9 +24,22 @@ kaggle.json
 .credentials
 
 # 活跃奖牌赛（赛期内不公开，赛后才归档）
-/kaggriculture/
-/rsna_knee/
+# kaggriculture（截止 2026-09-24）与 rsna_knee（截止 2026-10-22）已于 2026-10-30 赛后归档
 /gemma4_agent/
+
+# 归档赛的体量排除（代码/文档/复盘进仓库，数据/权重/trace 不进）
+/kaggriculture/_external/
+/kaggriculture/_archive/large_traces/
+/rsna_knee/_dataset_stage/
+/rsna_knee/_torch_dataset/
+
+# gemma4_agent 仍在活跃（论文赛道 2026-11-12 截止），其根级产物与暂存不公开
+/out6/
+/out7/
+/_ds_stage/
+
+# 浏览器自动化缓存
+/.playwright-cli/
 
 # 跨赛临时 / 研究扫描（不进公开仓）
 /_top_replay_agent/

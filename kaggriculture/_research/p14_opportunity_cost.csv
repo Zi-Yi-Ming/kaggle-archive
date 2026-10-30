@@ -1,0 +1,3 @@
+compare,net_melon,net_wheat_per_slot_d0_d10,note
+MELON_vs_WHEAT_replant,1420,700,melon_fy10_oneshot=1420; wheat_replant~700
+MELON_vs_WHEAT_plus_water,1420,700,water cost ~10 actions; melon needs daily water

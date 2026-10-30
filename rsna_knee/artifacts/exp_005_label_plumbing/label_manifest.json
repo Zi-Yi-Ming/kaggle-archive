@@ -1,0 +1,13 @@
+{
+  "experiment_id": "exp_005_label_plumbing",
+  "description": "admit GLOBAL_OA + Synovitis-effusion soft scores into pseudo table",
+  "changes": [
+    "extract: set __soft on GLOBAL_OA silent fill",
+    "extract: set __soft on Synovitis proxy when Effusion has npos/nneg",
+    "report_score_to_target: return score when __soft"
+  ],
+  "parent": "rsna_report_labels.py baseline bc356e71...",
+  "sha256_exp005": "15cf06b5f8ef9cd3e0e2d27727274c4fa44f8bb6d7c2ee695cfa5aaad3514c19",
+  "exp004_axial_LB_reference": 0.687,
+  "exp003_sc_LB_reference": 0.685
+}

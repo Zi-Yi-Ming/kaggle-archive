@@ -1,0 +1,5 @@
+day,b0_melon_field,b1_melon_field,b0_rev,b1_rev,note
+9,11,12,0,0,B1 still growing
+10,11,5,0,partial,B1 harvest begins
+11,11,3,0,yes,B1 revenue flows
+15,,,0,9023_mean_window,B1 d7-12 total

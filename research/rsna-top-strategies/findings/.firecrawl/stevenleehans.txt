@@ -1,0 +1,820 @@
+menu
+
+[Skip to\\
+\\
+content](https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels#site-content)
+
+[![](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/)
+
+Create
+
+search​
+
+- [explore\\
+\\
+Home](https://www.kaggle.com/)
+
+- [emoji\_events\\
+\\
+Competitions](https://www.kaggle.com/competitions)
+
+- [leaderboard\\
+\\
+Benchmarks](https://www.kaggle.com/benchmarks)
+
+- [smart\_toy\\
+\\
+Game Arena](https://www.kaggle.com/game-arena)
+
+
+- [code\\
+\\
+Data Hub](https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels#)
+
+expand\_more
+
+
+- [format\_list\_bulleted\\
+\\
+More](https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels#)
+
+expand\_more
+
+
+menu
+
+[Skip to\\
+\\
+content](https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels#site-content)
+
+[![](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/)
+
+search​
+
+[Sign In](https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2Fdatasets%2Fstevenleehans%2Frsna-knee-llm-report-labels) [Register](https://www.kaggle.com/account/login?phase=startRegisterTab&returnUrl=%2Fdatasets%2Fstevenleehans%2Frsna-knee-llm-report-labels)
+
+[stevenleehans's profile](https://www.kaggle.com/stevenleehans) stevenleehans  · Updated 2 months ago
+
+arrow\_drop\_up56
+
+codeCode
+
+file\_downloadDownload
+
+![](https://www.kaggle.com/static/images/medals/datasets/silverl@2x.png)
+
+more\_vert
+
+# RSNA Knee LLM Report Labels
+
+LLM-read labels for all 4,407 studies: 0.893 vs gold, where regex scores 0.814
+
+![](https://storage.googleapis.com/kaggle-datasets-images/11549447/18755626/d7cb5a8f828c167b0d83667a8b0d5d1b/dataset-cover.png?t=2026-08-09-05-57-50)
+
+## RSNA Knee LLM Report Labels
+
+[Data Card](https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels/data) [Code (173)](https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels/code) [Discussion (0)](https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels/discussion) [Suggestions (0)](https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels/suggestions)
+
+## About Dataset
+
+# RSNA Knee: your labels are the bottleneck
+
+LLM-scored report labels for **all 4,407 training studies**, measured at **0.8873** against
+
+the gold annotations — where the usual regex-derived labels score **0.8136**.
+
+* * *
+
+## Credit
+
+This dataset exists because of public work by others. Named, with links, because that is
+
+where credit belongs.
+
+- **Pilkwang Kim** — [rsna-knee-baseline-v1](https://www.kaggle.com/code/pilkwang/rsna-knee-baseline-v1)
+- **Karnakbayev Artur** — [rsna-knee-eda-to-2-5d](https://www.kaggle.com/code/karnakbaevarthur/rsna-knee-eda-to-2-5d)
+- **Will / wguesdon** — [rsna-knee-dinov2-at-meniscus-resolution](https://www.kaggle.com/code/wguesdon/rsna-knee-dinov2-at-meniscus-resolution)
+- **Alexandre Moritz**, **Roman Rozen** — public EDA and baselines
+
+The idea that report-derived labels are the binding constraint came from measuring their
+
+pipelines, not from improving on them.
+
+* * *
+
+## The thing worth knowing before you train another model
+
+**Only 58 of 4,407 training studies carry real annotator labels** for the twelve findings.
+
+Everyone else builds targets by parsing the free-text radiology report — and the quality of
+
+that parse sets a ceiling no encoder, resolution or ensemble can reach past.
+
+Measured against those 58 gold studies:
+
+| label source | macro AUC vs gold |
+| --- | --- |
+| regex / lexicon extraction | 0.8136 |
+| **this dataset (v1)** | **0.8780** |
+| **this dataset (v2)** | **0.8873** |
+
+Reports exist on **100% of train and 0% of test**, so text can only ever make _targets_ —
+
+never a model input.
+
+* * *
+
+## Files
+
+- **`llm_labels_v4_blend.csv`** — recommended. Blend of v2 with [lixin73's GPT-5.6-Sol labels](https://www.kaggle.com/datasets/lixin73/rsna-knee-llm-report-labels-sol56) (CC0). **0.8927** vs gold.
+- **`llm_labels_v2.csv`** — ours alone, 0.8873.
+- **`llm_labels_full.csv`** — v1, kept for reproducibility.
+
+Both are one row per study: `StudyInstanceUID` plus the twelve findings as probabilities
+
+in `[0, 1]`.
+
+**`0.5` is not a coin flip — it means the report does not address that finding.** 25.4% of
+
+all cells in v1 are exactly 0.5. If you weight your loss by label confidence, `2·|p − 0.5|`
+
+is the natural weight and correctly sends those to zero.
+
+* * *
+
+## What changed in v2, and why it is interesting
+
+**Synovitis was the worst column in v1 at 0.678 AUC — and 83.7% of its cells were**
+**"not addressed".** Yet 27 of the 58 gold studies _have_ synovitis. Synovitis is common in
+
+the joint and seldom written down; the labeller was being honest, and the honesty destroyed
+
+the label.
+
+Radiologists report **effusion** readily, and the two co-occur (P(synovitis \| effusion) =
+
+0.63, versus 0.22 without). So we tested one thing:
+
+```apache
+LLM Synovitis field vs gold Synovitis : 0.6780
+LLM Effusion  field vs gold Synovitis : 0.7115
+content_copy
+```
+
+**A field that is not about synovitis predicts synovitis better than the synovitis field**
+**does.** v2 fills only the undecided Synovitis cells from Effusion, never overriding an
+
+explicit statement. Synovitis rises 0.678 → 0.790 and the key overall 0.8780 → 0.8873.
+
+* * *
+
+## Honest limits — please read these
+
+- **58 studies is a small ruler.** Differences below roughly 0.02 macro are not measurable
+
+
+on it. Treat small gaps as unknown, not as zero.
+- **Gold prevalence is the annotator's sampling, not disease prevalence.** Every gold study
+
+
+has at least one positive finding; mean 4.14 findings per study.
+- **A better key is not automatically a better model.** We swapped these labels in and got
+
+
+no gain on the first attempt; the gain arrived only after unrelated pipeline bugs were
+
+
+fixed. Validate on your own folds.
+- **These are model-generated labels, not ground truth.** They are a cheaper, better
+
+
+approximation of the report's content than a regex — nothing more.
+- **Per-label quality varies a lot**: ACL 0.993 and MCL 0.964 at the top, Synovitis 0.790
+
+
+and Fracture 0.793 at the bottom.
+
+* * *
+
+## Provenance
+
+Generated by an LLM reading the `Report` column of `train.csv` from the
+
+[RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)
+
+competition. No data outside that competition was used. Prompted for a probability per
+
+finding with an explicit "not addressed" option, batched, and validated against the 58
+
+gold-annotated studies.
+
+* * *
+
+## v4: two labellers beat one, and the weaker one helped most
+
+Blending our key with **lixin73's** independent GPT-5.6-Sol labels:
+
+| key | macro vs gold | rank corr with ours |
+| --- | --- | --- |
+| ours v2 | 0.8873 | — |
+| Pilkwang | 0.8700 | 0.834 |
+| lixin73 | 0.8347 | 0.718 |
+| **v2 + lixin73 (v4)** | **0.8927** | — |
+
+**lixin73's key scores lowest alone and adds the most** — because it is the least
+
+correlated with ours. Standalone quality is not leg value; decorrelation is.
+
+Blend in **probability space, not rank space**. Percentile ranks are uniform by
+
+construction, so a `2*|p-0.5|` confidence weight computed on ranks becomes a function of
+
+corpus position rather than of certainty.
+
+expand\_moreView more
+
+## Usability
+
+info
+
+7.06
+
+## License
+
+[CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Expected update frequency
+
+Not specified
+
+## Tags
+
+[Classification](https://www.kaggle.com/datasets?tags=13302-Classification) [Tabular](https://www.kaggle.com/datasets?tags=14101-Tabular) [Healthcare](https://www.kaggle.com/datasets?tags=4202-Healthcare)
+
+## llm\_labels\_full.csv(534.44 kB)
+
+get\_app
+
+fullscreen
+
+chevron\_right
+
+DetailCompactColumn
+
+get\_app
+
+10 of 13 columns
+keyboard\_arrow\_down
+
+text\_formatStudyInstanceUIDsortgrid\_3x3ACLsortgrid\_3x3MCLsortgrid\_3x3Medial Meniscussortgrid\_3x3Lateral Meniscussortgrid\_3x3Medial OAsortgrid\_3x3Lateral OAsortgrid\_3x3PF OAsortgrid\_3x3Effusionsortgrid\_3x3Synovitissort
+
+4407
+
+unique values
+
+| Label | Count |
+| --- | --- |
+| 0.02 - 0.12 | 2,987 |
+| 0.12 - 0.22 | 67 |
+| 0.22 - 0.31 | 1 |
+| 0.41 - 0.51 | 366 |
+| 0.61 - 0.71 | 107 |
+| 0.71 - 0.80 | 73 |
+| 0.80 - 0.90 | 280 |
+| 0.90 - 1.00 | 526 |
+
+...
+
+0.02
+
+1
+
+| Label | Count |
+| --- | --- |
+| 0.02 - 0.12 | 3,235 |
+| 0.12 - 0.21 | 30 |
+| 0.21 - 0.31 | 1 |
+| 0.41 - 0.51 | 444 |
+| 0.60 - 0.70 | 14 |
+| 0.70 - 0.80 | 66 |
+| 0.80 - 0.89 | 432 |
+| 0.89 - 0.99 | 185 |
+
+...
+
+0.02
+
+0.99
+
+| Label | Count |
+| --- | --- |
+| 0.02 - 0.12 | 1,764 |
+| 0.12 - 0.21 | 34 |
+| 0.41 - 0.51 | 244 |
+| 0.60 - 0.70 | 39 |
+| 0.70 - 0.80 | 145 |
+| 0.80 - 0.89 | 609 |
+| 0.89 - 0.99 | 1,572 |
+
+...
+
+0.02
+
+0.99
+
+| Label | Count |
+| --- | --- |
+| 0.02 - 0.12 | 2,807 |
+| 0.12 - 0.21 | 13 |
+| 0.41 - 0.51 | 440 |
+| 0.60 - 0.70 | 23 |
+| 0.70 - 0.80 | 117 |
+| 0.80 - 0.89 | 463 |
+| 0.89 - 0.99 | 544 |
+
+...
+
+0.02
+
+0.99
+
+| Label | Count |
+| --- | --- |
+| 0.02 - 0.12 | 1,841 |
+| 0.12 - 0.22 | 2 |
+| 0.41 - 0.51 | 896 |
+| 0.61 - 0.71 | 5 |
+| 0.71 - 0.80 | 172 |
+| 0.80 - 0.90 | 686 |
+| 0.90 - 1.00 | 805 |
+
+...
+
+0.02
+
+1
+
+| Label | Count |
+| --- | --- |
+| 0.02 - 0.12 | 2,036 |
+| 0.12 - 0.21 | 4 |
+| 0.41 - 0.51 | 1,090 |
+| 0.60 - 0.70 | 1 |
+| 0.70 - 0.80 | 55 |
+| 0.80 - 0.89 | 690 |
+| 0.89 - 0.99 | 531 |
+
+...
+
+0.02
+
+0.99
+
+| Label | Count |
+| --- | --- |
+| 0.02 - 0.12 | 1,595 |
+| 0.12 - 0.21 | 2 |
+| 0.41 - 0.51 | 763 |
+| 0.60 - 0.70 | 7 |
+| 0.70 - 0.80 | 49 |
+| 0.80 - 0.89 | 830 |
+| 0.89 - 0.99 | 1,161 |
+
+...
+
+0.02
+
+0.99
+
+| Label | Count |
+| --- | --- |
+| 0.01 - 0.11 | 1,316 |
+| 0.11 - 0.21 | 1 |
+| 0.30 - 0.40 | 1 |
+| 0.50 - 0.60 | 432 |
+| 0.60 - 0.70 | 3 |
+| 0.70 - 0.79 | 370 |
+| 0.79 - 0.89 | 1,270 |
+| 0.89 - 0.99 | 1,014 |
+
+...
+
+0.01
+
+0.99
+
+| Label | Count |
+| --- | --- |
+| 0.02 - 0.12 | 149 |
+| 0.12 - 0.21 | 1 |
+| 0.41 - 0.51 | 3,689 |
+| 0.60 - 0.70 | 5 |
+| 0.70 - 0.80 | 16 |
+| 0.80 - 0.89 | 171 |
+| 0.89 - 0.99 | 376 |
+
+...
+
+0.02
+
+0.99
+
+1.2.826.0.1.3680043.8.498.100048732290990538690933242921958172600.50.50.950.50.950.50.50.920.51.2.826.0.1.3680043.8.498.100049459274726560271997920756523995850.50.50.680.50.50.50.50.50.51.2.826.0.1.3680043.8.498.100092786926066315735400629099091322310.050.050.10.030.880.050.840.050.51.2.826.0.1.3680043.8.498.100096392031707502741747074343566227640.030.030.030.030.030.030.030.020.51.2.826.0.1.3680043.8.498.100136637424007360294157682165991465420.030.820.820.030.820.820.970.080.51.2.826.0.1.3680043.8.498.100185529450424703165970085313040163390.030.030.10.030.030.030.030.020.51.2.826.0.1.3680043.8.498.100187492563162875428844353870675611010.840.030.080.080.50.50.50.80.51.2.826.0.1.3680043.8.498.100211797013666155638174917137383066060.030.030.860.030.920.780.030.820.51.2.826.0.1.3680043.8.498.100212885571718667946243171862886185130.030.030.030.030.050.050.050.80.51.2.826.0.1.3680043.8.498.100257657427261809885379555933150075590.030.030.720.720.920.920.920.920.941.2.826.0.1.3680043.8.498.100264108652983488181365203189653563940.030.030.940.030.960.030.940.820.51.2.826.0.1.3680043.8.498.100291683980379406819152997604794349380.030.030.120.120.040.80.840.030.51.2.826.0.1.3680043.8.498.100295200339579680440480685021854178060.990.960.960.970.90.960.90.950.821.2.826.0.1.3680043.8.498.100396860907384547183541813375132939810.030.030.030.030.030.030.030.020.51.2.826.0.1.3680043.8.498.100488424140959948145960432621329650180.880.030.030.030.50.50.50.960.51.2.826.0.1.3680043.8.498.100582987174141711456220921281562668660.030.030.030.030.030.030.50.820.51.2.826.0.1.3680043.8.498.100592006271753204819200090766971038010.50.50.850.50.850.50.880.50.921.2.826.0.1.3680043.8.498.100611208229297030042016277848504584010.10.50.970.720.990.90.90.820.51.2.826.0.1.3680043.8.498.100646423600757359591363941365074082690.030.030.030.030.680.50.50.50.51.2.826.0.1.3680043.8.498.100669453984850427411166572889593239220.030.030.70.030.840.030.960.850.51.2.826.0.1.3680043.8.498.100774975289954093469508149273665827360.80.030.840.50.50.50.50.960.51.2.826.0.1.3680043.8.498.100778039061053062302293421681849700970.880.030.030.50.030.030.030.940.51.2.826.0.1.3680043.8.498.100811175569778689571503772340522590180.990.030.970.970.850.880.030.850.51.2.826.0.1.3680043.8.498.100851879752136407982287171196133979410.030.030.880.030.030.030.030.780.51.2.826.0.1.3680043.8.498.100873507955752150800515696380659743470.020.020.020.020.020.020.020.020.51.2.826.0.1.3680043.8.498.100881205586006843327371357146362693650.030.030.030.030.030.030.880.820.51.2.826.0.1.3680043.8.498.100887075264760550790830829316299954490.030.030.030.030.030.030.780.020.51.2.826.0.1.3680043.8.498.100901366337275227259603029948153190970.020.020.940.020.920.920.920.020.51.2.826.0.1.3680043.8.498.100906318110169398193712084642303326780.020.020.020.020.020.020.020.020.51.2.826.0.1.3680043.8.498.100956877472954103965105385205946491490.030.030.030.920.030.030.960.820.51.2.826.0.1.3680043.8.498.100960631587531212512170310211810368630.030.030.030.030.030.030.030.030.51.2.826.0.1.3680043.8.498.100962164893176023877661936759187675570.860.030.960.030.880.860.880.80.51.2.826.0.1.3680043.8.498.100969196892724243881138198454816173640.030.030.840.030.50.50.50.020.51.2.826.0.1.3680043.8.498.101007185591778605189993688763921176590.020.020.020.020.10.10.10.050.51.2.826.0.1.3680043.8.498.101124408054124934121911810619857536360.030.030.030.030.030.90.840.060.51.2.826.0.1.3680043.8.498.101186230273602280277769753117651331000.020.020.020.940.020.020.020.020.51.2.826.0.1.3680043.8.498.101208415133154259679802131608399948820.030.030.950.030.820.50.030.030.51.2.826.0.1.3680043.8.498.101215588540842711542658519332732603390.030.80.880.820.50.50.50.020.51.2.826.0.1.3680043.8.498.101237517397675860257441237999487543430.820.030.920.030.50.50.50.90.51.2.826.0.1.3680043.8.498.101240636074039423301564507680159858340.030.030.80.030.780.780.820.50.51.2.826.0.1.3680043.8.498.101247017789936021172715548540988568330.030.030.030.030.030.030.880.820.51.2.826.0.1.3680043.8.498.101289548974727959753233534423056715860.030.030.030.030.030.030.030.060.51.2.826.0.1.3680043.8.498.101294629596951213794662746889561711660.030.030.970.030.990.990.990.80.51.2.826.0.1.3680043.8.498.101321694980323300704923309137837178640.020.020.020.020.030.030.980.020.51.2.826.0.1.3680043.8.498.101338431918980649672572761007797984710.50.50.50.50.50.50.920.50.51.2.826.0.1.3680043.8.498.101355878090707184356919393219373141040.030.030.980.840.990.840.970.880.821.2.826.0.1.3680043.8.498.101364864174464924288213135629619371820.820.860.840.80.50.50.50.020.51.2.826.0.1.3680043.8.498.101435366550472163905928113296047383140.990.030.950.030.030.030.030.980.51.2.826.0.1.3680043.8.498.101447350997026328813220328715915738240.030.030.880.880.030.030.970.020.51.2.826.0.1.3680043.8.498.101471804848605773983035243793192125860.820.80.920.840.960.850.850.90.9
+
+## Data Explorer
+
+Version 6 (1.71 MB)
+
+- calendar\_view\_week
+
+
+
+
+
+
+llm\_labels\_full.csv
+
+- calendar\_view\_week
+
+
+
+
+
+
+llm\_labels\_v2.csv
+
+- calendar\_view\_week
+
+
+
+
+
+
+llm\_labels\_v4\_blend.csv
+
+
+## Summary
+
+arrow\_right
+
+folder
+
+3 files
+
+arrow\_right
+
+calendar\_view\_week
+
+39 columns
+
+lightbulb
+
+## See what others are saying about this dataset
+
+### What have you used this dataset for?
+
+Learning 1Research 0Application 0LLM Fine-Tuning 0
+
+### How would you describe this dataset?
+
+Well-documented 0Well-maintained 0Clean data 0Original 0High-quality notebooks 0Other
+
+text\_snippet
+
+## Metadata
+
+unfold\_moreExpand All
+
+### Collaborators
+
+keyboard\_arrow\_down
+
+### Authors
+
+keyboard\_arrow\_down
+
+### Coverage
+
+keyboard\_arrow\_down
+
+### DOI Citation
+
+keyboard\_arrow\_down
+
+### Provenance
+
+keyboard\_arrow\_down
+
+### License
+
+keyboard\_arrow\_down
+
+### Expected Update Frequency
+
+keyboard\_arrow\_down
+
+insights
+
+## Activity Overview
+
+visibility
+
+### Views
+
+5447
+
+| date | Views |
+| --- | --- |
+| Aug 30, 2026 | 169 |
+| Aug 31, 2026 | 171 |
+| Sep 1, 2026 | 142 |
+| Sep 2, 2026 | 192 |
+| Sep 3, 2026 | 106 |
+| Sep 4, 2026 | 76 |
+| Sep 5, 2026 | 125 |
+| Sep 6, 2026 | 111 |
+| Sep 7, 2026 | 151 |
+| Sep 8, 2026 | 122 |
+| Sep 9, 2026 | 110 |
+| Sep 10, 2026 | 78 |
+| Sep 11, 2026 | 79 |
+| Sep 12, 2026 | 75 |
+| Sep 13, 2026 | 105 |
+| Sep 14, 2026 | 140 |
+| Sep 15, 2026 | 91 |
+| Sep 16, 2026 | 68 |
+| Sep 17, 2026 | 87 |
+| Sep 18, 2026 | 52 |
+| Sep 19, 2026 | 41 |
+| Sep 20, 2026 | 79 |
+| Sep 21, 2026 | 118 |
+| Sep 22, 2026 | 63 |
+| Sep 23, 2026 | 50 |
+| Sep 24, 2026 | 41 |
+| Sep 25, 2026 | 53 |
+| Sep 26, 2026 | 47 |
+| Sep 27, 2026 | 60 |
+
+trending\_up2802in the last 30 days
+
+download
+
+### Downloads
+
+5155
+
+| date | Downloads |
+| --- | --- |
+| Aug 30, 2026 | 109 |
+| Aug 31, 2026 | 103 |
+| Sep 1, 2026 | 146 |
+| Sep 2, 2026 | 127 |
+| Sep 3, 2026 | 104 |
+| Sep 4, 2026 | 114 |
+| Sep 5, 2026 | 104 |
+| Sep 6, 2026 | 78 |
+| Sep 7, 2026 | 83 |
+| Sep 8, 2026 | 98 |
+| Sep 9, 2026 | 93 |
+| Sep 10, 2026 | 81 |
+| Sep 11, 2026 | 62 |
+| Sep 12, 2026 | 77 |
+| Sep 13, 2026 | 125 |
+| Sep 14, 2026 | 85 |
+| Sep 15, 2026 | 88 |
+| Sep 16, 2026 | 75 |
+| Sep 17, 2026 | 67 |
+| Sep 18, 2026 | 43 |
+| Sep 19, 2026 | 88 |
+| Sep 20, 2026 | 103 |
+| Sep 21, 2026 | 71 |
+| Sep 22, 2026 | 102 |
+| Sep 23, 2026 | 110 |
+| Sep 24, 2026 | 131 |
+| Sep 25, 2026 | 106 |
+| Sep 26, 2026 | 94 |
+| Sep 27, 2026 | 88 |
+
+trending\_up2755in the last 30 days
+
+downloading
+
+### Engagement
+
+0.94639
+
+downloads per view
+
+forum
+
+### Comments
+
+0
+
+posted
+
+person
+
+### Top Contributors
+
+[prvsiyan's profile](https://www.kaggle.com/prvsiyan)[Mattia Angeli's profile](https://www.kaggle.com/mattiaangeli)[Roman Rozen's profile](https://www.kaggle.com/romanrozen)
+
+### Detail View
+
+keyboard\_arrow\_up
+
+#### Views
+
+Last month
+
+08/3109/0709/1409/210100200
+
+| date | Views |
+| --- | --- |
+| Aug 30, 2026 | 169 |
+| Aug 31, 2026 | 171 |
+| Sep 1, 2026 | 142 |
+| Sep 2, 2026 | 192 |
+| Sep 3, 2026 | 106 |
+| Sep 4, 2026 | 76 |
+| Sep 5, 2026 | 125 |
+| Sep 6, 2026 | 111 |
+| Sep 7, 2026 | 151 |
+| Sep 8, 2026 | 122 |
+| Sep 9, 2026 | 110 |
+| Sep 10, 2026 | 78 |
+| Sep 11, 2026 | 79 |
+| Sep 12, 2026 | 75 |
+| Sep 13, 2026 | 105 |
+| Sep 14, 2026 | 140 |
+| Sep 15, 2026 | 91 |
+| Sep 16, 2026 | 68 |
+| Sep 17, 2026 | 87 |
+| Sep 18, 2026 | 52 |
+| Sep 19, 2026 | 41 |
+| Sep 20, 2026 | 79 |
+| Sep 21, 2026 | 118 |
+| Sep 22, 2026 | 63 |
+| Sep 23, 2026 | 50 |
+| Sep 24, 2026 | 41 |
+| Sep 25, 2026 | 53 |
+| Sep 26, 2026 | 47 |
+| Sep 27, 2026 | 60 |
+
+200
+
+#### Downloads
+
+Last month
+
+08/3109/0709/1409/21050100150
+
+| date | Downloads |
+| --- | --- |
+| Aug 30, 2026 | 109 |
+| Aug 31, 2026 | 103 |
+| Sep 1, 2026 | 146 |
+| Sep 2, 2026 | 127 |
+| Sep 3, 2026 | 104 |
+| Sep 4, 2026 | 114 |
+| Sep 5, 2026 | 104 |
+| Sep 6, 2026 | 78 |
+| Sep 7, 2026 | 83 |
+| Sep 8, 2026 | 98 |
+| Sep 9, 2026 | 93 |
+| Sep 10, 2026 | 81 |
+| Sep 11, 2026 | 62 |
+| Sep 12, 2026 | 77 |
+| Sep 13, 2026 | 125 |
+| Sep 14, 2026 | 85 |
+| Sep 15, 2026 | 88 |
+| Sep 16, 2026 | 75 |
+| Sep 17, 2026 | 67 |
+| Sep 18, 2026 | 43 |
+| Sep 19, 2026 | 88 |
+| Sep 20, 2026 | 103 |
+| Sep 21, 2026 | 71 |
+| Sep 22, 2026 | 102 |
+| Sep 23, 2026 | 110 |
+| Sep 24, 2026 | 131 |
+| Sep 25, 2026 | 106 |
+| Sep 26, 2026 | 94 |
+| Sep 27, 2026 | 88 |
+
+150
+
+code
+
+## Related Notebooks
+
+See all
+
+[![](https://www.kaggleusercontent.com/kf/341789600/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..7vKJxDq0OD3haMShfoyc4g.tvYAmFtnjFZhE1SaHj1XokuMSEsucg5wvO3z0lS5fo0qkRko5UWOoi107TuTx96MRrmpuAwb9wviwK8pdekxdGFkJizrI_jXQAsJgTjSuwirTXbKJYZsfWOuw6VOINVJMT738ecLSfMMhIs6HI0ePZFb1BCUXjUJHvzRpzDF7n_WWHCfQ3dA1ibb48Nt6w_fmHqBpf1WzGkq6CYf478FlCbmf8AMJshVjWIM2MANs3tL7Ww5eBfm6ua48W4xAJIY5y-TocQBF01Fb5JsEsI92xhu253m_3FH0cvdpfGjsiYReayGXsw8xcRk0a-XZy9TXY55Ufrz1bZSIp0oQeN6y06bQE9EgPkcfKzP61oQpFoqTQ4nsuygs0yKJR79n-9u9hH_czw51GkxuWKB04CVqM8BBdXDToksddWboKGTsYy_ZqfcK440sMAo1pFenzVeCeOfUQTlZ7u48XB8CBNKO0shaZ4-TmlhBkJcj--V3UF8JBxxF6VvhdUVe_EHgXH1nScqRQAbN7GFyPagO4PdjGZC5she-HHDkdnq2bxVb1tfQqHp0OtG9hQHRxzTUhonQbq4TpkCjSobQOVh25hD_w_emXq5j4--BjktSw3nA-YnCodqCFD5taCYDRu5QmGROAF1mowgORONc_VzyHvGNA.vhCtGlL8ujZUldX9XBLDfg/__results___files/__results___10_1.png)\\
+\\
+RSNA Knee: read the report, then the knee\\
+\\
+more\_vert\\
+\\
+Updated 2 months ago\\
+\\
+rsna-medicalnet-resnet50-weights+18](https://www.kaggle.com/code/prvsiyan/rsna-knee-read-the-report-then-the-knee)
+
+arrow\_drop\_up262
+
+![](https://www.kaggle.com/static/images/medals/competitions/goldl@2x.png)[prvsiyan's profile (opens in a new tab)](https://www.kaggle.com/prvsiyan)
+
+[![](https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-82.png-18800101/dataset-thumbnail.png)\\
+\\
+Bend the Knee to DinoV3 (ensembled)\\
+\\
+more\_vert\\
+\\
+Updated a month ago\\
+\\
+resnet-50-RadImageNet-Marwan+16](https://www.kaggle.com/code/mattiaangeli/bend-the-knee-to-dinov3-ensembled)
+
+arrow\_drop\_up222
+
+![](https://www.kaggle.com/static/images/medals/competitions/goldl@2x.png)[Mattia Angeli's profile (opens in a new tab)](https://www.kaggle.com/mattiaangeli)
+
+[![](https://www.kaggleusercontent.com/kf/341519155/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..e63GyVILkPoWhBk6B05iww.om1KL8F1A_BPNE5C6XPX7pDI8NV8AYJyGCoTpVXdoi-FzlusUn9kMFKwuf5R5S3coXJ01GYGYMbpJw571i5Cmrk7kTOJK4v3ob_QWxm77wBWgHbQ-clCQu89wGZsK6QgXG8OxCGzP4CNaFJh_sHjauqoLUcfCGLmjzvk_V0IVEfJrgQjC2iT773FoHj8Dgtjcep5ov1gfPZzvL9z5eAhpOcQMhRRR3TBujaT4ybykWNZa1r-80GBQu5f2kKQ6rcLZN1o8ULquDQgb_S4j7AANd5QtUsomoyiU3n8ave6XxRcRPGkVvWOQFcjMZJUnHol_iXVly__7DXZSRQYd8KC7c7_FkjdMNltkLpDs0WCvpuOBtfUaKEX9VTva4s-t1Ia7tZFmq03hYDnGE6jZLH21RMwHF522b_x-IzMCcgZ0_iyZt0c5_oBFPINVNX_yDmRxl32SruOFV5tOth8uJZKvZkjEoIhddYRTf2yBIJiWeXUEmnCdCM8ZhYtyI5-LN_q1y2UhU6auoF4lq_gSW3I_uaF4lt35Q_g-L9-MRCdnpsyyMTy3IKays7zkxAjGM6pW8ivbFGLlkNC51L6tO9cRI78jK0srNcx4LU_pFex1Kn1g7V6yyoGzz9lbYOfchB1G0zYzYsjI1UnFQI5IHemLQ.gjnhqJt8ssxXM4OhcadtPA/__results___files/__results___0_0.png)\\
+\\
+RSNA Knee \| Data structure, EDA, baseline🔥\\
+\\
+more\_vert\\
+\\
+Updated 2 months ago\\
+\\
+kneeMRIdataset+12](https://www.kaggle.com/code/romanrozen/rsna-knee-data-structure-eda-baseline)
+
+arrow\_drop\_up138
+
+![](https://www.kaggle.com/static/images/medals/competitions/silverl@2x.png)[Roman Rozen's profile (opens in a new tab)](https://www.kaggle.com/romanrozen)
+
+table\_chart
+
+## You May Also Like
+
+[![](https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-38.png-4495635/dataset-thumbnail.png)](https://www.kaggle.com/datasets/nartaa/rsna-knee-hpo-assets)
+
+[RSNA Knee: LLM report labels and folds\\
+\\
+more\_vert](https://www.kaggle.com/datasets/nartaa/rsna-knee-hpo-assets)
+
+[Danial Zakaria](https://www.kaggle.com/nartaa)
+
+Usability 7.1 · Updated 4 days ago
+
+10 Files (other, JSON) · 1 MB · 197 downloads
+
+arrow\_drop\_up0
+
+[Danial Zakaria's profile (opens in a new tab)](https://www.kaggle.com/nartaa)
+
+[![](https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-9.png-22562637/dataset-thumbnail.png)](https://www.kaggle.com/datasets/flight0234/rsna-knee-hybrid-report-labels)
+
+[RSNA Knee hybrid report labels\\
+\\
+more\_vert](https://www.kaggle.com/datasets/flight0234/rsna-knee-hybrid-report-labels)
+
+[Stephen Gardner](https://www.kaggle.com/flight0234)
+
+Usability 5.3 · Updated 2 months ago
+
+1 File (CSV) · 206 kB · 783 downloads
+
+arrow\_drop\_up0
+
+[Stephen Gardner's profile (opens in a new tab)](https://www.kaggle.com/flight0234)
+
+[![](https://storage.googleapis.com/kaggle-datasets-images/11698129/19027380/a0dc933d5fd6e9092b14156d425b1ef1/dataset-thumbnail.jpg?t=2026-08-18-14-53-04)](https://www.kaggle.com/datasets/achelijndiamantidis/knee-phase1-artifacts)
+
+[knee-phase1-artifacts\\
+\\
+more\_vert](https://www.kaggle.com/datasets/achelijndiamantidis/knee-phase1-artifacts)
+
+[Achelijn Diamantidis](https://www.kaggle.com/achelijndiamantidis)
+
+Usability 7.6 · Updated a month ago
+
+2 Files (other) · 2 MB · 84 downloads
+
+arrow\_drop\_up1
+
+[Achelijn Diamantidis's profile (opens in a new tab)](https://www.kaggle.com/achelijndiamantidis)
+
+[![](https://storage.googleapis.com/kaggle-datasets-images/11529209/18673450/c7004212f5acd212002f80f55b893c83/dataset-thumbnail.png?t=2026-08-06-10-38-31)](https://www.kaggle.com/datasets/pilkwang/rsna-knee-llm-labels)
+
+[RSNA Knee LLM-read report labels\\
+\\
+more\_vert](https://www.kaggle.com/datasets/pilkwang/rsna-knee-llm-labels)
+
+[Pilkwang Kim](https://www.kaggle.com/pilkwang)
+
+Usability 5.9 · Updated 2 months ago
+
+2 Files (CSV, other) · 146 kB · 4,886 downloads
+
+arrow\_drop\_up26
+
+![](https://www.kaggle.com/static/images/medals/datasets/silverl@2x.png)[Pilkwang Kim's profile (opens in a new tab)](https://www.kaggle.com/pilkwang)

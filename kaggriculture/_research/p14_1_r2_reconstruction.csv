@@ -1,0 +1,6 @@
+case,empty,cash,day,WHEAT,MELON,TOMATO,STRAW,CARROT,horizons,note
+d0_start,25,3000,0,5,16,4,0,0,short+long+medium,planner
+R2_obs_d1,25,27,1,7,12,0,0,0,short+long,observed field
+B_wheat_only,25,3000,0,15,0,0,0,0,short,collapse
+score_ev_melon, , , , , , , , , ,ev=1305 d0
+score_ev_wheat, , , , , , , , , ,ev=108 d0

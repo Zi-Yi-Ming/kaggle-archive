@@ -1,0 +1,20 @@
+{
+  "gold_full_tape": {
+    "n": 6,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_margin": -85058.66666666667
+  },
+  "gold_mkt_on_mv": {
+    "n": 6,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_margin": -160453.0
+  },
+  "gold_phys_on_mv": {
+    "n": 6,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_margin": -168834.66666666666
+  }
+}

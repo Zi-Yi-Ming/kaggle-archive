@@ -1,0 +1,17 @@
+file,finn_mean,finn_s1,hash,nb,nearest,nearest_sim,sim_R2,sim_alperen,sim_guru,status,vs_alp_D,vs_alp_L,vs_alp_W,vs_alp_WL
+main.py,,3000.0,d41d8cd98f00,adaptive-route-agent-v2.ipynb,alperen,0.0,0.0,0.0,0.0,weak_finn,,,,
+main.py,,3000.0,d41d8cd98f00,adaptive-route-agent-v2.ipynb,alperen,0.0,0.0,0.0,0.0,weak_finn,,,,
+payload_0.py,187031.0,173721.0,c5d2aa83d471,kaggriculture-multi-route-farming-agent.ipynb,alperen,0.0027816411682892906,0.0027816411682892906,0.0027816411682892906,0.0027816411682892906,h2h_done,0,3,0,-3
+payload_0.py,175453.33333333334,156550.0,badd658286cc,shape-the-shop-work-the-pasture-kaggriculture.ipynb,alperen,0.05702364394993046,0.055632823365785816,0.05702364394993046,0.05702364394993046,h2h_done,0,3,0,-3
+e749a_niklita_consensus_network.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+e750a_place_funding_repair.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+e766a_universal_kenjo_medoid.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+e773a_demand_aligned_pasture_network.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+e774a_terminal_animal_frontier.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+e775a_latent_pasture_activation.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+e776a_engine_exact_latent_pasture.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+episode_101408728_seat1.py,161907.66666666666,151432.0,12633aa9a1b9,shape-the-shop-work-the-pasture-top-10.ipynb,alperen,0.005563282336578581,0.005563282336578581,0.005563282336578581,0.005563282336578581,h2h_done,0,3,0,-3
+episode_102192548_seat1.py,156095.33333333334,128053.0,f1fcc7ddc72b,shape-the-shop-work-the-pasture-top-10.ipynb,alperen,0.019471488178025034,0.019471488178025034,0.019471488178025034,0.019471488178025034,h2h_done,0,3,0,-3
+__init__.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+entry.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,
+main.py,,,,shape-the-shop-work-the-pasture-top-10.ipynb,,,,,,load_fail,,,,

@@ -1,0 +1,8 @@
+granularity,example,verified,notes
+full_720_tape,R2_moon_tetsu,YES,backbone policy
+shop_pair_route_d6,R2_SHOP_PLANS,YES,step144 branch
+sparse_turn_checkpoints,tetsu_shape_DECISIONS_3,YES,turn226/360/433
+shop_branch_climb_window,kaito_v43,YES,docstring
+economic_threshold,tetsu_px_CARROT_inv_MILK,YES,price/inventory
+continuous_deviation,P16_FORCE_SELL,LOCAL_ONLY,NOT_ROBUST
+learned_branch_policy,none_public_elite,NO,

@@ -1,0 +1,339 @@
+{
+  "cand": "D:\\\u684c\u9762\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\guruprasaathas111__kaggriculture-fully-dynamic-a.py",
+  "rows": [
+    {
+      "opp": "alperen",
+      "seed": 1,
+      "seat0": true,
+      "cand": 145296.0,
+      "opp_bank": 111342.0,
+      "margin": 33954.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "alperen",
+      "seed": 1,
+      "seat0": false,
+      "cand": 145296.0,
+      "opp_bank": 111342.0,
+      "margin": 33954.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "alperen",
+      "seed": 2,
+      "seat0": true,
+      "cand": 147864.0,
+      "opp_bank": 111668.0,
+      "margin": 36196.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "alperen",
+      "seed": 2,
+      "seat0": false,
+      "cand": 147864.0,
+      "opp_bank": 111668.0,
+      "margin": 36196.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "alperen",
+      "seed": 3,
+      "seat0": true,
+      "cand": 61734.0,
+      "opp_bank": 55595.0,
+      "margin": 6139.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "alperen",
+      "seed": 3,
+      "seat0": false,
+      "cand": 61734.0,
+      "opp_bank": 55595.0,
+      "margin": 6139.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "alperen",
+      "seed": 4,
+      "seat0": true,
+      "cand": 125709.0,
+      "opp_bank": 98808.0,
+      "margin": 26901.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "alperen",
+      "seed": 4,
+      "seat0": false,
+      "cand": 125709.0,
+      "opp_bank": 98808.0,
+      "margin": 26901.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "R2",
+      "seed": 1,
+      "seat0": true,
+      "cand": 151841.0,
+      "opp_bank": 145515.0,
+      "margin": 6326.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "R2",
+      "seed": 1,
+      "seat0": false,
+      "cand": 151841.0,
+      "opp_bank": 145515.0,
+      "margin": 6326.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "R2",
+      "seed": 2,
+      "seat0": true,
+      "cand": 85174.0,
+      "opp_bank": 80449.0,
+      "margin": 4725.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "R2",
+      "seed": 2,
+      "seat0": false,
+      "cand": 85174.0,
+      "opp_bank": 80449.0,
+      "margin": 4725.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "R2",
+      "seed": 3,
+      "seat0": true,
+      "cand": 79218.0,
+      "opp_bank": 71027.0,
+      "margin": 8191.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "R2",
+      "seed": 3,
+      "seat0": false,
+      "cand": 79218.0,
+      "opp_bank": 71027.0,
+      "margin": 8191.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "R2",
+      "seed": 4,
+      "seat0": true,
+      "cand": 74502.0,
+      "opp_bank": 66335.0,
+      "margin": 8167.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "R2",
+      "seed": 4,
+      "seat0": false,
+      "cand": 74502.0,
+      "opp_bank": 66335.0,
+      "margin": 8167.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "thomas",
+      "seed": 1,
+      "seat0": true,
+      "cand": 148841.0,
+      "opp_bank": 150529.0,
+      "margin": -1688.0,
+      "win": false,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "thomas",
+      "seed": 1,
+      "seat0": false,
+      "cand": 148841.0,
+      "opp_bank": 150529.0,
+      "margin": -1688.0,
+      "win": false,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "thomas",
+      "seed": 2,
+      "seat0": true,
+      "cand": 69937.0,
+      "opp_bank": 79763.0,
+      "margin": -9826.0,
+      "win": false,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "thomas",
+      "seed": 2,
+      "seat0": false,
+      "cand": 69937.0,
+      "opp_bank": 79763.0,
+      "margin": -9826.0,
+      "win": false,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "thomas",
+      "seed": 3,
+      "seat0": true,
+      "cand": 71210.0,
+      "opp_bank": 77438.0,
+      "margin": -6228.0,
+      "win": false,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "thomas",
+      "seed": 3,
+      "seat0": false,
+      "cand": 71210.0,
+      "opp_bank": 77438.0,
+      "margin": -6228.0,
+      "win": false,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "thomas",
+      "seed": 4,
+      "seat0": true,
+      "cand": 70305.0,
+      "opp_bank": 74528.0,
+      "margin": -4223.0,
+      "win": false,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    },
+    {
+      "opp": "thomas",
+      "seed": 4,
+      "seat0": false,
+      "cand": 70305.0,
+      "opp_bank": 74528.0,
+      "margin": -4223.0,
+      "win": false,
+      "status": [
+        "DONE",
+        "DONE"
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "opp": "alperen",
+      "wins": 8,
+      "n": 8,
+      "mean_margin": 25797.5
+    },
+    {
+      "opp": "R2",
+      "wins": 8,
+      "n": 8,
+      "mean_margin": 6852.25
+    },
+    {
+      "opp": "thomas",
+      "wins": 0,
+      "n": 8,
+      "mean_margin": -5491.25
+    }
+  ],
+  "submit": false,
+  "note": "local gate only; farm_v4 risk remains; do not submit without user auth"
+}

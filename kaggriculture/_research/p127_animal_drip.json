@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "name": "h3pp636",
+      "mv": {
+        "n": 12,
+        "wins": 12,
+        "win_rate": 1.0,
+        "mean_margin": 428.0
+      }
+    },
+    {
+      "name": "h3pp636_drip240",
+      "mv": {
+        "n": 12,
+        "wins": 8,
+        "win_rate": 0.6666666666666666,
+        "mean_margin": 48.5
+      }
+    },
+    {
+      "name": "h3pp636_drip100",
+      "mv": {
+        "n": 12,
+        "wins": 8,
+        "win_rate": 0.6666666666666666,
+        "mean_margin": 53.5
+      }
+    }
+  ],
+  "best": {
+    "name": "h3pp636",
+    "mv": {
+      "n": 12,
+      "wins": 12,
+      "win_rate": 1.0,
+      "mean_margin": 428.0
+    }
+  }
+}

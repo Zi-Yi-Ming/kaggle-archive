@@ -1,0 +1,592 @@
+{
+  "pipe": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p85_new_0920\\extracted\\pipe16_main.py",
+  "metav4": "D:\\桌面\\Kaggle\\kaggriculture\\_push_metav4_v13\\main.py",
+  "results": [
+    {
+      "summary": {
+        "opp": "metav4",
+        "n": 12,
+        "wins": 12,
+        "losses": 0,
+        "win_rate": 1.0,
+        "mean_margin": 50.0,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": true,
+          "cand": 149878.0,
+          "opp_bank": 149828.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": false,
+          "cand": 149878.0,
+          "opp_bank": 149828.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": true,
+          "cand": 78914.0,
+          "opp_bank": 78864.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": false,
+          "cand": 78914.0,
+          "opp_bank": 78864.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 3,
+          "seat0": true,
+          "cand": 75422.0,
+          "opp_bank": 75372.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 3,
+          "seat0": false,
+          "cand": 75422.0,
+          "opp_bank": 75372.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 4,
+          "seat0": true,
+          "cand": 74701.0,
+          "opp_bank": 74651.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 4,
+          "seat0": false,
+          "cand": 74701.0,
+          "opp_bank": 74651.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 5,
+          "seat0": true,
+          "cand": 90931.0,
+          "opp_bank": 90881.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 5,
+          "seat0": false,
+          "cand": 90931.0,
+          "opp_bank": 90881.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 6,
+          "seat0": true,
+          "cand": 84655.0,
+          "opp_bank": 84605.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4",
+          "seed": 6,
+          "seat0": false,
+          "cand": 84655.0,
+          "opp_bank": 84605.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "metav4_holdout",
+        "n": 12,
+        "wins": 10,
+        "losses": 2,
+        "win_rate": 0.833,
+        "mean_margin": 50.0,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "metav4_holdout",
+          "seed": 7,
+          "seat0": true,
+          "cand": 91458.0,
+          "opp_bank": 91408.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 7,
+          "seat0": false,
+          "cand": 91458.0,
+          "opp_bank": 91408.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 8,
+          "seat0": true,
+          "cand": 85202.0,
+          "opp_bank": 85152.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 8,
+          "seat0": false,
+          "cand": 85202.0,
+          "opp_bank": 85152.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 9,
+          "seat0": true,
+          "cand": 82271.0,
+          "opp_bank": 82221.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 9,
+          "seat0": false,
+          "cand": 82271.0,
+          "opp_bank": 82221.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 10,
+          "seat0": true,
+          "cand": 84755.0,
+          "opp_bank": 84705.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 10,
+          "seat0": false,
+          "cand": 84755.0,
+          "opp_bank": 84705.0,
+          "margin": 50.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 11,
+          "seat0": true,
+          "cand": 80730.0,
+          "opp_bank": 81376.0,
+          "margin": -646.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 11,
+          "seat0": false,
+          "cand": 81426.0,
+          "opp_bank": 80680.0,
+          "margin": 746.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 12,
+          "seat0": true,
+          "cand": 91565.0,
+          "opp_bank": 92759.0,
+          "margin": -1194.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "metav4_holdout",
+          "seed": 12,
+          "seat0": false,
+          "cand": 92809.0,
+          "opp_bank": 91515.0,
+          "margin": 1294.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "thomas",
+        "n": 8,
+        "wins": 8,
+        "losses": 0,
+        "win_rate": 1.0,
+        "mean_margin": 2359.0,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "thomas",
+          "seed": 1,
+          "seat0": true,
+          "cand": 150188.0,
+          "opp_bank": 148377.0,
+          "margin": 1811.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "thomas",
+          "seed": 1,
+          "seat0": false,
+          "cand": 150188.0,
+          "opp_bank": 148377.0,
+          "margin": 1811.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "thomas",
+          "seed": 2,
+          "seat0": true,
+          "cand": 80304.0,
+          "opp_bank": 75837.0,
+          "margin": 4467.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "thomas",
+          "seed": 2,
+          "seat0": false,
+          "cand": 80304.0,
+          "opp_bank": 75837.0,
+          "margin": 4467.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "thomas",
+          "seed": 3,
+          "seat0": true,
+          "cand": 76214.0,
+          "opp_bank": 73571.0,
+          "margin": 2643.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "thomas",
+          "seed": 3,
+          "seat0": false,
+          "cand": 76214.0,
+          "opp_bank": 73571.0,
+          "margin": 2643.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "thomas",
+          "seed": 4,
+          "seat0": true,
+          "cand": 74140.0,
+          "opp_bank": 73625.0,
+          "margin": 515.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "thomas",
+          "seed": 4,
+          "seat0": false,
+          "cand": 74140.0,
+          "opp_bank": 73625.0,
+          "margin": 515.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "alperen",
+        "n": 8,
+        "wins": 8,
+        "losses": 0,
+        "win_rate": 1.0,
+        "mean_margin": 5281.2,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "alperen",
+          "seed": 1,
+          "seat0": true,
+          "cand": 150707.0,
+          "opp_bank": 148242.0,
+          "margin": 2465.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "alperen",
+          "seed": 1,
+          "seat0": false,
+          "cand": 150707.0,
+          "opp_bank": 148242.0,
+          "margin": 2465.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "alperen",
+          "seed": 2,
+          "seat0": true,
+          "cand": 79671.0,
+          "opp_bank": 69594.0,
+          "margin": 10077.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "alperen",
+          "seed": 2,
+          "seat0": false,
+          "cand": 79671.0,
+          "opp_bank": 69594.0,
+          "margin": 10077.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "alperen",
+          "seed": 3,
+          "seat0": true,
+          "cand": 76840.0,
+          "opp_bank": 71180.0,
+          "margin": 5660.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "alperen",
+          "seed": 3,
+          "seat0": false,
+          "cand": 76840.0,
+          "opp_bank": 71180.0,
+          "margin": 5660.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "alperen",
+          "seed": 4,
+          "seat0": true,
+          "cand": 74605.0,
+          "opp_bank": 71682.0,
+          "margin": 2923.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "opp": "alperen",
+          "seed": 4,
+          "seat0": false,
+          "cand": 74605.0,
+          "opp_bank": 71682.0,
+          "margin": 2923.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "selfplay",
+        "banks": [
+          91866.0,
+          91866.0
+        ],
+        "status": [
+          "DONE",
+          "DONE"
+        ]
+      },
+      "rows": []
+    }
+  ]
+}

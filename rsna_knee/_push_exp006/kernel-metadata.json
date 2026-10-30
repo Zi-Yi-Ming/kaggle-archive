@@ -1,0 +1,18 @@
+{
+  "id": "ziyiming/rsna-exp006-oa-lexicon-axial-fold0",
+  "title": "RSNA EXP006 OA lexicon Axial fold0",
+  "code_file": "rsna_exp006_oa_lexicon_axial_fold0_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "matteonaccarato/resnet34-imagenet-pth",
+    "ziyiming/torch-cu118-offline"
+  ],
+  "model_sources": []
+}

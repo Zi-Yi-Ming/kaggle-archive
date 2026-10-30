@@ -1,0 +1,85 @@
+{
+  "stage1": "STAGE1_HIGH_FIDELITY",
+  "best_schema": "day_hour_shop",
+  "best_acc": 1.0,
+  "best_mkt": 1.0,
+  "best_wkr": 1.0,
+  "coverage": {
+    "day_hour": {
+      "accuracy": 0.7225312934631433,
+      "market_acc": 0.8350139082058414,
+      "worker_acc": 0.7446105702364395,
+      "n_keys": 719,
+      "n_multi_obs_keys": 719,
+      "coverage_multi": 1.0,
+      "n_obs": 5752
+    },
+    "day_hour_shop": {
+      "accuracy": 1.0,
+      "market_acc": 1.0,
+      "worker_acc": 1.0,
+      "n_keys": 5032,
+      "n_multi_obs_keys": 216,
+      "coverage_multi": 0.04292527821939587,
+      "n_obs": 5752
+    },
+    "day_hour_nshop": {
+      "accuracy": 0.7225312934631433,
+      "market_acc": 0.8350139082058414,
+      "worker_acc": 0.7446105702364395,
+      "n_keys": 719,
+      "n_multi_obs_keys": 719,
+      "coverage_multi": 1.0,
+      "n_obs": 5752
+    },
+    "day_hour_shop_price": {
+      "accuracy": 1.0,
+      "market_acc": 1.0,
+      "worker_acc": 1.0,
+      "n_keys": 5032,
+      "n_multi_obs_keys": 216,
+      "coverage_multi": 0.04292527821939587,
+      "n_obs": 5752
+    },
+    "day_hour_shop_money": {
+      "accuracy": 1.0,
+      "market_acc": 1.0,
+      "worker_acc": 1.0,
+      "n_keys": 5032,
+      "n_multi_obs_keys": 216,
+      "coverage_multi": 0.04292527821939587,
+      "n_obs": 5752
+    },
+    "day_hour_shop_plants": {
+      "accuracy": 1.0,
+      "market_acc": 1.0,
+      "worker_acc": 1.0,
+      "n_keys": 5032,
+      "n_multi_obs_keys": 216,
+      "coverage_multi": 0.04292527821939587,
+      "n_obs": 5752
+    },
+    "day_hour_full": {
+      "accuracy": 1.0,
+      "market_acc": 1.0,
+      "worker_acc": 1.0,
+      "n_keys": 5032,
+      "n_multi_obs_keys": 216,
+      "coverage_multi": 0.04292527821939587,
+      "n_obs": 5752
+    }
+  },
+  "banks": {
+    "1": 181389.0,
+    "2": 169210.0,
+    "3": 200950.0,
+    "4": 178754.0,
+    "5": 191857.0,
+    "11": 85390.0,
+    "12": 189936.0,
+    "13": 184565.0
+  },
+  "n_obs": 5752,
+  "unique_actions": 2074,
+  "dt": 35.495659828186035
+}

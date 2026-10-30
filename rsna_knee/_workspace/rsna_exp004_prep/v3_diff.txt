@@ -1,0 +1,111 @@
+--- embedded_exp003
+
++++ local_rsna_v3
+
+@@ -793,15 +793,10 @@
+
+ 
+ 
+-def _fold_dir(artifact_root, fold, plane):
+-    """Per-plane fold dir: fold{k}/{plane}/ — planes must not overwrite each other."""
+-    return artifact_root / f"fold{fold}" / str(plane)
+-
+-
+-def _fold_meta_path(artifact_root, fold, plane):
+-    return _fold_dir(artifact_root, fold, plane) / "meta.json"
+-
+-
+-def _is_fold_done(artifact_root, fold, plane):
+-    p = _fold_meta_path(artifact_root, fold, plane)
++def _fold_meta_path(artifact_root, fold):
++    return artifact_root / f"fold{fold}" / "meta.json"
++
++
++def _is_fold_done(artifact_root, fold):
++    p = _fold_meta_path(artifact_root, fold)
+     if not p.exists():
+         return False
+@@ -813,6 +808,6 @@
+
+ 
+ 
+-def _save_fold_artifact(artifact_root, fold, plane, test_pred, test_uids, meta):
+-    fold_dir = _fold_dir(artifact_root, fold, plane)
++def _save_fold_artifact(artifact_root, fold, test_pred, test_uids, meta):
++    fold_dir = artifact_root / f"fold{fold}"
+     fold_dir.mkdir(parents=True, exist_ok=True)
+     np.save(str(fold_dir / "test_pred.npy"), test_pred.astype(np.float32))
+@@ -820,6 +815,4 @@
+
+         fold_dir / "test_uid.csv", index=False
+     )
+-    meta["fold"] = fold
+-    meta["plane"] = plane
+     meta["completion_status"] = "done"
+     meta["prediction_shape"] = list(test_pred.shape)
+@@ -829,16 +822,16 @@
+
+ 
+ 
+-def _load_fold_predictions(artifact_root, fold, plane, canonical_uids):
+-    fold_dir = _fold_dir(artifact_root, fold, plane)
++def _load_fold_predictions(artifact_root, fold, canonical_uids):
++    fold_dir = artifact_root / f"fold{fold}"
+     pred = np.load(fold_dir / "test_pred.npy")
+     uids = pd.read_csv(fold_dir / "test_uid.csv")["StudyInstanceUID"].tolist()
+     if pred.shape != (len(canonical_uids), len(LABELS)):
+-        raise ValueError(f"fold{fold}/{plane} shape mismatch: {pred.shape} vs expected {(len(canonical_uids), len(LABELS))}")
++        raise ValueError(f"fold{fold} shape mismatch: {pred.shape} vs expected {(len(canonical_uids), len(LABELS))}")
+     if uids != canonical_uids:
+-        raise ValueError(f"fold{fold}/{plane} UID order mismatch")
++        raise ValueError(f"fold{fold} UID order mismatch")
+     if not np.isfinite(pred).all():
+-        raise ValueError(f"fold{fold}/{plane} contains NaN/Inf")
++        raise ValueError(f"fold{fold} contains NaN/Inf")
+     if pred.min() < 0 or pred.max() > 1:
+-        raise ValueError(f"fold{fold}/{plane} predictions out of [0,1]")
++        raise ValueError(f"fold{fold} predictions out of [0,1]")
+     return pred
+ 
+@@ -1019,6 +1012,6 @@
+
+             if args.only_fold >= 0 and k != args.only_fold:
+                 continue
+-            if resume_root and _is_fold_done(artifact_root, k, plane):
+-                print(f"[artifact] fold {k}/{plane} done, skip", flush=True)
++            if resume_root and _is_fold_done(artifact_root, k):
++                print(f"[artifact] fold {k} done, skip", flush=True)
+                 continue
+             tr_ds = KneeDataset(tr_studies, labels_df, dcm_train, series_df, plane,
+@@ -1049,10 +1042,9 @@
+
+                 "seed": args.seed,
+                 "git_commit": __git_commit(),
+-                "experiment_id": getattr(args, "experiment_id", "exp_001_5fold_sagittal"),
+                 "fold_train_time_sec": fold_train_time,
+                 "fold_inference_time_sec": fold_inference_time,
+             }
+-            _save_fold_artifact(artifact_root, k, plane, test_pred, canonical_test_uids, meta)
+-            print(f"[artifact] saved fold{k}/{plane} -> {_fold_dir(artifact_root, k, plane)}", flush=True)
++            _save_fold_artifact(artifact_root, k, test_pred, canonical_test_uids, meta)
++            print(f"[artifact] saved fold{k} -> {artifact_root / f'fold{k}'}", flush=True)
+         # experiment-level meta once per plane
+         _save_experiment_meta(artifact_root, train_fold_uids, canonical_test_uids, args)
+@@ -1072,13 +1064,13 @@
+
+         missing = []
+         for k in range(args.folds):
+-            p = _fold_dir(artifact_root, k, plane) / "test_pred.npy"
++            p = artifact_root / f"fold{k}" / "test_pred.npy"
+             if not p.exists():
+                 missing.append(k)
+                 continue
+             try:
+-                per_fold.append(_load_fold_predictions(artifact_root, k, plane, canonical_test_uids))
++                per_fold.append(_load_fold_predictions(artifact_root, k, canonical_test_uids))
+             except Exception as e:
+                 missing.append(k)
+-                print(f"[ensemble] fold{k}/{plane} invalid: {e}", flush=True)
++                print(f"[ensemble] fold{k} invalid: {e}", flush=True)
+         if len(missing) == args.folds:
+             sys.exit(f"[ensemble] no valid fold predictions available under {artifact_root}")

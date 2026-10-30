@@ -1,0 +1,10 @@
+test,expect,got,pass
+T1_already_watered,False,False,1
+T2_dry_at_risk,True,True,1
+T3_ripe_not_water,False,False,1
+T4_non_plant,False,False,1
+T5_walk_to_plant,MOVE,WEST,1
+T6_no_plants,None,None,1
+Lab_OFF_d9,0,0,1
+Lab_ON_d9,1,1,1
+Lab_ON_d11,alive_or_harvested,1,1

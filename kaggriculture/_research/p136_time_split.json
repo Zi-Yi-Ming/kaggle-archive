@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "name": "gold_to_d9_then_h3x",
+      "switch": 216,
+      "mv": {
+        "n": 8,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -33421.125,
+        "mean_cand": 76152.25
+      }
+    },
+    {
+      "name": "gold_to_d10_then_h3x",
+      "switch": 240,
+      "mv": {
+        "n": 8,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -64906.0,
+        "mean_cand": 64759.5
+      }
+    },
+    {
+      "name": "gold_to_d12_then_h3x",
+      "switch": 288,
+      "mv": {
+        "n": 8,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -81993.125,
+        "mean_cand": 48981.5
+      }
+    }
+  ],
+  "best": {
+    "name": "gold_to_d9_then_h3x",
+    "mv": {
+      "n": 8,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -33421.125,
+      "mean_cand": 76152.25
+    }
+  }
+}

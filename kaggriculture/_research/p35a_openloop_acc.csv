@@ -1,0 +1,6 @@
+policy,bank,openloop_acc,unique_dh,entropy
+R2,181389,1.0,719/719,0
+kaito_v27,174341,1.0,719/719,0
+qeinstein,162690,1.0,719/719,0
+rayk_rank,163494,1.0,719/719,0
+DECISION,ALL_ELITES_OPENLOOP,,,f(day_hour)_exact

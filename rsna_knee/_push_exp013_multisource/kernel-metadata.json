@@ -1,0 +1,20 @@
+{
+  "id": "ziyiming/rsna-exp013-multisource-axial-fold0",
+  "title": "RSNA EXP013 multisource Axial fold0",
+  "code_file": "rsna_exp013_multisource_axial_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "ziyiming/torch-cu118-offline",
+    "stevenleehans/rsna-knee-llm-report-labels",
+    "lixin73/rsna-knee-llm-report-labels-sol56",
+    "pilkwang/rsna-knee-llm-labels"
+  ],
+  "model_sources": []
+}

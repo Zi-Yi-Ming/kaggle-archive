@@ -1,0 +1,7 @@
+channel,B0,B1,delta,interpretation
+wheat_survival_gap,none,none,0,already_survives_2day_yield
+extra_water_on_wheat,0,low_value,+,wasted_or_yield_bonus_small
+wheat_revenue,4122,3486,-637,negative
+animal_revenue,26522,38239,+11717,main_d29_driver_indirect
+planted_count,129,110,-20,fewer_wheat
+decision,WATER_CONTEXT_DEPENDENT,,,"strong only for long first_yield at-risk crops"

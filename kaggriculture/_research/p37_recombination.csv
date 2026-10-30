@@ -1,0 +1,11 @@
+label,mean_bank,note
+pure_R2,183850,
+rayk_boot_R2_rest_d6,183847,equal_to_R2_not_better
+R2_then_Q_144,183844,equal_to_R2
+rayk_then_R2_144,176896,equal_to_rayk
+pure_kaito,175507,
+pure_Q,170467,
+R2_then_kaito_144,83589,collapse
+kaito_then_R2_144,857,collapse
+R2_boot_kaito_d2,96,collapse
+DECISION,ATOMIC_PROGRAM,,,,"no hybrid exceeds pure; programs not freely recombinable"

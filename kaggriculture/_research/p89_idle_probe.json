@@ -1,0 +1,10552 @@
+[
+  {
+    "step": 24,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "n_empty": 2,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 11.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 24,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "n_empty": 2,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 32.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 30,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        4,
+        2
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 7.0,
+    "hands_n": 3,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 30,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        4,
+        2
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 28.0,
+    "hands_n": 3,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 36,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 1,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 2,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 160.0,
+    "hands_n": 3,
+    "shed": {
+      "WHEAT": 5,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 36,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 1,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 2,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 152.0,
+    "hands_n": 3,
+    "shed": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 42,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 1,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 2,
+        "pos": [
+          3,
+          4
+        ],
+        "inv": {
+          "FERTILIZER": 1
+        }
+      }
+    ],
+    "n_idle": 3,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 100.0,
+    "hands_n": 3,
+    "shed": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 42,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 1,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 2,
+        "pos": [
+          3,
+          4
+        ],
+        "inv": {
+          "FERTILIZER": 1
+        }
+      }
+    ],
+    "n_idle": 3,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 92.0,
+    "hands_n": 3,
+    "shed": {
+      "WHEAT": 7,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 48,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 100.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 48,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 92.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 7,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 54,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 252.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 54,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 244.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 60,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 252.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 60,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 244.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 66,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        0,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 213.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 1,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 66,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        0,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 205.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 1,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 72,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 213.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 72,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 205.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 7,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 78,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 231.0,
+    "hands_n": 5,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 78,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 223.0,
+    "hands_n": 5,
+    "shed": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 84,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          0,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 261.0,
+    "hands_n": 5,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 84,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          0,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 283.0,
+    "hands_n": 5,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 90,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          0,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 5,
+        "pos": [
+          1,
+          2
+        ],
+        "inv": {
+          "WHEAT": 3
+        }
+      }
+    ],
+    "n_idle": 2,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 140.0,
+    "hands_n": 5,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 1,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 90,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          0,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 5,
+        "pos": [
+          1,
+          2
+        ],
+        "inv": {
+          "WHEAT": 3
+        }
+      }
+    ],
+    "n_idle": 2,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 162.0,
+    "hands_n": 5,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 1,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 96,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 266.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 11,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 96,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 288.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 11,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 102,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 414.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 102,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 436.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 108,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 394.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 108,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 416.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 114,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          2,
+          4
+        ],
+        "inv": {
+          "FERTILIZER": 4
+        }
+      },
+      {
+        "i": 1,
+        "pos": [
+          2,
+          4
+        ],
+        "inv": {
+          "FERTILIZER": 1
+        }
+      },
+      {
+        "i": 3,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 3,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 389.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 7,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 114,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          2,
+          4
+        ],
+        "inv": {
+          "FERTILIZER": 4
+        }
+      },
+      {
+        "i": 1,
+        "pos": [
+          2,
+          4
+        ],
+        "inv": {
+          "FERTILIZER": 1
+        }
+      },
+      {
+        "i": 3,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 3,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 411.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 7,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 120,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 671.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 120,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 693.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 126,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 819.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 126,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 841.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 132,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 2,
+      "MELON": 0
+    },
+    "money": 619.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 132,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 2,
+      "MELON": 0
+    },
+    "money": 641.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 138,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 2,
+        "pos": [
+          2,
+          0
+        ],
+        "inv": {
+          "FERTILIZER": 1
+        }
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        1,
+        1
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 3,
+      "MELON": 0
+    },
+    "money": 511.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 138,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 2,
+        "pos": [
+          2,
+          0
+        ],
+        "inv": {
+          "FERTILIZER": 1
+        }
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        1,
+        1
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 3,
+      "MELON": 0
+    },
+    "money": 533.0,
+    "hands_n": 4,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 144,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 786.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 144,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 808.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 150,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 2184.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 150,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 2206.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 156,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          7,
+          3
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ]
+    ],
+    "n_empty": 21,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1476.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 156,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          7,
+          3
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ]
+    ],
+    "n_empty": 21,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1498.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 162,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          8,
+          3
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        1,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        8,
+        3
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 959.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 18,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 162,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 0,
+        "pos": [
+          8,
+          3
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        1,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        8,
+        3
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 981.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 18,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 168,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "n_empty": 8,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1108.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 15,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 168,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "n_empty": 8,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1134.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 15,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 174,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "n_empty": 8,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 938.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 174,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "n_empty": 8,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 964.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 180,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 5,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "n_empty": 8,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 1,
+      "MELON": 0
+    },
+    "money": 697.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 180,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 5,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "n_empty": 8,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 1,
+      "MELON": 0
+    },
+    "money": 723.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 186,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "n_empty": 5,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 1,
+      "MELON": 0
+    },
+    "money": 548.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 186,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "n_empty": 5,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 1,
+      "MELON": 0
+    },
+    "money": 574.0,
+    "hands_n": 7,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 192,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 528.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 192,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 554.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 198,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1761.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 198,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1787.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 204,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 5,
+        "pos": [
+          6,
+          3
+        ],
+        "inv": {
+          "WHEAT": 1,
+          "SHEEP": 1
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 3,
+      "MELON": 0
+    },
+    "money": 1233.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 204,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 5,
+        "pos": [
+          6,
+          3
+        ],
+        "inv": {
+          "WHEAT": 1,
+          "SHEEP": 1
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 3,
+      "MELON": 0
+    },
+    "money": 1259.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 210,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 5,
+        "pos": [
+          6,
+          3
+        ],
+        "inv": {
+          "WHEAT": 1,
+          "SHEEP": 1
+        }
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        5,
+        0
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "n_empty": 2,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 2,
+      "MELON": 0
+    },
+    "money": 1312.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 210,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 1,
+        "pos": [
+          5,
+          4
+        ],
+        "inv": {}
+      },
+      {
+        "i": 5,
+        "pos": [
+          6,
+          3
+        ],
+        "inv": {
+          "WHEAT": 1,
+          "SHEEP": 1
+        }
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        5,
+        0
+      ],
+      [
+        7,
+        1
+      ]
+    ],
+    "n_empty": 2,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 2,
+      "MELON": 0
+    },
+    "money": 1266.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 18,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 216,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1466.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 24,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 216,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1420.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 26,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 222,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 938.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 17,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 222,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 892.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 19,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 228,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1852.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 23,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 228,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1774.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 25,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 234,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1742.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 27,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 234,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1588.0,
+    "hands_n": 8,
+    "shed": {
+      "WHEAT": 31,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 240,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 2282.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 33,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 240,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 2128.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 37,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 246,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "n_empty": 2,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1297.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 29,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 2,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 246,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "n_empty": 2,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 1145.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 33,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 2,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 252,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "n_empty": 10,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 10524.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 45,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 2,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 252,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "n_empty": 10,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 10372.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 49,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 2,
+      "COW": 0,
+      "SHEEP": 1
+    }
+  },
+  {
+    "step": 258,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 4,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "n_empty": 4,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 15725.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 45,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 258,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 4,
+        "pos": [
+          4,
+          4
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "n_empty": 4,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 15613.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 48,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 264,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 15805.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 42,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 12,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 13,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 264,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 15693.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 45,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 12,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 13,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 270,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 3,
+        "pos": [
+          3,
+          5
+        ],
+        "inv": {}
+      },
+      {
+        "i": 9,
+        "pos": [
+          2,
+          5
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "n_empty": 24,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 5,
+      "MELON": 0
+    },
+    "money": 14736.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 37,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 270,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 3,
+        "pos": [
+          3,
+          5
+        ],
+        "inv": {}
+      },
+      {
+        "i": 9,
+        "pos": [
+          2,
+          5
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "n_empty": 24,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 5,
+      "MELON": 0
+    },
+    "money": 14624.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 40,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 276,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "n_empty": 18,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 5,
+      "MELON": 0
+    },
+    "money": 14693.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 47,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 276,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "n_empty": 18,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 5,
+      "MELON": 0
+    },
+    "money": 14581.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 50,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 282,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ]
+    ],
+    "n_empty": 11,
+    "seeds": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 14775.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 41,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 282,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ]
+    ],
+    "n_empty": 11,
+    "seeds": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 14285.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 53,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 288,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "n_empty": 4,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 15123.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 39,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 288,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "n_empty": 4,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 14626.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 51,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 294,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "n_empty": 4,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 17167.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 24,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 294,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        0,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "n_empty": 4,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 16670.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 36,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 300,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "n_empty": 3,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 18632.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 13,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 300,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "n_empty": 3,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 17761.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 34,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 306,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 3,
+        "pos": [
+          7,
+          4
+        ],
+        "inv": {
+          "FERTILIZER": 2
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        2,
+        1
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 18592.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 13,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 306,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 3,
+        "pos": [
+          7,
+          4
+        ],
+        "inv": {
+          "FERTILIZER": 2
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        2,
+        1
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 17721.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 34,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 312,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 18969.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 14,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 17,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 312,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 18090.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 35,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 17,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 318,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 19915.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 318,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 19036.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 22,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 324,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 20962.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 324,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 20167.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 19,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 330,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        8
+      ]
+    ],
+    "n_empty": 4,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 20942.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 330,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        8
+      ]
+    ],
+    "n_empty": 4,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 20775.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 336,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 20932.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 15,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 336,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 20931.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 15,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 342,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 7,
+        "pos": [
+          4,
+          6
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 23977.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 9,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 342,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 7,
+        "pos": [
+          4,
+          6
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 1,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 23460.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 3,
+      "WOOL": 0,
+      "FERTILIZER": 9,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 348,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 24446.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 3,
+      "FERTILIZER": 9,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 348,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 23929.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 3,
+      "WOOL": 3,
+      "FERTILIZER": 9,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 354,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        2,
+        8
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 24361.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 3,
+      "FERTILIZER": 10,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 354,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        2,
+        8
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 23844.0,
+    "hands_n": 9,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 3,
+      "WOOL": 3,
+      "FERTILIZER": 10,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 360,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 24722.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 24,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 8,
+      "MILK": 6,
+      "WOOL": 0,
+      "FERTILIZER": 15,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 360,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 24771.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 24,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 8,
+      "MILK": 6,
+      "WOOL": 0,
+      "FERTILIZER": 15,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 366,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 26324.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 4,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 9,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 366,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 26140.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 2,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 9,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 372,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 27768.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 4,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 372,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 27920.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 2,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 378,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        4,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 28980.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 4,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 378,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        4,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 29132.0,
+    "hands_n": 10,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 2,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 384,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 30627.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 25,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 10,
+      "MILK": 0,
+      "WOOL": 11,
+      "FERTILIZER": 11,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 384,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 30779.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 25,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 8,
+      "MILK": 0,
+      "WOOL": 11,
+      "FERTILIZER": 11,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 390,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 7,
+        "pos": [
+          6,
+          3
+        ],
+        "inv": {
+          "FERTILIZER": 1,
+          "WHEAT": 1
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        9,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 31145.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 8,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 390,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 7,
+        "pos": [
+          6,
+          3
+        ],
+        "inv": {
+          "FERTILIZER": 1,
+          "WHEAT": 1
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        9,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 31223.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 2,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 396,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 32274.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 8,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 396,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 32391.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 2,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 402,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 33539.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 8,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 402,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        0
+      ]
+    ],
+    "n_empty": 1,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 33908.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 2,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 408,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 35980.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 36,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 13,
+      "MILK": 3,
+      "WOOL": 0,
+      "FERTILIZER": 14,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 408,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 36446.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 36,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 5,
+      "MILK": 3,
+      "WOOL": 0,
+      "FERTILIZER": 14,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 414,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37098.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 7,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 414,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37373.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 3,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 420,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37058.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 7,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 420,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37333.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 3,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 426,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37038.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 7,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 426,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37313.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 12,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 3,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 432,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 40459.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 38,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 9,
+      "WOOL": 2,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 432,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [],
+    "n_empty": 0,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 40551.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 38,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 9,
+      "WOOL": 2,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 438,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 6,
+        "pos": [
+          1,
+          4
+        ],
+        "inv": {
+          "WHEAT": 1
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ]
+    ],
+    "n_empty": 23,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 8,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37247.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 15,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 3,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 438,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 6,
+        "pos": [
+          1,
+          4
+        ],
+        "inv": {
+          "WHEAT": 1
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ]
+    ],
+    "n_empty": 23,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 8,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37227.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 22,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 5,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 3,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 444,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ]
+    ],
+    "n_empty": 20,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 4,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37299.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 15,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 444,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ]
+    ],
+    "n_empty": 20,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 4,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 37277.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 22,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 5,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 450,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 12,
+        "pos": [
+          9,
+          5
+        ],
+        "inv": {}
+      },
+      {
+        "i": 13,
+        "pos": [
+          9,
+          6
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 38080.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 3,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 450,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 12,
+        "pos": [
+          9,
+          5
+        ],
+        "inv": {}
+      },
+      {
+        "i": 13,
+        "pos": [
+          9,
+          6
+        ],
+        "inv": {}
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 38366.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 16,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 5,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 3,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 456,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 41377.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 37,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 8,
+      "MELON": 0,
+      "EGG": 13,
+      "MILK": 9,
+      "WOOL": 2,
+      "FERTILIZER": 15,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 456,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 41575.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 39,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 8,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 9,
+      "WOOL": 2,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 462,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 44129.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 17,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 2,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 462,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 44486.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 22,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 3,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 468,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 44224.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 14,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 3,
+      "WOOL": 2,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 468,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 44952.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 19,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 3,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 474,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 4,
+        "pos": [
+          2,
+          0
+        ],
+        "inv": {
+          "WHEAT": 3,
+          "STRAWBERRY": 2
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 44974.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 14,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 474,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 4,
+        "pos": [
+          2,
+          0
+        ],
+        "inv": {
+          "WHEAT": 3,
+          "STRAWBERRY": 2
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 45321.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 19,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 3,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 480,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 46536.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 38,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 6,
+      "MELON": 0,
+      "EGG": 17,
+      "MILK": 6,
+      "WOOL": 1,
+      "FERTILIZER": 14,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 480,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 46795.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 43,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 6,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 6,
+      "WOOL": 1,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 486,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 3,
+        "pos": [
+          4,
+          5
+        ],
+        "inv": {
+          "FERTILIZER": 4
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 47855.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 15,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 11,
+      "MILK": 5,
+      "WOOL": 1,
+      "FERTILIZER": 3,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 486,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 3,
+        "pos": [
+          4,
+          5
+        ],
+        "inv": {
+          "FERTILIZER": 4
+        }
+      }
+    ],
+    "n_idle": 1,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 48541.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 20,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 5,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 492,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 47923.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 15,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 11,
+      "MILK": 5,
+      "WOOL": 1,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 492,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 48609.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 20,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 498,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 50444.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 15,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 4,
+      "MELON": 0,
+      "EGG": 11,
+      "MILK": 0,
+      "WOOL": 1,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 498,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 3,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 50372.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 20,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 4,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 2,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 504,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 52982.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 44,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 4,
+      "MELON": 0,
+      "EGG": 15,
+      "MILK": 6,
+      "WOOL": 4,
+      "FERTILIZER": 14,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 504,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 52612.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 47,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 6,
+      "MELON": 0,
+      "EGG": 15,
+      "MILK": 6,
+      "WOOL": 4,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 510,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 54874.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 15,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 4,
+      "WOOL": 4,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 510,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 55075.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 23,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 7,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 516,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 55073.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 10,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 4,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 516,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 55270.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 18,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 7,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 522,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 56960.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 10,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 9,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 522,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 56521.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 18,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 7,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 528,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 59314.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 48,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 14,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 12,
+      "WOOL": 2,
+      "FERTILIZER": 17,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 528,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 58574.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 50,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 14,
+      "MELON": 0,
+      "EGG": 5,
+      "MILK": 12,
+      "WOOL": 2,
+      "FERTILIZER": 17,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 534,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 62685.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 20,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 1,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 3,
+      "WOOL": 2,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 534,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 61982.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 33,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 1,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 540,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 62678.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 20,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 1,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 3,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 540,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 62123.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 33,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 546,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 63847.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 18,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 546,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 62687.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 31,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 552,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 64245.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 46,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 11,
+      "MELON": 0,
+      "EGG": 12,
+      "MILK": 9,
+      "WOOL": 4,
+      "FERTILIZER": 14,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 552,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 63199.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 50,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 13,
+      "MELON": 0,
+      "EGG": 8,
+      "MILK": 9,
+      "WOOL": 4,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 558,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 67548.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 17,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 4,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 558,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 2,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 65657.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 33,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 1,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 564,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        8,
+        4
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 67492.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 17,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 564,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        8,
+        4
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 6,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 65615.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 33,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 570,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 67684.0,
+    "hands_n": 11,
+    "shed": {
+      "WHEAT": 14,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 570,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 65807.0,
+    "hands_n": 12,
+    "shed": {
+      "WHEAT": 30,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 576,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 68078.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 35,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 22,
+      "MELON": 0,
+      "EGG": 4,
+      "MILK": 9,
+      "WOOL": 2,
+      "FERTILIZER": 17,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 576,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 66247.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 46,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 22,
+      "MELON": 0,
+      "EGG": 6,
+      "MILK": 9,
+      "WOOL": 2,
+      "FERTILIZER": 15,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 582,
+    "seat": 0,
+    "idle": [
+      {
+        "i": 2,
+        "pos": [
+          3,
+          4
+        ],
+        "inv": {
+          "WHEAT": 2
+        }
+      },
+      {
+        "i": 10,
+        "pos": [
+          5,
+          2
+        ],
+        "inv": {
+          "WHEAT": 1
+        }
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 70077.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 8,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 12,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 582,
+    "seat": 1,
+    "idle": [
+      {
+        "i": 2,
+        "pos": [
+          3,
+          4
+        ],
+        "inv": {
+          "WHEAT": 2
+        }
+      },
+      {
+        "i": 10,
+        "pos": [
+          5,
+          2
+        ],
+        "inv": {
+          "WHEAT": 1
+        }
+      }
+    ],
+    "n_idle": 2,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 67619.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 33,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 588,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 70483.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 3,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 588,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        3,
+        1
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "n_empty": 16,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 67943.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 25,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 594,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        3
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ]
+    ],
+    "n_empty": 17,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 1,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 70433.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 0,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 1,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 5,
+      "FERTILIZER": 1,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 594,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        9,
+        3
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ]
+    ],
+    "n_empty": 17,
+    "seeds": {
+      "WHEAT": 4,
+      "CARROT": 1,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 67977.0,
+    "hands_n": 13,
+    "shed": {
+      "WHEAT": 23,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0,
+      "EGG": 0,
+      "MILK": 0,
+      "WOOL": 3,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 600,
+    "seat": 0,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 70389.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 49,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 5,
+      "MELON": 0,
+      "EGG": 8,
+      "MILK": 18,
+      "WOOL": 2,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  },
+  {
+    "step": 600,
+    "seat": 1,
+    "idle": [],
+    "n_idle": 0,
+    "empties": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "n_empty": 15,
+    "seeds": {
+      "WHEAT": 1,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 0,
+      "MELON": 0
+    },
+    "money": 68738.0,
+    "hands_n": 0,
+    "shed": {
+      "WHEAT": 54,
+      "CARROT": 0,
+      "TOMATO": 0,
+      "STRAWBERRY": 7,
+      "MELON": 0,
+      "EGG": 4,
+      "MILK": 18,
+      "WOOL": 1,
+      "FERTILIZER": 16,
+      "GOOSE": 0,
+      "COW": 0,
+      "SHEEP": 0
+    }
+  }
+]

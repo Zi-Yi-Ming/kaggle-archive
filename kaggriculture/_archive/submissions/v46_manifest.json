@@ -1,0 +1,18 @@
+{
+  "version": "v46",
+  "classification": "evaluated_upgrade",
+  "protocol": "EXP293 first-turn microstructure, two-turn sale advance, sales-first market order, lost-race detector and imminence-ordered reservation on the frozen EXP288 policy",
+  "independent_reacting_confirmation_passed": true,
+  "complete_physical_audit_passed": true,
+  "isolated_runtime_passed": false,
+  "isolated_runtime_max_ms": 85.08,
+  "local_50ms_rule": "waived by the user for the step-712 closure planner (WAIVER293.json); engine actTimeout 1 s",
+  "linux_replay_passed": true,
+  "live_recorded_rival_replay_games": null,
+  "main_sha256": "735c370383b70d3bf3aac792f2c147e0afc99166fc9f253ede10e8a030acedb6",
+  "archive_sha256": "7cfb4ab837e7d809a89ba4876a8508533e115c51556e82c97888069138659a6b",
+  "source_integrity": "PASS",
+  "archive_integrity": "PASS",
+  "optional_game_checks": "NOT RUN",
+  "live_rating_guarantee": null
+}

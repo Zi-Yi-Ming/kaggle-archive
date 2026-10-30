@@ -1,0 +1,5 @@
+name,water,harvest,drop,plants_d9,plants_d11,max_inv_melon,max_shed_melon,final_shed_melon,pass_survive,pass_harvest_to_inv,pass_shed
+T_no_water_no_harvest,False,False,False,0,0,0,0,0,False,False,False
+T_water_only,True,False,False,1,1,0,0,0,True,False,False
+T_water_harvest_drop,True,True,True,1,0,0,4,0,True,False,True
+T_harvest_no_water,False,True,True,0,0,0,0,0,False,False,False

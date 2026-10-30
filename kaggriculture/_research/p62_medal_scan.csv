@@ -1,0 +1,16 @@
+error,finn_L,finn_W,finn_mean,name,status,vs_alp_D,vs_alp_L,vs_alp_W,vs_alp_WL
+,,,,farming_score_v4_a_better_shop,fail,,,,
+,,,,harvestforge_x_high_throughput_farming,fail,,,,
+module 'main' has no attribute '_SESSIONS',,,,kaggriculture_93_8_win_rate_public_state_router,fail,,,,
+name 'HTML' is not defined,,,,kaggriculture_frontier_the_moon_counts_melons,fail,,,,
+,,,,kaggriculture_master_engine_v3,no_agent,,,,
+"expected an indented block after 'try' statement on line 1968 (kaggriculture_route_replay_agent.py, line 1969)",,,,kaggriculture_route_replay_agent,fail,,,,
+Could not find : submission.py,,,,kaggriculture_terminal_logistics,fail,,,,
+name 'FileLink' is not defined,,,,kaggriculture_v43_recovering_lost_harvests,fail,,,,
+main.py integrity check failed.,,,,kaggriculture_v6,fail,,,,
+,,,,kaggriculture_what_2600_farms_do_differently,no_agent,,,,
+,,,,kaggriculture_what_the_top_farms_do_a_live_meta,no_agent,,,,
+,,,,no_cow_left_behind_v40_autopsy_fix,no_agent,,,,
+,0,3,188991.33333333334,score2710_t23_kaggriculture_smart_harvest,ok,3,0,0,0
+,,,,shape_the_shop_work_the_pasture_top_10,no_agent,,,,
+,,,,sovereign_swarm_kinematics_the,no_agent,,,,

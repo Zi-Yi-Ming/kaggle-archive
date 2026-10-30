@@ -1,0 +1,18 @@
+{
+  "id": "ziyiming/rsna-exp008-infer-sca-weights",
+  "title": "RSNA EXP008 infer SCA weights",
+  "code_file": "rsna_exp008_infer_sca_weights_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "ziyiming/torch-cu118-offline",
+    "ziyiming/rsna-exp008-sca-fold0-weights"
+  ],
+  "model_sources": []
+}

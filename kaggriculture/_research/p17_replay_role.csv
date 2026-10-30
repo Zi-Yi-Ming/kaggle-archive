@@ -1,0 +1,4 @@
+source,replay_is_policy,replay_is_prior,evidence_status
+R2_moon_tetsu_msf,YES,YES,VERIFIED
+tetsu_shape,YES_backbone_plus_tails,YES,VERIFIED
+diffmap_rl,NO,YES_mimicry_init,VERIFIED

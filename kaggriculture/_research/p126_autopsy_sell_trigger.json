@@ -1,0 +1,82 @@
+{
+  "losses": [
+    {
+      "win": false,
+      "gap": -4520.0,
+      "opp": "おかゆん",
+      "our": 139612,
+      "their": 144132
+    },
+    {
+      "win": false,
+      "gap": -2564.0,
+      "opp": "haoming yang",
+      "our": 89745,
+      "their": 92309
+    },
+    {
+      "win": false,
+      "gap": -1586.0,
+      "opp": "yefenfei",
+      "our": 127257,
+      "their": 128843
+    },
+    {
+      "win": false,
+      "gap": -727.0,
+      "opp": "Heisnotanimposter",
+      "our": 108154,
+      "their": 108881
+    },
+    {
+      "win": false,
+      "gap": -692.0,
+      "opp": "Marwan Ashref",
+      "our": 155435,
+      "their": 156127
+    },
+    {
+      "win": false,
+      "gap": -491.0,
+      "opp": "CornHub Premium",
+      "our": 133388,
+      "their": 133879
+    },
+    {
+      "win": false,
+      "gap": -476.0,
+      "opp": "Phi",
+      "our": 91731,
+      "their": 92207
+    },
+    {
+      "win": false,
+      "gap": -133.0,
+      "opp": "Asterope",
+      "our": 112562,
+      "their": 112695
+    },
+    {
+      "win": false,
+      "gap": -105.0,
+      "opp": "LP",
+      "our": 94368,
+      "their": 94473
+    },
+    {
+      "win": false,
+      "gap": -8.0,
+      "opp": "BNBU Astra",
+      "our": 101804,
+      "their": 101812
+    }
+  ],
+  "n_sells": 1093,
+  "rel": {
+    "0.0": 967,
+    "1.0": 54,
+    "0.75": 22,
+    "0.5": 37,
+    "0.25": 13
+  }
+}

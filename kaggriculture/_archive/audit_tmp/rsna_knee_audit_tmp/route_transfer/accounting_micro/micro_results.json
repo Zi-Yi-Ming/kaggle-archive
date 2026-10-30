@@ -1,0 +1,204 @@
+[
+ {
+  "label": "1 正常BUY",
+  "valid": "719/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 0,
+   "BUY_SEED": 10,
+   "BUY_PRODUCT": 0,
+   "BUY_ANIMAL": 0,
+   "HIRE": 0,
+   "BUY_LAND": 0
+  },
+  "ok": true,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": []
+ },
+ {
+  "label": "2 无现金BUY(部分37/50)",
+  "valid": "719/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 0,
+   "BUY_SEED": 37,
+   "BUY_PRODUCT": 0,
+   "BUY_ANIMAL": 0,
+   "HIRE": 0,
+   "BUY_LAND": 0
+  },
+  "ok": true,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": []
+ },
+ {
+  "label": "4 部分BUY(7/10)",
+  "valid": "719/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 0,
+   "BUY_SEED": 0,
+   "BUY_PRODUCT": 0,
+   "BUY_ANIMAL": 7,
+   "HIRE": 0,
+   "BUY_LAND": 0
+  },
+  "ok": true,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": []
+ },
+ {
+  "label": "3 无库存SELL",
+  "valid": "719/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 0,
+   "BUY_SEED": 0,
+   "BUY_PRODUCT": 0,
+   "BUY_ANIMAL": 0,
+   "HIRE": 0,
+   "BUY_LAND": 0
+  },
+  "ok": true,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": []
+ },
+ {
+  "label": "5 部分SELL(8/10)",
+  "valid": "719/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 8,
+   "BUY_SEED": 0,
+   "BUY_PRODUCT": 8,
+   "BUY_ANIMAL": 0,
+   "HIRE": 0,
+   "BUY_LAND": 0
+  },
+  "ok": true,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": []
+ },
+ {
+  "label": "6 多unit BUY",
+  "valid": "719/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 0,
+   "BUY_SEED": 0,
+   "BUY_PRODUCT": 0,
+   "BUY_ANIMAL": 3,
+   "HIRE": 0,
+   "BUY_LAND": 0
+  },
+  "ok": true,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": []
+ },
+ {
+  "label": "7 多unit SELL",
+  "valid": "719/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 5,
+   "BUY_SEED": 0,
+   "BUY_PRODUCT": 5,
+   "BUY_ANIMAL": 0,
+   "HIRE": 0,
+   "BUY_LAND": 0
+  },
+  "ok": true,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": []
+ },
+ {
+  "label": "8 BUY+SELL同步",
+  "valid": "719/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 4,
+   "BUY_SEED": 0,
+   "BUY_PRODUCT": 4,
+   "BUY_ANIMAL": 0,
+   "HIRE": 0,
+   "BUY_LAND": 0
+  },
+  "ok": true,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": []
+ },
+ {
+  "label": "9 interleaving seat0",
+  "valid": "718/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 1178,
+   "BUY_SEED": 134,
+   "BUY_PRODUCT": 289,
+   "BUY_ANIMAL": 14,
+   "HIRE": 284,
+   "BUY_LAND": 2
+  },
+  "ok": false,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": [
+   [
+    672,
+    "seat0 shed[STRAWBERRY] 2 vs obs 9; seat0 shed[MILK] 9 vs obs 12; seat0 shed[FERTILIZER] 10 vs obs 12"
+   ]
+  ]
+ },
+ {
+  "label": "9 interleaving seat1",
+  "valid": "718/719",
+  "recon": 0.0,
+  "exec": {
+   "SELL": 1209,
+   "BUY_SEED": 134,
+   "BUY_PRODUCT": 289,
+   "BUY_ANIMAL": 14,
+   "HIRE": 284,
+   "BUY_LAND": 2
+  },
+  "ok": false,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": [
+   [
+    672,
+    "seat0 shed[STRAWBERRY] 2 vs obs 9; seat0 shed[MILK] 9 vs obs 12; seat0 shed[FERTILIZER] 10 vs obs 12"
+   ]
+  ]
+ },
+ {
+  "label": "10 V2-B错位(seed 1)",
+  "valid": "416/719",
+  "recon": -1060.0,
+  "exec": {
+   "SELL": 380,
+   "BUY_SEED": 118,
+   "BUY_PRODUCT": 259,
+   "BUY_ANIMAL": 9,
+   "HIRE": 284,
+   "BUY_LAND": 2
+  },
+  "ok": false,
+  "exp_ok": true,
+  "exp_note": "",
+  "mism": [
+   [
+    73,
+    "seat0 shed[WHEAT] 17 vs obs 13"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,9 @@
+{
+  "decision": "ORIGINAL_REPLAYS_NOT_ELITE_VS_FINN",
+  "best_orig_vs_finn": 100244.33333333333,
+  "global_majority": 99141.66666666667,
+  "shop_cond_majority": 99141.66666666667,
+  "n_episodes": 30,
+  "shop_clusters": 24,
+  "dt": 173.4421284198761
+}

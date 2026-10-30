@@ -1,0 +1,269 @@
+{
+  "h3pp636": {
+    "metav4": {
+      "n": 16,
+      "wins": 16,
+      "win_rate": 1.0,
+      "mean_margin": 435.25,
+      "rows": [
+        {
+          "seed": 1,
+          "margin": 122.0,
+          "win": true,
+          "cand": 149653.0,
+          "opp": 149531.0
+        },
+        {
+          "seed": 1,
+          "margin": 122.0,
+          "win": true,
+          "cand": 149653.0,
+          "opp": 149531.0
+        },
+        {
+          "seed": 2,
+          "margin": 881.0,
+          "win": true,
+          "cand": 78814.0,
+          "opp": 77933.0
+        },
+        {
+          "seed": 2,
+          "margin": 881.0,
+          "win": true,
+          "cand": 78814.0,
+          "opp": 77933.0
+        },
+        {
+          "seed": 3,
+          "margin": 646.0,
+          "win": true,
+          "cand": 74735.0,
+          "opp": 74089.0
+        },
+        {
+          "seed": 3,
+          "margin": 646.0,
+          "win": true,
+          "cand": 74735.0,
+          "opp": 74089.0
+        },
+        {
+          "seed": 4,
+          "margin": 297.0,
+          "win": true,
+          "cand": 74799.0,
+          "opp": 74502.0
+        },
+        {
+          "seed": 4,
+          "margin": 297.0,
+          "win": true,
+          "cand": 74799.0,
+          "opp": 74502.0
+        },
+        {
+          "seed": 5,
+          "margin": 470.0,
+          "win": true,
+          "cand": 90925.0,
+          "opp": 90455.0
+        },
+        {
+          "seed": 5,
+          "margin": 470.0,
+          "win": true,
+          "cand": 90925.0,
+          "opp": 90455.0
+        },
+        {
+          "seed": 6,
+          "margin": 152.0,
+          "win": true,
+          "cand": 84408.0,
+          "opp": 84256.0
+        },
+        {
+          "seed": 6,
+          "margin": 152.0,
+          "win": true,
+          "cand": 84408.0,
+          "opp": 84256.0
+        },
+        {
+          "seed": 7,
+          "margin": 267.0,
+          "win": true,
+          "cand": 91519.0,
+          "opp": 91252.0
+        },
+        {
+          "seed": 7,
+          "margin": 267.0,
+          "win": true,
+          "cand": 91519.0,
+          "opp": 91252.0
+        },
+        {
+          "seed": 8,
+          "margin": 647.0,
+          "win": true,
+          "cand": 85001.0,
+          "opp": 84354.0
+        },
+        {
+          "seed": 8,
+          "margin": 647.0,
+          "win": true,
+          "cand": 85001.0,
+          "opp": 84354.0
+        }
+      ]
+    },
+    "shop": {
+      "n": 12,
+      "wins": 12,
+      "win_rate": 1.0,
+      "mean_margin": 3448.5,
+      "rows": [
+        {
+          "seed": 1,
+          "margin": 1941.0,
+          "win": true,
+          "cand": 149280.0,
+          "opp": 147339.0
+        },
+        {
+          "seed": 1,
+          "margin": 1941.0,
+          "win": true,
+          "cand": 149280.0,
+          "opp": 147339.0
+        },
+        {
+          "seed": 2,
+          "margin": 7307.0,
+          "win": true,
+          "cand": 77623.0,
+          "opp": 70316.0
+        },
+        {
+          "seed": 2,
+          "margin": 7307.0,
+          "win": true,
+          "cand": 77623.0,
+          "opp": 70316.0
+        },
+        {
+          "seed": 3,
+          "margin": 5862.0,
+          "win": true,
+          "cand": 77020.0,
+          "opp": 71158.0
+        },
+        {
+          "seed": 3,
+          "margin": 5862.0,
+          "win": true,
+          "cand": 77020.0,
+          "opp": 71158.0
+        },
+        {
+          "seed": 4,
+          "margin": 774.0,
+          "win": true,
+          "cand": 74012.0,
+          "opp": 73238.0
+        },
+        {
+          "seed": 4,
+          "margin": 774.0,
+          "win": true,
+          "cand": 74012.0,
+          "opp": 73238.0
+        },
+        {
+          "seed": 5,
+          "margin": 543.0,
+          "win": true,
+          "cand": 91829.0,
+          "opp": 91286.0
+        },
+        {
+          "seed": 5,
+          "margin": 543.0,
+          "win": true,
+          "cand": 91829.0,
+          "opp": 91286.0
+        },
+        {
+          "seed": 6,
+          "margin": 4264.0,
+          "win": true,
+          "cand": 85277.0,
+          "opp": 81013.0
+        },
+        {
+          "seed": 6,
+          "margin": 4264.0,
+          "win": true,
+          "cand": 85277.0,
+          "opp": 81013.0
+        }
+      ]
+    },
+    "thomas": {
+      "n": 6,
+      "wins": 6,
+      "win_rate": 1.0,
+      "mean_margin": 2002.0,
+      "rows": [
+        {
+          "seed": 1,
+          "margin": 1469.0,
+          "win": true,
+          "cand": 149721.0,
+          "opp": 148252.0
+        },
+        {
+          "seed": 1,
+          "margin": 1469.0,
+          "win": true,
+          "cand": 149721.0,
+          "opp": 148252.0
+        },
+        {
+          "seed": 2,
+          "margin": 3267.0,
+          "win": true,
+          "cand": 79132.0,
+          "opp": 75865.0
+        },
+        {
+          "seed": 2,
+          "margin": 3267.0,
+          "win": true,
+          "cand": 79132.0,
+          "opp": 75865.0
+        },
+        {
+          "seed": 3,
+          "margin": 1270.0,
+          "win": true,
+          "cand": 74882.0,
+          "opp": 73612.0
+        },
+        {
+          "seed": 3,
+          "margin": 1270.0,
+          "win": true,
+          "cand": 74882.0,
+          "opp": 73612.0
+        }
+      ]
+    },
+    "dual_gate": "PASS",
+    "package": "D:\\\u684c\u9762\\Kaggle\\kaggriculture\\_push_h3pp_term636\\submission.tar.gz",
+    "sha": "e4ef4d65a4333251"
+  }
+}

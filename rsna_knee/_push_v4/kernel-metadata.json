@@ -1,0 +1,16 @@
+{
+  "id": "ziyiming/rsna-v4-smoke-3ep-gpu",
+  "title": "RSNA v4 smoke 3ep GPU",
+  "code_file": "rsna_v4_smoke_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["rsna-knee-abnormality-detection"],
+  "dataset_sources": [
+    "barun2104/rsna-knee-stratified-folds-and-llm-soft-labels",
+    "matteonaccarato/resnet34-imagenet-pth"
+  ],
+  "model_sources": []
+}

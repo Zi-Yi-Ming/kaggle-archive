@@ -1,0 +1,155 @@
+{
+  "variants": {
+    "tape_plus_sell": {
+      "metav4": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 3180.0,
+            "opp": 181029.0,
+            "margin": -177849.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 3180.0,
+            "opp": 181029.0,
+            "margin": -177849.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 9107.0,
+            "opp": 191257.0,
+            "margin": -182150.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 9107.0,
+            "opp": 191257.0,
+            "margin": -182150.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cand": 2177.0,
+            "opp": 136457.0,
+            "margin": -134280.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cand": 2177.0,
+            "opp": 136457.0,
+            "margin": -134280.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cand": 10887.0,
+            "opp": 184193.0,
+            "margin": -173306.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cand": 10887.0,
+            "opp": 184193.0,
+            "margin": -173306.0,
+            "win": false
+          }
+        ],
+        "summary": {
+          "n": 8,
+          "wins": 0,
+          "win_rate": 0.0,
+          "mean_margin": -166896.25
+        }
+      },
+      "shop": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 3457.0,
+            "opp": 177260.0,
+            "margin": -173803.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 3457.0,
+            "opp": 177260.0,
+            "margin": -173803.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 9485.0,
+            "opp": 183455.0,
+            "margin": -173970.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 9485.0,
+            "opp": 183455.0,
+            "margin": -173970.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cand": 2233.0,
+            "opp": 124970.0,
+            "margin": -122737.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cand": 2233.0,
+            "opp": 124970.0,
+            "margin": -122737.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cand": 8802.0,
+            "opp": 190137.0,
+            "margin": -181335.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cand": 8802.0,
+            "opp": 190137.0,
+            "margin": -181335.0,
+            "win": false
+          }
+        ],
+        "summary": {
+          "n": 8,
+          "wins": 0,
+          "win_rate": 0.0,
+          "mean_margin": -162961.25
+        }
+      },
+      "verdict": "NO mv={'n': 8, 'wins': 0, 'win_rate': 0.0, 'mean_margin': -166896.25} sh={'n': 8, 'wins': 0, 'win_rate': 0.0, 'mean_margin': -162961.25}"
+    }
+  }
+}

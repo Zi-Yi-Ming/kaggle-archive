@@ -1,0 +1,290 @@
+[
+  {
+    "status": "ok",
+    "bank_a": 57796.0,
+    "bank_b": 59646.0,
+    "win": 0,
+    "candidate": "v11E",
+    "seed": 1,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 80093.0,
+    "bank_b": 80696.0,
+    "win": 0,
+    "candidate": "v11E",
+    "seed": 1,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 112731.0,
+    "bank_b": 114579.0,
+    "win": 0,
+    "candidate": "v11E",
+    "seed": 2,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 64328.0,
+    "bank_b": 66609.0,
+    "win": 0,
+    "candidate": "v11E",
+    "seed": 2,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 46522.0,
+    "bank_b": 46887.0,
+    "win": 0,
+    "candidate": "v11E",
+    "seed": 3,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 104334.0,
+    "bank_b": 104579.0,
+    "win": 0,
+    "candidate": "v11E",
+    "seed": 3,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 39129.0,
+    "bank_b": 39500.0,
+    "win": 0,
+    "candidate": "v11E",
+    "seed": 4,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 84152.0,
+    "bank_b": 86003.0,
+    "win": 0,
+    "candidate": "v11E",
+    "seed": 4,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 54482.0,
+    "bank_b": 57590.0,
+    "win": 0,
+    "candidate": "sey_v21",
+    "seed": 1,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 93964.0,
+    "bank_b": 94400.0,
+    "win": 0,
+    "candidate": "sey_v21",
+    "seed": 1,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 75760.0,
+    "bank_b": 77865.0,
+    "win": 0,
+    "candidate": "sey_v21",
+    "seed": 2,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 40021.0,
+    "bank_b": 43840.0,
+    "win": 0,
+    "candidate": "sey_v21",
+    "seed": 2,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 134951.0,
+    "bank_b": 136025.0,
+    "win": 0,
+    "candidate": "sey_v21",
+    "seed": 3,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 56766.0,
+    "bank_b": 62166.0,
+    "win": 0,
+    "candidate": "sey_v21",
+    "seed": 3,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 108055.0,
+    "bank_b": 110380.0,
+    "win": 0,
+    "candidate": "sey_v21",
+    "seed": 4,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 102741.0,
+    "bank_b": 103853.0,
+    "win": 0,
+    "candidate": "sey_v21",
+    "seed": 4,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 107842.0,
+    "bank_b": 108437.0,
+    "win": 0,
+    "candidate": "gyt_v5",
+    "seed": 1,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 120058.0,
+    "bank_b": 118882.0,
+    "win": 1,
+    "candidate": "gyt_v5",
+    "seed": 1,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 69434.0,
+    "bank_b": 71104.0,
+    "win": 0,
+    "candidate": "gyt_v5",
+    "seed": 2,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 62557.0,
+    "bank_b": 67374.0,
+    "win": 0,
+    "candidate": "gyt_v5",
+    "seed": 2,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 65213.0,
+    "bank_b": 69525.0,
+    "win": 0,
+    "candidate": "gyt_v5",
+    "seed": 3,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 62121.0,
+    "bank_b": 66724.0,
+    "win": 0,
+    "candidate": "gyt_v5",
+    "seed": 3,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 67746.0,
+    "bank_b": 71465.0,
+    "win": 0,
+    "candidate": "gyt_v5",
+    "seed": 4,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 104307.0,
+    "bank_b": 105270.0,
+    "win": 0,
+    "candidate": "gyt_v5",
+    "seed": 4,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 29684.0,
+    "bank_b": 35491.0,
+    "win": 0,
+    "candidate": "cok_v10",
+    "seed": 1,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 128299.0,
+    "bank_b": 129825.0,
+    "win": 0,
+    "candidate": "cok_v10",
+    "seed": 1,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 75898.0,
+    "bank_b": 76063.0,
+    "win": 0,
+    "candidate": "cok_v10",
+    "seed": 2,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 87733.0,
+    "bank_b": 88306.0,
+    "win": 0,
+    "candidate": "cok_v10",
+    "seed": 2,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 92322.0,
+    "bank_b": 94196.0,
+    "win": 0,
+    "candidate": "cok_v10",
+    "seed": 3,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 69155.0,
+    "bank_b": 69278.0,
+    "win": 0,
+    "candidate": "cok_v10",
+    "seed": 3,
+    "seat_a_first": false
+  },
+  {
+    "status": "ok",
+    "bank_a": 56326.0,
+    "bank_b": 57967.0,
+    "win": 0,
+    "candidate": "cok_v10",
+    "seed": 4,
+    "seat_a_first": true
+  },
+  {
+    "status": "ok",
+    "bank_a": 128003.0,
+    "bank_b": 129331.0,
+    "win": 0,
+    "candidate": "cok_v10",
+    "seed": 4,
+    "seat_a_first": false
+  }
+]

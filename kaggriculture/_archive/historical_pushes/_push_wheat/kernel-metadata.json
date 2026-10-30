@@ -1,0 +1,13 @@
+{
+  "id": "ziyiming/v13-wheat-match",
+  "title": "v13 wheat match ABC",
+  "code_file": "v13_wheat_match.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "competition_sources": [],
+  "dataset_sources": [],
+  "model_sources": []
+}

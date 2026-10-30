@@ -1,0 +1,16 @@
+Kaggriculture v66
+Copyright 2026 mohui666
+
+This product includes software derived from:
+
+  "238/238 Known Streams | v58 Minimax Closed Loop"
+  Copyright 2026 Kaito Fukami
+  https://www.kaggle.com/code/kaitofukami/238-238-known-streams-v58-minimax-closed-loop
+
+The upstream Kaggle Notebook is distributed under the Apache License,
+Version 2.0.
+
+The v60-v66 derivative adds public-observation route selection, targeted
+economic responses, endgame realization logic, packaging changes, and final
+structured-action sanitization. Files retain their development version names
+to make the dependency and modification lineage visible.

@@ -1,0 +1,61 @@
+{
+  "results": {
+    "nathanjacob__kaggriculture-pipe15-two-la": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\nathanjacob__kaggriculture-pipe15-two-layers.py",
+      "vs_metav4": {
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -2829.5,
+        "errors": 0
+      },
+      "vs_shop_v7": {
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16510.5,
+        "errors": 0
+      }
+    },
+    "prvsiyan__kaggriculture-frontier-the-soi": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\prvsiyan__kaggriculture-frontier-the-soil-rememb.py",
+      "vs_metav4": {
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 78.0,
+        "errors": 0
+      },
+      "vs_shop_v7": {
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16796.5,
+        "errors": 0
+      }
+    },
+    "salemali7__kaggriculture-2900": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\salemali7__kaggriculture-2900.py",
+      "vs_metav4": {
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    }
+  }
+}

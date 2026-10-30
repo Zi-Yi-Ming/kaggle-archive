@@ -1,0 +1,6 @@
+policy,bank,first_ani2,ani8,melon5,melon_conv,sell_2k,cash_5k,cash_20k,field_fill,L1_vs_R2
+R2,181389,0,6,0,10,6,10,12,0,0
+kaito_v27,174341,0,7,0,20,7,10,15,20,35
+qeinstein,162690,0,6,0,10,6,10,12,0,0
+rayk_rank,163494,0,6,0,10,6,10,12,0,0
+DECISION,PHASE_LANDMARK_STRUCTURE_SUPPORTED,,,,"R2/Q/rayk identical landmarks; kaito delayed variant",

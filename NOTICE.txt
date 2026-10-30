@@ -1,0 +1,5 @@
+Local v54 derivative, 2026-09-20. Direct source: https://www.kaggle.com/code/nathanjacob/kaggriculture-pipe16-idle-workers
+All original source notices retained. Apache-2.0.
+Lean Flock: Ahmed Berat Ozer; Metav4 farm and sheep/crew efficiency: Thomas Tschinkel; productive opening: Dmitrii Gluzdov, adapted by Nathan Jacob.
+Upstream includes yhay81, prvsiyan, aurax7, tetsutani, Rayk Kretzschmar, degnonguidi, leoprovorov, destbreso, lucifer19, salemali7, and Kaggle environment contributors.
+Local changes: explicit complete agent export; optional external sell-library path disabled for V54. No claim of independent production plans or original public evaluation reproduction.

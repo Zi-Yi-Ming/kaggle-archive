@@ -1,0 +1,155 @@
+{
+  "variants": {
+    "fish_delta": {
+      "metav4": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 149653.0,
+            "opp": 149531.0,
+            "margin": 122.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 149653.0,
+            "opp": 149531.0,
+            "margin": 122.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 78495.0,
+            "opp": 78077.0,
+            "margin": 418.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 78495.0,
+            "opp": 78077.0,
+            "margin": 418.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cand": 74726.0,
+            "opp": 73970.0,
+            "margin": 756.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cand": 74726.0,
+            "opp": 73970.0,
+            "margin": 756.0,
+            "win": true
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cand": 74775.0,
+            "opp": 74595.0,
+            "margin": 180.0,
+            "win": true
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cand": 74775.0,
+            "opp": 74595.0,
+            "margin": 180.0,
+            "win": true
+          }
+        ],
+        "summary": {
+          "n": 8,
+          "wins": 8,
+          "win_rate": 1.0,
+          "mean_margin": 369.0
+        }
+      },
+      "shop": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 149684.0,
+            "opp": 147419.0,
+            "margin": 2265.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 149684.0,
+            "opp": 147419.0,
+            "margin": 2265.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 77649.0,
+            "opp": 69811.0,
+            "margin": 7838.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 77649.0,
+            "opp": 69811.0,
+            "margin": 7838.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cand": 77442.0,
+            "opp": 71158.0,
+            "margin": 6284.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cand": 77442.0,
+            "opp": 71158.0,
+            "margin": 6284.0,
+            "win": true
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cand": 74108.0,
+            "opp": 73210.0,
+            "margin": 898.0,
+            "win": true
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cand": 74108.0,
+            "opp": 73210.0,
+            "margin": 898.0,
+            "win": true
+          }
+        ],
+        "summary": {
+          "n": 8,
+          "wins": 8,
+          "win_rate": 1.0,
+          "mean_margin": 4321.25
+        }
+      },
+      "verdict": "DUAL PASS strong"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ziyiming/rsna-exp016-smoke-cpu",
+  "title": "RSNA EXP016 smoke CPU",
+  "code_file": "rsna_exp016_smoke_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [],
+  "model_sources": []
+}

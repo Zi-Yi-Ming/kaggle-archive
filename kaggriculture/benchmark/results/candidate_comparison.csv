@@ -1,0 +1,5 @@
+candidate,verdict,completed_games,wins,losses,ties,win_rate,wilson_ci_lo,wilson_ci_hi,mean_margin,median_margin,std_margin,seat0_wr,seat1_wr,seat_bias
+tetsu2131,ADVANCE,16,16,0,0,1.0,1.0,1.0,20194.0625,18693.0,6938.753773812251,1.0,1.0,False
+prvsiyan,ADVANCE,16,16,0,0,1.0,1.0,1.0,50398.0,47993.0,10855.002164900752,1.0,1.0,False
+flexonafft,ADVANCE,16,16,0,0,1.0,1.0,1.0,44355.375,42598.0,7663.905726480135,1.0,1.0,False
+salemali7,ADVANCE,16,16,0,0,1.0,1.0,1.0,23968.0625,24861.0,4830.891318752032,1.0,1.0,False

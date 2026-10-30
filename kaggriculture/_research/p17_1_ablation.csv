@@ -1,0 +1,4 @@
+arm,wins,bank,d15,d29,lib_better_pairs,bankrupt
+BACKBONE,0,11383,4001,11383,,0
+LIB,0,25086,13219,25086,8,0
+DECISION,CONTINUATION_LIBRARY_SUPPORTED,,,,"+120% bank 8/8 paired; still 0-8 vs R2",

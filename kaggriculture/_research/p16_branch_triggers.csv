@@ -1,0 +1,4 @@
+trigger_id,observable,threshold,when,action
+T_MELON_MISSING,count tiles crop==MELON,==0,day>=10,FAIL_WINDOW
+T_CASH_LOW,farm.money,<400,day>=10,FAIL_WINDOW
+T_MELON_STUCK,shed.MELON + field melon yield,>0 and money<1500,day>=10,FORCE_SELL

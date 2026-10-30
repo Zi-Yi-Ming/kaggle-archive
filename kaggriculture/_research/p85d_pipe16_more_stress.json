@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "name": "p16_shop_v7_s9_16",
+      "n": 16,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -10176.5
+    },
+    {
+      "name": "mv4_shop_v7_s9_16",
+      "n": 16,
+      "wins": 16,
+      "win_rate": 1.0,
+      "mean_margin": 2599.7
+    },
+    {
+      "name": "shop_v5_s1_4",
+      "n": 0,
+      "wins": 0,
+      "win_rate": null,
+      "mean_margin": null
+    },
+    {
+      "name": "shop_v6_s1_4",
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 3965.5
+    },
+    {
+      "name": "fscore_v4_s1_4",
+      "n": 0,
+      "wins": 0,
+      "win_rate": null,
+      "mean_margin": null
+    },
+    {
+      "name": "fscore_v5_s1_4",
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 4986.5
+    },
+    {
+      "name": "evg_s1_4",
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 4635.5
+    },
+    {
+      "name": "yhay0913_s1_4",
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 12639.0
+    },
+    {
+      "name": "tetsu_s1_4",
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 33650.8
+    },
+    {
+      "name": "flex_s1_4",
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 42301.2
+    },
+    {
+      "name": "R2_s9_12",
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 8598.9
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "n": 20,
+  "wins": 10,
+  "losses": 10,
+  "win_rate": 0.5,
+  "results": [
+    {
+      "episode_id": 111938360,
+      "win": true,
+      "our_reward": 76217,
+      "opp_reward": 75549,
+      "opp_team": "Iswar Patra",
+      "opp_team_id": 16653728,
+      "opp_sub": 56402151,
+      "our_sub": 56453212,
+      "file": "episode-111938360-replay.json"
+    },
+    {
+      "episode_id": 111937728,
+      "win": false,
+      "our_reward": 127257,
+      "opp_reward": 128843,
+      "opp_team": "yefenfei",
+      "opp_team_id": 16853805,
+      "opp_sub": 56455640,
+      "our_sub": 56453212,
+      "file": "episode-111937728-replay.json"
+    },
+    {
+      "episode_id": 111937038,
+      "win": false,
+      "our_reward": 101804,
+      "opp_reward": 101812,
+      "opp_team": "BNBU Astra",
+      "opp_team_id": 16827571,
+      "opp_sub": 56450090,
+      "our_sub": 56453212,
+      "file": "episode-111937038-replay.json"
+    },
+    {
+      "episode_id": 111936494,
+      "win": false,
+      "our_reward": 133388,
+      "opp_reward": 133879,
+      "opp_team": "CornHub Premium",
+      "opp_team_id": 16656432,
+      "opp_sub": 56442836,
+      "our_sub": 56453212,
+      "file": "episode-111936494-replay.json"
+    },
+    {
+      "episode_id": 111936119,
+      "win": false,
+      "our_reward": 155435,
+      "opp_reward": 156127,
+      "opp_team": "Marwan Ashref",
+      "opp_team_id": 16854428,
+      "opp_sub": 56442979,
+      "our_sub": 56453212,
+      "file": "episode-111936119-replay.json"
+    },
+    {
+      "episode_id": 111935779,
+      "win": true,
+      "our_reward": 73631,
+      "opp_reward": 73599,
+      "opp_team": "alcanta",
+      "opp_team_id": 16859815,
+      "opp_sub": 56454012,
+      "our_sub": 56453212,
+      "file": "episode-111935779-replay.json"
+    },
+    {
+      "episode_id": 111934765,
+      "win": true,
+      "our_reward": 106190,
+      "opp_reward": 103160,
+      "opp_team": "oycr",
+      "opp_team_id": 16779564,
+      "opp_sub": 56405449,
+      "our_sub": 56453212,
+      "file": "episode-111934765-replay.json"
+    },
+    {
+      "episode_id": 111934611,
+      "win": false,
+      "our_reward": 89745,
+      "opp_reward": 92309,
+      "opp_team": "haoming yang",
+      "opp_team_id": 16865021,
+      "opp_sub": 56453924,
+      "our_sub": 56453212,
+      "file": "episode-111934611-replay.json"
+    },
+    {
+      "episode_id": 111933689,
+      "win": true,
+      "our_reward": 95323,
+      "opp_reward": 94509,
+      "opp_team": "haru0707",
+      "opp_team_id": 16822602,
+      "opp_sub": 56382247,
+      "our_sub": 56453212,
+      "file": "episode-111933689-replay.json"
+    },
+    {
+      "episode_id": 111932504,
+      "win": false,
+      "our_reward": 108154,
+      "opp_reward": 108881,
+      "opp_team": "Heisnotanimposter",
+      "opp_team_id": 16655567,
+      "opp_sub": 56453470,
+      "our_sub": 56453212,
+      "file": "episode-111932504-replay.json"
+    },
+    {
+      "episode_id": 111931364,
+      "win": true,
+      "our_reward": 150159,
+      "opp_reward": 149749,
+      "opp_team": "Kinance",
+      "opp_team_id": 16768603,
+      "opp_sub": 56405155,
+      "our_sub": 56453212,
+      "file": "episode-111931364-replay.json"
+    },
+    {
+      "episode_id": 111930588,
+      "win": true,
+      "our_reward": 68477,
+      "opp_reward": 66161,
+      "opp_team": "Edric Zhou",
+      "opp_team_id": 16917535,
+      "opp_sub": 56403294,
+      "our_sub": 56453212,
+      "file": "episode-111930588-replay.json"
+    },
+    {
+      "episode_id": 111930221,
+      "win": false,
+      "our_reward": 91731,
+      "opp_reward": 92207,
+      "opp_team": "Phi",
+      "opp_team_id": 16682494,
+      "opp_sub": 56415387,
+      "our_sub": 56453212,
+      "file": "episode-111930221-replay.json"
+    },
+    {
+      "episode_id": 111929255,
+      "win": false,
+      "our_reward": 94368,
+      "opp_reward": 94473,
+      "opp_team": "LP",
+      "opp_team_id": 16859316,
+      "opp_sub": 56450007,
+      "our_sub": 56453212,
+      "file": "episode-111929255-replay.json"
+    },
+    {
+      "episode_id": 111927928,
+      "win": true,
+      "our_reward": 102165,
+      "opp_reward": 102125,
+      "opp_team": "antadam127",
+      "opp_team_id": 16777394,
+      "opp_sub": 56371538,
+      "our_sub": 56453212,
+      "file": "episode-111927928-replay.json"
+    },
+    {
+      "episode_id": 111926824,
+      "win": false,
+      "our_reward": 139612,
+      "opp_reward": 144132,
+      "opp_team": "おかゆん",
+      "opp_team_id": 16845833,
+      "opp_sub": 56448069,
+      "our_sub": 56453212,
+      "file": "episode-111926824-replay.json"
+    },
+    {
+      "episode_id": 111925722,
+      "win": true,
+      "our_reward": 98393,
+      "opp_reward": 98186,
+      "opp_team": "Kazumi Sakamaki",
+      "opp_team_id": 16855214,
+      "opp_sub": 56410554,
+      "our_sub": 56453212,
+      "file": "episode-111925722-replay.json"
+    },
+    {
+      "episode_id": 111924535,
+      "win": false,
+      "our_reward": 112562,
+      "opp_reward": 112695,
+      "opp_team": "Asterope",
+      "opp_team_id": 16807538,
+      "opp_sub": 56453346,
+      "our_sub": 56453212,
+      "file": "episode-111924535-replay.json"
+    },
+    {
+      "episode_id": 111923408,
+      "win": true,
+      "our_reward": 133486,
+      "opp_reward": 132814,
+      "opp_team": "Konstantin Zorin",
+      "opp_team_id": 16881235,
+      "opp_sub": 56442662,
+      "our_sub": 56453212,
+      "file": "episode-111923408-replay.json"
+    },
+    {
+      "episode_id": 111922263,
+      "win": true,
+      "our_reward": 70792,
+      "opp_reward": 62911,
+      "opp_team": "oQo",
+      "opp_team_id": 16755654,
+      "opp_sub": 56383372,
+      "our_sub": 56453212,
+      "file": "episode-111922263-replay.json"
+    }
+  ],
+  "gold_hits": [],
+  "struct_sample": [
+    {
+      "file": "episode-111938360-replay.json",
+      "top_keys": [
+        "configuration",
+        "description",
+        "id",
+        "info",
+        "module_version",
+        "name",
+        "rewards",
+        "schema_version",
+        "specification",
+        "statuses",
+        "steps",
+        "title",
+        "version"
+      ],
+      "n_steps": 720,
+      "agents": [
+        {
+          "teamName": "ZiYiMing"
+        },
+        {
+          "teamName": "Iswar Patra"
+        }
+      ],
+      "step0_keys": null,
+      "sell_counts": {}
+    },
+    {
+      "file": "episode-111937728-replay.json",
+      "top_keys": [
+        "configuration",
+        "description",
+        "id",
+        "info",
+        "module_version",
+        "name",
+        "rewards",
+        "schema_version",
+        "specification",
+        "statuses",
+        "steps",
+        "title",
+        "version"
+      ],
+      "n_steps": 720,
+      "agents": [
+        {
+          "teamName": "ZiYiMing"
+        },
+        {
+          "teamName": "yefenfei"
+        }
+      ],
+      "step0_keys": null,
+      "sell_counts": {}
+    },
+    {
+      "file": "episode-111937038-replay.json",
+      "top_keys": [
+        "configuration",
+        "description",
+        "id",
+        "info",
+        "module_version",
+        "name",
+        "rewards",
+        "schema_version",
+        "specification",
+        "statuses",
+        "steps",
+        "title",
+        "version"
+      ],
+      "n_steps": 720,
+      "agents": [
+        {
+          "teamName": "ZiYiMing"
+        },
+        {
+          "teamName": "BNBU Astra"
+        }
+      ],
+      "step0_keys": null,
+      "sell_counts": {}
+    }
+  ]
+}

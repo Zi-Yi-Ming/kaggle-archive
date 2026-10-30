@@ -1,0 +1,6 @@
+arm,wins,bank,d15,COW_d10,SHEEP_d10,MELON_d10,melon_rev,animal_rev,bankrupt
+B0,0,13720,2324,6.0,0.2,0,0,23238,2
+PF14.1,0,14494,5127,2.0,1.0,132,7256,19022,0
+JOINT,0,14376,3661,1.0,3.9,0,0,19494,0
+note,all_0-8_vs_R2,,,,,,,,"JOINT no bank gain; kills melon window"
+DECISION,LIVESTOCK_INCREMENTAL_WEAK,,,,,,,,

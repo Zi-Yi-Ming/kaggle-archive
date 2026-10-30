@@ -1,0 +1,12 @@
+name,mean_ratio,n_buckets,bank_s11,bank_s12,bank_s13,note
+single_R2,0.2655,180,35477,40404,31056,
+single_kaito_v27,0.2618,174,34490,36058,35361,
+single_qeinstein,0.2655,177,35477,40404,31056,
+single_rayk_rank,0.2655,175,35477,40404,31056,
+multi_R2+kaito+Q+rayk,0.2655,247,35477,40404,31056,unconditioned
+multi_all_cond_R2,0.2655,706,35477,40404,31056,
+multi_all_cond_kaito,0.2618,706,34490,36058,35361,
+LOO_held_R2,0.2618,244,34490,36058,35361,
+LOO_held_kaito,0.2655,203,35477,40404,31056,
+baseline_P29,0.2483,,,,"same-policy corpus"
+DECISION,CROSS_ELITE_TRANSFER_NO_GAIN,,,"+1.7pp vs P29; ceiling is worker stack",

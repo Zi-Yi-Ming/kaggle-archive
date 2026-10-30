@@ -1,0 +1,361 @@
+{
+  "variants": {
+    "h3_plussells": {
+      "metav4": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 148156.0,
+            "opp": 150184.0,
+            "margin": -2028.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 148156.0,
+            "opp": 150184.0,
+            "margin": -2028.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 78011.0,
+            "opp": 79766.0,
+            "margin": -1755.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 78011.0,
+            "opp": 79766.0,
+            "margin": -1755.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cand": 72354.0,
+            "opp": 76572.0,
+            "margin": -4218.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cand": 72354.0,
+            "opp": 76572.0,
+            "margin": -4218.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cand": 74492.0,
+            "opp": 74890.0,
+            "margin": -398.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cand": 74492.0,
+            "opp": 74890.0,
+            "margin": -398.0,
+            "win": false
+          }
+        ],
+        "summary": {
+          "n": 8,
+          "wins": 0,
+          "win_rate": 0.0,
+          "mean_margin": -2099.75
+        }
+      },
+      "shop": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 147826.0,
+            "opp": 148175.0,
+            "margin": -349.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 147826.0,
+            "opp": 148175.0,
+            "margin": -349.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 78956.0,
+            "opp": 71924.0,
+            "margin": 7032.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 78956.0,
+            "opp": 71924.0,
+            "margin": 7032.0,
+            "win": true
+          }
+        ],
+        "summary": {
+          "n": 4,
+          "wins": 2,
+          "win_rate": 0.5,
+          "mean_margin": 3341.5
+        }
+      },
+      "verdict": "NO mv={'n': 8, 'wins': 0, 'win_rate': 0.0, 'mean_margin': -2099.75} sh={'n': 4, 'wins': 2, 'win_rate': 0.5, 'mean_margin': 3341.5}"
+    },
+    "mv_plussells": {
+      "metav4": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 148347.0,
+            "opp": 150461.0,
+            "margin": -2114.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 148347.0,
+            "opp": 150461.0,
+            "margin": -2114.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 78023.0,
+            "opp": 80497.0,
+            "margin": -2474.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 78023.0,
+            "opp": 80497.0,
+            "margin": -2474.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cand": 72438.0,
+            "opp": 76871.0,
+            "margin": -4433.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cand": 72438.0,
+            "opp": 76871.0,
+            "margin": -4433.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cand": 74546.0,
+            "opp": 74975.0,
+            "margin": -429.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cand": 74546.0,
+            "opp": 74975.0,
+            "margin": -429.0,
+            "win": false
+          }
+        ],
+        "summary": {
+          "n": 8,
+          "wins": 0,
+          "win_rate": 0.0,
+          "mean_margin": -2362.5
+        }
+      },
+      "shop": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 148280.0,
+            "opp": 148115.0,
+            "margin": 165.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 148280.0,
+            "opp": 148115.0,
+            "margin": 165.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 79762.0,
+            "opp": 71924.0,
+            "margin": 7838.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 79762.0,
+            "opp": 71924.0,
+            "margin": 7838.0,
+            "win": true
+          }
+        ],
+        "summary": {
+          "n": 4,
+          "wins": 4,
+          "win_rate": 1.0,
+          "mean_margin": 4001.5
+        }
+      },
+      "verdict": "NO mv={'n': 8, 'wins': 0, 'win_rate': 0.0, 'mean_margin': -2362.5} sh={'n': 4, 'wins': 4, 'win_rate': 1.0, 'mean_margin': 4001.5}"
+    },
+    "h3_goldterm": {
+      "metav4": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 148156.0,
+            "opp": 150184.0,
+            "margin": -2028.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 148156.0,
+            "opp": 150184.0,
+            "margin": -2028.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 78011.0,
+            "opp": 79766.0,
+            "margin": -1755.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 78011.0,
+            "opp": 79766.0,
+            "margin": -1755.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cand": 72354.0,
+            "opp": 76572.0,
+            "margin": -4218.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cand": 72354.0,
+            "opp": 76572.0,
+            "margin": -4218.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cand": 74492.0,
+            "opp": 74890.0,
+            "margin": -398.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cand": 74492.0,
+            "opp": 74890.0,
+            "margin": -398.0,
+            "win": false
+          }
+        ],
+        "summary": {
+          "n": 8,
+          "wins": 0,
+          "win_rate": 0.0,
+          "mean_margin": -2099.75
+        }
+      },
+      "shop": {
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cand": 147826.0,
+            "opp": 148175.0,
+            "margin": -349.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cand": 147826.0,
+            "opp": 148175.0,
+            "margin": -349.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cand": 78956.0,
+            "opp": 71924.0,
+            "margin": 7032.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cand": 78956.0,
+            "opp": 71924.0,
+            "margin": 7032.0,
+            "win": true
+          }
+        ],
+        "summary": {
+          "n": 4,
+          "wins": 2,
+          "win_rate": 0.5,
+          "mean_margin": 3341.5
+        }
+      },
+      "verdict": "NO mv={'n': 8, 'wins': 0, 'win_rate': 0.0, 'mean_margin': -2099.75} sh={'n': 4, 'wins': 2, 'win_rate': 0.5, 'mean_margin': 3341.5}"
+    }
+  }
+}

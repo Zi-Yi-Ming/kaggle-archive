@@ -1,0 +1,16 @@
+{
+  "fert_route": {
+    "metav4": {
+      "n": 12,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -12609.5
+    },
+    "shop": {
+      "n": 8,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -12505.25
+    }
+  }
+}

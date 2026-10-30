@@ -1,0 +1,7 @@
+case,empty,cash,day,farmers,WHEAT,CARROT,TOMATO,STRAWBERRY,MELON,total,has_long,has_short
+d0_start,25,3000,0,5,5,0,4,0,16,25,1,1
+d0_poor,25,800,0,5,7,0,1,0,6,14,1,1
+d1_after_buy,10,200,1,6,0,0,0,0,0,0,0,0
+d5_mid,8,700,5,8,3,0,0,0,5,8,1,1
+d8_late,12,1500,8,8,3,0,1,0,8,12,1,1
+d15_too_late_long,10,2000,15,8,3,0,0,0,7,10,1,1

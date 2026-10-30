@@ -1,0 +1,2440 @@
+{
+  "results": {
+    "ahmed_v45": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p75_mass\\extracted\\ahmedberatozer__kaggriculture-v45-first-.py",
+      "rows": [
+        {
+          "cand": "ahmed_v45",
+          "seed": 1,
+          "seat0": true,
+          "error": "TypeError:object() takes no arguments"
+        },
+        {
+          "cand": "ahmed_v45",
+          "seed": 1,
+          "seat0": false,
+          "error": "TypeError:object() takes no arguments"
+        },
+        {
+          "cand": "ahmed_v45",
+          "seed": 2,
+          "seat0": true,
+          "error": "TypeError:object() takes no arguments"
+        },
+        {
+          "cand": "ahmed_v45",
+          "seed": 2,
+          "seat0": false,
+          "error": "TypeError:object() takes no arguments"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "ahmed_v47": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p75_mass\\extracted\\ahmedberatozer__kaggriculture-v47-reacti.py",
+      "rows": [
+        {
+          "cand": "ahmed_v47",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v47",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v47",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v47",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "ahmed_v48": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p75_mass\\extracted\\ahmedberatozer__kaggriculture-v48-clear-.py",
+      "rows": [
+        {
+          "cand": "ahmed_v48",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v48",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v48",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v48",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "ahmed_v49": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p75_mass\\extracted\\ahmedberatozer__kaggriculture-v49-funded.py",
+      "rows": [
+        {
+          "cand": "ahmed_v49",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v49",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v49",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "ahmed_v49",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "ahmed_v50": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_20260919\\extracted\\ahmed_v50_clean.py",
+      "rows": [
+        {
+          "cand": "ahmed_v50",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmed_v50",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmed_v50",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmed_v50",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "dmitrii_herd": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\dmitriigluzdov__kaggriculture-herd-safe-sale-win.py",
+      "rows": [
+        {
+          "cand": "dmitrii_herd",
+          "seed": 1,
+          "seat0": true,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p77\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitrii_herd",
+          "seed": 1,
+          "seat0": false,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p77\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitrii_herd",
+          "seed": 2,
+          "seat0": true,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p77\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitrii_herd",
+          "seed": 2,
+          "seat0": false,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p77\\\\extracted\\\\settings.json'"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "prvsiyan_moon": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\public_nb\\prvsiyan_moon\\main.py",
+      "rows": [
+        {
+          "cand": "prvsiyan_moon",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.4
+        },
+        {
+          "cand": "prvsiyan_moon",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.2
+        },
+        {
+          "cand": "prvsiyan_moon",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 80237.0,
+          "thomas_bank": 97395.0,
+          "margin": -17158.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.6
+        },
+        {
+          "cand": "prvsiyan_moon",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 80237.0,
+          "thomas_bank": 97395.0,
+          "margin": -17158.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.2
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -11244.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "prvsiyan_rain": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\git\\danilchil\\public\\prvsiyan_rain\\prvsiyan_agent.py",
+      "rows": [
+        {
+          "cand": "prvsiyan_rain",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.8
+        },
+        {
+          "cand": "prvsiyan_rain",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        },
+        {
+          "cand": "prvsiyan_rain",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 80237.0,
+          "thomas_bank": 97395.0,
+          "margin": -17158.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.4
+        },
+        {
+          "cand": "prvsiyan_rain",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 80237.0,
+          "thomas_bank": 97395.0,
+          "margin": -17158.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -11244.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "kaito_v58": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\public_nb\\kaito_v58\\main.py",
+      "rows": [
+        {
+          "cand": "kaito_v58",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 113190.0,
+          "thomas_bank": 132249.0,
+          "margin": -19059.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 15.2
+        },
+        {
+          "cand": "kaito_v58",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 113190.0,
+          "thomas_bank": 132249.0,
+          "margin": -19059.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 14.8
+        },
+        {
+          "cand": "kaito_v58",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 79845.0,
+          "thomas_bank": 96122.0,
+          "margin": -16277.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 15.7
+        },
+        {
+          "cand": "kaito_v58",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 79845.0,
+          "thomas_bank": 96122.0,
+          "margin": -16277.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 16.2
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -17668.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "kaito_v48": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\public_nb\\kaito_v48\\main.py",
+      "rows": [
+        {
+          "cand": "kaito_v48",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 78704.0,
+          "thomas_bank": 101117.0,
+          "margin": -22413.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.0
+        },
+        {
+          "cand": "kaito_v48",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 78704.0,
+          "thomas_bank": 101117.0,
+          "margin": -22413.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.7
+        },
+        {
+          "cand": "kaito_v48",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 42581.0,
+          "thomas_bank": 72919.0,
+          "margin": -30338.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.4
+        },
+        {
+          "cand": "kaito_v48",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 42581.0,
+          "thomas_bank": 72919.0,
+          "margin": -30338.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.1
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -26375.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "aurax7_v7": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p75_mass\\extracted\\aurax7__kaggriculture-shop-router-reacti.py",
+      "rows": [
+        {
+          "cand": "aurax7_v7",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:from __future__ imports must occur at the beginning of the file (aurax7__kaggriculture-shop-router-reacti.py, line 42)"
+        },
+        {
+          "cand": "aurax7_v7",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:from __future__ imports must occur at the beginning of the file (aurax7__kaggriculture-shop-router-reacti.py, line 42)"
+        },
+        {
+          "cand": "aurax7_v7",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:from __future__ imports must occur at the beginning of the file (aurax7__kaggriculture-shop-router-reacti.py, line 42)"
+        },
+        {
+          "cand": "aurax7_v7",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:from __future__ imports must occur at the beginning of the file (aurax7__kaggriculture-shop-router-reacti.py, line 42)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "lynnsakurai_v5": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\lynnsakurai__farming-score-v5-timing-optimized.py",
+      "rows": [
+        {
+          "cand": "lynnsakurai_v5",
+          "seed": 1,
+          "seat0": true,
+          "error": "AssertionError:"
+        },
+        {
+          "cand": "lynnsakurai_v5",
+          "seed": 1,
+          "seat0": false,
+          "error": "AssertionError:"
+        },
+        {
+          "cand": "lynnsakurai_v5",
+          "seed": 2,
+          "seat0": true,
+          "error": "AssertionError:"
+        },
+        {
+          "cand": "lynnsakurai_v5",
+          "seed": 2,
+          "seat0": false,
+          "error": "AssertionError:"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "crystalbaby_v38": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\crystalbaby__kaggriculture-v38-public-submission.py",
+      "rows": [
+        {
+          "cand": "crystalbaby_v38",
+          "seed": 1,
+          "seat0": true,
+          "error": "IndentationError:expected an indented block after 'with' statement on line 2493 (crystalbaby__kaggriculture-v38-public-submission.py, line 2494)"
+        },
+        {
+          "cand": "crystalbaby_v38",
+          "seed": 1,
+          "seat0": false,
+          "error": "IndentationError:expected an indented block after 'with' statement on line 2493 (crystalbaby__kaggriculture-v38-public-submission.py, line 2494)"
+        },
+        {
+          "cand": "crystalbaby_v38",
+          "seed": 2,
+          "seat0": true,
+          "error": "IndentationError:expected an indented block after 'with' statement on line 2493 (crystalbaby__kaggriculture-v38-public-submission.py, line 2494)"
+        },
+        {
+          "cand": "crystalbaby_v38",
+          "seed": 2,
+          "seat0": false,
+          "error": "IndentationError:expected an indented block after 'with' statement on line 2493 (crystalbaby__kaggriculture-v38-public-submission.py, line 2494)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "arsgorynich_v40": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\arsgorynich__kaggriculture-v40-challenger.py",
+      "rows": [
+        {
+          "cand": "arsgorynich_v40",
+          "seed": 1,
+          "seat0": true,
+          "error": "IndentationError:expected an indented block after 'with' statement on line 2741 (arsgorynich__kaggriculture-v40-challenger.py, line 2742)"
+        },
+        {
+          "cand": "arsgorynich_v40",
+          "seed": 1,
+          "seat0": false,
+          "error": "IndentationError:expected an indented block after 'with' statement on line 2741 (arsgorynich__kaggriculture-v40-challenger.py, line 2742)"
+        },
+        {
+          "cand": "arsgorynich_v40",
+          "seed": 2,
+          "seat0": true,
+          "error": "IndentationError:expected an indented block after 'with' statement on line 2741 (arsgorynich__kaggriculture-v40-challenger.py, line 2742)"
+        },
+        {
+          "cand": "arsgorynich_v40",
+          "seed": 2,
+          "seat0": false,
+          "error": "IndentationError:expected an indented block after 'with' statement on line 2741 (arsgorynich__kaggriculture-v40-challenger.py, line 2742)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "denizeryilmaz_v111": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\denizeryilmaz__v111-8c4s-economic-core-premium-l.py",
+      "rows": [
+        {
+          "cand": "denizeryilmaz_v111",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "cand": "denizeryilmaz_v111",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "cand": "denizeryilmaz_v111",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "cand": "denizeryilmaz_v111",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "andrewsokolovsky": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\andrewsokolovsky__kaggriculture-breaking-the-tie.py",
+      "rows": [
+        {
+          "cand": "andrewsokolovsky",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:unterminated triple-quoted string literal (detected at line 374) (andrewsokolovsky__kaggriculture-breaking-the-tie.py, line 371)"
+        },
+        {
+          "cand": "andrewsokolovsky",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:unterminated triple-quoted string literal (detected at line 374) (andrewsokolovsky__kaggriculture-breaking-the-tie.py, line 371)"
+        },
+        {
+          "cand": "andrewsokolovsky",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:unterminated triple-quoted string literal (detected at line 374) (andrewsokolovsky__kaggriculture-breaking-the-tie.py, line 371)"
+        },
+        {
+          "cand": "andrewsokolovsky",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:unterminated triple-quoted string literal (detected at line 374) (andrewsokolovsky__kaggriculture-breaking-the-tie.py, line 371)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "municef_2448": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\municef1__lb-2448-single-file-kaggriculture-agen.py",
+      "rows": [
+        {
+          "cand": "municef_2448",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 120423.0,
+          "thomas_bank": 126139.0,
+          "margin": -5716.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.7
+        },
+        {
+          "cand": "municef_2448",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 120423.0,
+          "thomas_bank": 126139.0,
+          "margin": -5716.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.7
+        },
+        {
+          "cand": "municef_2448",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 119504.0,
+          "thomas_bank": 132708.0,
+          "margin": -13204.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.5
+        },
+        {
+          "cand": "municef_2448",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 119504.0,
+          "thomas_bank": 132708.0,
+          "margin": -13204.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.4
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -9460.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "guru_master_v3": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_20260919\\extracted\\guru_master_v3.py",
+      "rows": [
+        {
+          "cand": "guru_master_v3",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 149505.0,
+          "thomas_bank": 149505.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.6
+        },
+        {
+          "cand": "guru_master_v3",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 149505.0,
+          "thomas_bank": 149505.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.5
+        },
+        {
+          "cand": "guru_master_v3",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 78514.0,
+          "thomas_bank": 78514.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.9
+        },
+        {
+          "cand": "guru_master_v3",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 78514.0,
+          "thomas_bank": 78514.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 11.0
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": 0.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "flexonafft": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\top5_notebooks\\flexonafft\\flexonafft_main.py",
+      "rows": [
+        {
+          "cand": "flexonafft",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 109201.0,
+          "thomas_bank": 154556.0,
+          "margin": -45355.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.0
+        },
+        {
+          "cand": "flexonafft",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 109201.0,
+          "thomas_bank": 154556.0,
+          "margin": -45355.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "flexonafft",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 76963.0,
+          "thomas_bank": 116267.0,
+          "margin": -39304.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "flexonafft",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 76963.0,
+          "thomas_bank": 116267.0,
+          "margin": -39304.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -42329.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "tetsu2131": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\top5_notebooks\\tetsu2131\\tetsu2131_main.py",
+      "rows": [
+        {
+          "cand": "tetsu2131",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 26349.0,
+          "thomas_bank": 63233.0,
+          "margin": -36884.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.6
+        },
+        {
+          "cand": "tetsu2131",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 26349.0,
+          "thomas_bank": 63233.0,
+          "margin": -36884.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "tetsu2131",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 104314.0,
+          "thomas_bank": 134164.0,
+          "margin": -29850.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.6
+        },
+        {
+          "cand": "tetsu2131",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 104314.0,
+          "thomas_bank": 134164.0,
+          "margin": -29850.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.6
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -33367.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "prvsiyan_top5": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\top5_notebooks\\prvsiyan\\prvsiyan_main.py",
+      "rows": [
+        {
+          "cand": "prvsiyan_top5",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "cand": "prvsiyan_top5",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 144661.0,
+          "thomas_bank": 149991.0,
+          "margin": -5330.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "cand": "prvsiyan_top5",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 67275.0,
+          "thomas_bank": 79358.0,
+          "margin": -12083.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.2
+        },
+        {
+          "cand": "prvsiyan_top5",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 67275.0,
+          "thomas_bank": 79358.0,
+          "margin": -12083.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.5
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -8706.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "gzmcr": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\gzmcr\\main.py",
+      "rows": [
+        {
+          "cand": "gzmcr",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 46405.0,
+          "thomas_bank": 143016.0,
+          "margin": -96611.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "cand": "gzmcr",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 46405.0,
+          "thomas_bank": 143016.0,
+          "margin": -96611.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "cand": "gzmcr",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 54312.0,
+          "thomas_bank": 95209.0,
+          "margin": -40897.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "cand": "gzmcr",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 54312.0,
+          "thomas_bank": 95209.0,
+          "margin": -40897.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -68754.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "lonespear": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\lonespear\\main.py",
+      "rows": [
+        {
+          "cand": "lonespear",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 78138.0,
+          "thomas_bank": 170252.0,
+          "margin": -92114.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        },
+        {
+          "cand": "lonespear",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 78138.0,
+          "thomas_bank": 170252.0,
+          "margin": -92114.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        },
+        {
+          "cand": "lonespear",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 57955.0,
+          "thomas_bank": 120582.0,
+          "margin": -62627.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.2
+        },
+        {
+          "cand": "lonespear",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 57955.0,
+          "thomas_bank": 120582.0,
+          "margin": -62627.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.1
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -77370.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "sey_v21": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\root_public_agents\\sey_v21\\main.py",
+      "rows": [
+        {
+          "cand": "sey_v21",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 67269.0,
+          "thomas_bank": 118216.0,
+          "margin": -50947.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.1
+        },
+        {
+          "cand": "sey_v21",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 67269.0,
+          "thomas_bank": 118216.0,
+          "margin": -50947.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.3
+        },
+        {
+          "cand": "sey_v21",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 58134.0,
+          "thomas_bank": 104667.0,
+          "margin": -46533.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.6
+        },
+        {
+          "cand": "sey_v21",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 58134.0,
+          "thomas_bank": 104667.0,
+          "margin": -46533.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.5
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -48740.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "cok_v10": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\root_public_agents\\cok_v10\\main.py",
+      "rows": [
+        {
+          "cand": "cok_v10",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 26985.0,
+          "thomas_bank": 62843.0,
+          "margin": -35858.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.2
+        },
+        {
+          "cand": "cok_v10",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 26985.0,
+          "thomas_bank": 62843.0,
+          "margin": -35858.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.9
+        },
+        {
+          "cand": "cok_v10",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 105113.0,
+          "thomas_bank": 133884.0,
+          "margin": -28771.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.5
+        },
+        {
+          "cand": "cok_v10",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 105113.0,
+          "thomas_bank": 133884.0,
+          "margin": -28771.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.1
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -32314.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "pomagrenate": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\pomagrenate\\main.py",
+      "rows": [
+        {
+          "cand": "pomagrenate",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 9337.0,
+          "thomas_bank": 176486.0,
+          "margin": -167149.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.2
+        },
+        {
+          "cand": "pomagrenate",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 9347.0,
+          "thomas_bank": 176486.0,
+          "margin": -167139.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 4.2
+        },
+        {
+          "cand": "pomagrenate",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 9159.0,
+          "thomas_bank": 178327.0,
+          "margin": -169168.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 4.0
+        },
+        {
+          "cand": "pomagrenate",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 9149.0,
+          "thomas_bank": 178327.0,
+          "margin": -169178.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 3.8
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -168158.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "octahedron": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\Octahedron-BB_Kaggriculture\\main.py",
+      "rows": [
+        {
+          "cand": "octahedron",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 66981.0,
+          "thomas_bank": 120249.0,
+          "margin": -53268.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        },
+        {
+          "cand": "octahedron",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 66981.0,
+          "thomas_bank": 120249.0,
+          "margin": -53268.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.4
+        },
+        {
+          "cand": "octahedron",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 59573.0,
+          "thomas_bank": 106273.0,
+          "margin": -46700.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.4
+        },
+        {
+          "cand": "octahedron",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 59573.0,
+          "thomas_bank": 106273.0,
+          "margin": -46700.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.4
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -49984.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "rayk_c94": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p41_extracted\\rayk_c94_main.py",
+      "rows": [
+        {
+          "cand": "rayk_c94",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 72092.0,
+          "thomas_bank": 121882.0,
+          "margin": -49790.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "cand": "rayk_c94",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 72092.0,
+          "thomas_bank": 121882.0,
+          "margin": -49790.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "cand": "rayk_c94",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 63890.0,
+          "thomas_bank": 86561.0,
+          "margin": -22671.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "cand": "rayk_c94",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 63890.0,
+          "thomas_bank": 86561.0,
+          "margin": -22671.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -36230.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "boatlee_v20": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\public_nb\\boatlee_v20\\main.py",
+      "rows": [
+        {
+          "cand": "boatlee_v20",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 26349.0,
+          "thomas_bank": 63233.0,
+          "margin": -36884.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "boatlee_v20",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 26349.0,
+          "thomas_bank": 63233.0,
+          "margin": -36884.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "cand": "boatlee_v20",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 104314.0,
+          "thomas_bank": 134164.0,
+          "margin": -29850.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "cand": "boatlee_v20",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 104314.0,
+          "thomas_bank": 134164.0,
+          "margin": -29850.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -33367.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "p71_v48": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p71_new\\v48_queue_main.py",
+      "rows": [
+        {
+          "cand": "p71_v48",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "p71_v48",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "p71_v48",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "p71_v48",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "p71_evo": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p71_new\\evolution_main.py",
+      "rows": [
+        {
+          "cand": "p71_evo",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 147384.0,
+          "thomas_bank": 151212.0,
+          "margin": -3828.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.9
+        },
+        {
+          "cand": "p71_evo",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 147384.0,
+          "thomas_bank": 151212.0,
+          "margin": -3828.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.8
+        },
+        {
+          "cand": "p71_evo",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 70401.0,
+          "thomas_bank": 77908.0,
+          "margin": -7507.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.2
+        },
+        {
+          "cand": "p71_evo",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 70401.0,
+          "thomas_bank": 77908.0,
+          "margin": -7507.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.3
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -5667.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "nusrati_2650": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p71_spa_nb\\nusrati_2650_main.py",
+      "rows": [
+        {
+          "cand": "nusrati_2650",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 145738.0,
+          "thomas_bank": 149226.0,
+          "margin": -3488.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.8
+        },
+        {
+          "cand": "nusrati_2650",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 145738.0,
+          "thomas_bank": 149226.0,
+          "margin": -3488.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.7
+        },
+        {
+          "cand": "nusrati_2650",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 67753.0,
+          "thomas_bank": 79750.0,
+          "margin": -11997.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.9
+        },
+        {
+          "cand": "nusrati_2650",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 67753.0,
+          "thomas_bank": 79750.0,
+          "margin": -11997.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.2
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -7742.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "v44y_2820": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p70b_main\\v44y_2820_main.py",
+      "rows": [
+        {
+          "cand": "v44y_2820",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 148428.0,
+          "thomas_bank": 150854.0,
+          "margin": -2426.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.9
+        },
+        {
+          "cand": "v44y_2820",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 148428.0,
+          "thomas_bank": 150854.0,
+          "margin": -2426.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.8
+        },
+        {
+          "cand": "v44y_2820",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 71380.0,
+          "thomas_bank": 77846.0,
+          "margin": -6466.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.5
+        },
+        {
+          "cand": "v44y_2820",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 71380.0,
+          "thomas_bank": 77846.0,
+          "margin": -6466.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.2
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -4446.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "q30_2312": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p70b_main\\2312_q30_main.py",
+      "rows": [
+        {
+          "cand": "q30_2312",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 118663.0,
+          "thomas_bank": 139009.0,
+          "margin": -20346.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.1
+        },
+        {
+          "cand": "q30_2312",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 118663.0,
+          "thomas_bank": 139009.0,
+          "margin": -20346.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.7
+        },
+        {
+          "cand": "q30_2312",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 124782.0,
+          "thomas_bank": 168503.0,
+          "margin": -43721.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.1
+        },
+        {
+          "cand": "q30_2312",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 124782.0,
+          "thomas_bank": 168503.0,
+          "margin": -43721.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.0
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -32033.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "day3_cow": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p66_extracted\\kaggriculture_day_3_cow_challenger.py",
+      "rows": [
+        {
+          "cand": "day3_cow",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 19413.0,
+          "thomas_bank": 165643.0,
+          "margin": -146230.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.2
+        },
+        {
+          "cand": "day3_cow",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 19413.0,
+          "thomas_bank": 165643.0,
+          "margin": -146230.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.0
+        },
+        {
+          "cand": "day3_cow",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 21050.0,
+          "thomas_bank": 178587.0,
+          "margin": -157537.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.0
+        },
+        {
+          "cand": "day3_cow",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 21050.0,
+          "thomas_bank": 178587.0,
+          "margin": -157537.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.9
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -151883.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "pipe5": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p66_extracted\\kaggriculture_pipe_5_terminal_boost.py",
+      "rows": [
+        {
+          "cand": "pipe5",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "pipe5",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "pipe5",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "pipe5",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "v44_sale_race": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p66_extracted\\kaggriculture_v44_winning_the_same_turn_sale_rac.py",
+      "rows": [
+        {
+          "cand": "v44_sale_race",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v44_sale_race",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v44_sale_race",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v44_sale_race",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "v45_wheat": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p66_extracted\\kaggriculture_v45_first_turn_wheat_round_trip.py",
+      "rows": [
+        {
+          "cand": "v45_wheat",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v45_wheat",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v45_wheat",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "v45_wheat",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "moon_melons": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p62_extracted\\kaggriculture_frontier_the_moon_counts_melons.py",
+      "rows": [
+        {
+          "cand": "moon_melons",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "moon_melons",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "moon_melons",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'HTML' is not defined"
+        },
+        {
+          "cand": "moon_melons",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'HTML' is not defined"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "score2710": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p51_extracted2\\score2710_t23_kaggriculture_smart_harvest.py",
+      "rows": [
+        {
+          "cand": "score2710",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 148286.0,
+          "thomas_bank": 150597.0,
+          "margin": -2311.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.8
+        },
+        {
+          "cand": "score2710",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 148286.0,
+          "thomas_bank": 150597.0,
+          "margin": -2311.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.5
+        },
+        {
+          "cand": "score2710",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 70076.0,
+          "thomas_bank": 79681.0,
+          "margin": -9605.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.4
+        },
+        {
+          "cand": "score2710",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 70076.0,
+          "thomas_bank": 79681.0,
+          "margin": -9605.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.8
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -5958.0,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "dynamic_route": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p67_extracted\\kaggriculture_dynamic_route_agent.py",
+      "rows": [
+        {
+          "cand": "dynamic_route",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "dynamic_route",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "dynamic_route",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "dynamic_route",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "multi_route": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p67_extracted\\kaggriculture_multi_route_farming_agent.py",
+      "rows": [
+        {
+          "cand": "multi_route",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "multi_route",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "multi_route",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "multi_route",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "harvestforge": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p62_extracted\\harvestforge_x_high_throughput_farming.py",
+      "rows": [
+        {
+          "cand": "harvestforge",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (harvestforge_x_high_throughput_farming.py, line 492)"
+        },
+        {
+          "cand": "harvestforge",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (harvestforge_x_high_throughput_farming.py, line 492)"
+        },
+        {
+          "cand": "harvestforge",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (harvestforge_x_high_throughput_farming.py, line 492)"
+        },
+        {
+          "cand": "harvestforge",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (harvestforge_x_high_throughput_farming.py, line 492)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    },
+    "terminal_logistics": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p62_extracted\\kaggriculture_terminal_logistics.py",
+      "rows": [
+        {
+          "cand": "terminal_logistics",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 19413.0,
+          "thomas_bank": 165643.0,
+          "margin": -146230.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.0
+        },
+        {
+          "cand": "terminal_logistics",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 19413.0,
+          "thomas_bank": 165643.0,
+          "margin": -146230.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.0
+        },
+        {
+          "cand": "terminal_logistics",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 21050.0,
+          "thomas_bank": 178587.0,
+          "margin": -157537.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.0
+        },
+        {
+          "cand": "terminal_logistics",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 21050.0,
+          "thomas_bank": 178587.0,
+          "margin": -157537.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.1
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -151883.5,
+        "errors": 0
+      },
+      "stage": "smoke"
+    },
+    "cloning": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p66_extracted\\kaggriculture_cloning_agent.py",
+      "rows": [
+        {
+          "cand": "cloning",
+          "seed": 1,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "cloning",
+          "seed": 1,
+          "seat0": false,
+          "error": "no_agent"
+        },
+        {
+          "cand": "cloning",
+          "seed": 2,
+          "seat0": true,
+          "error": "no_agent"
+        },
+        {
+          "cand": "cloning",
+          "seed": 2,
+          "seat0": false,
+          "error": "no_agent"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "stage": "smoke"
+    }
+  },
+  "updated": "2026-09-20T15:11:49",
+  "thomas": "D:\\桌面\\Kaggle\\kaggriculture\\_push_thomas_2945\\main.py",
+  "note": "P79 mass gate; smoke seeds1-2; escalate if wins>=2; no submit"
+}

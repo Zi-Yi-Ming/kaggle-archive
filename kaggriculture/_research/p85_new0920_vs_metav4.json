@@ -1,0 +1,55 @@
+{
+  "baseline": "D:\\桌面\\Kaggle\\kaggriculture\\_push_metav4_v13\\main.py",
+  "results": {
+    "ahmedberatozer__kaggriculture-v51-lean-flock": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p85_new_0920\\extracted\\ahmedberatozer__kaggriculture-v51-lean-flock.py",
+      "summary": {
+        "cand": "ahmedberatozer__kaggriculture-v51-lean-flock",
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 6
+      },
+      "rows": [
+        {
+          "cand": "ahmedberatozer__kaggriculture-v51-lean-flock",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v51-lean-flock",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v51-lean-flock",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v51-lean-flock",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v51-lean-flock",
+          "seed": 3,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v51-lean-flock",
+          "seed": 3,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (ahmedberatozer__kaggriculture-v51-lean-flock.py, line 42)"
+        }
+      ]
+    }
+  }
+}

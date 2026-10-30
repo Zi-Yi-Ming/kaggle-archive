@@ -1,0 +1,12 @@
+source,type,branch_granularity,rl_role,replay_role,evidence_status,notes
+tetsu_shape,B_E,turn+feature+threshold->tail tape (3 checkpoints),none_runtime,backbone_long_routes,VERIFIED,public docstring+DECISIONS
+R2_yhay81,ABE,shop_pair_step144->1_of_13_tapes,none_runtime,full_720_tapes,VERIFIED,_push_medal/public headers
+prvsiyan_moon,A,none_or_same_tape,none_runtime,raw_replay_or_tape,VERIFIED,public_nb
+tetsu_msf,AB,shop_router_lineage,none_runtime,tapes,VERIFIED,same family as R2
+kaito_v43,BE,two_observable_shop_branches+sparse_router,none_in_header,route_memory+planner_lib,VERIFIED,docstring+module order
+kaito_v48,BE,two_fast_climber_continuations+gold_floor,none_in_header,same_stack,VERIFIED,docstring
+diffmap_kaggicultureRL,D_train,n/a_runtime_research,PPO_action_bundle_train,mimicry_init_not_policy,VERIFIED,local repo docs
+Majkel1337,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,no local public code
+SpaTaro,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,no local public code
+Otter_Vibe,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,no local public code
+feel_the_agi,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,no local public code

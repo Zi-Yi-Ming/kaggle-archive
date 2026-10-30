@@ -1,0 +1,277 @@
+{
+  "elite": {
+    "STRAWBERRY": {
+      "n_games_first10": 227,
+      "median_first10_day": 19,
+      "q25": 19,
+      "q75": 19,
+      "n_inv15": 12524,
+      "p_sell_inv15": 0.049345257106355796
+    },
+    "MILK": {
+      "n_games_first10": 227,
+      "median_first10_day": 18,
+      "q25": 18,
+      "q75": 18,
+      "n_inv15": 10555,
+      "p_sell_inv15": 0.0197063003315964
+    },
+    "WOOL": {
+      "n_games_first10": 227,
+      "median_first10_day": 18,
+      "q25": 18,
+      "q75": 18,
+      "n_inv15": 26253,
+      "p_sell_inv15": 0.01397935474041062
+    },
+    "MELON": {
+      "n_games_first10": 227,
+      "median_first10_day": 11,
+      "q25": 11,
+      "q75": 11,
+      "n_inv15": 227,
+      "p_sell_inv15": 0.0
+    },
+    "EGG": {
+      "n_games_first10": 0,
+      "median_first10_day": null,
+      "q25": null,
+      "q75": null,
+      "n_inv15": 0,
+      "p_sell_inv15": null
+    }
+  },
+  "local": [
+    {
+      "seed": 1,
+      "seat": 0,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 150537.0
+    },
+    {
+      "seed": 2,
+      "seat": 0,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 157185.0
+    },
+    {
+      "seed": 3,
+      "seat": 0,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 150001.0
+    },
+    {
+      "seed": 4,
+      "seat": 0,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 150030.0
+    },
+    {
+      "seed": 5,
+      "seat": 0,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 448,
+        "STRAWBERRY": 453,
+        "MILK": 456
+      },
+      "n_inv15": {
+        "MILK": 33,
+        "STRAWBERRY": 104
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 176081.0
+    },
+    {
+      "seed": 6,
+      "seat": 0,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 169490.0
+    },
+    {
+      "seed": 7,
+      "seat": 0,
+      "first10": {
+        "MELON": 264,
+        "MILK": 341,
+        "WOOL": 379,
+        "STRAWBERRY": 528
+      },
+      "n_inv15": {
+        "MILK": 13,
+        "WOOL": 104,
+        "STRAWBERRY": 64
+      },
+      "n_list_inv15": {
+        "STRAWBERRY": 2,
+        "WOOL": 5
+      },
+      "bank": 157463.0
+    },
+    {
+      "seed": 8,
+      "seat": 0,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 197416.0
+    },
+    {
+      "seed": 1,
+      "seat": 1,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 152792.0
+    },
+    {
+      "seed": 2,
+      "seat": 1,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 109869.0
+    },
+    {
+      "seed": 3,
+      "seat": 1,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 384,
+        "STRAWBERRY": 453,
+        "MILK": 528
+      },
+      "n_inv15": {
+        "STRAWBERRY": 104,
+        "MILK": 19
+      },
+      "n_list_inv15": {
+        "MILK": 1,
+        "STRAWBERRY": 1
+      },
+      "bank": 143399.0
+    },
+    {
+      "seed": 4,
+      "seat": 1,
+      "first10": {
+        "MELON": 264,
+        "WOOL": 401,
+        "STRAWBERRY": 528,
+        "MILK": 600
+      },
+      "n_inv15": {
+        "WOOL": 57,
+        "STRAWBERRY": 103,
+        "MILK": 21
+      },
+      "n_list_inv15": {
+        "WOOL": 5,
+        "MILK": 4,
+        "STRAWBERRY": 1
+      },
+      "bank": 188953.0
+    }
+  ]
+}

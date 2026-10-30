@@ -1,0 +1,20 @@
+{
+  "h3x": {
+    "n": 12,
+    "wins": 12,
+    "win_rate": 1.0,
+    "mean_margin": 451.8333333333333
+  },
+  "nofert": {
+    "n": 12,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_margin": -25493.833333333332
+  },
+  "full_h3w": {
+    "n": 12,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_margin": -23851.333333333332
+  }
+}

@@ -1,0 +1,5 @@
+selector,holdout_mean_delta,positive_rate,worst,flips,bankrupt,note
+S0_MAIN,0,0/4,0,0,0,baseline
+S1_melon_ge_3_CASH,+9290,4/4,+3676,0,0,
+S2_margin_thr2000,+9290,4/4,+3676,0,0,IDENTICAL_TO_S1
+DECISION,SELECTOR_NO_EXTRA_INFO,,,,"S2==S1 on holdout; stop before P24"

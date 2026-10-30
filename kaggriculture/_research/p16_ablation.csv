@@ -1,0 +1,5 @@
+arm,wins,bank,d15,d29,branch_fires,bankrupt
+SKEL,0,12396,4357,12396,0,0
+SKEL+BR,0,17971,6123,17971,8,0
+delta_vs_R2,,,,"still 0-8; R2 100k-180k",
+DECISION,BRANCH_ARCHITECTURE_SUPPORTED,,,,+45% bank; trigger 8/8 stable

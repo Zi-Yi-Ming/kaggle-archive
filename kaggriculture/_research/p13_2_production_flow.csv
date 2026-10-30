@@ -1,0 +1,7 @@
+stage,lab_T3,B_current,R2,note
+PLANT,YES,YES,YES,11 melons in B
+GROW_TO_d10,YES_if_watered,NO_die_WEED,YES,consecutive_unwatered>=2
+HARVEST,YES,code_exists,YES,B plants never reach age
+INV,YES,n/a,n/a,engine uses inventory
+DROP_SHED,YES,partial_EOD,YES,
+SELL,n/a,code_exists,YES,nothing to sell if no shed stock

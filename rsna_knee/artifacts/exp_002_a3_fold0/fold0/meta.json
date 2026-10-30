@@ -1,0 +1,17 @@
+{
+  "fold": 0,
+  "plane": "Sagittal",
+  "n_clips": 2,
+  "image_size": 224,
+  "epochs": 3,
+  "batch_size": 8,
+  "seed": 42,
+  "git_commit": "unknown",
+  "fold_train_time_sec": 7864.902765989304,
+  "fold_inference_time_sec": 1.591799259185791,
+  "completion_status": "done",
+  "prediction_shape": [
+    3,
+    12
+  ]
+}

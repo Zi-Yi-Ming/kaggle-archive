@@ -1,0 +1,13 @@
+{
+  "id": "ziyiming/exp10a-val",
+  "title": "exp10a-val",
+  "code_file": "exp10a_kernel.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["ziyiming/exp10a-code"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

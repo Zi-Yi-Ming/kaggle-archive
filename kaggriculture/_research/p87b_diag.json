@@ -1,0 +1,1484 @@
+[
+  {
+    "match": "metav4_vs_shop",
+    "seed": 1,
+    "mv_money": 150127.0,
+    "shop_money": 147262.0,
+    "mv_actions": {
+      "0": {
+        "hands": [],
+        "farmer": [
+          "PASS"
+        ],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            20
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            15
+          ]
+        ]
+      },
+      "2": {
+        "hands": [
+          [
+            "PICKUP",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "PICKUP",
+            "COW"
+          ]
+        ],
+        "farmer": [
+          "SOUTH"
+        ],
+        "market": []
+      },
+      "5": {
+        "hands": [
+          [
+            "PLACE",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "CARE"
+          ]
+        ],
+        "farmer": [
+          "NORTH"
+        ],
+        "market": []
+      },
+      "6": {
+        "hands": [
+          [
+            "NORTH"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PICKUP",
+            "SHEEP"
+          ]
+        ],
+        "farmer": [
+          "WEST"
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "MELON",
+            2
+          ]
+        ]
+      },
+      "29": {
+        "hands": [
+          [
+            "CARE"
+          ],
+          [
+            "COLLECT_FERTILIZER"
+          ],
+          [
+            "BUILD_PASTURE"
+          ]
+        ],
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "market": []
+      },
+      "49": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": [
+          [
+            "SELL",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "53": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      },
+      "57": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      }
+    },
+    "shop_actions": {
+      "0": {
+        "hands": [],
+        "farmer": [
+          "PASS"
+        ],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            10
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            10
+          ]
+        ]
+      },
+      "2": {
+        "hands": [
+          [
+            "PICKUP",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "PICKUP",
+            "COW"
+          ]
+        ],
+        "farmer": [
+          "SOUTH"
+        ],
+        "market": []
+      },
+      "5": {
+        "hands": [
+          [
+            "PLACE",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "CARE"
+          ]
+        ],
+        "farmer": [
+          "NORTH"
+        ],
+        "market": []
+      },
+      "6": {
+        "hands": [
+          [
+            "NORTH"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PICKUP",
+            "SHEEP"
+          ]
+        ],
+        "farmer": [
+          "WEST"
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "MELON",
+            2
+          ]
+        ]
+      },
+      "29": {
+        "hands": [
+          [
+            "CARE"
+          ],
+          [
+            "COLLECT_FERTILIZER"
+          ],
+          [
+            "BUILD_PASTURE"
+          ]
+        ],
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "market": []
+      },
+      "49": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      },
+      "53": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      },
+      "57": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      }
+    },
+    "fp_mv0_shop1": {
+      "0": {
+        "me": {
+          "money": 3000.0,
+          "hands": 0,
+          "plants": 0,
+          "crops": {},
+          "animals": 0,
+          "quads": [
+            "NW"
+          ]
+        },
+        "opp": {
+          "money": 3000.0,
+          "hands": 0,
+          "plants": 0,
+          "crops": {},
+          "animals": 0,
+          "quads": [
+            "NW"
+          ]
+        },
+        "mkt_inv": {
+          "WHEAT": 10000,
+          "CARROT": 10000,
+          "TOMATO": 10000,
+          "MILK": 10000,
+          "WOOL": 10000,
+          "EGG": 10000,
+          "FERTILIZER": 10000
+        },
+        "mkt_px": {
+          "WHEAT": 25,
+          "CARROT": 35,
+          "TOMATO": 60,
+          "MILK": 160,
+          "WOOL": 200,
+          "EGG": 50,
+          "FERTILIZER": 100
+        },
+        "shops": []
+      },
+      "24": {
+        "me": {
+          "money": 32.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 4,
+          "quads": [
+            "NW"
+          ]
+        },
+        "opp": {
+          "money": 11.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 4,
+          "quads": [
+            "NW"
+          ]
+        },
+        "mkt_inv": {
+          "WHEAT": 9989,
+          "CARROT": 9999,
+          "TOMATO": 9999,
+          "MILK": 9999,
+          "WOOL": 9999,
+          "EGG": 9999,
+          "FERTILIZER": 10000
+        },
+        "mkt_px": {
+          "WHEAT": 28,
+          "CARROT": 35,
+          "TOMATO": 60,
+          "MILK": 169,
+          "WOOL": 206,
+          "EGG": 50,
+          "FERTILIZER": 100
+        },
+        "shops": []
+      },
+      "48": {
+        "me": {
+          "money": 92.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 4,
+          "quads": [
+            "NW"
+          ]
+        },
+        "opp": {
+          "money": 100.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 4,
+          "quads": [
+            "NW"
+          ]
+        },
+        "mkt_inv": {
+          "WHEAT": 9973,
+          "CARROT": 9998,
+          "TOMATO": 9998,
+          "MILK": 9998,
+          "WOOL": 9998,
+          "EGG": 9998,
+          "FERTILIZER": 10006
+        },
+        "mkt_px": {
+          "WHEAT": 30,
+          "CARROT": 35,
+          "TOMATO": 60,
+          "MILK": 172,
+          "WOOL": 209,
+          "EGG": 50,
+          "FERTILIZER": 99
+        },
+        "shops": []
+      },
+      "72": {
+        "me": {
+          "money": 205.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 5,
+          "quads": [
+            "NW"
+          ]
+        },
+        "opp": {
+          "money": 213.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 5,
+          "quads": [
+            "NW"
+          ]
+        },
+        "mkt_inv": {
+          "WHEAT": 9976,
+          "CARROT": 9997,
+          "TOMATO": 9997,
+          "MILK": 9997,
+          "WOOL": 9997,
+          "EGG": 9997,
+          "FERTILIZER": 10016
+        },
+        "mkt_px": {
+          "WHEAT": 30,
+          "CARROT": 35,
+          "TOMATO": 60,
+          "MILK": 175,
+          "WOOL": 212,
+          "EGG": 50,
+          "FERTILIZER": 97
+        },
+        "shops": [
+          "FARMERS_MARKET"
+        ]
+      }
+    }
+  },
+  {
+    "match": "metav4_vs_shop",
+    "seed": 2,
+    "mv_money": 78477.0,
+    "shop_money": 69749.0,
+    "mv_actions": {
+      "0": {
+        "hands": [],
+        "farmer": [
+          "PASS"
+        ],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            20
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            15
+          ]
+        ]
+      },
+      "2": {
+        "hands": [
+          [
+            "PICKUP",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "PICKUP",
+            "COW"
+          ]
+        ],
+        "farmer": [
+          "SOUTH"
+        ],
+        "market": []
+      },
+      "5": {
+        "hands": [
+          [
+            "PLACE",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "CARE"
+          ]
+        ],
+        "farmer": [
+          "NORTH"
+        ],
+        "market": []
+      },
+      "6": {
+        "hands": [
+          [
+            "NORTH"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PICKUP",
+            "SHEEP"
+          ]
+        ],
+        "farmer": [
+          "WEST"
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "MELON",
+            2
+          ]
+        ]
+      },
+      "29": {
+        "hands": [
+          [
+            "CARE"
+          ],
+          [
+            "COLLECT_FERTILIZER"
+          ],
+          [
+            "BUILD_PASTURE"
+          ]
+        ],
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "market": []
+      },
+      "49": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": [
+          [
+            "SELL",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "53": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      },
+      "57": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      }
+    },
+    "shop_actions": {
+      "0": {
+        "hands": [],
+        "farmer": [
+          "PASS"
+        ],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            10
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            10
+          ]
+        ]
+      },
+      "2": {
+        "hands": [
+          [
+            "PICKUP",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "PICKUP",
+            "COW"
+          ]
+        ],
+        "farmer": [
+          "SOUTH"
+        ],
+        "market": []
+      },
+      "5": {
+        "hands": [
+          [
+            "PLACE",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "CARE"
+          ]
+        ],
+        "farmer": [
+          "NORTH"
+        ],
+        "market": []
+      },
+      "6": {
+        "hands": [
+          [
+            "NORTH"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PICKUP",
+            "SHEEP"
+          ]
+        ],
+        "farmer": [
+          "WEST"
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "MELON",
+            2
+          ]
+        ]
+      },
+      "29": {
+        "hands": [
+          [
+            "CARE"
+          ],
+          [
+            "COLLECT_FERTILIZER"
+          ],
+          [
+            "BUILD_PASTURE"
+          ]
+        ],
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "market": []
+      },
+      "49": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      },
+      "53": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      },
+      "57": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      }
+    },
+    "fp_mv0_shop1": {
+      "0": {
+        "me": {
+          "money": 3000.0,
+          "hands": 0,
+          "plants": 0,
+          "crops": {},
+          "animals": 0,
+          "quads": [
+            "NW"
+          ]
+        },
+        "opp": {
+          "money": 3000.0,
+          "hands": 0,
+          "plants": 0,
+          "crops": {},
+          "animals": 0,
+          "quads": [
+            "NW"
+          ]
+        },
+        "mkt_inv": {
+          "WHEAT": 10000,
+          "CARROT": 10000,
+          "TOMATO": 10000,
+          "MILK": 10000,
+          "WOOL": 10000,
+          "EGG": 10000,
+          "FERTILIZER": 10000
+        },
+        "mkt_px": {
+          "WHEAT": 25,
+          "CARROT": 35,
+          "TOMATO": 60,
+          "MILK": 160,
+          "WOOL": 200,
+          "EGG": 50,
+          "FERTILIZER": 100
+        },
+        "shops": []
+      },
+      "24": {
+        "me": {
+          "money": 32.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 4,
+          "quads": [
+            "NW"
+          ]
+        },
+        "opp": {
+          "money": 11.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 4,
+          "quads": [
+            "NW"
+          ]
+        },
+        "mkt_inv": {
+          "WHEAT": 9989,
+          "CARROT": 9999,
+          "TOMATO": 9999,
+          "MILK": 9999,
+          "WOOL": 9999,
+          "EGG": 9999,
+          "FERTILIZER": 10000
+        },
+        "mkt_px": {
+          "WHEAT": 28,
+          "CARROT": 35,
+          "TOMATO": 60,
+          "MILK": 169,
+          "WOOL": 206,
+          "EGG": 50,
+          "FERTILIZER": 100
+        },
+        "shops": []
+      },
+      "48": {
+        "me": {
+          "money": 92.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 4,
+          "quads": [
+            "NW"
+          ]
+        },
+        "opp": {
+          "money": 100.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 4,
+          "quads": [
+            "NW"
+          ]
+        },
+        "mkt_inv": {
+          "WHEAT": 9973,
+          "CARROT": 9998,
+          "TOMATO": 9998,
+          "MILK": 9998,
+          "WOOL": 9998,
+          "EGG": 9998,
+          "FERTILIZER": 10006
+        },
+        "mkt_px": {
+          "WHEAT": 30,
+          "CARROT": 35,
+          "TOMATO": 60,
+          "MILK": 172,
+          "WOOL": 209,
+          "EGG": 50,
+          "FERTILIZER": 99
+        },
+        "shops": []
+      },
+      "72": {
+        "me": {
+          "money": 205.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 5,
+          "quads": [
+            "NW"
+          ]
+        },
+        "opp": {
+          "money": 213.0,
+          "hands": 0,
+          "plants": 19,
+          "crops": {
+            "WHEAT": 7,
+            "MELON": 12
+          },
+          "animals": 5,
+          "quads": [
+            "NW"
+          ]
+        },
+        "mkt_inv": {
+          "WHEAT": 9976,
+          "CARROT": 9997,
+          "TOMATO": 9997,
+          "MILK": 9997,
+          "WOOL": 9997,
+          "EGG": 9997,
+          "FERTILIZER": 10016
+        },
+        "mkt_px": {
+          "WHEAT": 30,
+          "CARROT": 35,
+          "TOMATO": 60,
+          "MILK": 175,
+          "WOOL": 212,
+          "EGG": 50,
+          "FERTILIZER": 97
+        },
+        "shops": [
+          "YARN_STORE"
+        ]
+      }
+    }
+  },
+  {
+    "match": "pipe16_vs_shop",
+    "seed": 1,
+    "pipe_money": 72902.0,
+    "shop_money": 82768.0,
+    "pipe_actions": {
+      "0": {
+        "hands": [],
+        "farmer": [
+          "PASS"
+        ],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            20
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            15
+          ],
+          [
+            "BUY_SEED",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "2": {
+        "hands": [
+          [
+            "PICKUP",
+            "COW"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "PICKUP",
+            "COW"
+          ]
+        ],
+        "farmer": [
+          "SOUTH"
+        ],
+        "market": []
+      },
+      "5": {
+        "hands": [
+          [
+            "PLACE",
+            "COW"
+          ],
+          [
+            "PLANT",
+            "WHEAT"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "CARE"
+          ]
+        ],
+        "farmer": [
+          "NORTH"
+        ],
+        "market": []
+      },
+      "6": {
+        "hands": [
+          [
+            "NORTH"
+          ],
+          [
+            "WATER"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PICKUP",
+            "SHEEP"
+          ]
+        ],
+        "farmer": [
+          "WEST"
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "MELON",
+            2
+          ]
+        ]
+      },
+      "29": {
+        "hands": [
+          [
+            "CARE"
+          ]
+        ],
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "market": []
+      },
+      "49": {
+        "hands": [
+          [
+            "WEST"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": [
+          [
+            "SELL",
+            "WHEAT",
+            1
+          ]
+        ]
+      },
+      "53": {
+        "hands": [
+          [
+            "HARVEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      },
+      "57": {
+        "hands": [
+          [
+            "DROP"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": [
+          [
+            "SELL",
+            "WHEAT",
+            2
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "match": "metav4_self",
+    "seed": 1,
+    "s0": 149843.0,
+    "s1": 149843.0,
+    "s0_actions": {
+      "0": {
+        "hands": [],
+        "farmer": [
+          "PASS"
+        ],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            20
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            15
+          ]
+        ]
+      },
+      "2": {
+        "hands": [
+          [
+            "PICKUP",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "PICKUP",
+            "COW"
+          ]
+        ],
+        "farmer": [
+          "SOUTH"
+        ],
+        "market": []
+      },
+      "5": {
+        "hands": [
+          [
+            "PLACE",
+            "COW"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "CARE"
+          ]
+        ],
+        "farmer": [
+          "NORTH"
+        ],
+        "market": []
+      },
+      "6": {
+        "hands": [
+          [
+            "NORTH"
+          ],
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "PICKUP",
+            "SHEEP"
+          ]
+        ],
+        "farmer": [
+          "WEST"
+        ],
+        "market": [
+          [
+            "BUY_SEED",
+            "MELON",
+            2
+          ]
+        ]
+      },
+      "29": {
+        "hands": [
+          [
+            "CARE"
+          ],
+          [
+            "COLLECT_FERTILIZER"
+          ],
+          [
+            "BUILD_PASTURE"
+          ]
+        ],
+        "farmer": [
+          "COLLECT_FERTILIZER"
+        ],
+        "market": []
+      },
+      "49": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": [
+          [
+            "SELL",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "53": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "NORTH"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      },
+      "57": {
+        "hands": [
+          [
+            "PASS"
+          ],
+          [
+            "NORTH"
+          ],
+          [
+            "WEST"
+          ],
+          [
+            "WEST"
+          ]
+        ],
+        "farmer": [
+          "FEED"
+        ],
+        "market": []
+      }
+    }
+  }
+]

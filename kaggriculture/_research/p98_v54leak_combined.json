@@ -1,0 +1,29 @@
+{
+  "shop_smoke": {
+    "rows": [
+      {
+        "seed": 1,
+        "cand": 112423.0,
+        "opp": 131353.0,
+        "margin": -18930.0,
+        "win": false,
+        "sec": 6.3
+      },
+      {
+        "seed": 2,
+        "cand": 91635.0,
+        "opp": 106298.0,
+        "margin": -14663.0,
+        "win": false,
+        "sec": 8.3
+      }
+    ],
+    "summary": {
+      "n": 2,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -16796.5
+    }
+  },
+  "verdict": "NO shop collapse"
+}

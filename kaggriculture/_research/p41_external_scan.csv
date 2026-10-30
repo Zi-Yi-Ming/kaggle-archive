@@ -1,0 +1,5 @@
+bank_s1,error,name,status
+,No module named 'IPython',kaggriculture-2900,load_fail
+,name 'display' is not defined,kaggriculture-findings-from-zero-to-top-meta,load_fail
+,"from __future__ imports must occur at the beginning of the file (kaggriculture-most-powerfull-route.py, line 271)",kaggriculture-most-powerfull-route,load_fail
+,No module named 'IPython',v16-rc5-high-score-8c-4s-premium-market-lead,load_fail

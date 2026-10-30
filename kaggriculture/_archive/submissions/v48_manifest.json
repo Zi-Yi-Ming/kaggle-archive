@@ -1,0 +1,14 @@
+{
+  "agent": "v48 Fast-Climber Sparse Route Hybrid",
+  "old_first20_both_seats": "40/40",
+  "current_top10_holdout": "39/46",
+  "current_top30_holdout": "97/140",
+  "v43_public58_both_seats": "103/116",
+  "main_bytes": 107008,
+  "main_sha256": "dadee25a9840313218384208c53b2c4752f82c3209cc654632e0b96c65e2664a",
+  "archive_sha256": "f2973a7c7636e1f95cea74c8c2cb7bbfec20f4082a9da079aeb8ba74fbe8b4fe",
+  "one_child_call_per_turn": true,
+  "runtime_identity_features": false,
+  "runtime_lineage_features": false,
+  "future_opponent_actions": false
+}

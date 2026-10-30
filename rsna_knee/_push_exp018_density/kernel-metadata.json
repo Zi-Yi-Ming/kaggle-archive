@@ -1,0 +1,22 @@
+{
+  "id": "ziyiming/rsna-exp018-physical-density-fold0",
+  "title": "RSNA EXP018 physical density fold0",
+  "code_file": "rsna_exp018_physical_density_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:37c64f7dd9c54116ecd1bcc88817c5469b88387388fade02bfa8bf3fc647d461",
+  "docker_image_pinning_type": "original",
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "ziyiming/torch-cu118-offline",
+    "stevenleehans/rsna-knee-llm-report-labels",
+    "lixin73/rsna-knee-llm-report-labels-sol56",
+    "pilkwang/rsna-knee-llm-labels"
+  ],
+  "model_sources": []
+}

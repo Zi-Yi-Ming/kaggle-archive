@@ -1,0 +1,6 @@
+pair,jaccard,lineage,strategy_similarity
+R2-Moon,0.982,SAME_FAMILY,exact_tie_local
+R2-prvsiyan,0.994,SAME_FAMILY,packaging
+R2-tetsu_shape,0.030,INDEPENDENT,peer_not_loss_clone
+R2-v66,,INDEPENDENT_KAITO,closest_negative_gap20_6of16
+R2-kaito58,,INDEPENDENT_MINIMAX,R2_ahead_at_d20

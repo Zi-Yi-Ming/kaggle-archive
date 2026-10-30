@@ -1,0 +1,4 @@
+model,accuracy,n_buckets
+current_state,0.5730180806675939,142
+day_hourbin,0.5591098748261474,120
+day_hour_openloop,1.0,719

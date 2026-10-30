@@ -1,0 +1,26 @@
+{
+  "h3x_no_fert": {
+    "n": 12,
+    "wins": 12,
+    "win_rate": 1.0,
+    "mean_margin": 451.8333333333333
+  },
+  "h3z_fert_cap60": {
+    "n": 12,
+    "wins": 12,
+    "win_rate": 1.0,
+    "mean_margin": 451.8333333333333
+  },
+  "h3z_fert_cap200": {
+    "n": 12,
+    "wins": 12,
+    "win_rate": 1.0,
+    "mean_margin": 451.8333333333333
+  },
+  "h3z_fert_only": {
+    "n": 12,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_margin": 0.0
+  }
+}

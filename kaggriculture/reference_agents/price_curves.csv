@@ -1,0 +1,10 @@
+product,base_price,anchor_throughput_T,glut_shape,glut_target,scarcity_shape,scarcity_target,price_at_50_sold,price_at_150_sold,price_at_400_sold,price_at_1000_sold,units_until_price_floor
+WHEAT,25,400,log,0.2,sqrt,0.8,22,21,20,19,>6000
+CARROT,35,450,sqrt,0.7,hinge,1.0,27,21,12,1,842
+TOMATO,60,200,sqrt,0.6,hinge,0.4,42,29,9,1,529
+STRAWBERRY,120,100,linear,1.6,sqrt,0.7,24,1,1,1,62
+MELON,250,300,sq,3.6,log,0.2,225,25,1,1,158
+EGG,50,332,log,0.2,hinge,0.4,43,41,40,38,>6000
+MILK,160,122,linear,1.6,sqrt,0.6,55,1,1,1,76
+WOOL,200,105,sq,3.2,log,0.2,55,1,1,1,59
+FERTILIZER,100,200,linear,0.4,linear,0.4,90,70,20,1,493

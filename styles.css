@@ -1,0 +1,168 @@
+:root {
+  --bg: #0f1419;
+  --card: #171d24;
+  --ink: #e7eef5;
+  --muted: #9aabba;
+  --line: #2a3540;
+  --accent: #5eb1ff;
+  --good: #3dd68c;
+  --warn: #f5c542;
+  --bad: #ff7b72;
+  --mono: ui-monospace, "Cascadia Code", Consolas, monospace;
+  --sans: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: var(--sans);
+  background: radial-gradient(900px 400px at 10% -10%, #1a2740 0%, transparent 50%), var(--bg);
+  color: var(--ink);
+  line-height: 1.55;
+}
+.top {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 28px 22px 8px;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.eyebrow {
+  margin: 0 0 6px;
+  color: var(--accent);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+h1 { margin: 0 0 8px; font-size: 1.55rem; letter-spacing: -0.02em; }
+.sub { margin: 0; color: var(--muted); max-width: 62ch; }
+.badge-stack { display: flex; gap: 8px; align-items: flex-start; }
+.badge {
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-family: var(--mono);
+}
+.badge.ok { background: rgba(61, 214, 140, 0.15); color: var(--good); }
+.badge.warn { background: rgba(245, 197, 66, 0.15); color: var(--warn); }
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 10px 22px 40px;
+  display: grid;
+  gap: 14px;
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 18px 20px;
+}
+.card h2 {
+  margin: 0 0 12px;
+  font-size: 1.12rem;
+  color: var(--accent);
+}
+.grid2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+@media (max-width: 800px) { .grid2 { grid-template-columns: 1fr; } }
+h3 { margin: 0 0 8px; font-size: 0.95rem; }
+ul { margin: 0; padding-left: 1.15rem; color: var(--muted); }
+li { margin: 0 0 6px; }
+li strong, li code { color: var(--ink); }
+code {
+  font-family: var(--mono);
+  background: #243040;
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-size: 0.88em;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+th, td {
+  border-bottom: 1px solid var(--line);
+  padding: 8px 6px;
+  text-align: left;
+  vertical-align: top;
+}
+th { color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; }
+.table-wrap { overflow-x: auto; }
+table.wide { min-width: 900px; }
+.tier-a { color: var(--good); font-weight: 600; }
+.tier-b { color: var(--warn); font-weight: 600; }
+.tier-c { color: var(--bad); font-weight: 600; }
+.note {
+  margin: 10px 0 0;
+  padding: 10px 12px;
+  background: #1c2633;
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+.toplist { padding-left: 1.2rem; }
+.toplist li { margin-bottom: 10px; }
+.toplist p { margin: 4px 0 0; color: var(--muted); }
+.status-line { color: var(--warn); font-weight: 600; }
+.cmd {
+  margin: 12px 0 0;
+  padding: 12px 14px;
+  background: #0c1016;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow-x: auto;
+  font-family: var(--mono);
+  font-size: 0.82rem;
+  color: #b6e0ff;
+}
+.status-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.status-grid > div {
+  background: #121920;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 12px;
+}
+.status-grid .k {
+  display: block;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+.status-grid .v {
+  display: block;
+  font-family: var(--mono);
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 4px 0;
+}
+.status-grid .v.good { color: var(--good); }
+.status-grid .v.warn { color: var(--warn); }
+.status-grid .v.bad { color: var(--bad); }
+.status-grid small { color: var(--muted); }
+.answer {
+  margin: 0;
+  padding: 12px 14px;
+  background: rgba(94, 177, 255, 0.08);
+  border-radius: 10px;
+}
+footer {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 22px 36px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}

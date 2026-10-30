@@ -1,0 +1,822 @@
+[
+  {
+    "step": 0,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 0,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 3000.0, 'tiles': [[None, None, None, None, None, 'LOCKED', 'LOCKED', 'LOCKED', 'LOCKED', 'LOCKED'], [None, Non",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 0,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 0,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 3000.0, 'tiles': [[None, None, None, None, None, 'LOCKED', 'LOCKED', 'LOCKED', 'LOCKED', 'LOCKED'], [None, Non",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 24,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 24,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 22.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 0, 'watered_today': False, 'consecutive_unw",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 24,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 24,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 22.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 0, 'watered_today': False, 'consecutive_unw",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 96,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 96,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 277.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 2, 'watered_today': False, 'consecutive_un",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 96,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 96,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 277.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 2, 'watered_today': False, 'consecutive_un",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 200,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 200,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 1674.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 7, 'watered_today': False, 'consecutive_u",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 200,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 200,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 1674.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 7, 'watered_today': False, 'consecutive_u",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 400,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 400,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 33227.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 15, 'watered_today': False, 'consecutive",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 400,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 400,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 33227.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 15, 'watered_today': False, 'consecutive",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 600,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 600,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 70335.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 22, 'watered_today': False, 'consecutive",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 600,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 600,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 70335.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 22, 'watered_today': False, 'consecutive",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 648,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 648,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 86236.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'CARROT', 'planted_day': 25, 'watered_today': False, 'consecutiv",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 648,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 648,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 86236.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'CARROT', 'planted_day': 25, 'watered_today': False, 'consecutiv",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 700,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 700,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 130812.0, 'tiles': [[None, None, None, None, {'kind': 'PLANT', 'crop': 'CARROT', 'planted_day': 26, 'watered_t",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 700,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 700,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 130812.0, 'tiles': [[None, None, None, None, {'kind': 'PLANT', 'crop': 'CARROT', 'planted_day': 26, 'watered_t",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 0,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 0,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 3000.0, 'tiles': [[None, None, None, None, None, 'LOCKED', 'LOCKED', 'LOCKED', 'LOCKED', 'LOCKED'], [None, Non",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 0,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 0,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 3000.0, 'tiles': [[None, None, None, None, None, 'LOCKED', 'LOCKED', 'LOCKED', 'LOCKED', 'LOCKED'], [None, Non",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 24,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 24,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_farms_list0": "{'money': 22.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 0, 'watered_today': False, 'consecutive_unw",
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  },
+  {
+    "step": 24,
+    "brief": {
+      "keys": [
+        "day",
+        "farms",
+        "hour",
+        "market",
+        "player",
+        "private",
+        "remainingOverageTime",
+        "step",
+        "town"
+      ],
+      "step": 24,
+      "player": null,
+      "private_keys": [
+        "inventories",
+        "seeds",
+        "shed"
+      ],
+      "market_keys": [
+        "inventory",
+        "prices"
+      ],
+      "info_keys": null
+    },
+    "_private": [
+      "inventories",
+      "seeds",
+      "shed"
+    ],
+    "_farms_list0": "{'money': 22.0, 'tiles': [[{'kind': 'PLANT', 'crop': 'WHEAT', 'planted_day': 0, 'watered_today': False, 'consecutive_unw",
+    "_market": [
+      "inventory",
+      "prices"
+    ],
+    "_town": [
+      "unlocked_shops"
+    ]
+  }
+]

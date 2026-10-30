@@ -1,0 +1,6 @@
+metric,control_mean,treat_mean,delta_t_minus_c,t_better_count,n
+gap20,0,-889,-889,0,8
+gap25,0,-1976,-1976,0,8
+margin,0,-3223,-3223,0,8
+wins,0,0,0,0,8
+triggered_n/a,n/a,8/8,n/a,n/a,8

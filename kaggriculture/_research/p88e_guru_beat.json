@@ -1,0 +1,223 @@
+{
+  "results": {
+    "guru_master_v4": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p88_new\\extracted_clean\\guru_master_v4.py",
+      "vs_metav4": {
+        "cand": "guru_master_v4",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 50.0
+      },
+      "vs_shop_v7": {
+        "cand": "guru_master_v4",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16627.0
+      },
+      "vs_thomas": {
+        "cand": "guru_master_v4",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1811.0
+      },
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 149878.0,
+          "ob": 149828.0,
+          "margin": 50.0,
+          "win": true
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 149878.0,
+          "ob": 149828.0,
+          "margin": 50.0,
+          "win": true
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 78914.0,
+          "ob": 78864.0,
+          "margin": 50.0,
+          "win": true
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 78914.0,
+          "ob": 78864.0,
+          "margin": 50.0,
+          "win": true
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 72902.0,
+          "ob": 82768.0,
+          "margin": -9866.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 72902.0,
+          "ob": 82768.0,
+          "margin": -9866.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 127139.0,
+          "ob": 150527.0,
+          "margin": -23388.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 127139.0,
+          "ob": 150527.0,
+          "margin": -23388.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 150188.0,
+          "ob": 148377.0,
+          "margin": 1811.0,
+          "win": true
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 150188.0,
+          "ob": 148377.0,
+          "margin": 1811.0,
+          "win": true
+        }
+      ]
+    },
+    "beat_v48": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p88_new\\extracted_clean\\beat_v48.py",
+      "vs_metav4": {
+        "cand": "beat_v48",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -6201.5
+      },
+      "vs_shop_v7": {
+        "cand": "beat_v48",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 2,
+        "win_rate": 0.5,
+        "mean_margin": -80.0
+      },
+      "vs_thomas": {
+        "cand": "beat_v48",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -3828.0
+      },
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 146340.0,
+          "ob": 150618.0,
+          "margin": -4278.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 146340.0,
+          "ob": 150618.0,
+          "margin": -4278.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 69932.0,
+          "ob": 78057.0,
+          "margin": -8125.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 69932.0,
+          "ob": 78057.0,
+          "margin": -8125.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 148275.0,
+          "ob": 149225.0,
+          "margin": -950.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 148275.0,
+          "ob": 149225.0,
+          "margin": -950.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 83693.0,
+          "ob": 82903.0,
+          "margin": 790.0,
+          "win": true
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 83693.0,
+          "ob": 82903.0,
+          "margin": 790.0,
+          "win": true
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 147384.0,
+          "ob": 151212.0,
+          "margin": -3828.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 147384.0,
+          "ob": 151212.0,
+          "margin": -3828.0,
+          "win": false
+        }
+      ]
+    }
+  },
+  "updated": "2026-09-21T12:05:08"
+}

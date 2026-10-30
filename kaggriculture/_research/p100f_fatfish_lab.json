@@ -1,0 +1,236 @@
+{
+  "h3_vs_fatfish": {
+    "rows": [
+      {
+        "seed": 1,
+        "seat0": true,
+        "cand": 160890.0,
+        "opp": 725.0,
+        "margin": 160165.0,
+        "win": true
+      },
+      {
+        "seed": 1,
+        "seat0": false,
+        "cand": 160890.0,
+        "opp": 725.0,
+        "margin": 160165.0,
+        "win": true
+      },
+      {
+        "seed": 2,
+        "seat0": true,
+        "cand": 141711.0,
+        "opp": 789.0,
+        "margin": 140922.0,
+        "win": true
+      },
+      {
+        "seed": 2,
+        "seat0": false,
+        "cand": 141711.0,
+        "opp": 789.0,
+        "margin": 140922.0,
+        "win": true
+      },
+      {
+        "seed": 3,
+        "seat0": true,
+        "cand": 187548.0,
+        "opp": 621.0,
+        "margin": 186927.0,
+        "win": true
+      },
+      {
+        "seed": 3,
+        "seat0": false,
+        "cand": 187548.0,
+        "opp": 621.0,
+        "margin": 186927.0,
+        "win": true
+      },
+      {
+        "seed": 4,
+        "seat0": true,
+        "cand": 169115.0,
+        "opp": 715.0,
+        "margin": 168400.0,
+        "win": true
+      },
+      {
+        "seed": 4,
+        "seat0": false,
+        "cand": 169115.0,
+        "opp": 715.0,
+        "margin": 168400.0,
+        "win": true
+      }
+    ],
+    "summary": {
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 164103.5
+    }
+  },
+  "fe_vs_fatfish": {
+    "rows": [
+      {
+        "seed": 1,
+        "seat0": true,
+        "cand": 160890.0,
+        "opp": 725.0,
+        "margin": 160165.0,
+        "win": true
+      },
+      {
+        "seed": 1,
+        "seat0": false,
+        "cand": 160890.0,
+        "opp": 725.0,
+        "margin": 160165.0,
+        "win": true
+      },
+      {
+        "seed": 2,
+        "seat0": true,
+        "cand": 141711.0,
+        "opp": 789.0,
+        "margin": 140922.0,
+        "win": true
+      },
+      {
+        "seed": 2,
+        "seat0": false,
+        "cand": 141711.0,
+        "opp": 789.0,
+        "margin": 140922.0,
+        "win": true
+      },
+      {
+        "seed": 3,
+        "seat0": true,
+        "cand": 187548.0,
+        "opp": 621.0,
+        "margin": 186927.0,
+        "win": true
+      },
+      {
+        "seed": 3,
+        "seat0": false,
+        "cand": 187548.0,
+        "opp": 621.0,
+        "margin": 186927.0,
+        "win": true
+      },
+      {
+        "seed": 4,
+        "seat0": true,
+        "cand": 169115.0,
+        "opp": 715.0,
+        "margin": 168400.0,
+        "win": true
+      },
+      {
+        "seed": 4,
+        "seat0": false,
+        "cand": 169115.0,
+        "opp": 715.0,
+        "margin": 168400.0,
+        "win": true
+      }
+    ],
+    "summary": {
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 164103.5
+    }
+  },
+  "h3_vs_metav4": {
+    "rows": [
+      {
+        "seed": 1,
+        "seat0": true,
+        "cand": 149653.0,
+        "opp": 149531.0,
+        "margin": 122.0,
+        "win": true
+      },
+      {
+        "seed": 1,
+        "seat0": false,
+        "cand": 149653.0,
+        "opp": 149531.0,
+        "margin": 122.0,
+        "win": true
+      },
+      {
+        "seed": 2,
+        "seat0": true,
+        "cand": 78495.0,
+        "opp": 78077.0,
+        "margin": 418.0,
+        "win": true
+      },
+      {
+        "seed": 2,
+        "seat0": false,
+        "cand": 78495.0,
+        "opp": 78077.0,
+        "margin": 418.0,
+        "win": true
+      }
+    ],
+    "summary": {
+      "n": 4,
+      "wins": 4,
+      "win_rate": 1.0,
+      "mean_margin": 270.0
+    }
+  },
+  "fe_vs_metav4": {
+    "rows": [
+      {
+        "seed": 1,
+        "seat0": true,
+        "cand": 149653.0,
+        "opp": 149531.0,
+        "margin": 122.0,
+        "win": true
+      },
+      {
+        "seed": 1,
+        "seat0": false,
+        "cand": 149653.0,
+        "opp": 149531.0,
+        "margin": 122.0,
+        "win": true
+      },
+      {
+        "seed": 2,
+        "seat0": true,
+        "cand": 78495.0,
+        "opp": 78077.0,
+        "margin": 418.0,
+        "win": true
+      },
+      {
+        "seed": 2,
+        "seat0": false,
+        "cand": 78495.0,
+        "opp": 78077.0,
+        "margin": 418.0,
+        "win": true
+      }
+    ],
+    "summary": {
+      "n": 4,
+      "wins": 4,
+      "win_rate": 1.0,
+      "mean_margin": 270.0
+    }
+  },
+  "fe_edge_vs_h3_on_fatfish": 0.0,
+  "verdict": "no fish edge 0.0"
+}

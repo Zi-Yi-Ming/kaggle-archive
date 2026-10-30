@@ -1,0 +1,6 @@
+bank,baseline_bank,delta,errors,injected,kind,recovered,seed
+191745.0,152052.0,39693.0,[],True,sell_zero,True,1
+171520.0,152052.0,19468.0,[],True,buy_impossible,True,1
+104941.0,152052.0,-47111.0,[],True,plant_weed_force,False,1
+110598.0,152052.0,-41454.0,[],True,invalid_op,False,1
+152052.0,152052.0,0,[],False,control,True,1

@@ -1,0 +1,211 @@
+{
+  "results": {
+    "H3_greedy": {
+      "mv_wide": {
+        "label": "H3_greedy",
+        "opp": "metav4",
+        "n": 12,
+        "wins": 8,
+        "win_rate": 0.667,
+        "mean_margin": 288.9
+      },
+      "shop_wide": {
+        "label": "H3_greedy",
+        "opp": "shop_v7",
+        "n": 6,
+        "wins": 6,
+        "win_rate": 1.0,
+        "mean_margin": 1800.0
+      },
+      "thomas": {
+        "label": "H3_greedy",
+        "opp": "thomas",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 2547.5
+      },
+      "alperen": {
+        "label": "H3_greedy",
+        "opp": "alperen",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 5668.5
+      },
+      "pipe16": {
+        "label": "H3_greedy",
+        "opp": "pipe16",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 220.0
+      },
+      "dual_wide": true,
+      "collapses": []
+    },
+    "H3": {
+      "mv": {
+        "label": "H3",
+        "opp": "metav4",
+        "n": 10,
+        "wins": 8,
+        "win_rate": 0.8,
+        "mean_margin": 368.5
+      },
+      "shop": {
+        "label": "H3",
+        "opp": "shop_v7",
+        "n": 8,
+        "wins": 8,
+        "win_rate": 1.0,
+        "mean_margin": 2360.0
+      },
+      "thomas": {
+        "label": "H3",
+        "opp": "thomas",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 2547.5
+      },
+      "alperen": {
+        "label": "H3",
+        "opp": "alperen",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 5668.5
+      },
+      "pipe16": {
+        "label": "H3",
+        "opp": "pipe16",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 220.0
+      },
+      "selfplay": {
+        "s0": 118580.0,
+        "s1": 119196.0,
+        "margin": -616.0
+      },
+      "dual_expand": true,
+      "collapses": [],
+      "rows_mv": [
+        {
+          "seed": 8,
+          "seat0": true,
+          "margin": 123.0,
+          "win": true
+        },
+        {
+          "seed": 8,
+          "seat0": false,
+          "margin": 123.0,
+          "win": true
+        },
+        {
+          "seed": 9,
+          "seat0": true,
+          "margin": 679.0,
+          "win": true
+        },
+        {
+          "seed": 9,
+          "seat0": false,
+          "margin": 679.0,
+          "win": true
+        },
+        {
+          "seed": 10,
+          "seat0": true,
+          "margin": 592.0,
+          "win": true
+        },
+        {
+          "seed": 10,
+          "seat0": false,
+          "margin": 592.0,
+          "win": true
+        },
+        {
+          "seed": 11,
+          "seat0": true,
+          "margin": -488.0,
+          "win": false
+        },
+        {
+          "seed": 11,
+          "seat0": false,
+          "margin": 922.0,
+          "win": true
+        },
+        {
+          "seed": 12,
+          "seat0": true,
+          "margin": -1121.0,
+          "win": false
+        },
+        {
+          "seed": 12,
+          "seat0": false,
+          "margin": 1584.0,
+          "win": true
+        }
+      ],
+      "rows_shop": [
+        {
+          "seed": 7,
+          "seat0": true,
+          "margin": 674.0,
+          "win": true
+        },
+        {
+          "seed": 7,
+          "seat0": false,
+          "margin": 674.0,
+          "win": true
+        },
+        {
+          "seed": 8,
+          "seat0": true,
+          "margin": 4421.0,
+          "win": true
+        },
+        {
+          "seed": 8,
+          "seat0": false,
+          "margin": 4421.0,
+          "win": true
+        },
+        {
+          "seed": 9,
+          "seat0": true,
+          "margin": 305.0,
+          "win": true
+        },
+        {
+          "seed": 9,
+          "seat0": false,
+          "margin": 305.0,
+          "win": true
+        },
+        {
+          "seed": 10,
+          "seat0": true,
+          "margin": 4040.0,
+          "win": true
+        },
+        {
+          "seed": 10,
+          "seat0": false,
+          "margin": 4040.0,
+          "win": true
+        }
+      ]
+    }
+  },
+  "updated": "2026-09-22T12:19:53",
+  "note": "P97c expand H3/H4"
+}

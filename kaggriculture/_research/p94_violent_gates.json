@@ -1,0 +1,118 @@
+{
+  "results": {
+    "countering-the-big-3-meta": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p94_violent\\extracted\\countering-the-big-3-meta.py",
+      "vs_metav4": {
+        "cand": "countering-the-big-3-meta",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -3105.0
+      },
+      "vs_shop_v7": {
+        "cand": "countering-the-big-3-meta",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 5160.0
+      },
+      "vs_thomas": {
+        "cand": "countering-the-big-3-meta",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": 0.0
+      },
+      "dual": false
+    },
+    "kagriculture-winning-notebook": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p94_violent\\extracted\\kagriculture-winning-notebook.py",
+      "vs_metav4": {
+        "cand": "kagriculture-winning-notebook",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -3105.0
+      },
+      "vs_shop_v7": {
+        "cand": "kagriculture-winning-notebook",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 5160.0
+      },
+      "vs_thomas": {
+        "cand": "kagriculture-winning-notebook",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": 0.0
+      },
+      "dual": false
+    },
+    "kaggriculture-top-2-master-engine-v4": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p94_violent\\extracted\\kaggriculture-top-2-master-engine-v4.py",
+      "vs_metav4": {
+        "cand": "kaggriculture-top-2-master-engine-v4",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 78.0
+      },
+      "vs_shop_v7": {
+        "cand": "kaggriculture-top-2-master-engine-v4",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16796.5
+      },
+      "vs_thomas": {
+        "cand": "kaggriculture-top-2-master-engine-v4",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1840.0
+      },
+      "dual": false
+    },
+    "a-wonderful-life": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p94_violent\\extracted\\a-wonderful-life.py",
+      "vs_metav4": {
+        "cand": "a-wonderful-life",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -2829.5
+      },
+      "vs_shop_v7": {
+        "cand": "a-wonderful-life",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 5221.0
+      },
+      "vs_thomas": {
+        "cand": "a-wonderful-life",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 50.0
+      },
+      "dual": false
+    }
+  },
+  "note": "P94 violent dual-gate; no submit without auth",
+  "updated": "2026-09-21T20:56:38"
+}

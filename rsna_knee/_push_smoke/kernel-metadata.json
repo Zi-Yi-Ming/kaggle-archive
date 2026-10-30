@@ -1,0 +1,16 @@
+{
+  "id": "ziyiming/rsna-v3-smoke-five-ring",
+  "title": "RSNA v3 smoke five-ring",
+  "code_file": "rsna_smoke_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": ["rsna-knee-abnormality-detection"],
+  "dataset_sources": [
+    "barun2104/rsna-knee-stratified-folds-and-llm-soft-labels",
+    "matteonaccarato/resnet34-imagenet-pth"
+  ],
+  "model_sources": []
+}

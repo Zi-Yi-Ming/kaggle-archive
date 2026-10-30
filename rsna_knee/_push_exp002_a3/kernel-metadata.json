@@ -1,0 +1,18 @@
+{
+  "id": "ziyiming/rsna-exp002-a3-fold0-gpu",
+  "title": "RSNA EXP-002 A3 fold0 GPU",
+  "code_file": "rsna_exp002_a3_fold0_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "matteonaccarato/resnet34-imagenet-pth",
+    "ziyiming/torch-cu118-offline"
+  ],
+  "model_sources": []
+}

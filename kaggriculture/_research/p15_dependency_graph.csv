@@ -1,0 +1,23 @@
+from_node,to_node,mechanism,note
+SEED,PLANT_TILE,BUY_SEED+PLANT,occupies tile
+PLANT_TILE,WATER,WATER daily or WEED at unwatered>=2,labor
+PLANT_TILE,HARVEST,fy_day + yield_units,to worker inv
+HARVEST,INVENTORY,DROP/PLACE,must deposit
+INVENTORY,SHED,EOD DROP,dawn wipes inv
+SHED,CASH,SELL,market quote
+WHEAT_SHED,FEED,PICKUP WHEAT + FEED on animal tile,feed coupling
+FEED,ANIMAL_YIELD,fed_today required; unfed>=2 escapes,survival
+BUY_ANIMAL,SHED_ANIMAL,market,cash out
+SHED_ANIMAL,STRUCTURE,BUILD_COOP/PASTURE + PLACE,tile+build
+ANIMAL_TILE,MILK_WOOL_EGG,fy+interval yield if fed,product
+ANIMAL_TILE,FERTILIZER,sheep fertilizer_available + COLLECT,secondary
+MILK_WOOL_EGG,CASH,SELL,peak mid-late
+FERTILIZER,CASH,SELL or FERTILIZE crop,dual use
+CASH,BUY_SEED,,expand crops
+CASH,BUY_ANIMAL,,expand livestock
+CASH,BUY_LAND,1000/2000/4000,more tiles
+CASH,HIRE,fib daily; hands reset dawn,labor
+MELON_CASH_D10,BUY_ANIMAL,early cash funds livestock,H_MULTI_STAGE
+WHEAT_TILE,FEED_CAPACITY,more wheat tiles -> more feed heads,H_MULTI_STAGE
+SHEEP,FERTILIZER,trickle,H_MULTI_STAGE
+LAND,TILES,unlock quadrant,capacity

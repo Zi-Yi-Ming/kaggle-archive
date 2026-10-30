@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lightning 免费 GPU · 冒烟侦察结果</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p class="eyebrow">2026-09-30 · Smoke recon</p>
+      <h1>Lightning 免费 GPU → Gemma Agent 冒烟</h1>
+      <p class="sub">约束：$0 · 不绑卡 · 不注册 · 不碰 Kaggle/RSNA · 只做 1-task 链路</p>
+    </div>
+    <div class="badge-stack">
+      <span class="badge bad">END_TO_END NEED_MORE_EVIDENCE</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>短状态</h2>
+      <pre class="cmd">GPU_STATUS:          FOUND (candidates) / NOT_PROVISIONED
+RUNTIME_STATUS:      PARTIAL
+MODEL_STATUS:        BLOCKED (no authorized GPU)
+LIGHTNING_STATUS:    ACCOUNT_REQUIRED — 未登录，Stop before signup
+GPU_MODEL:           (none local) — Lightning L4 24GB / L40S 48GB / A100 40-80GB listed
+VRAM:                n/a local · L4=24GB → TIGHT_BUT_TESTABLE
+FREE_QUOTA:          ~30 credits / 5 on register; L4 ~31 free hrs to start; Studio 4h restart
+CARD_REQUIRED:       false for Free tier marketing; true for +25 credits
+PAYMENT_REQUIRED:    false if truly Free tier
+SESSION_LIMIT:       Free Studio restart every 4 hours
+RUNTIME_INSTALLABLE: Likely (Studio + pip/wheelhouse)
+
+SMOKE_TEST:          NOT_RUN
+TASK:                fastapi_11194 (planned)
+MODEL_INIT:          null
+HARNESS_INIT:        null
+CANDIDATE_USED:      null
+PATCH_SUBMITTED:     null
+RESOLVED:            null
+TIME:                null
+
+END_TO_END_STATUS:   NEED_MORE_EVIDENCE</pre>
+    </section>
+
+    <section class="card">
+      <h2>今天实际做了什么</h2>
+      <ul>
+        <li>本机 <code>nvidia-smi</code>：NVML 初始化失败 → 无本地 GPU</li>
+        <li>无 <code>lightning</code> CLI、无 <code>~/.lightning</code> Studio</li>
+        <li>浏览器打开 <code>lightning.ai/pricing</code>：仅有 <strong>Log in / Start free</strong>，<strong>未登录</strong></li>
+        <li>按规则 <strong>停止</strong>，未注册、未绑卡、未买 credits</li>
+        <li>官方 wheelhouse 路径仍有效：<code>metric/gemma-4-developer-agent-wheelhouse</code> + <code>gemma-4-31b-it-qat-w4a16-ct</code></li>
+        <li>本地 A/B 脚手架已就绪（<code>experiments/run_ab.py</code>，固定 task <code>fastapi_11194</code>）</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Lightning 免费档（官网 2026-09-30）</h2>
+      <table>
+        <tr><th>项</th><th>事实</th></tr>
+        <tr><td>无卡</td><td>文案： “No credit card. No commitments.”（Free tier）</td></tr>
+        <tr><td>额度</td><td>注册送 5 credits；+25 需绑卡；文案 up to 30 credits ≈ 80 GPU h interruptible</td></tr>
+        <tr><td>L4</td><td>24 GB · Free hours to start ~31</td></tr>
+        <tr><td>L40S</td><td>48 GB · ~5 h to start</td></tr>
+        <tr><td>A100 80GB</td><td>~5 h to start</td></tr>
+        <tr><td>会话</td><td>Free Studio 每 4 小时需重启</td></tr>
+        <tr><td>31B QAT</td><td>Q4 ≈ 17.5GB 权重；L4 24GB = TIGHT_BUT_TESTABLE；L40S 48GB = GOOD_CANDIDATE</td></tr>
+      </table>
+    </section>
+
+    <section class="card">
+      <h2>Blocker &amp; 下一步</h2>
+      <p class="status-line"><strong>BLOCKER:</strong> Lightning 需要账号（Sign up / Log in）才能开 GPU；本任务禁止自动注册。本机无 GPU / 无已有 Studio。</p>
+      <p><strong>最接近可行（零现金、无卡）：</strong>你手动注册并打开 Lightning Free Studio（不绑卡），把终端/SSH 给我；或在 Studio 里跑：</p>
+      <pre class="cmd"># 1) CUDA check
+python -c "import torch; print(torch.cuda.is_available(), torch.cuda.get_device_name(0), torch.cuda.get_device_properties(0).total_memory/1024**3)"
+# 2) official wheelhouse
+pip install --no-deps -f /path/to/wheelhouse swegemma adk_submission ...
+# 3) 1-task smoke
+python -m experiments.run_ab --mode candidate_guided --ids fastapi_11194</pre>
+      <p>HF ZeroGPU（约 5 min/日）与 Colab T4 16GB 对 31B QAT agent <strong>UNSUITABLE</strong>。</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>来源：lightning.ai/pricing（浏览器实开）· Google Gemma memory table · 本机 nvidia-smi · 未注册任何服务</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

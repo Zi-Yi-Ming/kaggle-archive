@@ -1,0 +1,5 @@
+config,info_seed,bank,shops144,deterministic,note
+cfg_seed_only,random,107879-200714,varies,NO,resolve_episode_seed_scrubs_config
+cfg+info_seed1,1,148548,PET_CAFE|FARMERS_MARKET,YES,3/3 identical
+cfg+info_seed99,99,145390,YARN_STORE|BAKERY,YES,2/2 identical
+FIX,always set env.info["seed"],,,,p26_harness.py

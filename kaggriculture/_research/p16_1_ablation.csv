@@ -1,0 +1,5 @@
+arm,wins,bank,d15,fires,bankrupt
+off,0,16300,5512,0,0
+fixed,0,12140,4832,8,0
+state,0,10448,4356,8,1
+DECISION,BRANCH_VALUE_NOT_ROBUST,,,,"P16 +45% not reproducible; state not better than fixed"

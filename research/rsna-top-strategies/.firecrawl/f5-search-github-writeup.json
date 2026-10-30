@@ -1,0 +1,58 @@
+=== Web Results ===
+
+RSNA-Knee-Abnormality-Detection - GitHub
+  URL: https://github.com/SE-SaaS/RSNA-Knee-Abnormality-Detection
+  Contribute to SE-SaaS/RSNA-Knee-Abnormality-Detection development by creating an account on GitHub.
+  Category: github
+
+RSNA Knee Abnormality Detection | Kaggle
+  URL: https://www.kaggle.com/competitions/rsna-knee-abnormality-detection
+  In this competition, you are tasked to build machine learning models that detect a defined set of clinically important abnormalities on knee MRI examinations.
+
+Add competition: RSNA Knee Abnormality Detection #1203 - GitHub
+  URL: https://github.com/mlcontests/mlcontests.github.io/actions/runs/31091817795
+  A list of public machine learning/data science/AI contests. - Add competition: RSNA Knee Abnormality Detection · mlcontests/mlcontests.github.io@14bc45e.
+  Category: github
+
+RSNA Launches Knee Abnormality Detection AI Challenge
+  URL: https://www.rsna.org/news/2026/august/ai-challenge-knee-mri
+  The 2026 RSNA Knee Abnormality Detection AI Challenge will engage researchers to develop machine learning models to detect and classify ...
+
+Building a machine learning pipeline for RSNA knee abnormality detection
+  URL: https://www.facebook.com/MrDUETian/posts/excited-to-share-that-i-have-participated-in-the-rsna-knee-abnormality-detection/1056993253844563/
+  The competition is currently ongoing, and I am working on a machine learning pipeline to identify different knee abnormalities from MRI- ...
+
+=== Alexandria Tools ===
+
+  github-com/repositories/search_repos
+    Search public GitHub repositories with GitHub's search syntax (free text plus qualifiers such as language:rust, stars:>1000, topic:llm, org:firecrawl, created:>2025-01-01), sorted by best match, stars, forks, help-wanted issues or last update. Returns one page of repository records with stars, forks and dates; total_count is GitHub's overall match count, capped at 1000 reachable results (page * per_page <= 1000). Keyless search is limited to 10 requests per minute per IP.
+
+  reclameaqui-com-br/complaints/segment_ranking
+    Rank companies in a category, e.g. the best marketplaces (varejo/marketplaces) or the worst online courses.
+
+  reclameaqui-com-br/complaints/segments
+    Discover the main_segment/sub_segment pair for segment_ranking or browse Reclame Aqui's category taxonomy.
+
+  reclameaqui-com-br/complaints/company_complaints
+    List or paginate a company's complaints. Pass company_id from search_companies or company (or shortname). Use page for the next page while next_page is set.
+
+  reclameaqui-com-br/complaints/complaint
+    Read one complaint's text, the company reply and the consumer's evaluation. Ids and URLs come from company_complaints or search_complaints.
+
+  github-com/repositories/contributors
+    One page of a repository's contributors ordered by commit count on the default branch, with login, account type and contribution count. Anonymous (email-only) contributors are not listed. GitHub refuses this listing for repositories with very large histories (for example torvalds/linux), which surfaces as an error naming the reason.
+
+  github-com/repositories/issue_counts
+    Exact issue counts for a repository (pull requests excluded, unlike the repository's open_issues_count): the total for the given state plus one count per requested label, from GitHub's issue search. Makes 1 + labels.length search requests; at most 5 labels per call because GitHub allows 10 keyless searches per minute per IP.
+
+  github-com/repositories/issues
+    One page of a repository's issues filtered by state and labels (all given labels must match), sorted by created/updated/comments. Pull requests are excluded unless include_pull_requests is true, so a page may hold fewer than per_page records; pull_requests_excluded says how many were dropped. Each record carries title, state, labels, assignees, milestone, comment and reaction counts, body and timestamps.
+
+  github-com/repositories/labels
+    The labels defined in a repository (name, color, description, whether GitHub-default), one page of up to 100. Use the names with issues and issue_counts.
+
+  github-com/repositories/latest_release
+    The latest published, non-prerelease, non-draft release of a repository with its release notes (Markdown body), tag, publish date, author and downloadable assets. found=false with release=null when the repository exists but has no published release.
+
+Inspect: firecrawl list <provider> <capability> --pretty
+Use find-tools for tool sets or missing contracts; execute selected tools with scrape --alexandria <provider/capability> --options <json>.

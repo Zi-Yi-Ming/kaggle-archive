@@ -1,0 +1,18 @@
+{
+  "shepherd": {
+    "mv": {
+      "n": 3,
+      "wins": 3,
+      "win_rate": 1.0,
+      "mean_margin": 1797.0
+    },
+    "sh": {
+      "n": 2,
+      "wins": 2,
+      "win_rate": 1.0,
+      "mean_margin": 6130.0
+    },
+    "dual": "PASS",
+    "beats_h3x": true
+  }
+}

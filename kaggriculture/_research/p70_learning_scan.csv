@@ -1,0 +1,14 @@
+finn_mean,finn_s1,hash,name,nearest,nearest_sim,payload,sim_R2,sim_alperen,sim_guru,status,vs_alp_D,vs_alp_L,vs_alp_W,vs_alp_WL
+,,,2780_beyond_48_0_128_128_worlds_with_95_cis,,,,,,,no_agent,,,,
+,,,2802_two_identical_agents_90_points_apart,,,,,,,no_agent,,,,
+,,,best_agent_ranking,,,,,,,no_agent,,,,
+,193945.0,1e5c3fa0017b,farming_score_v2_a_better_approach,guru,0.952712100139082,0,0.7579972183588317,0.9499304589707928,0.952712100139082,known_family,,,,
+,,,farming_score_v2_a_better_approach,,,,,,,all_payload_fail,,,,
+,193945.0,3c48dd945edd,farming_score_v5_timing_optimized,guru,1.0,0,0.7732962447844228,0.9972183588317107,1.0,known_family,,,,
+,,,farming_score_v5_timing_optimized,,,,,,,all_payload_fail,,,,
+,,,kaggriculture_2312_9_q30_v2a,,,,,,,all_payload_fail,,,,
+,,,kaggriculture_2820_score,,,,,,,all_payload_fail,,,,
+,,,kaggriculture_auto_top1,,,,,,,no_agent,,,,
+,,,kaggriculture_pipe_8_clean_opening,,,,,,,no_agent,,,,
+188115.0,192654.0,e9fb222bf8b3,kaggriculture_shop_router_reactive_v7,guru,0.8817802503477051,0,0.7621696801112656,0.8803894297635605,0.8817802503477051,h2h_done,0,0,3,3
+,,,kaggriculture_v46_first_turn_microstructure_and_,,,,,,,all_payload_fail,,,,

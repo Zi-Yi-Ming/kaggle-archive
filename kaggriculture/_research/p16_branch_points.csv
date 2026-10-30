@@ -1,0 +1,4 @@
+branch_id,day,trigger,base_continuation,branch_continuation,evidence,priority
+B_CASH_WINDOW_FAIL,10,money < 400 AND field_melon == 0 AND shed_melon == 0,continue GROW/CASH_WINDOW portfolio,FORCE_CONVERT: sell_all products; no new long seeds; prioritize animal/wheat cash,P13: melon death => no d10 cash; P11: hands=0 spiral,1
+B_CASH_WINDOW_STUCK,10,money < 1500 AND (field_melon > 0 OR shed_melon > 0),hold for later premium,FORCE_SELL_MELON: list melon now at market,P13 ledger: d10 melon sale is the cash engine,2
+B_ANIMAL_STARVED,12,animals == 0 AND money > 800,crop-only path,buy bootstrap 2C+2S if cash allows,P14.2: livestock EV positive with feed,3

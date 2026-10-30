@@ -1,0 +1,1207 @@
+{
+  "results": [
+    {
+      "summary": {
+        "opp": "thomas_prod_s9_20",
+        "n": 24,
+        "wins": 19,
+        "losses": 5,
+        "win_rate": 0.792,
+        "mean_margin": 751.4,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 9,
+          "seat0": true,
+          "cand": 82210.0,
+          "opp_bank": 81308.0,
+          "margin": 902.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 9,
+          "seat0": false,
+          "cand": 82210.0,
+          "opp_bank": 81308.0,
+          "margin": 902.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.4
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 10,
+          "seat0": true,
+          "cand": 84694.0,
+          "opp_bank": 84506.0,
+          "margin": 188.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.4
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 10,
+          "seat0": false,
+          "cand": 84694.0,
+          "opp_bank": 84506.0,
+          "margin": 188.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.3
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 11,
+          "seat0": true,
+          "cand": 81396.0,
+          "opp_bank": 80499.0,
+          "margin": 897.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.7
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 11,
+          "seat0": false,
+          "cand": 82342.0,
+          "opp_bank": 80125.0,
+          "margin": 2217.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.7
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 12,
+          "seat0": true,
+          "cand": 91319.0,
+          "opp_bank": 92432.0,
+          "margin": -1113.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.5
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 12,
+          "seat0": false,
+          "cand": 92291.0,
+          "opp_bank": 91463.0,
+          "margin": 828.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.5
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 13,
+          "seat0": true,
+          "cand": 151129.0,
+          "opp_bank": 151592.0,
+          "margin": -463.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 7.9
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 13,
+          "seat0": false,
+          "cand": 151129.0,
+          "opp_bank": 151592.0,
+          "margin": -463.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.2
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 14,
+          "seat0": true,
+          "cand": 106174.0,
+          "opp_bank": 105569.0,
+          "margin": 605.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 14,
+          "seat0": false,
+          "cand": 106174.0,
+          "opp_bank": 105569.0,
+          "margin": 605.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.3
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 15,
+          "seat0": true,
+          "cand": 80448.0,
+          "opp_bank": 78805.0,
+          "margin": 1643.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.6
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 15,
+          "seat0": false,
+          "cand": 80448.0,
+          "opp_bank": 78805.0,
+          "margin": 1643.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.6
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 16,
+          "seat0": true,
+          "cand": 111576.0,
+          "opp_bank": 112132.0,
+          "margin": -556.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.4
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 16,
+          "seat0": false,
+          "cand": 111576.0,
+          "opp_bank": 112132.0,
+          "margin": -556.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 17,
+          "seat0": true,
+          "cand": 112956.0,
+          "opp_bank": 110000.0,
+          "margin": 2956.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 17,
+          "seat0": false,
+          "cand": 112956.0,
+          "opp_bank": 110000.0,
+          "margin": 2956.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 18,
+          "seat0": true,
+          "cand": 73281.0,
+          "opp_bank": 72927.0,
+          "margin": 354.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 18,
+          "seat0": false,
+          "cand": 73281.0,
+          "opp_bank": 72927.0,
+          "margin": 354.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 19,
+          "seat0": true,
+          "cand": 79655.0,
+          "opp_bank": 79024.0,
+          "margin": 631.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.3
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 19,
+          "seat0": false,
+          "cand": 79655.0,
+          "opp_bank": 79024.0,
+          "margin": 631.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 20,
+          "seat0": true,
+          "cand": 74965.0,
+          "opp_bank": 73623.0,
+          "margin": 1342.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "thomas_prod_s9_20",
+          "seed": 20,
+          "seat0": false,
+          "cand": 74965.0,
+          "opp_bank": 73623.0,
+          "margin": 1342.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "metav4_mirror",
+        "n": 12,
+        "wins": 1,
+        "losses": 11,
+        "win_rate": 0.083,
+        "mean_margin": 0.0,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "metav4_mirror",
+          "seed": 1,
+          "seat0": true,
+          "cand": 149843.0,
+          "opp_bank": 149843.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 1,
+          "seat0": false,
+          "cand": 149843.0,
+          "opp_bank": 149843.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.2
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 2,
+          "seat0": true,
+          "cand": 78867.0,
+          "opp_bank": 78867.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.5
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 2,
+          "seat0": false,
+          "cand": 78867.0,
+          "opp_bank": 78867.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.6
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 3,
+          "seat0": true,
+          "cand": 75392.0,
+          "opp_bank": 75392.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 3,
+          "seat0": false,
+          "cand": 75392.0,
+          "opp_bank": 75392.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 4,
+          "seat0": true,
+          "cand": 74701.0,
+          "opp_bank": 74701.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 4,
+          "seat0": false,
+          "cand": 74701.0,
+          "opp_bank": 74701.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 11,
+          "seat0": true,
+          "cand": 80693.0,
+          "opp_bank": 81393.0,
+          "margin": -700.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.2
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 11,
+          "seat0": false,
+          "cand": 81393.0,
+          "opp_bank": 80693.0,
+          "margin": 700.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.2
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 22,
+          "seat0": true,
+          "cand": 84095.0,
+          "opp_bank": 84095.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.2
+        },
+        {
+          "opp": "metav4_mirror",
+          "seed": 22,
+          "seat0": false,
+          "cand": 84095.0,
+          "opp_bank": 84095.0,
+          "margin": 0.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "thomas_no_race",
+        "n": 8,
+        "wins": 8,
+        "losses": 0,
+        "win_rate": 1.0,
+        "mean_margin": 2311.0,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "thomas_no_race",
+          "seed": 1,
+          "seat0": true,
+          "cand": 150204.0,
+          "opp_bank": 148273.0,
+          "margin": 1931.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "thomas_no_race",
+          "seed": 1,
+          "seat0": false,
+          "cand": 150204.0,
+          "opp_bank": 148273.0,
+          "margin": 1931.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.2
+        },
+        {
+          "opp": "thomas_no_race",
+          "seed": 2,
+          "seat0": true,
+          "cand": 79962.0,
+          "opp_bank": 76317.0,
+          "margin": 3645.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.5
+        },
+        {
+          "opp": "thomas_no_race",
+          "seed": 2,
+          "seat0": false,
+          "cand": 79962.0,
+          "opp_bank": 76317.0,
+          "margin": 3645.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.5
+        },
+        {
+          "opp": "thomas_no_race",
+          "seed": 3,
+          "seat0": true,
+          "cand": 76060.0,
+          "opp_bank": 73678.0,
+          "margin": 2382.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        },
+        {
+          "opp": "thomas_no_race",
+          "seed": 3,
+          "seat0": false,
+          "cand": 76060.0,
+          "opp_bank": 73678.0,
+          "margin": 2382.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        },
+        {
+          "opp": "thomas_no_race",
+          "seed": 4,
+          "seat0": true,
+          "cand": 74376.0,
+          "opp_bank": 73090.0,
+          "margin": 1286.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_no_race",
+          "seed": 4,
+          "seat0": false,
+          "cand": 74376.0,
+          "opp_bank": 73090.0,
+          "margin": 1286.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "yhay81_0913",
+        "n": 8,
+        "wins": 8,
+        "losses": 0,
+        "win_rate": 1.0,
+        "mean_margin": 12589.8,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "yhay81_0913",
+          "seed": 1,
+          "seat0": true,
+          "cand": 107755.0,
+          "opp_bank": 97631.0,
+          "margin": 10124.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.0
+        },
+        {
+          "opp": "yhay81_0913",
+          "seed": 1,
+          "seat0": false,
+          "cand": 107755.0,
+          "opp_bank": 97631.0,
+          "margin": 10124.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.2
+        },
+        {
+          "opp": "yhay81_0913",
+          "seed": 2,
+          "seat0": true,
+          "cand": 92437.0,
+          "opp_bank": 82529.0,
+          "margin": 9908.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        },
+        {
+          "opp": "yhay81_0913",
+          "seed": 2,
+          "seat0": false,
+          "cand": 92437.0,
+          "opp_bank": 82529.0,
+          "margin": 9908.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.2
+        },
+        {
+          "opp": "yhay81_0913",
+          "seed": 3,
+          "seat0": true,
+          "cand": 97747.0,
+          "opp_bank": 77540.0,
+          "margin": 20207.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.4
+        },
+        {
+          "opp": "yhay81_0913",
+          "seed": 3,
+          "seat0": false,
+          "cand": 97747.0,
+          "opp_bank": 77540.0,
+          "margin": 20207.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.4
+        },
+        {
+          "opp": "yhay81_0913",
+          "seed": 4,
+          "seat0": true,
+          "cand": 96091.0,
+          "opp_bank": 85971.0,
+          "margin": 10120.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.4
+        },
+        {
+          "opp": "yhay81_0913",
+          "seed": 4,
+          "seat0": false,
+          "cand": 96091.0,
+          "opp_bank": 85971.0,
+          "margin": 10120.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "evgendvorkin",
+        "n": 8,
+        "wins": 8,
+        "losses": 0,
+        "win_rate": 1.0,
+        "mean_margin": 4587.8,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "evgendvorkin",
+          "seed": 1,
+          "seat0": true,
+          "cand": 150618.0,
+          "opp_bank": 146340.0,
+          "margin": 4278.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "opp": "evgendvorkin",
+          "seed": 1,
+          "seat0": false,
+          "cand": 150618.0,
+          "opp_bank": 146340.0,
+          "margin": 4278.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "opp": "evgendvorkin",
+          "seed": 2,
+          "seat0": true,
+          "cand": 78057.0,
+          "opp_bank": 69932.0,
+          "margin": 8125.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "evgendvorkin",
+          "seed": 2,
+          "seat0": false,
+          "cand": 78057.0,
+          "opp_bank": 69932.0,
+          "margin": 8125.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "evgendvorkin",
+          "seed": 3,
+          "seat0": true,
+          "cand": 76372.0,
+          "opp_bank": 71356.0,
+          "margin": 5016.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.6
+        },
+        {
+          "opp": "evgendvorkin",
+          "seed": 3,
+          "seat0": false,
+          "cand": 76372.0,
+          "opp_bank": 71356.0,
+          "margin": 5016.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        },
+        {
+          "opp": "evgendvorkin",
+          "seed": 4,
+          "seat0": true,
+          "cand": 74085.0,
+          "opp_bank": 73153.0,
+          "margin": 932.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        },
+        {
+          "opp": "evgendvorkin",
+          "seed": 4,
+          "seat0": false,
+          "cand": 74085.0,
+          "opp_bank": 73153.0,
+          "margin": 932.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "salemali7",
+        "n": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 8
+      },
+      "rows": [
+        {
+          "opp": "salemali7",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "salemali7",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "salemali7",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "salemali7",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "salemali7",
+          "seed": 3,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "salemali7",
+          "seed": 3,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "salemali7",
+          "seed": 4,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "salemali7",
+          "seed": 4,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "thomas_prod_repro",
+        "n": 16,
+        "wins": 16,
+        "losses": 0,
+        "win_rate": 1.0,
+        "mean_margin": 2148.8,
+        "errors": 0
+      },
+      "rows": [
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 1,
+          "seat0": true,
+          "cand": 150154.0,
+          "opp_bank": 148389.0,
+          "margin": 1765.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.1
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 1,
+          "seat0": false,
+          "cand": 150154.0,
+          "opp_bank": 148389.0,
+          "margin": 1765.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 2,
+          "seat0": true,
+          "cand": 80268.0,
+          "opp_bank": 75823.0,
+          "margin": 4445.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.4
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 2,
+          "seat0": false,
+          "cand": 80268.0,
+          "opp_bank": 75823.0,
+          "margin": 4445.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.4
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 3,
+          "seat0": true,
+          "cand": 76180.0,
+          "opp_bank": 73612.0,
+          "margin": 2568.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 3,
+          "seat0": false,
+          "cand": 76180.0,
+          "opp_bank": 73612.0,
+          "margin": 2568.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 4,
+          "seat0": true,
+          "cand": 74263.0,
+          "opp_bank": 73252.0,
+          "margin": 1011.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 4,
+          "seat0": false,
+          "cand": 74263.0,
+          "opp_bank": 73252.0,
+          "margin": 1011.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 6.0
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 5,
+          "seat0": true,
+          "cand": 91802.0,
+          "opp_bank": 90289.0,
+          "margin": 1513.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 5,
+          "seat0": false,
+          "cand": 91802.0,
+          "opp_bank": 90289.0,
+          "margin": 1513.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 6,
+          "seat0": true,
+          "cand": 85255.0,
+          "opp_bank": 82956.0,
+          "margin": 2299.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 6,
+          "seat0": false,
+          "cand": 85255.0,
+          "opp_bank": 82956.0,
+          "margin": 2299.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 7,
+          "seat0": true,
+          "cand": 93449.0,
+          "opp_bank": 91746.0,
+          "margin": 1703.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 7,
+          "seat0": false,
+          "cand": 93449.0,
+          "opp_bank": 91746.0,
+          "margin": 1703.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.8
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 8,
+          "seat0": true,
+          "cand": 85823.0,
+          "opp_bank": 83937.0,
+          "margin": 1886.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        },
+        {
+          "opp": "thomas_prod_repro",
+          "seed": 8,
+          "seat0": false,
+          "cand": 85823.0,
+          "opp_bank": 83937.0,
+          "margin": 1886.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.9
+        }
+      ]
+    }
+  ]
+}

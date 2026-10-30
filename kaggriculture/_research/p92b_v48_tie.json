@@ -1,0 +1,385 @@
+{
+  "updated": "2026-09-21T13:31:36",
+  "note": "P92b counsel exact recheck v48 + breaking-the-tie; no submit",
+  "results": {
+    "kaito_v48_fast_routes": {
+      "fp_v43": {
+        "cand": "kaito_v48_fast_routes",
+        "opp": "fp_v43",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1673.0
+      },
+      "fp_guru4": {
+        "cand": "kaito_v48_fast_routes",
+        "opp": "fp_guru4",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -21936.0
+      },
+      "fp_pipe16": {
+        "cand": "kaito_v48_fast_routes",
+        "opp": "fp_pipe16",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -21936.0
+      },
+      "vs_metav4": {
+        "cand": "kaito_v48_fast_routes",
+        "opp": "metav4",
+        "n": 6,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -23600.3,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 78874.0,
+            "ob": 100753.0,
+            "margin": -21879.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 78874.0,
+            "ob": 100753.0,
+            "margin": -21879.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 42885.0,
+            "ob": 73213.0,
+            "margin": -30328.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 42885.0,
+            "ob": 73213.0,
+            "margin": -30328.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 58502.0,
+            "ob": 77096.0,
+            "margin": -18594.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 58502.0,
+            "ob": 77096.0,
+            "margin": -18594.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_shop_v7": {
+        "cand": "kaito_v48_fast_routes",
+        "opp": "shop_v7",
+        "n": 6,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -22417.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 78346.0,
+            "ob": 99253.0,
+            "margin": -20907.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 78346.0,
+            "ob": 99253.0,
+            "margin": -20907.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 43000.0,
+            "ob": 73021.0,
+            "margin": -30021.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 43000.0,
+            "ob": 73021.0,
+            "margin": -30021.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 49594.0,
+            "ob": 65917.0,
+            "margin": -16323.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 49594.0,
+            "ob": 65917.0,
+            "margin": -16323.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_thomas": {
+        "cand": "kaito_v48_fast_routes",
+        "opp": "thomas",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -26375.5,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 78704.0,
+            "ob": 101117.0,
+            "margin": -22413.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 78704.0,
+            "ob": 101117.0,
+            "margin": -22413.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 42581.0,
+            "ob": 72919.0,
+            "margin": -30338.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 42581.0,
+            "ob": 72919.0,
+            "margin": -30338.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_alperen": {
+        "cand": "kaito_v48_fast_routes",
+        "opp": "alperen",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -21755.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 78451.0,
+            "ob": 100206.0,
+            "margin": -21755.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 78451.0,
+            "ob": 100206.0,
+            "margin": -21755.0,
+            "win": false
+          }
+        ]
+      },
+      "slot_a": false,
+      "collapses": [
+        "vs_metav4",
+        "vs_shop_v7",
+        "vs_thomas"
+      ]
+    },
+    "andrey_v21r1_bootstrap": {
+      "note": "V21-R1 teacher bootstrap SHA c6f96a85... NOT V12/2883; version pull 403",
+      "vs_metav4": {
+        "cand": "andrey_v21r1_bootstrap",
+        "opp": "metav4",
+        "n": 6,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -35788.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 26337.0,
+            "ob": 63703.0,
+            "margin": -37366.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 26337.0,
+            "ob": 63703.0,
+            "margin": -37366.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 104859.0,
+            "ob": 134682.0,
+            "margin": -29823.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 104859.0,
+            "ob": 134682.0,
+            "margin": -29823.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 58523.0,
+            "ob": 98698.0,
+            "margin": -40175.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 58523.0,
+            "ob": 98698.0,
+            "margin": -40175.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_shop_v7": {
+        "cand": "andrey_v21r1_bootstrap",
+        "opp": "shop_v7",
+        "n": 6,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -33578.7,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 26333.0,
+            "ob": 61604.0,
+            "margin": -35271.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 26333.0,
+            "ob": 61604.0,
+            "margin": -35271.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 103729.0,
+            "ob": 131026.0,
+            "margin": -27297.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 103729.0,
+            "ob": 131026.0,
+            "margin": -27297.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 60768.0,
+            "ob": 98936.0,
+            "margin": -38168.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 60768.0,
+            "ob": 98936.0,
+            "margin": -38168.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_thomas": {
+        "cand": "andrey_v21r1_bootstrap",
+        "opp": "thomas",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -32906.5,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 26351.0,
+            "ob": 63122.0,
+            "margin": -36771.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 26351.0,
+            "ob": 63122.0,
+            "margin": -36771.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 104524.0,
+            "ob": 133566.0,
+            "margin": -29042.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 104524.0,
+            "ob": 133566.0,
+            "margin": -29042.0,
+            "win": false
+          }
+        ]
+      },
+      "slot_a": false
+    }
+  },
+  "version_pull": "403 Forbidden on historical scriptVersionId; using local public_nb artifacts"
+}

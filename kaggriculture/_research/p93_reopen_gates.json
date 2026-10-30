@@ -1,0 +1,576 @@
+{
+  "results": {
+    "kaggriculture-v54-productive-wheat-and-p": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p93_reopen\\extracted3\\kaggriculture-v54-productive-wheat-and-patient.py",
+      "vs_metav4": {
+        "cand": "kaggriculture-v54-productive-wheat-and-p",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 78.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 149901.0,
+            "ob": 149822.0,
+            "margin": 79.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 149901.0,
+            "ob": 149822.0,
+            "margin": 79.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 78932.0,
+            "ob": 78855.0,
+            "margin": 77.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 78932.0,
+            "ob": 78855.0,
+            "margin": 77.0,
+            "win": true
+          }
+        ]
+      },
+      "vs_shop_v7": {
+        "cand": "kaggriculture-v54-productive-wheat-and-p",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16796.5,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 112423.0,
+            "ob": 131353.0,
+            "margin": -18930.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 112423.0,
+            "ob": 131353.0,
+            "margin": -18930.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 91635.0,
+            "ob": 106298.0,
+            "margin": -14663.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 91635.0,
+            "ob": 106298.0,
+            "margin": -14663.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_thomas": {
+        "cand": "kaggriculture-v54-productive-wheat-and-p",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1840.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 150212.0,
+            "ob": 148372.0,
+            "margin": 1840.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 150212.0,
+            "ob": 148372.0,
+            "margin": 1840.0,
+            "win": true
+          }
+        ]
+      },
+      "dual": false
+    },
+    "farmer-john-and-the-idle-seller": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p93_reopen\\extracted3\\farmer-john-and-the-idle-seller.py",
+      "vs_metav4": {
+        "cand": "farmer-john-and-the-idle-seller",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 69.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 149878.0,
+            "ob": 149828.0,
+            "margin": 50.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 149878.0,
+            "ob": 149828.0,
+            "margin": 50.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 78927.0,
+            "ob": 78839.0,
+            "margin": 88.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 78927.0,
+            "ob": 78839.0,
+            "margin": 88.0,
+            "win": true
+          }
+        ]
+      },
+      "vs_shop_v7": {
+        "cand": "farmer-john-and-the-idle-seller",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16627.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 72902.0,
+            "ob": 82768.0,
+            "margin": -9866.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 72902.0,
+            "ob": 82768.0,
+            "margin": -9866.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 127139.0,
+            "ob": 150527.0,
+            "margin": -23388.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 127139.0,
+            "ob": 150527.0,
+            "margin": -23388.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_thomas": {
+        "cand": "farmer-john-and-the-idle-seller",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1811.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 150188.0,
+            "ob": 148377.0,
+            "margin": 1811.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 150188.0,
+            "ob": 148377.0,
+            "margin": 1811.0,
+            "win": true
+          }
+        ]
+      },
+      "dual": false
+    },
+    "kaggriculture-idle-workers": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p93_reopen\\extracted3\\kaggriculture-idle-workers.py",
+      "vs_metav4": {
+        "cand": "kaggriculture-idle-workers",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 50.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 149878.0,
+            "ob": 149828.0,
+            "margin": 50.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 149878.0,
+            "ob": 149828.0,
+            "margin": 50.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 78914.0,
+            "ob": 78864.0,
+            "margin": 50.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 78914.0,
+            "ob": 78864.0,
+            "margin": 50.0,
+            "win": true
+          }
+        ]
+      },
+      "vs_shop_v7": {
+        "cand": "kaggriculture-idle-workers",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16627.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 72902.0,
+            "ob": 82768.0,
+            "margin": -9866.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 72902.0,
+            "ob": 82768.0,
+            "margin": -9866.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 127139.0,
+            "ob": 150527.0,
+            "margin": -23388.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 127139.0,
+            "ob": 150527.0,
+            "margin": -23388.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_thomas": {
+        "cand": "kaggriculture-idle-workers",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1811.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 150188.0,
+            "ob": 148377.0,
+            "margin": 1811.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 150188.0,
+            "ob": 148377.0,
+            "margin": 1811.0,
+            "win": true
+          }
+        ]
+      },
+      "dual": false
+    },
+    "farmcraft-kaggriculture-grandmaster": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p93_reopen\\extracted3\\farmcraft-kaggriculture-grandmaster.py",
+      "vs_metav4": {
+        "cand": "farmcraft-kaggriculture-grandmaster",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -180428.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 140.0,
+            "ob": 193291.0,
+            "margin": -193151.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 140.0,
+            "ob": 193291.0,
+            "margin": -193151.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 4.0,
+            "ob": 167709.0,
+            "margin": -167705.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 4.0,
+            "ob": 167709.0,
+            "margin": -167705.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_shop_v7": {
+        "cand": "farmcraft-kaggriculture-grandmaster",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -175897.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 140.0,
+            "ob": 184076.0,
+            "margin": -183936.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 140.0,
+            "ob": 184076.0,
+            "margin": -183936.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 4.0,
+            "ob": 167862.0,
+            "margin": -167858.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 4.0,
+            "ob": 167862.0,
+            "margin": -167858.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_thomas": {
+        "cand": "farmcraft-kaggriculture-grandmaster",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -193176.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 140.0,
+            "ob": 193316.0,
+            "margin": -193176.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 140.0,
+            "ob": 193316.0,
+            "margin": -193176.0,
+            "win": false
+          }
+        ]
+      },
+      "dual": false
+    },
+    "farmer-john-and-the-wheat-seller": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p93_reopen\\extracted3\\farmer-john-and-the-wheat-seller.py",
+      "vs_metav4": {
+        "cand": "farmer-john-and-the-wheat-seller",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 97.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 149901.0,
+            "ob": 149822.0,
+            "margin": 79.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 149901.0,
+            "ob": 149822.0,
+            "margin": 79.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 78945.0,
+            "ob": 78830.0,
+            "margin": 115.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 78945.0,
+            "ob": 78830.0,
+            "margin": 115.0,
+            "win": true
+          }
+        ]
+      },
+      "vs_shop_v7": {
+        "cand": "farmer-john-and-the-wheat-seller",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16796.5,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 112423.0,
+            "ob": 131353.0,
+            "margin": -18930.0,
+            "win": false
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 112423.0,
+            "ob": 131353.0,
+            "margin": -18930.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 91635.0,
+            "ob": 106298.0,
+            "margin": -14663.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 91635.0,
+            "ob": 106298.0,
+            "margin": -14663.0,
+            "win": false
+          }
+        ]
+      },
+      "vs_thomas": {
+        "cand": "farmer-john-and-the-wheat-seller",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1840.0,
+        "rows": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 150212.0,
+            "ob": 148372.0,
+            "margin": 1840.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 150212.0,
+            "ob": 148372.0,
+            "margin": 1840.0,
+            "win": true
+          }
+        ]
+      },
+      "dual": false
+    }
+  },
+  "note": "P93d reopen dual-gate",
+  "updated": "2026-09-21T17:47:23"
+}

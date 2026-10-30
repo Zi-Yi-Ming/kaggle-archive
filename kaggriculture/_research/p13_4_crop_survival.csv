@@ -1,0 +1,7 @@
+crop,B0_planted,B1_planted,B0_weed_events,B1_weed_events,B0_harvest_ev,B1_harvest_ev,B0_rev,B1_rev,rev_delta
+WHEAT,129,110,0,0,248,198,4122,3486,-637
+CARROT,0,0,0,0,0,0,0,0,0
+STRAWBERRY,0,0,0,0,0,0,0,0,0
+MELON,0,0,0,0,0,0,0,0,0
+TOMATO,0,0,0,0,0,0,0,0,0
+note,natural_B_only_wheat,,,no_survival_gap,,,indirect_gains_in_animals,,

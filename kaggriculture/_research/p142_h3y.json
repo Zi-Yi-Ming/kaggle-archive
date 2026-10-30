@@ -1,0 +1,17 @@
+{
+  "h3y": {
+    "metav4": {
+      "n": 12,
+      "wins": 4,
+      "win_rate": 0.3333333333333333,
+      "mean_margin": -811.3333333333334
+    },
+    "shop": {
+      "n": 8,
+      "wins": 8,
+      "win_rate": 1.0,
+      "mean_margin": 3746.75
+    },
+    "verdict": "NO {'n': 12, 'wins': 4, 'win_rate': 0.3333333333333333, 'mean_margin': -811.3333333333334} {'n': 8, 'wins': 8, 'win_rate': 1.0, 'mean_margin': 3746.75}"
+  }
+}

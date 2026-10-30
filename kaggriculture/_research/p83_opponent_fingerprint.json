@@ -1,0 +1,1456 @@
+{
+  "loss_fingerprints": [
+    {
+      "file": "episode-110855312-replay.json",
+      "seed": 1387937942,
+      "names": [
+        "wadigongren",
+        "ZiYiMing"
+      ],
+      "our_seat": 1,
+      "rewards": [
+        96384.0,
+        95349.0
+      ],
+      "our_final": 95349.0,
+      "opp_final": 96384.0,
+      "margin": -1035.0,
+      "sell_jaccard": 0.9911,
+      "hire_delta": 0,
+      "land_delta": 0,
+      "animal_delta": 0,
+      "family": "mirror_tape",
+      "our_fp": {
+        "final_money": 95349.0,
+        "first_sell_step": 1,
+        "hires_total": 305,
+        "last_hire_day": 29,
+        "land_bought": 3,
+        "animals_bought": {
+          "COW": 6,
+          "SHEEP": 17
+        },
+        "seeds_bought": {
+          "MELON": 12,
+          "WHEAT": 165,
+          "STRAWBERRY": 33,
+          "CARROT": 28
+        },
+        "sell_total": {
+          "WHEAT": 17327,
+          "FERTILIZER": 10391,
+          "WOOL": 6495,
+          "MILK": 8283,
+          "MELON": 6072,
+          "STRAWBERRY": 6326,
+          "EGG": 8018,
+          "CARROT": 17048,
+          "TOMATO": 6000
+        },
+        "buy_product_total": {
+          "WHEAT": 271,
+          "FERTILIZER": 51
+        },
+        "sell_day5": {
+          "FERTILIZER": 6,
+          "WHEAT": 2
+        },
+        "sell_day10": {
+          "MELON": 60,
+          "MILK": 11
+        },
+        "sell_day20": {
+          "STRAWBERRY": 30,
+          "WOOL": 36,
+          "MILK": 24,
+          "WHEAT": 26,
+          "FERTILIZER": 20
+        },
+        "sell_day29": {
+          "WHEAT": 7044,
+          "FERTILIZER": 7019,
+          "EGG": 7016,
+          "CARROT": 6043,
+          "MILK": 6010,
+          "WOOL": 6020,
+          "STRAWBERRY": 6000,
+          "TOMATO": 6000,
+          "MELON": 6000
+        },
+        "day5_tiles": {
+          "_quads": 1,
+          "_hands": 4
+        },
+        "day10_tiles": {
+          "_quads": 2,
+          "_hands": 11
+        },
+        "day15_tiles": {
+          "_quads": 4,
+          "_hands": 12
+        },
+        "day20_tiles": {
+          "_quads": 4,
+          "_hands": 14
+        },
+        "day29_tiles": {
+          "_quads": 4,
+          "_hands": 12
+        },
+        "day10_animals": {},
+        "day20_animals": {}
+      },
+      "opp_fp": {
+        "final_money": 96384.0,
+        "first_sell_step": 1,
+        "hires_total": 305,
+        "last_hire_day": 29,
+        "land_bought": 3,
+        "animals_bought": {
+          "COW": 6,
+          "SHEEP": 17
+        },
+        "seeds_bought": {
+          "MELON": 12,
+          "WHEAT": 165,
+          "STRAWBERRY": 33,
+          "CARROT": 28
+        },
+        "sell_total": {
+          "WHEAT": 17870,
+          "FERTILIZER": 10616,
+          "WOOL": 6495,
+          "MILK": 8283,
+          "MELON": 6072,
+          "STRAWBERRY": 6326,
+          "EGG": 8018,
+          "CARROT": 17048,
+          "TOMATO": 6000
+        },
+        "buy_product_total": {
+          "WHEAT": 814,
+          "FERTILIZER": 276
+        },
+        "sell_day5": {
+          "FERTILIZER": 6,
+          "WHEAT": 2
+        },
+        "sell_day10": {
+          "MELON": 60,
+          "MILK": 11
+        },
+        "sell_day20": {
+          "STRAWBERRY": 30,
+          "WOOL": 36,
+          "MILK": 24,
+          "FERTILIZER": 20,
+          "WHEAT": 26
+        },
+        "sell_day29": {
+          "WHEAT": 7044,
+          "FERTILIZER": 7019,
+          "EGG": 7016,
+          "CARROT": 6043,
+          "MILK": 6010,
+          "WOOL": 6020,
+          "STRAWBERRY": 6000,
+          "TOMATO": 6000,
+          "MELON": 6000
+        },
+        "day5_tiles": {
+          "_quads": 1,
+          "_hands": 4
+        },
+        "day10_tiles": {
+          "_quads": 2,
+          "_hands": 11
+        },
+        "day15_tiles": {
+          "_quads": 4,
+          "_hands": 12
+        },
+        "day20_tiles": {
+          "_quads": 4,
+          "_hands": 14
+        },
+        "day29_tiles": {
+          "_quads": 4,
+          "_hands": 12
+        },
+        "day10_animals": {},
+        "day20_animals": {}
+      },
+      "meta": {
+        "episode_id": 110855312,
+        "create_time": "2026-09-19T14:17:41.425Z",
+        "our": 95349,
+        "opp": 96384,
+        "margin": -1035,
+        "opp_team": "wadigongren",
+        "opp_sub": 56357298
+      }
+    },
+    {
+      "file": "episode-110853137-replay.json",
+      "seed": 32918708,
+      "names": [
+        "ZiYiMing",
+        "Thomas Tschinkel"
+      ],
+      "our_seat": 0,
+      "rewards": [
+        103768.0,
+        104580.0
+      ],
+      "our_final": 103768.0,
+      "opp_final": 104580.0,
+      "margin": -812.0,
+      "sell_jaccard": 0.0322,
+      "hire_delta": 0,
+      "land_delta": 0,
+      "animal_delta": 0,
+      "family": "heterogeneous",
+      "our_fp": {
+        "final_money": 103768.0,
+        "first_sell_step": 1,
+        "hires_total": 267,
+        "last_hire_day": 29,
+        "land_bought": 2,
+        "animals_bought": {
+          "COW": 9,
+          "SHEEP": 5,
+          "GOOSE": 3
+        },
+        "seeds_bought": {
+          "MELON": 12,
+          "WHEAT": 157,
+          "STRAWBERRY": 33,
+          "CARROT": 49
+        },
+        "sell_total": {
+          "WHEAT": 17387,
+          "FERTILIZER": 10351,
+          "WOOL": 6214,
+          "MILK": 8352,
+          "MELON": 6072,
+          "EGG": 8095,
+          "STRAWBERRY": 6361,
+          "CARROT": 17070,
+          "TOMATO": 6000
+        },
+        "buy_product_total": {
+          "WHEAT": 138,
+          "FERTILIZER": 94
+        },
+        "sell_day5": {
+          "FERTILIZER": 6,
+          "WHEAT": 2
+        },
+        "sell_day10": {
+          "FERTILIZER": 9,
+          "MELON": 60,
+          "MILK": 24,
+          "WHEAT": 6
+        },
+        "sell_day20": {
+          "MILK": 14,
+          "EGG": 7,
+          "STRAWBERRY": 32,
+          "WHEAT": 6,
+          "FERTILIZER": 6,
+          "WOOL": 8
+        },
+        "sell_day29": {
+          "WHEAT": 7042,
+          "FERTILIZER": 7014,
+          "EGG": 7016,
+          "CARROT": 6061,
+          "MILK": 6010,
+          "WOOL": 6013,
+          "STRAWBERRY": 6000,
+          "TOMATO": 6000,
+          "MELON": 6000
+        },
+        "day5_tiles": {
+          "_quads": 1,
+          "_hands": 4
+        },
+        "day10_tiles": {
+          "_quads": 2,
+          "_hands": 11
+        },
+        "day15_tiles": {
+          "_quads": 3,
+          "_hands": 10
+        },
+        "day20_tiles": {
+          "_quads": 3,
+          "_hands": 11
+        },
+        "day29_tiles": {
+          "_quads": 3,
+          "_hands": 11
+        },
+        "day10_animals": {},
+        "day20_animals": {}
+      },
+      "opp_fp": {
+        "final_money": 104580.0,
+        "first_sell_step": 1,
+        "hires_total": 267,
+        "last_hire_day": 29,
+        "land_bought": 2,
+        "animals_bought": {
+          "COW": 9,
+          "SHEEP": 5,
+          "GOOSE": 3
+        },
+        "seeds_bought": {
+          "MELON": 12,
+          "WHEAT": 157,
+          "STRAWBERRY": 33,
+          "CARROT": 49
+        },
+        "sell_total": {
+          "WHEAT": 409,
+          "FERTILIZER": 1359,
+          "WOOL": 118,
+          "MILK": 310,
+          "MELON": 72,
+          "EGG": 95,
+          "STRAWBERRY": 273,
+          "CARROT": 134
+        },
+        "buy_product_total": {
+          "WHEAT": 138,
+          "FERTILIZER": 94
+        },
+        "sell_day5": {
+          "FERTILIZER": 6,
+          "WHEAT": 2
+        },
+        "sell_day10": {
+          "FERTILIZER": 9,
+          "MELON": 60,
+          "MILK": 21,
+          "WHEAT": 6
+        },
+        "sell_day20": {
+          "MILK": 12,
+          "STRAWBERRY": 26,
+          "EGG": 7,
+          "WHEAT": 6,
+          "FERTILIZER": 6,
+          "WOOL": 3
+        },
+        "sell_day29": {
+          "WHEAT": 44,
+          "FERTILIZER": 20,
+          "CARROT": 109,
+          "EGG": 10,
+          "WOOL": 5,
+          "MILK": 19
+        },
+        "day5_tiles": {
+          "_quads": 1,
+          "_hands": 4
+        },
+        "day10_tiles": {
+          "_quads": 2,
+          "_hands": 11
+        },
+        "day15_tiles": {
+          "_quads": 3,
+          "_hands": 10
+        },
+        "day20_tiles": {
+          "_quads": 3,
+          "_hands": 11
+        },
+        "day29_tiles": {
+          "_quads": 3,
+          "_hands": 11
+        },
+        "day10_animals": {},
+        "day20_animals": {}
+      },
+      "meta": {
+        "episode_id": 110853137,
+        "create_time": "2026-09-19T14:09:41.407Z",
+        "our": 103768,
+        "opp": 104580,
+        "margin": -812,
+        "opp_team": "Thomas Tschinkel",
+        "opp_sub": 56358231
+      }
+    },
+    {
+      "file": "episode-110851220-replay.json",
+      "seed": 38571120,
+      "names": [
+        "ZiYiMing",
+        "Master_S1ave"
+      ],
+      "our_seat": 0,
+      "rewards": [
+        64632.0,
+        65239.0
+      ],
+      "our_final": 64632.0,
+      "opp_final": 65239.0,
+      "margin": -607.0,
+      "sell_jaccard": 0.0209,
+      "hire_delta": 1,
+      "land_delta": 0,
+      "animal_delta": 0,
+      "family": "heterogeneous",
+      "our_fp": {
+        "final_money": 64632.0,
+        "first_sell_step": 1,
+        "hires_total": 266,
+        "last_hire_day": 29,
+        "land_bought": 2,
+        "animals_bought": {
+          "COW": 8,
+          "SHEEP": 6,
+          "GOOSE": 3
+        },
+        "seeds_bought": {
+          "MELON": 12,
+          "WHEAT": 145,
+          "STRAWBERRY": 33,
+          "CARROT": 59
+        },
+        "sell_total": {
+          "WHEAT": 17358,
+          "FERTILIZER": 10351,
+          "WOOL": 6212,
+          "MILK": 8295,
+          "MELON": 6072,
+          "EGG": 8090,
+          "STRAWBERRY": 6372,
+          "CARROT": 17102,
+          "TOMATO": 6000
+        },
+        "buy_product_total": {
+          "WHEAT": 138,
+          "FERTILIZER": 88
+        },
+        "sell_day5": {
+          "FERTILIZER": 6,
+          "WHEAT": 2
+        },
+        "sell_day10": {
+          "FERTILIZER": 9,
+          "MELON": 60,
+          "MILK": 24,
+          "WHEAT": 6
+        },
+        "sell_day20": {
+          "MILK": 9,
+          "EGG": 7,
+          "WHEAT": 6,
+          "FERTILIZER": 6,
+          "STRAWBERRY": 38,
+          "WOOL": 8
+        },
+        "sell_day29": {
+          "WHEAT": 7044,
+          "FERTILIZER": 7014,
+          "EGG": 7016,
+          "CARROT": 6053,
+          "MILK": 6010,
+          "WOOL": 6015,
+          "STRAWBERRY": 6000,
+          "TOMATO": 6000,
+          "MELON": 6000
+        },
+        "day5_tiles": {
+          "_quads": 1,
+          "_hands": 4
+        },
+        "day10_tiles": {
+          "_quads": 2,
+          "_hands": 11
+        },
+        "day15_tiles": {
+          "_quads": 3,
+          "_hands": 10
+        },
+        "day20_tiles": {
+          "_quads": 3,
+          "_hands": 11
+        },
+        "day29_tiles": {
+          "_quads": 3,
+          "_hands": 11
+        },
+        "day10_animals": {},
+        "day20_animals": {}
+      },
+      "opp_fp": {
+        "final_money": 65239.0,
+        "first_sell_step": 1,
+        "hires_total": 267,
+        "last_hire_day": 29,
+        "land_bought": 2,
+        "animals_bought": {
+          "COW": 8,
+          "SHEEP": 6,
+          "GOOSE": 3
+        },
+        "seeds_bought": {
+          "MELON": 12,
+          "WHEAT": 142,
+          "STRAWBERRY": 33,
+          "CARROT": 55
+        },
+        "sell_total": {
+          "WHEAT": 354,
+          "FERTILIZER": 362,
+          "WOOL": 161,
+          "MILK": 279,
+          "MELON": 72,
+          "EGG": 83,
+          "STRAWBERRY": 309,
+          "CARROT": 176
+        },
+        "buy_product_total": {
+          "WHEAT": 149,
+          "FERTILIZER": 94
+        },
+        "sell_day5": {
+          "FERTILIZER": 6,
+          "WHEAT": 2
+        },
+        "sell_day10": {
+          "FERTILIZER": 9,
+          "MELON": 60,
+          "MILK": 21,
+          "WHEAT": 3
+        },
+        "sell_day20": {
+          "MILK": 7,
+          "STRAWBERRY": 26,
+          "WOOL": 3,
+          "EGG": 6,
+          "FERTILIZER": 6,
+          "WHEAT": 6
+        },
+        "sell_day29": {
+          "FERTILIZER": 20,
+          "WHEAT": 50,
+          "CARROT": 104,
+          "MILK": 17,
+          "EGG": 12,
+          "WOOL": 7
+        },
+        "day5_tiles": {
+          "_quads": 1,
+          "_hands": 4
+        },
+        "day10_tiles": {
+          "_quads": 2,
+          "_hands": 11
+        },
+        "day15_tiles": {
+          "_quads": 3,
+          "_hands": 10
+        },
+        "day20_tiles": {
+          "_quads": 3,
+          "_hands": 11
+        },
+        "day29_tiles": {
+          "_quads": 3,
+          "_hands": 11
+        },
+        "day10_animals": {},
+        "day20_animals": {}
+      },
+      "meta": {
+        "episode_id": 110851220,
+        "create_time": "2026-09-19T14:01:42.836Z",
+        "our": 64632,
+        "opp": 65239,
+        "margin": -607,
+        "opp_team": "Master_S1ave",
+        "opp_sub": 56355727
+      }
+    },
+    {
+      "file": "episode-110856460-replay.json",
+      "seed": 627551446,
+      "names": [
+        "ZiYiMing",
+        "Maciek Kiryla"
+      ],
+      "our_seat": 0,
+      "rewards": [
+        111867.0,
+        111925.0
+      ],
+      "our_final": 111867.0,
+      "opp_final": 111925.0,
+      "margin": -58.0,
+      "sell_jaccard": 0.9998,
+      "hire_delta": 0,
+      "land_delta": 0,
+      "animal_delta": 0,
+      "family": "mirror_tape",
+      "our_fp": {
+        "final_money": 111867.0,
+        "first_sell_step": 1,
+        "hires_total": 291,
+        "last_hire_day": 29,
+        "land_bought": 3,
+        "animals_bought": {
+          "COW": 6,
+          "SHEEP": 4,
+          "GOOSE": 7
+        },
+        "seeds_bought": {
+          "MELON": 12,
+          "WHEAT": 159,
+          "STRAWBERRY": 33,
+          "TOMATO": 10,
+          "CARROT": 47
+        },
+        "sell_total": {
+          "WHEAT": 17391,
+          "FERTILIZER": 10342,
+          "WOOL": 6138,
+          "MILK": 8239,
+          "MELON": 6084,
+          "EGG": 8225,
+          "STRAWBERRY": 6289,
+          "TOMATO": 6070,
+          "CARROT": 17056
+        },
+        "buy_product_total": {
+          "WHEAT": 144,
+          "FERTILIZER": 121
+        },
+        "sell_day5": {
+          "FERTILIZER": 6,
+          "WHEAT": 2
+        },
+        "sell_day10": {
+          "FERTILIZER": 9,
+          "MELON": 84,
+          "MILK": 12,
+          "WHEAT": 6
+        },
+        "sell_day20": {
+          "MILK": 9,
+          "STRAWBERRY": 24,
+          "EGG": 12,
+          "FERTILIZER": 5,
+          "WHEAT": 15
+        },
+        "sell_day29": {
+          "WHEAT": 7042,
+          "FERTILIZER": 7014,
+          "EGG": 7028,
+          "CARROT": 6051,
+          "MILK": 6010,
+          "WOOL": 6013,
+          "STRAWBERRY": 6000,
+          "TOMATO": 6010,
+          "MELON": 6000
+        },
+        "day5_tiles": {
+          "_quads": 1,
+          "_hands": 4
+        },
+        "day10_tiles": {
+          "_quads": 2,
+          "_hands": 12
+        },
+        "day15_tiles": {
+          "_quads": 3,
+          "_hands": 10
+        },
+        "day20_tiles": {
+          "_quads": 4,
+          "_hands": 13
+        },
+        "day29_tiles": {
+          "_quads": 4,
+          "_hands": 13
+        },
+        "day10_animals": {},
+        "day20_animals": {}
+      },
+      "opp_fp": {
+        "final_money": 111925.0,
+        "first_sell_step": 1,
+        "hires_total": 291,
+        "last_hire_day": 29,
+        "land_bought": 3,
+        "animals_bought": {
+          "COW": 6,
+          "SHEEP": 4,
+          "GOOSE": 7
+        },
+        "seeds_bought": {
+          "MELON": 12,
+          "WHEAT": 159,
+          "STRAWBERRY": 33,
+          "TOMATO": 10,
+          "CARROT": 47
+        },
+        "sell_total": {
+          "WHEAT": 17391,
+          "FERTILIZER": 10342,
+          "WOOL": 6138,
+          "MILK": 8232,
+          "MELON": 6084,
+          "EGG": 8219,
+          "STRAWBERRY": 6289,
+          "TOMATO": 6070,
+          "CARROT": 17056
+        },
+        "buy_product_total": {
+          "WHEAT": 144,
+          "FERTILIZER": 121
+        },
+        "sell_day5": {
+          "FERTILIZER": 6,
+          "WHEAT": 2
+        },
+        "sell_day10": {
+          "FERTILIZER": 9,
+          "MELON": 84,
+          "MILK": 12,
+          "WHEAT": 6
+        },
+        "sell_day20": {
+          "MILK": 9,
+          "STRAWBERRY": 24,
+          "EGG": 12,
+          "FERTILIZER": 5,
+          "WHEAT": 15
+        },
+        "sell_day29": {
+          "WHEAT": 7042,
+          "FERTILIZER": 7014,
+          "EGG": 7028,
+          "CARROT": 6051,
+          "MILK": 6010,
+          "WOOL": 6013,
+          "STRAWBERRY": 6000,
+          "TOMATO": 6010,
+          "MELON": 6000
+        },
+        "day5_tiles": {
+          "_quads": 1,
+          "_hands": 4
+        },
+        "day10_tiles": {
+          "_quads": 2,
+          "_hands": 12
+        },
+        "day15_tiles": {
+          "_quads": 3,
+          "_hands": 10
+        },
+        "day20_tiles": {
+          "_quads": 4,
+          "_hands": 13
+        },
+        "day29_tiles": {
+          "_quads": 4,
+          "_hands": 13
+        },
+        "day10_animals": {},
+        "day20_animals": {}
+      },
+      "meta": {
+        "episode_id": 110856460,
+        "create_time": "2026-09-19T14:21:41.928Z",
+        "our": 111867,
+        "opp": 111925,
+        "margin": -58,
+        "opp_team": "Maciek Kiryla",
+        "opp_sub": 56357922
+      }
+    }
+  ],
+  "episode_opponent_summary": [
+    {
+      "team": "wadigongren",
+      "opp_sub": 56357298,
+      "n": 1,
+      "wins": 0,
+      "losses": 1,
+      "mean_margin": -1035.0,
+      "games": [
+        {
+          "episode_id": 110855312,
+          "opp_sub": 56357298,
+          "our": 95349,
+          "opp": 96384,
+          "margin": -1035,
+          "win": false
+        }
+      ]
+    },
+    {
+      "team": "Thomas Tschinkel",
+      "opp_sub": 56358231,
+      "n": 1,
+      "wins": 0,
+      "losses": 1,
+      "mean_margin": -812.0,
+      "games": [
+        {
+          "episode_id": 110853137,
+          "opp_sub": 56358231,
+          "our": 103768,
+          "opp": 104580,
+          "margin": -812,
+          "win": false
+        }
+      ]
+    },
+    {
+      "team": "Master_S1ave",
+      "opp_sub": 56355727,
+      "n": 1,
+      "wins": 0,
+      "losses": 1,
+      "mean_margin": -607.0,
+      "games": [
+        {
+          "episode_id": 110851220,
+          "opp_sub": 56355727,
+          "our": 64632,
+          "opp": 65239,
+          "margin": -607,
+          "win": false
+        }
+      ]
+    },
+    {
+      "team": "Maciek Kiryla",
+      "opp_sub": 56357922,
+      "n": 1,
+      "wins": 0,
+      "losses": 1,
+      "mean_margin": -58.0,
+      "games": [
+        {
+          "episode_id": 110856460,
+          "opp_sub": 56357922,
+          "our": 111867,
+          "opp": 111925,
+          "margin": -58,
+          "win": false
+        }
+      ]
+    },
+    {
+      "team": "giyogoio hlrlqll",
+      "opp_sub": 56354076,
+      "n": 1,
+      "wins": 0,
+      "losses": 1,
+      "mean_margin": 0.0,
+      "games": [
+        {
+          "episode_id": 110847549,
+          "opp_sub": 56354076,
+          "our": 109304,
+          "opp": 109304,
+          "margin": 0,
+          "win": false
+        }
+      ]
+    },
+    {
+      "team": "Rifqi Haikal",
+      "opp_sub": 56340282,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 595.0,
+      "games": [
+        {
+          "episode_id": 110848657,
+          "opp_sub": 56340282,
+          "our": 59762,
+          "opp": 59167,
+          "margin": 595,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Николай Леухин",
+      "opp_sub": 56328981,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 815.0,
+      "games": [
+        {
+          "episode_id": 110850867,
+          "opp_sub": 56328981,
+          "our": 94130,
+          "opp": 93315,
+          "margin": 815,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Narendra Sirvi",
+      "opp_sub": 56348561,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 955.0,
+      "games": [
+        {
+          "episode_id": 110856413,
+          "opp_sub": 56348561,
+          "our": 62740,
+          "opp": 61785,
+          "margin": 955,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Ghazaros Barseghyan",
+      "opp_sub": 56355926,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 1296.0,
+      "games": [
+        {
+          "episode_id": 110844578,
+          "opp_sub": 56355926,
+          "our": 72894,
+          "opp": 71598,
+          "margin": 1296,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Kaixi Zha",
+      "opp_sub": 56329226,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 1557.0,
+      "games": [
+        {
+          "episode_id": 110838578,
+          "opp_sub": 56329226,
+          "our": 112079,
+          "opp": 110522,
+          "margin": 1557,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "CemBas",
+      "opp_sub": 56346650,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 1805.0,
+      "games": [
+        {
+          "episode_id": 110854196,
+          "opp_sub": 56346650,
+          "our": 61709,
+          "opp": 59904,
+          "margin": 1805,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Thomas Deng",
+      "opp_sub": 56240121,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 1936.0,
+      "games": [
+        {
+          "episode_id": 110845976,
+          "opp_sub": 56240121,
+          "our": 112897,
+          "opp": 110961,
+          "margin": 1936,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "KuziJA",
+      "opp_sub": 56341533,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 2010.0,
+      "games": [
+        {
+          "episode_id": 110851982,
+          "opp_sub": 56341533,
+          "our": 85710,
+          "opp": 83700,
+          "margin": 2010,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "daulettoibazar",
+      "opp_sub": 56280980,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 2266.0,
+      "games": [
+        {
+          "episode_id": 110843017,
+          "opp_sub": 56280980,
+          "our": 113334,
+          "opp": 111068,
+          "margin": 2266,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Kunal Desale",
+      "opp_sub": 56320235,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 2420.0,
+      "games": [
+        {
+          "episode_id": 110853080,
+          "opp_sub": 56320235,
+          "our": 84258,
+          "opp": 81838,
+          "margin": 2420,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Hanserong",
+      "opp_sub": 56322763,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 2501.0,
+      "games": [
+        {
+          "episode_id": 110856098,
+          "opp_sub": 56322763,
+          "our": 89217,
+          "opp": 86716,
+          "margin": 2501,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "yw8837",
+      "opp_sub": 56356784,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 2815.0,
+      "games": [
+        {
+          "episode_id": 110846611,
+          "opp_sub": 56356784,
+          "our": 86062,
+          "opp": 83247,
+          "margin": 2815,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Apple Joy",
+      "opp_sub": 56250632,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 2919.0,
+      "games": [
+        {
+          "episode_id": 110844107,
+          "opp_sub": 56250632,
+          "our": 121918,
+          "opp": 118999,
+          "margin": 2919,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "eviltsundera",
+      "opp_sub": 56249383,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 3153.0,
+      "games": [
+        {
+          "episode_id": 110846388,
+          "opp_sub": 56249383,
+          "our": 96492,
+          "opp": 93339,
+          "margin": 3153,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Juste Me (●'◡'●)",
+      "opp_sub": 56321626,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 3588.0,
+      "games": [
+        {
+          "episode_id": 110849771,
+          "opp_sub": 56321626,
+          "our": 74021,
+          "opp": 70433,
+          "margin": 3588,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "ksew364",
+      "opp_sub": 56276390,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 5280.0,
+      "games": [
+        {
+          "episode_id": 110841930,
+          "opp_sub": 56276390,
+          "our": 84009,
+          "opp": 78729,
+          "margin": 5280,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Eggplanck",
+      "opp_sub": 56196425,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 6608.0,
+      "games": [
+        {
+          "episode_id": 110840754,
+          "opp_sub": 56196425,
+          "our": 81250,
+          "opp": 74642,
+          "margin": 6608,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Shuwen(Shawn) Ge",
+      "opp_sub": 56206592,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 9404.0,
+      "games": [
+        {
+          "episode_id": 110841767,
+          "opp_sub": 56206592,
+          "our": 100458,
+          "opp": 91054,
+          "margin": 9404,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "XW",
+      "opp_sub": 56348308,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 11937.0,
+      "games": [
+        {
+          "episode_id": 110836409,
+          "opp_sub": 56348308,
+          "our": 89146,
+          "opp": 77209,
+          "margin": 11937,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Alexander Nord",
+      "opp_sub": 56080537,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 12331.0,
+      "games": [
+        {
+          "episode_id": 110837497,
+          "opp_sub": 56080537,
+          "our": 100552,
+          "opp": 88221,
+          "margin": 12331,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Vaibhav Patel",
+      "opp_sub": 56273682,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 15138.0,
+      "games": [
+        {
+          "episode_id": 110834221,
+          "opp_sub": 56273682,
+          "our": 129939,
+          "opp": 114801,
+          "margin": 15138,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Ayodeji Adesegun",
+      "opp_sub": 55961044,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 21780.0,
+      "games": [
+        {
+          "episode_id": 110835325,
+          "opp_sub": 55961044,
+          "our": 85830,
+          "opp": 64050,
+          "margin": 21780,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "An - Claudex",
+      "opp_sub": 56188077,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 21796.0,
+      "games": [
+        {
+          "episode_id": 110833144,
+          "opp_sub": 56188077,
+          "our": 100812,
+          "opp": 79016,
+          "margin": 21796,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Mikey Marszewski",
+      "opp_sub": 56130022,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 27533.0,
+      "games": [
+        {
+          "episode_id": 110839675,
+          "opp_sub": 56130022,
+          "our": 117950,
+          "opp": 90417,
+          "margin": 27533,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Fajri Yanuar Shiddiq Juanda",
+      "opp_sub": 55471209,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 29590.0,
+      "games": [
+        {
+          "episode_id": 110830989,
+          "opp_sub": 55471209,
+          "our": 74328,
+          "opp": 44738,
+          "margin": 29590,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "MioValentine",
+      "opp_sub": 56323957,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 29733.0,
+      "games": [
+        {
+          "episode_id": 110857509,
+          "opp_sub": 56323957,
+          "our": 122365,
+          "opp": 92632,
+          "margin": 29733,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "shehai.lrs",
+      "opp_sub": 55434099,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 33623.0,
+      "games": [
+        {
+          "episode_id": 110829884,
+          "opp_sub": 55434099,
+          "our": 79232,
+          "opp": 45609,
+          "margin": 33623,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "liuhc1017",
+      "opp_sub": 56230763,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 39782.0,
+      "games": [
+        {
+          "episode_id": 110832060,
+          "opp_sub": 56230763,
+          "our": 70225,
+          "opp": 30443,
+          "margin": 39782,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Jack Deng",
+      "opp_sub": 56344063,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 45541.0,
+      "games": [
+        {
+          "episode_id": 110828812,
+          "opp_sub": 56344063,
+          "our": 91040,
+          "opp": 45499,
+          "margin": 45541,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "Galza98",
+      "opp_sub": 56354418,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 57832.0,
+      "games": [
+        {
+          "episode_id": 110827756,
+          "opp_sub": 56354418,
+          "our": 130573,
+          "opp": 72741,
+          "margin": 57832,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "KeiroS",
+      "opp_sub": 56161564,
+      "n": 1,
+      "wins": 1,
+      "losses": 0,
+      "mean_margin": 93366.0,
+      "games": [
+        {
+          "episode_id": 110826663,
+          "opp_sub": 56161564,
+          "our": 136834,
+          "opp": 43468,
+          "margin": 93366,
+          "win": true
+        }
+      ]
+    },
+    {
+      "team": "JudyWatermelon",
+      "opp_sub": 56284453,
+      "n": 2,
+      "wins": 2,
+      "losses": 0,
+      "mean_margin": 8924.5,
+      "games": [
+        {
+          "episode_id": 110846154,
+          "opp_sub": 56284453,
+          "our": 167078,
+          "opp": 156649,
+          "margin": 10429,
+          "win": true
+        },
+        {
+          "episode_id": 110845230,
+          "opp_sub": 56284453,
+          "our": 93707,
+          "opp": 86287,
+          "margin": 7420,
+          "win": true
+        }
+      ]
+    }
+  ]
+}

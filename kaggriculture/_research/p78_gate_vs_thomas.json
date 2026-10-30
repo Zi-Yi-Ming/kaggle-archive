@@ -1,0 +1,415 @@
+{
+  "results": {
+    "evgendvorkin": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\evgendvorkin__kaggriculture.py",
+      "rows": [
+        {
+          "cand": "evgendvorkin",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 147384.0,
+          "thomas_bank": 151212.0,
+          "margin": -3828.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.2
+        },
+        {
+          "cand": "evgendvorkin",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 147384.0,
+          "thomas_bank": 151212.0,
+          "margin": -3828.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        },
+        {
+          "cand": "evgendvorkin",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 70401.0,
+          "thomas_bank": 77908.0,
+          "margin": -7507.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.9
+        },
+        {
+          "cand": "evgendvorkin",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 70401.0,
+          "thomas_bank": 77908.0,
+          "margin": -7507.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 11.6
+        },
+        {
+          "cand": "evgendvorkin",
+          "seed": 3,
+          "seat0": true,
+          "cand_bank": 70946.0,
+          "thomas_bank": 76995.0,
+          "margin": -6049.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        },
+        {
+          "cand": "evgendvorkin",
+          "seed": 3,
+          "seat0": false,
+          "cand_bank": 70946.0,
+          "thomas_bank": 76995.0,
+          "margin": -6049.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        },
+        {
+          "cand": "evgendvorkin",
+          "seed": 4,
+          "seat0": true,
+          "cand_bank": 73374.0,
+          "thomas_bank": 73287.0,
+          "margin": 87.0,
+          "win": true,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.9
+        },
+        {
+          "cand": "evgendvorkin",
+          "seed": 4,
+          "seat0": false,
+          "cand_bank": 73374.0,
+          "thomas_bank": 73287.0,
+          "margin": 87.0,
+          "win": true,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 10.0
+        }
+      ],
+      "summary": {
+        "n": 8,
+        "wins": 2,
+        "ties": 0,
+        "losses": 6,
+        "win_rate": 0.25,
+        "mean_margin": -4324.2,
+        "errors": 0
+      }
+    },
+    "yhay81_0913": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\yhay81__shop-router-0913.py",
+      "rows": [
+        {
+          "cand": "yhay81_0913",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 97581.0,
+          "thomas_bank": 107533.0,
+          "margin": -9952.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.4
+        },
+        {
+          "cand": "yhay81_0913",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 97581.0,
+          "thomas_bank": 107533.0,
+          "margin": -9952.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.8
+        },
+        {
+          "cand": "yhay81_0913",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 82692.0,
+          "thomas_bank": 92194.0,
+          "margin": -9502.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.3
+        },
+        {
+          "cand": "yhay81_0913",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 82692.0,
+          "thomas_bank": 92194.0,
+          "margin": -9502.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.4
+        },
+        {
+          "cand": "yhay81_0913",
+          "seed": 3,
+          "seat0": true,
+          "cand_bank": 80667.0,
+          "thomas_bank": 93571.0,
+          "margin": -12904.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.2
+        },
+        {
+          "cand": "yhay81_0913",
+          "seed": 3,
+          "seat0": false,
+          "cand_bank": 80667.0,
+          "thomas_bank": 93571.0,
+          "margin": -12904.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.3
+        },
+        {
+          "cand": "yhay81_0913",
+          "seed": 4,
+          "seat0": true,
+          "cand_bank": 86139.0,
+          "thomas_bank": 95482.0,
+          "margin": -9343.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.7
+        },
+        {
+          "cand": "yhay81_0913",
+          "seed": 4,
+          "seat0": false,
+          "cand_bank": 86139.0,
+          "thomas_bank": 95482.0,
+          "margin": -9343.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.3
+        }
+      ],
+      "summary": {
+        "n": 8,
+        "wins": 0,
+        "ties": 0,
+        "losses": 8,
+        "win_rate": 0.0,
+        "mean_margin": -10425.2,
+        "errors": 0
+      }
+    },
+    "salemali7_2900": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\salemali7__kaggriculture-2900.py",
+      "rows": [
+        {
+          "cand": "salemali7_2900",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 79984.0,
+          "thomas_bank": 129018.0,
+          "margin": -49034.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.6
+        },
+        {
+          "cand": "salemali7_2900",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 79984.0,
+          "thomas_bank": 129018.0,
+          "margin": -49034.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.7
+        },
+        {
+          "cand": "salemali7_2900",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 59453.0,
+          "thomas_bank": 92183.0,
+          "margin": -32730.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.9
+        },
+        {
+          "cand": "salemali7_2900",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 59453.0,
+          "thomas_bank": 92183.0,
+          "margin": -32730.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.5
+        },
+        {
+          "cand": "salemali7_2900",
+          "seed": 3,
+          "seat0": true,
+          "cand_bank": 80346.0,
+          "thomas_bank": 133636.0,
+          "margin": -53290.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.6
+        },
+        {
+          "cand": "salemali7_2900",
+          "seed": 3,
+          "seat0": false,
+          "cand_bank": 80346.0,
+          "thomas_bank": 133636.0,
+          "margin": -53290.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.2
+        },
+        {
+          "cand": "salemali7_2900",
+          "seed": 4,
+          "seat0": true,
+          "cand_bank": 44617.0,
+          "thomas_bank": 72318.0,
+          "margin": -27701.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.9
+        },
+        {
+          "cand": "salemali7_2900",
+          "seed": 4,
+          "seat0": false,
+          "cand_bank": 44617.0,
+          "thomas_bank": 72318.0,
+          "margin": -27701.0,
+          "win": false,
+          "tie": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.8
+        }
+      ],
+      "summary": {
+        "n": 8,
+        "wins": 0,
+        "ties": 0,
+        "losses": 8,
+        "win_rate": 0.0,
+        "mean_margin": -40688.8,
+        "errors": 0
+      }
+    }
+  },
+  "updated": "2026-09-20T14:48:12",
+  "thomas": "D:\\桌面\\Kaggle\\kaggriculture\\_push_thomas_2945\\main.py",
+  "seeds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "note": "local gate only; no submit; vs production thomas"
+}

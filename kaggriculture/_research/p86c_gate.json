@@ -1,0 +1,36 @@
+{
+  "ahmed_v53": {
+    "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\ahmed_v53_main.py",
+    "vs_metav4": {
+      "opp": "metav4",
+      "n": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -1916.7
+    },
+    "vs_shop_v7": {
+      "opp": "shop_v7",
+      "n": 6,
+      "wins": 6,
+      "win_rate": 1.0,
+      "mean_margin": 4788.7
+    }
+  },
+  "pipe8": {
+    "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\pipe8_main.py",
+    "vs_metav4": {
+      "opp": "metav4",
+      "n": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -5728.7
+    },
+    "vs_shop_v7": {
+      "opp": "shop_v7",
+      "n": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -998.0
+    }
+  }
+}

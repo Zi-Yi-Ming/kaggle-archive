@@ -1,0 +1,271 @@
+{
+  "results": {
+    "dmitrii_herd_lb2700": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p84_vs_metav4\\extracted\\dmitriigluzdov__kaggriculture-herd-safe-sale-window-lb-2700.py",
+      "load_error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p84_vs_metav4\\\\extracted\\\\settings.json'"
+    },
+    "dmitrii_herd_p77": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p77\\extracted\\dmitriigluzdov__kaggriculture-herd-safe-sale-win.py",
+      "load_error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p77\\\\extracted\\\\settings.json'"
+    },
+    "goodpjw_melon2749": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_20260919\\extracted\\goodpjw_melon2749_clean.py",
+      "vs_metav4": {
+        "cand": "goodpjw_melon2749",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -6190.0
+      },
+      "vs_shop_v7": {
+        "cand": "goodpjw_melon2749",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 2,
+        "win_rate": 0.5,
+        "mean_margin": 200.0
+      },
+      "vs_thomas": {
+        "cand": "goodpjw_melon2749",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -3425.0
+      },
+      "dual": false,
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 146755.0,
+          "ob": 150617.0,
+          "margin": -3862.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 146755.0,
+          "ob": 150617.0,
+          "margin": -3862.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 69900.0,
+          "ob": 78418.0,
+          "margin": -8518.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 69900.0,
+          "ob": 78418.0,
+          "margin": -8518.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 100553.0,
+          "ob": 100746.0,
+          "margin": -193.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 100553.0,
+          "ob": 100746.0,
+          "margin": -193.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 100155.0,
+          "ob": 99562.0,
+          "margin": 593.0,
+          "win": true
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 100155.0,
+          "ob": 99562.0,
+          "margin": 593.0,
+          "win": true
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 147635.0,
+          "ob": 151060.0,
+          "margin": -3425.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 147635.0,
+          "ob": 151060.0,
+          "margin": -3425.0,
+          "win": false
+        }
+      ]
+    },
+    "goodpjw_melon2749_raw": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_20260919\\extracted\\goodpjw_melon2749.py",
+      "vs_metav4": {
+        "cand": "goodpjw_melon2749_raw",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -6190.0
+      },
+      "vs_shop_v7": {
+        "cand": "goodpjw_melon2749_raw",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 2,
+        "win_rate": 0.5,
+        "mean_margin": 200.0
+      },
+      "vs_thomas": {
+        "cand": "goodpjw_melon2749_raw",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -3425.0
+      },
+      "dual": false,
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 146755.0,
+          "ob": 150617.0,
+          "margin": -3862.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 146755.0,
+          "ob": 150617.0,
+          "margin": -3862.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 69900.0,
+          "ob": 78418.0,
+          "margin": -8518.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 69900.0,
+          "ob": 78418.0,
+          "margin": -8518.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 100553.0,
+          "ob": 100746.0,
+          "margin": -193.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 100553.0,
+          "ob": 100746.0,
+          "margin": -193.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 100155.0,
+          "ob": 99562.0,
+          "margin": 593.0,
+          "win": true
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 100155.0,
+          "ob": 99562.0,
+          "margin": 593.0,
+          "win": true
+        },
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 147635.0,
+          "ob": 151060.0,
+          "margin": -3425.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 147635.0,
+          "ob": 151060.0,
+          "margin": -3425.0,
+          "win": false
+        }
+      ]
+    },
+    "dmitrii_lb2700_full": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p96_local\\extracted\\dmitrii_lb2700_pkg",
+      "files": {
+        "actions.json": 5099830,
+        "LICENSE.txt": 11358,
+        "main.py": 1112,
+        "NOTICE.txt": 1058,
+        "policy.py": 855,
+        "router.py": 44973,
+        "settings.json": 25
+      },
+      "vs_metav4": {
+        "cand": "dmitrii_lb2700_full",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -10381.5
+      },
+      "vs_shop_v7": {
+        "cand": "dmitrii_lb2700_full",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -7176.0
+      },
+      "vs_thomas": {
+        "cand": "dmitrii_lb2700_full",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -5413.0
+      },
+      "dual": false
+    }
+  },
+  "note": "P96 local; no auto-submit",
+  "updated": "2026-09-22T11:19:12"
+}

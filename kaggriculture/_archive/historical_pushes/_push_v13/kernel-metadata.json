@@ -1,0 +1,13 @@
+{
+  "id": "ziyiming/v13-hetero-bench",
+  "title": "v13 hetero bench",
+  "code_file": "v13_bench.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "competition_sources": [],
+  "dataset_sources": [],
+  "model_sources": []
+}

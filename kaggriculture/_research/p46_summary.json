@@ -1,0 +1,28 @@
+{
+  "decision": "REPRESENTATION_GAP_CONFIRMED",
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    11,
+    12,
+    13
+  ],
+  "live_mean": 174262.25,
+  "live_std": 30739.85222801177,
+  "live_wl": 8,
+  "frozen_mean": 96687.25,
+  "frozen_std": 9425.777577340768,
+  "frozen_wl": 8,
+  "gap_mean": 77575.0,
+  "gap_std": 22894.951898562704,
+  "ratio": 0.5548376082599645,
+  "h2h_live_w": 8,
+  "h2h_tie": 0,
+  "h2h_frozen_w": 0,
+  "tape_hash_live": "224f45477c897610",
+  "tape_hash_frozen": "0f954c8fe55a9fe3",
+  "dt": 281.64029264450073
+}

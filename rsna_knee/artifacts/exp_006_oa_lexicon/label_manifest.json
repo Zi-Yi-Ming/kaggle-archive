@@ -1,0 +1,12 @@
+{
+  "experiment_id": "exp_006_oa_lexicon",
+  "parent": "exp005 plumbing + OA lexicon lowercase oa",
+  "sha256_exp006": "b39031cf11b3df278957c4fb17e8bea38aa2d7881209c84a742e7c7ac222475c",
+  "changes": [
+    "OA_EVIDENCE + \\boa\\b + chondros\\w*",
+    "GLOBAL_OA + all three compartm\\w* + oa/knee phrases",
+    "Medial/Lateral + compartm\\w* typo patterns"
+  ],
+  "baseline_LB_exp005": 0.699,
+  "train": "Axial fold0 same as EXP-004/005"
+}

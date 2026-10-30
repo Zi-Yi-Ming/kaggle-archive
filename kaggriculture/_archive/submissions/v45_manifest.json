@@ -1,0 +1,16 @@
+{
+  "version": "v45",
+  "classification": "evaluated_upgrade",
+  "protocol": "EXP286 large first-turn wheat round trip on the frozen predecessor policy (release 44: clone-gated sale pre-emption)",
+  "independent_reacting_confirmation_passed": true,
+  "complete_physical_audit_passed": true,
+  "isolated_runtime_passed": true,
+  "linux_replay_passed": true,
+  "live_recorded_rival_replay_games": null,
+  "main_sha256": "2536d41ed5a00c75204b6350f1c76c54259c774cb065ba2a3a0072eedf210d94",
+  "archive_sha256": "b8c2f5aab88faf2332e45f721ec83e5f9e7bec3d0a995cc0dce318badd884ed0",
+  "source_integrity": "PASS",
+  "archive_integrity": "PASS",
+  "optional_game_checks": "NOT RUN",
+  "live_rating_guarantee": null
+}

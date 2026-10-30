@@ -1,0 +1,343 @@
+{
+  "controls": {
+    "C1_cleo_vs_v11e": {
+      "n": 8,
+      "cleo_wins": 7,
+      "v11e_wins": 1,
+      "ties": 0,
+      "mean_margin_cleo_minus_v11e": 860.5,
+      "margins": [
+        114.0,
+        1653.0,
+        3714.0,
+        -3514.0,
+        409.0,
+        1118.0,
+        1974.0,
+        1416.0
+      ],
+      "expected_from_PM_REPORT": "cleo ~86% WR, margin ~-1150 from v11E view"
+    },
+    "C2_v11e_self": {
+      "n": 4,
+      "wins_seat0": 2,
+      "wins_seat1": 0,
+      "ties": 2,
+      "mean_margin0": 128.75,
+      "median_margin0": 123.5,
+      "margins": [
+        268.0,
+        0.0,
+        247.0,
+        0.0
+      ],
+      "seat0": "v11E",
+      "seat1": "v11E"
+    },
+    "C3_tetsu_fresh": {
+      "cand_wins": 8,
+      "v11e_wins": 0,
+      "ties": 0,
+      "mean_margin": 22175.375,
+      "margins": [
+        25296.0,
+        26486.0,
+        11975.0,
+        13990.0,
+        47102.0,
+        15416.0,
+        21042.0,
+        16096.0
+      ]
+    },
+    "C4_tetsu_reuse": {
+      "cand_wins": 8,
+      "v11e_wins": 0,
+      "ties": 0,
+      "mean_margin": 22876.375,
+      "margins": [
+        23197.0,
+        27081.0,
+        27117.0,
+        24007.0,
+        19958.0,
+        17864.0,
+        29063.0,
+        14724.0
+      ]
+    },
+    "C5_prv_fresh": {
+      "cand_wins": 4,
+      "mean_margin": 47774.75
+    },
+    "C6_traj_tetsu_seed1": {
+      "seed": 1,
+      "bank0": 99509.0,
+      "bank1": 74202.0,
+      "margin0": 25307.0,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "errors": [],
+      "n_steps": 720,
+      "traj": [
+        {
+          "step": 24,
+          "day": 1,
+          "bank0": 11.0,
+          "bank1": 35.0
+        },
+        {
+          "step": 72,
+          "day": 3,
+          "bank0": 25.0,
+          "bank1": 83.0
+        },
+        {
+          "step": 120,
+          "day": 5,
+          "bank0": 110.0,
+          "bank1": 154.0
+        },
+        {
+          "step": 192,
+          "day": 8,
+          "bank0": 29.0,
+          "bank1": 620.0
+        },
+        {
+          "step": 240,
+          "day": 10,
+          "bank0": 2086.0,
+          "bank1": 1923.0
+        },
+        {
+          "step": 360,
+          "day": 15,
+          "bank0": 21528.0,
+          "bank1": 16949.0
+        },
+        {
+          "step": 480,
+          "day": 20,
+          "bank0": 45478.0,
+          "bank1": 35461.0
+        },
+        {
+          "step": 600,
+          "day": 25,
+          "bank0": 82198.0,
+          "bank1": 62146.0
+        },
+        {
+          "step": 696,
+          "day": 29,
+          "bank0": 91559.0,
+          "bank1": 66310.0
+        }
+      ]
+    },
+    "C7_traj_cleo_seed1": {
+      "seed": 1,
+      "bank0": 67662.0,
+      "bank1": 72950.0,
+      "margin0": -5288.0,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "errors": [],
+      "n_steps": 720,
+      "traj": [
+        {
+          "step": 24,
+          "day": 1,
+          "bank0": 12.0,
+          "bank1": 12.0
+        },
+        {
+          "step": 72,
+          "day": 3,
+          "bank0": 56.0,
+          "bank1": 56.0
+        },
+        {
+          "step": 120,
+          "day": 5,
+          "bank0": 117.0,
+          "bank1": 117.0
+        },
+        {
+          "step": 192,
+          "day": 8,
+          "bank0": 663.0,
+          "bank1": 663.0
+        },
+        {
+          "step": 240,
+          "day": 10,
+          "bank0": 2065.0,
+          "bank1": 2065.0
+        },
+        {
+          "step": 360,
+          "day": 15,
+          "bank0": 21599.0,
+          "bank1": 23160.0
+        },
+        {
+          "step": 480,
+          "day": 20,
+          "bank0": 41090.0,
+          "bank1": 44080.0
+        },
+        {
+          "step": 600,
+          "day": 25,
+          "bank0": 53300.0,
+          "bank1": 59007.0
+        },
+        {
+          "step": 696,
+          "day": 29,
+          "bank0": 59370.0,
+          "bank1": 64406.0
+        }
+      ]
+    }
+  },
+  "games": {
+    "C3": [
+      {
+        "seed": 1,
+        "bank0": 92605.0,
+        "bank1": 67309.0,
+        "margin0": 25296.0,
+        "status": [
+          "DONE",
+          "DONE"
+        ],
+        "errors": [],
+        "n_steps": 720,
+        "cand_bank": 92605.0,
+        "v11e_bank": 67309.0,
+        "margin_cand": 25296.0,
+        "cand_seat": 0
+      },
+      {
+        "seed": 2,
+        "bank0": 136751.0,
+        "bank1": 110265.0,
+        "margin0": 26486.0,
+        "status": [
+          "DONE",
+          "DONE"
+        ],
+        "errors": [],
+        "n_steps": 720,
+        "cand_bank": 136751.0,
+        "v11e_bank": 110265.0,
+        "margin_cand": 26486.0,
+        "cand_seat": 0
+      },
+      {
+        "seed": 3,
+        "bank0": 127035.0,
+        "bank1": 115060.0,
+        "margin0": 11975.0,
+        "status": [
+          "DONE",
+          "DONE"
+        ],
+        "errors": [],
+        "n_steps": 720,
+        "cand_bank": 127035.0,
+        "v11e_bank": 115060.0,
+        "margin_cand": 11975.0,
+        "cand_seat": 0
+      },
+      {
+        "seed": 4,
+        "bank0": 35950.0,
+        "bank1": 21960.0,
+        "margin0": 13990.0,
+        "status": [
+          "DONE",
+          "DONE"
+        ],
+        "errors": [],
+        "n_steps": 720,
+        "cand_bank": 35950.0,
+        "v11e_bank": 21960.0,
+        "margin_cand": 13990.0,
+        "cand_seat": 0
+      },
+      {
+        "seed": 1,
+        "bank0": 88996.0,
+        "bank1": 136098.0,
+        "margin0": -47102.0,
+        "status": [
+          "DONE",
+          "DONE"
+        ],
+        "errors": [],
+        "n_steps": 720,
+        "cand_bank": 136098.0,
+        "v11e_bank": 88996.0,
+        "margin_cand": 47102.0,
+        "cand_seat": 1
+      },
+      {
+        "seed": 2,
+        "bank0": 42510.0,
+        "bank1": 57926.0,
+        "margin0": -15416.0,
+        "status": [
+          "DONE",
+          "DONE"
+        ],
+        "errors": [],
+        "n_steps": 720,
+        "cand_bank": 57926.0,
+        "v11e_bank": 42510.0,
+        "margin_cand": 15416.0,
+        "cand_seat": 1
+      },
+      {
+        "seed": 3,
+        "bank0": 76382.0,
+        "bank1": 97424.0,
+        "margin0": -21042.0,
+        "status": [
+          "DONE",
+          "DONE"
+        ],
+        "errors": [],
+        "n_steps": 720,
+        "cand_bank": 97424.0,
+        "v11e_bank": 76382.0,
+        "margin_cand": 21042.0,
+        "cand_seat": 1
+      },
+      {
+        "seed": 4,
+        "bank0": 63103.0,
+        "bank1": 79199.0,
+        "margin0": -16096.0,
+        "status": [
+          "DONE",
+          "DONE"
+        ],
+        "errors": [],
+        "n_steps": 720,
+        "cand_bank": 79199.0,
+        "v11e_bank": 63103.0,
+        "margin_cand": 16096.0,
+        "cand_seat": 1
+      }
+    ]
+  },
+  "errors": []
+}

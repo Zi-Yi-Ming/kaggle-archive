@@ -1,0 +1,6 @@
+crop,first_yield,seed,max_yield,price0,gross,net,net_per_day_to_cash
+WHEAT,2,10,6,25,150,140,70.0
+CARROT,2,20,4,35,140,120,60.0
+TOMATO,8,50,4,60,240,190,23.75
+STRAWBERRY,10,100,4,120,480,380,38.0
+MELON,10,80,6,250,1500,1420,142.0

@@ -1,0 +1,506 @@
+{
+  "games": [
+    {
+      "opp": "alperen",
+      "seed": 1,
+      "seat0": true,
+      "cand": 107922.0,
+      "opp_bank": 101760.0,
+      "margin": 6162.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.5,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "alperen",
+      "seed": 1,
+      "seat0": false,
+      "cand": 107922.0,
+      "opp_bank": 101760.0,
+      "margin": 6162.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.3,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "alperen",
+      "seed": 2,
+      "seat0": true,
+      "cand": 88185.0,
+      "opp_bank": 83003.0,
+      "margin": 5182.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.2,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "alperen",
+      "seed": 2,
+      "seat0": false,
+      "cand": 88185.0,
+      "opp_bank": 83003.0,
+      "margin": 5182.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.2,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "alperen",
+      "seed": 3,
+      "seat0": true,
+      "cand": 87199.0,
+      "opp_bank": 85290.0,
+      "margin": 1909.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.5,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "alperen",
+      "seed": 3,
+      "seat0": false,
+      "cand": 87199.0,
+      "opp_bank": 85290.0,
+      "margin": 1909.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 8.2,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "alperen",
+      "seed": 4,
+      "seat0": true,
+      "cand": 92355.0,
+      "opp_bank": 88413.0,
+      "margin": 3942.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 13.6,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "alperen",
+      "seed": 4,
+      "seat0": false,
+      "cand": 92355.0,
+      "opp_bank": 88413.0,
+      "margin": 3942.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 12.9,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "R2",
+      "seed": 1,
+      "seat0": true,
+      "cand": 101744.0,
+      "opp_bank": 97765.0,
+      "margin": 3979.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 7.1,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "R2",
+      "seed": 1,
+      "seat0": false,
+      "cand": 101744.0,
+      "opp_bank": 97765.0,
+      "margin": 3979.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 8.7,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "R2",
+      "seed": 2,
+      "seat0": true,
+      "cand": 99130.0,
+      "opp_bank": 94287.0,
+      "margin": 4843.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 7.9,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "R2",
+      "seed": 2,
+      "seat0": false,
+      "cand": 99130.0,
+      "opp_bank": 94287.0,
+      "margin": 4843.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.3,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "R2",
+      "seed": 3,
+      "seat0": true,
+      "cand": 120266.0,
+      "opp_bank": 117872.0,
+      "margin": 2394.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.4,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "R2",
+      "seed": 3,
+      "seat0": false,
+      "cand": 120266.0,
+      "opp_bank": 117872.0,
+      "margin": 2394.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.3,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "R2",
+      "seed": 4,
+      "seat0": true,
+      "cand": 72730.0,
+      "opp_bank": 66341.0,
+      "margin": 6389.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.5,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "R2",
+      "seed": 4,
+      "seat0": false,
+      "cand": 72730.0,
+      "opp_bank": 66341.0,
+      "margin": 6389.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.3,
+      "cand_tag": "goodpjw"
+    },
+    {
+      "opp": "alperen",
+      "seed": 1,
+      "seat0": true,
+      "cand": 150597.0,
+      "opp_bank": 148286.0,
+      "margin": 2311.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.1,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "alperen",
+      "seed": 1,
+      "seat0": false,
+      "cand": 150597.0,
+      "opp_bank": 148286.0,
+      "margin": 2311.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.7,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "alperen",
+      "seed": 2,
+      "seat0": true,
+      "cand": 79681.0,
+      "opp_bank": 70076.0,
+      "margin": 9605.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.4,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "alperen",
+      "seed": 2,
+      "seat0": false,
+      "cand": 79681.0,
+      "opp_bank": 70076.0,
+      "margin": 9605.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.1,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "alperen",
+      "seed": 3,
+      "seat0": true,
+      "cand": 77444.0,
+      "opp_bank": 71206.0,
+      "margin": 6238.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.6,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "alperen",
+      "seed": 3,
+      "seat0": false,
+      "cand": 77444.0,
+      "opp_bank": 71206.0,
+      "margin": 6238.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.6,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "alperen",
+      "seed": 4,
+      "seat0": true,
+      "cand": 74815.0,
+      "opp_bank": 71885.0,
+      "margin": 2930.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.5,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "alperen",
+      "seed": 4,
+      "seat0": false,
+      "cand": 74815.0,
+      "opp_bank": 71885.0,
+      "margin": 2930.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.7,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "R2",
+      "seed": 1,
+      "seat0": true,
+      "cand": 149991.0,
+      "opp_bank": 144661.0,
+      "margin": 5330.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.7,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "R2",
+      "seed": 1,
+      "seat0": false,
+      "cand": 149991.0,
+      "opp_bank": 144661.0,
+      "margin": 5330.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.9,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "R2",
+      "seed": 2,
+      "seat0": true,
+      "cand": 79358.0,
+      "opp_bank": 67275.0,
+      "margin": 12083.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.9,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "R2",
+      "seed": 2,
+      "seat0": false,
+      "cand": 79358.0,
+      "opp_bank": 67275.0,
+      "margin": 12083.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.0,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "R2",
+      "seed": 3,
+      "seat0": true,
+      "cand": 76539.0,
+      "opp_bank": 68943.0,
+      "margin": 7596.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.7,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "R2",
+      "seed": 3,
+      "seat0": false,
+      "cand": 76539.0,
+      "opp_bank": 68943.0,
+      "margin": 7596.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.4,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "R2",
+      "seed": 4,
+      "seat0": true,
+      "cand": 74807.0,
+      "opp_bank": 66411.0,
+      "margin": 8396.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.8,
+      "cand_tag": "thomas_ref"
+    },
+    {
+      "opp": "R2",
+      "seed": 4,
+      "seat0": false,
+      "cand": 74807.0,
+      "opp_bank": 66411.0,
+      "margin": 8396.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.8,
+      "cand_tag": "thomas_ref"
+    }
+  ],
+  "summary": {
+    "goodpjw_vs_alperen": {
+      "wins": 8,
+      "n": 8,
+      "mean_margin": 4298.75
+    },
+    "goodpjw_vs_R2": {
+      "wins": 8,
+      "n": 8,
+      "mean_margin": 4401.25
+    },
+    "thomas_ref_vs_alperen": {
+      "wins": 8,
+      "n": 8,
+      "mean_margin": 5271.0
+    },
+    "thomas_ref_vs_R2": {
+      "wins": 8,
+      "n": 8,
+      "mean_margin": 8351.25
+    }
+  }
+}

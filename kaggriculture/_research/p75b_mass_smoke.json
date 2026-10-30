@@ -1,0 +1,407 @@
+{
+  "results": [
+    {
+      "tag": "ahmedberatozer__kaggriculture-v45-first-",
+      "error": "exec_fail:ModuleNotFoundError:No module named 'IPython'",
+      "wins": null,
+      "n": 0,
+      "sec": 0.4,
+      "returncode": 0
+    },
+    {
+      "tag": "ahmedberatozer__kaggriculture-v47-reacti",
+      "error": "no_agent",
+      "wins": null,
+      "n": 0,
+      "sec": 0.3,
+      "returncode": 0
+    },
+    {
+      "tag": "ahmedberatozer__kaggriculture-v48-clear-",
+      "error": "no_agent",
+      "wins": null,
+      "n": 0,
+      "sec": 0.2,
+      "returncode": 0
+    },
+    {
+      "tag": "ahmedberatozer__kaggriculture-v49-funded",
+      "error": "no_agent",
+      "wins": null,
+      "n": 0,
+      "sec": 0.3,
+      "returncode": 0
+    },
+    {
+      "tag": "ahmedberatozer__kaggriculture-v50-early-",
+      "error": "no_agent",
+      "wins": null,
+      "n": 0,
+      "sec": 0.4,
+      "returncode": 0
+    },
+    {
+      "tag": "aurax7__kaggriculture-shop-router-reacti",
+      "error": "exec_fail:SyntaxError:from __future__ imports must occur at the beginning of the file (aurax7__kaggriculture-shop-router-reacti.py, line 238)",
+      "wins": null,
+      "n": 0,
+      "sec": 0.1,
+      "returncode": 0
+    },
+    {
+      "tag": "ayodejiibrahimlateef__kaggriculture-clon",
+      "error": "no_agent",
+      "wins": null,
+      "n": 0,
+      "sec": 0.3,
+      "returncode": 0
+    },
+    {
+      "tag": "boatlee__v16-rc5-high-score-8c-4s-premiu",
+      "error": "exec_fail:ModuleNotFoundError:No module named 'IPython'",
+      "wins": null,
+      "n": 0,
+      "sec": 1.4,
+      "returncode": 0
+    },
+    {
+      "tag": "degnonguidi__kaggriculture-cloning-agent",
+      "error": "exec_fail:ModuleNotFoundError:No module named 'IPython'",
+      "wins": null,
+      "n": 0,
+      "sec": 0.3,
+      "returncode": 0
+    },
+    {
+      "tag": "goodpjw2008__kaggriculture-melon-thresho",
+      "wins": 2,
+      "n": 2,
+      "max_margin": 6162.0,
+      "rows": [
+        {
+          "seat0": true,
+          "cand": 107922.0,
+          "alperen": 101760.0,
+          "margin": 6162.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "seat0": false,
+          "cand": 107922.0,
+          "alperen": 101760.0,
+          "margin": 6162.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ],
+      "error": null,
+      "sec": 15.8,
+      "returncode": 0
+    },
+    {
+      "tag": "guruprasaathas111__game-theoretic-master",
+      "error": "no_agent",
+      "wins": null,
+      "n": 0,
+      "sec": 0.4,
+      "returncode": 0
+    },
+    {
+      "tag": "lynnsakurai__farming-score-v2-a-better-a",
+      "error": "no_agent",
+      "wins": null,
+      "n": 0,
+      "sec": 0.4,
+      "returncode": 0
+    },
+    {
+      "tag": "prvsiyan__kaggriculture-frontier-the-moo",
+      "error": "exec_fail:ModuleNotFoundError:No module named 'IPython'",
+      "wins": null,
+      "n": 0,
+      "sec": 1.2,
+      "returncode": 0
+    },
+    {
+      "tag": "sunil123kumar__kaggriculture-top-10-publ",
+      "error": "exec_fail:SyntaxError:from __future__ imports must occur at the beginning of the file (sunil123kumar__kaggriculture-top-10-publ.py, line 316)",
+      "wins": null,
+      "n": 0,
+      "sec": 0.2,
+      "returncode": 0
+    },
+    {
+      "tag": "sunil123kumar__kaggriculture-v8",
+      "error": "no_agent",
+      "wins": null,
+      "n": 0,
+      "sec": 0.2,
+      "returncode": 0
+    },
+    {
+      "tag": "taylorclark637__sovereign-swarm-kinemati",
+      "wins": 0,
+      "n": 2,
+      "max_margin": -144244.0,
+      "rows": [
+        {
+          "seat0": true,
+          "cand": 3000.0,
+          "alperen": 147244.0,
+          "margin": -144244.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "seat0": false,
+          "cand": 3000.0,
+          "alperen": 147244.0,
+          "margin": -144244.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ],
+      "error": null,
+      "sec": 9.0,
+      "returncode": 0
+    },
+    {
+      "tag": "thomastschinkel__kaggriculture-public-st",
+      "wins": 0,
+      "n": 2,
+      "max_margin": -67849.0,
+      "rows": [
+        {
+          "seat0": true,
+          "cand": 96733.0,
+          "alperen": 164582.0,
+          "margin": -67849.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "seat0": false,
+          "cand": 96733.0,
+          "alperen": 164582.0,
+          "margin": -67849.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ],
+      "error": null,
+      "sec": 68.9,
+      "returncode": 0
+    },
+    {
+      "tag": "thomastschinkel__the-2945-farm-96-vs-the",
+      "error": "exec_fail:SyntaxError:from __future__ imports must occur at the beginning of the file (thomastschinkel__the-2945-farm-96-vs-the.py, line 316)",
+      "wins": null,
+      "n": 0,
+      "sec": 0.1,
+      "returncode": 0
+    },
+    {
+      "tag": "xuanzhang001__kaggriculture-auto-top1",
+      "error": "exec_fail:SyntaxError:from __future__ imports must occur at the beginning of the file (xuanzhang001__kaggriculture-auto-top1.py, line 316)",
+      "wins": null,
+      "n": 0,
+      "sec": 0.1,
+      "returncode": 0
+    },
+    {
+      "tag": "yeshawang__kaggriculture-agent-evolution",
+      "wins": 2,
+      "n": 2,
+      "max_margin": 76.0,
+      "rows": [
+        {
+          "seat0": true,
+          "cand": 149290.0,
+          "alperen": 149214.0,
+          "margin": 76.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "seat0": false,
+          "cand": 149290.0,
+          "alperen": 149214.0,
+          "margin": 76.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ],
+      "error": null,
+      "sec": 13.5,
+      "returncode": 0
+    },
+    {
+      "tag": "yhay81__shop-router-0909",
+      "error": "exec_fail:AssertionError:main.py",
+      "wins": null,
+      "n": 0,
+      "sec": 0.2,
+      "returncode": 0
+    }
+  ],
+  "ranked": [
+    {
+      "tag": "goodpjw2008__kaggriculture-melon-thresho",
+      "wins": 2,
+      "n": 2,
+      "max_margin": 6162.0,
+      "rows": [
+        {
+          "seat0": true,
+          "cand": 107922.0,
+          "alperen": 101760.0,
+          "margin": 6162.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "seat0": false,
+          "cand": 107922.0,
+          "alperen": 101760.0,
+          "margin": 6162.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ],
+      "error": null,
+      "sec": 15.8,
+      "returncode": 0
+    },
+    {
+      "tag": "yeshawang__kaggriculture-agent-evolution",
+      "wins": 2,
+      "n": 2,
+      "max_margin": 76.0,
+      "rows": [
+        {
+          "seat0": true,
+          "cand": 149290.0,
+          "alperen": 149214.0,
+          "margin": 76.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "seat0": false,
+          "cand": 149290.0,
+          "alperen": 149214.0,
+          "margin": 76.0,
+          "win": true,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ],
+      "error": null,
+      "sec": 13.5,
+      "returncode": 0
+    },
+    {
+      "tag": "thomastschinkel__kaggriculture-public-st",
+      "wins": 0,
+      "n": 2,
+      "max_margin": -67849.0,
+      "rows": [
+        {
+          "seat0": true,
+          "cand": 96733.0,
+          "alperen": 164582.0,
+          "margin": -67849.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "seat0": false,
+          "cand": 96733.0,
+          "alperen": 164582.0,
+          "margin": -67849.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ],
+      "error": null,
+      "sec": 68.9,
+      "returncode": 0
+    },
+    {
+      "tag": "taylorclark637__sovereign-swarm-kinemati",
+      "wins": 0,
+      "n": 2,
+      "max_margin": -144244.0,
+      "rows": [
+        {
+          "seat0": true,
+          "cand": 3000.0,
+          "alperen": 147244.0,
+          "margin": -144244.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        },
+        {
+          "seat0": false,
+          "cand": 3000.0,
+          "alperen": 147244.0,
+          "margin": -144244.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ]
+        }
+      ],
+      "error": null,
+      "sec": 9.0,
+      "returncode": 0
+    }
+  ],
+  "submit": false
+}

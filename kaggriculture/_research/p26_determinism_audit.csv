@@ -1,0 +1,9 @@
+tag,seed,seat,bank,opp,n_actions,act_hash
+A_cached_finn_rep0,1,0,180284.0,3000.0,719,5d850514443f441b
+A_cached_finn_rep1,1,0,142740.0,3000.0,719,240a7e1fdc7994a1
+A_cached_finn_rep2,1,0,184534.0,3000.0,719,11c1ca5235d5f55f
+B_fresh_finn_rep0,1,0,146309.0,3000.0,719,6e992dcd958f102d
+B_fresh_finn_rep1,1,0,178447.0,3000.0,719,cbdb1ad4569bfa97
+B_fresh_finn_rep2,1,0,165075.0,3000.0,719,6e992dcd958f102d
+C_cached_again_rep0,1,0,170835.0,3000.0,719,441b663e58fbae12
+C_cached_again_rep1,1,0,164593.0,3000.0,719,afa0da1d13132240

@@ -1,0 +1,15 @@
+{
+  "id": "ziyiming/rsna-exp015-slice-audit-cpu-v2",
+  "title": "RSNA EXP015 slice audit CPU v2",
+  "code_file": "rsna_exp015_slice_audit_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [],
+  "model_sources": []
+}

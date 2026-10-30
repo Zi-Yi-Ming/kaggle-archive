@@ -1,0 +1,18 @@
+{
+  "fold": 0,
+  "plane": "Coronal",
+  "n_clips": 2,
+  "image_size": 224,
+  "epochs": 3,
+  "batch_size": 8,
+  "seed": 42,
+  "git_commit": "unknown",
+  "experiment_id": "exp_003_sagittal_coronal",
+  "fold_train_time_sec": 9025.84776377678,
+  "fold_inference_time_sec": 1.8545711040496826,
+  "completion_status": "done",
+  "prediction_shape": [
+    3,
+    12
+  ]
+}

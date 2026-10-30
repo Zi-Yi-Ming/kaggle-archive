@@ -1,0 +1,23 @@
+{
+  "id": "ziyiming/rsna-exp018-smoke-cpu-install",
+  "title": "RSNA EXP018 smoke CPU install",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:37c64f7dd9c54116ecd1bcc88817c5469b88387388fade02bfa8bf3fc647d461",
+  "docker_image_pinning_type": "original",
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "ziyiming/rsna-exp018-v2-frozen-code",
+    "ziyiming/torch-cu118-offline",
+    "stevenleehans/rsna-knee-llm-report-labels",
+    "lixin73/rsna-knee-llm-report-labels-sol56",
+    "pilkwang/rsna-knee-llm-labels"
+  ],
+  "model_sources": []
+}

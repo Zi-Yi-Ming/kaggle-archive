@@ -1,0 +1,7 @@
+arm,opponent,W,D,L,bank_mean
+candidate,guru,0,0,8,87048.1875
+candidate,R2,8,0,0,101210.875
+candidate,V16,8,0,0,112353.5
+baseline,guru,0,0,8,87551.6875
+baseline,R2,8,0,0,101210.875
+baseline,V16,8,0,0,112353.5

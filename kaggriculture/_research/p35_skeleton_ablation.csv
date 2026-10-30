@@ -1,0 +1,6 @@
+arm,mean_bank,note
+R2_tape,183850,baseline
+skeleton_normal,36341,
+landmark_only,36341,identical
+random_shift7,36341,identical_falsification
+DECISION,NOT_CAUSAL_IN_THIS_IMPL,,"landmarks are description not control; random==normal"

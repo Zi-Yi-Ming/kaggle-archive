@@ -1,0 +1,184 @@
+{
+  "results": {
+    "ahmedberatozer__kaggriculture-v48-clear-the-queue": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p79_kernels\\extracted\\ahmedberatozer__kaggriculture-v48-clear-the-queue.py",
+      "rows": [
+        {
+          "cand": "ahmedberatozer__kaggriculture-v48-clear-the-queue",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v48-clear-the-queue",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v48-clear-the-queue",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v48-clear-the-queue",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "dmitriigluzdov__kaggriculture-7-turn-rescue-historical-lb-2800": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p79_kernels\\extracted\\dmitriigluzdov__kaggriculture-7-turn-rescue-historical-lb-2800.py",
+      "rows": [
+        {
+          "cand": "dmitriigluzdov__kaggriculture-7-turn-rescue-historical-lb-2800",
+          "seed": 1,
+          "seat0": true,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p79_kernels\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitriigluzdov__kaggriculture-7-turn-rescue-historical-lb-2800",
+          "seed": 1,
+          "seat0": false,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p79_kernels\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitriigluzdov__kaggriculture-7-turn-rescue-historical-lb-2800",
+          "seed": 2,
+          "seat0": true,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p79_kernels\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitriigluzdov__kaggriculture-7-turn-rescue-historical-lb-2800",
+          "seed": 2,
+          "seat0": false,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p79_kernels\\\\extracted\\\\settings.json'"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "dmitriigluzdov__kaggriculture-herd-safe-sale-window-lb-2700": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p79_kernels\\extracted\\dmitriigluzdov__kaggriculture-herd-safe-sale-window-lb-2700.py",
+      "rows": [
+        {
+          "cand": "dmitriigluzdov__kaggriculture-herd-safe-sale-window-lb-2700",
+          "seed": 1,
+          "seat0": true,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p79_kernels\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitriigluzdov__kaggriculture-herd-safe-sale-window-lb-2700",
+          "seed": 1,
+          "seat0": false,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p79_kernels\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitriigluzdov__kaggriculture-herd-safe-sale-window-lb-2700",
+          "seed": 2,
+          "seat0": true,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p79_kernels\\\\extracted\\\\settings.json'"
+        },
+        {
+          "cand": "dmitriigluzdov__kaggriculture-herd-safe-sale-window-lb-2700",
+          "seed": 2,
+          "seat0": false,
+          "error": "FileNotFoundError:[Errno 2] No such file or directory: 'D:\\\\桌面\\\\Kaggle\\\\kaggriculture\\\\_external\\\\scan_p79_kernels\\\\extracted\\\\settings.json'"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "guruprasaathas111__kaggriculture-master-engine-v3": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p79_kernels\\extracted\\guruprasaathas111__kaggriculture-master-engine-v3.py",
+      "rows": [
+        {
+          "cand": "guruprasaathas111__kaggriculture-master-engine-v3",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (guruprasaathas111__kaggriculture-master-engine-v3.py, line 5548)"
+        },
+        {
+          "cand": "guruprasaathas111__kaggriculture-master-engine-v3",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (guruprasaathas111__kaggriculture-master-engine-v3.py, line 5548)"
+        },
+        {
+          "cand": "guruprasaathas111__kaggriculture-master-engine-v3",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (guruprasaathas111__kaggriculture-master-engine-v3.py, line 5548)"
+        },
+        {
+          "cand": "guruprasaathas111__kaggriculture-master-engine-v3",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (guruprasaathas111__kaggriculture-master-engine-v3.py, line 5548)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p79_kernels\\extracted\\thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing.py",
+      "rows": [
+        {
+          "cand": "thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing.py, line 679)"
+        },
+        {
+          "cand": "thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing.py, line 679)"
+        },
+        {
+          "cand": "thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:invalid syntax (thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing.py, line 679)"
+        },
+        {
+          "cand": "thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:invalid syntax (thomastschinkel__kaggriculture-95-5-win-rate-via-replay-routing.py, line 679)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    }
+  }
+}

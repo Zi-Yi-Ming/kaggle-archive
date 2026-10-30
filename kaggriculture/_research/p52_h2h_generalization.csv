@@ -1,0 +1,13 @@
+candidate,opponent,W,D,L,W-L,bank_mean,class
+alperen_meta,R2,8,0,0,8,101210.875,STRONG
+alperen_meta,V16,8,0,0,8,112353.5,STRONG
+alperen_meta,kaito_v27,8,0,0,8,119739.625,STRONG
+alperen_meta,qeinstein,8,0,0,8,91157.625,STRONG
+alperen_meta,rayk_rank,8,0,0,8,100193.5625,STRONG
+alperen_meta,finn,8,0,0,8,179724.5,STRONG
+guru_dynamic,R2,8,0,0,8,100936.6875,STRONG
+guru_dynamic,V16,8,0,0,8,118521.25,STRONG
+guru_dynamic,kaito_v27,8,0,0,8,103843.375,STRONG
+guru_dynamic,qeinstein,8,0,0,8,102609.75,STRONG
+guru_dynamic,rayk_rank,8,0,0,8,88805.625,STRONG
+guru_dynamic,finn,8,0,0,8,176241.5,STRONG

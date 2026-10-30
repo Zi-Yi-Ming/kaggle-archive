@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "name": "s612_c60_d0",
+      "start": 612,
+      "cap": 60,
+      "drip": false,
+      "mv": {
+        "n": 12,
+        "wins": 12,
+        "win_rate": 1.0,
+        "mean_margin": 423.3333333333333
+      }
+    },
+    {
+      "name": "s624_c60_d0",
+      "start": 624,
+      "cap": 60,
+      "drip": false,
+      "mv": {
+        "n": 12,
+        "wins": 10,
+        "win_rate": 0.8333333333333334,
+        "mean_margin": 244.83333333333334
+      }
+    },
+    {
+      "name": "s636_c60_d0",
+      "start": 636,
+      "cap": 60,
+      "drip": false,
+      "mv": {
+        "n": 12,
+        "wins": 12,
+        "win_rate": 1.0,
+        "mean_margin": 428.0
+      }
+    },
+    {
+      "name": "s624_c45_d0",
+      "start": 624,
+      "cap": 45,
+      "drip": false,
+      "mv": {
+        "n": 12,
+        "wins": 10,
+        "win_rate": 0.8333333333333334,
+        "mean_margin": 244.83333333333334
+      }
+    },
+    {
+      "name": "s624_c80_d0",
+      "start": 624,
+      "cap": 80,
+      "drip": false,
+      "mv": {
+        "n": 12,
+        "wins": 10,
+        "win_rate": 0.8333333333333334,
+        "mean_margin": 244.83333333333334
+      }
+    },
+    {
+      "name": "s624_c60_d1",
+      "start": 624,
+      "cap": 60,
+      "drip": true,
+      "mv": {
+        "n": 12,
+        "wins": 10,
+        "win_rate": 0.8333333333333334,
+        "mean_margin": 324.0
+      }
+    }
+  ],
+  "best": {
+    "name": "s636_c60_d0",
+    "mv": {
+      "n": 12,
+      "wins": 12,
+      "win_rate": 1.0,
+      "mean_margin": 428.0
+    },
+    "start": 636,
+    "cap": 60,
+    "drip": false
+  }
+}

@@ -1,0 +1,15 @@
+id,mutation,vs_alp_W,vs_alp_D,vs_alp_L,vs_alp_WL,vs_alp_bank,vs_R2_W,vs_R2_D,vs_R2_L,vs_R2_WL,vs_R2_bank,changed
+c00_base,none,0,0,5,-5,86427.4,2,0,3,-1,87531.0,
+c_melon_d-1,shift_MELON_-1,0,0,5,-5,85156.6,2,0,3,-1,86251.8,249|248
+c_melon_d+1,shift_MELON_+1,0,0,5,-5,86322.0,2,0,3,-1,87425.6,249|250
+c_milk_d-1,shift_MILK_-1,0,0,5,-5,85473.6,0,0,5,-5,86780.0,196|195
+c_milk_d+1,shift_MILK_+1,0,0,5,-5,84165.4,1,0,4,-3,85591.4,196|197
+c_wool_d-1,shift_WOOL_-1,0,0,5,-5,75780.6,0,0,5,-5,75902.2,149|148
+c_wool_d+1,shift_WOOL_+1,0,0,5,-5,86374.6,2,0,3,-1,87478.2,149|150
+c_strawberry_d-1,shift_STRAWBERRY_-1,0,0,5,-5,86448.2,2,0,3,-1,87551.2,382|381
+c_strawberry_d+1,shift_STRAWBERRY_+1,0,0,5,-5,86419.2,2,0,3,-1,87522.8,382|383
+c_egg_d-1,shift_EGG_-1,0,0,5,-5,86204.2,2,0,3,-1,87313.8,360|359
+c_egg_d+1,shift_EGG_+1,0,0,5,-5,86428.0,2,0,3,-1,87532.6,360|361
+c_fertilizer_d-1,shift_FERTILIZER_-1,0,0,5,-5,86291.8,2,0,3,-1,87525.0,30|29
+c_fertilizer_d+1,shift_FERTILIZER_+1,0,0,5,-5,86295.8,2,0,3,-1,87529.0,30|31
+c_wheat_d+1,shift_WHEAT_+1,0,0,5,-5,108619.4,2,0,3,-1,87492.2,0|1

@@ -1,0 +1,9 @@
+model,accuracy,n_buckets,note
+M0,0.775,755,current_state_only
+M1,0.775,755,no_gain
+M3,0.775,755,no_gain
+M5,0.775,755,no_gain
+M10,0.775,755,no_gain
+ambiguity_M0,0.21,,161/755 buckets_multi_sig
+ambiguity_M1,0.21,,history_does_not_split
+DECISION,HISTORY_DEPENDENCE=NOT_SUPPORTED,,,

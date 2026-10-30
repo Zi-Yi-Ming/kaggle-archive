@@ -1,0 +1,372 @@
+{
+  "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p83_metav4\\metav4_v13_main.py",
+  "sha256": "9d63494603f88219857a3101d7dc19cc750ded04e5886732ee428580326967d9",
+  "smoke_vs_thomas": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 2447.2,
+    "errors": 0
+  },
+  "holdout_vs_thomas": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 1850.2,
+    "errors": 0
+  },
+  "panel": {
+    "alperen": {
+      "n": 4,
+      "wins": 4,
+      "win_rate": 1.0,
+      "mean_margin": 3105.0,
+      "errors": 0
+    },
+    "shop_router_v7": {
+      "n": 4,
+      "wins": 4,
+      "win_rate": 1.0,
+      "mean_margin": 3105.0,
+      "errors": 0
+    }
+  },
+  "rows": [
+    {
+      "cand": "metav4_v13",
+      "seed": 1,
+      "seat0": true,
+      "cand_bank": 150154.0,
+      "thomas_bank": 148389.0,
+      "margin": 1765.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.7
+    },
+    {
+      "cand": "metav4_v13",
+      "seed": 1,
+      "seat0": false,
+      "cand_bank": 150154.0,
+      "thomas_bank": 148389.0,
+      "margin": 1765.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 10.5
+    },
+    {
+      "cand": "metav4_v13",
+      "seed": 2,
+      "seat0": true,
+      "cand_bank": 80268.0,
+      "thomas_bank": 75823.0,
+      "margin": 4445.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 11.3
+    },
+    {
+      "cand": "metav4_v13",
+      "seed": 2,
+      "seat0": false,
+      "cand_bank": 80268.0,
+      "thomas_bank": 75823.0,
+      "margin": 4445.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 11.3
+    },
+    {
+      "cand": "metav4_v13",
+      "seed": 3,
+      "seat0": true,
+      "cand_bank": 76180.0,
+      "thomas_bank": 73612.0,
+      "margin": 2568.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.9
+    },
+    {
+      "cand": "metav4_v13",
+      "seed": 3,
+      "seat0": false,
+      "cand_bank": 76180.0,
+      "thomas_bank": 73612.0,
+      "margin": 2568.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.8
+    },
+    {
+      "cand": "metav4_v13",
+      "seed": 4,
+      "seat0": true,
+      "cand_bank": 74263.0,
+      "thomas_bank": 73252.0,
+      "margin": 1011.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 10.4
+    },
+    {
+      "cand": "metav4_v13",
+      "seed": 4,
+      "seat0": false,
+      "cand_bank": 74263.0,
+      "thomas_bank": 73252.0,
+      "margin": 1011.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 10.5
+    },
+    {
+      "cand": "metav4_v13_holdout",
+      "seed": 5,
+      "seat0": true,
+      "cand_bank": 91802.0,
+      "thomas_bank": 90289.0,
+      "margin": 1513.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.8
+    },
+    {
+      "cand": "metav4_v13_holdout",
+      "seed": 5,
+      "seat0": false,
+      "cand_bank": 91802.0,
+      "thomas_bank": 90289.0,
+      "margin": 1513.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.9
+    },
+    {
+      "cand": "metav4_v13_holdout",
+      "seed": 6,
+      "seat0": true,
+      "cand_bank": 85255.0,
+      "thomas_bank": 82956.0,
+      "margin": 2299.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.0
+    },
+    {
+      "cand": "metav4_v13_holdout",
+      "seed": 6,
+      "seat0": false,
+      "cand_bank": 85255.0,
+      "thomas_bank": 82956.0,
+      "margin": 2299.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.8
+    },
+    {
+      "cand": "metav4_v13_holdout",
+      "seed": 7,
+      "seat0": true,
+      "cand_bank": 93449.0,
+      "thomas_bank": 91746.0,
+      "margin": 1703.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.1
+    },
+    {
+      "cand": "metav4_v13_holdout",
+      "seed": 7,
+      "seat0": false,
+      "cand_bank": 93449.0,
+      "thomas_bank": 91746.0,
+      "margin": 1703.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.3
+    },
+    {
+      "cand": "metav4_v13_holdout",
+      "seed": 8,
+      "seat0": true,
+      "cand_bank": 85823.0,
+      "thomas_bank": 83937.0,
+      "margin": 1886.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.3
+    },
+    {
+      "cand": "metav4_v13_holdout",
+      "seed": 8,
+      "seat0": false,
+      "cand_bank": 85823.0,
+      "thomas_bank": 83937.0,
+      "margin": 1886.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.4
+    },
+    {
+      "cand": "metav4_vs_alperen",
+      "seed": 1,
+      "seat0": true,
+      "cand_bank": 150154.0,
+      "thomas_bank": 148389.0,
+      "margin": 1765.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.2
+    },
+    {
+      "cand": "metav4_vs_alperen",
+      "seed": 1,
+      "seat0": false,
+      "cand_bank": 150154.0,
+      "thomas_bank": 148389.0,
+      "margin": 1765.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.7
+    },
+    {
+      "cand": "metav4_vs_alperen",
+      "seed": 2,
+      "seat0": true,
+      "cand_bank": 80268.0,
+      "thomas_bank": 75823.0,
+      "margin": 4445.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 7.0
+    },
+    {
+      "cand": "metav4_vs_alperen",
+      "seed": 2,
+      "seat0": false,
+      "cand_bank": 80268.0,
+      "thomas_bank": 75823.0,
+      "margin": 4445.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 7.0
+    },
+    {
+      "cand": "metav4_vs_shop_router_v7",
+      "seed": 1,
+      "seat0": true,
+      "cand_bank": 150154.0,
+      "thomas_bank": 148389.0,
+      "margin": 1765.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.6
+    },
+    {
+      "cand": "metav4_vs_shop_router_v7",
+      "seed": 1,
+      "seat0": false,
+      "cand_bank": 150154.0,
+      "thomas_bank": 148389.0,
+      "margin": 1765.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.6
+    },
+    {
+      "cand": "metav4_vs_shop_router_v7",
+      "seed": 2,
+      "seat0": true,
+      "cand_bank": 80268.0,
+      "thomas_bank": 75823.0,
+      "margin": 4445.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.6
+    },
+    {
+      "cand": "metav4_vs_shop_router_v7",
+      "seed": 2,
+      "seat0": false,
+      "cand_bank": 80268.0,
+      "thomas_bank": 75823.0,
+      "margin": 4445.0,
+      "win": true,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 6.8
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ziyiming/rsna-exp010-llm-conf-axial-fold0",
+  "title": "RSNA EXP010 LLM conf Axial fold0",
+  "code_file": "rsna_exp010_llm_conf_axial_fold0_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "matteonaccarato/resnet34-imagenet-pth",
+    "ziyiming/torch-cu118-offline",
+    "stevenleehans/rsna-knee-llm-report-labels"
+  ],
+  "model_sources": []
+}

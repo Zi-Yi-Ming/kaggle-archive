@@ -1,0 +1,112 @@
+{
+  "results": {
+    "ahmedberatozer__kaggriculture-v46-first-turn-microstructure-and-s": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p82_kernels\\extracted\\ahmedberatozer__kaggriculture-v46-first-turn-microstructure-and-s.py",
+      "rows": [
+        {
+          "cand": "ahmedberatozer__kaggriculture-v46-first-turn-microstructure-and-s",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v46-first-turn-microstructure-and-s",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v46-first-turn-microstructure-and-s",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        },
+        {
+          "cand": "ahmedberatozer__kaggriculture-v46-first-turn-microstructure-and-s",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'WORKDIR' is not defined"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "anasriaz__kaggriculture": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p82_kernels\\extracted\\anasriaz__kaggriculture.py",
+      "rows": [
+        {
+          "cand": "anasriaz__kaggriculture",
+          "seed": 1,
+          "seat0": true,
+          "error": "FileNotFoundError:[WinError 2] 系统找不到指定的文件。"
+        },
+        {
+          "cand": "anasriaz__kaggriculture",
+          "seed": 1,
+          "seat0": false,
+          "error": "FileNotFoundError:[WinError 2] 系统找不到指定的文件。"
+        },
+        {
+          "cand": "anasriaz__kaggriculture",
+          "seed": 2,
+          "seat0": true,
+          "error": "FileNotFoundError:[WinError 2] 系统找不到指定的文件。"
+        },
+        {
+          "cand": "anasriaz__kaggriculture",
+          "seed": 2,
+          "seat0": false,
+          "error": "FileNotFoundError:[WinError 2] 系统找不到指定的文件。"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "tetsutani__adaptive-farming-strategy-for-kaggriculture": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p82_kernels\\extracted\\tetsutani__adaptive-farming-strategy-for-kaggriculture.py",
+      "rows": [
+        {
+          "cand": "tetsutani__adaptive-farming-strategy-for-kaggriculture",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (tetsutani__adaptive-farming-strategy-for-kaggriculture.py, line 42)"
+        },
+        {
+          "cand": "tetsutani__adaptive-farming-strategy-for-kaggriculture",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (tetsutani__adaptive-farming-strategy-for-kaggriculture.py, line 42)"
+        },
+        {
+          "cand": "tetsutani__adaptive-farming-strategy-for-kaggriculture",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (tetsutani__adaptive-farming-strategy-for-kaggriculture.py, line 42)"
+        },
+        {
+          "cand": "tetsutani__adaptive-farming-strategy-for-kaggriculture",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (tetsutani__adaptive-farming-strategy-for-kaggriculture.py, line 42)"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    }
+  }
+}

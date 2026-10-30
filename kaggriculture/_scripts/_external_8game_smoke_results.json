@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "candidate": "lonespear",
+      "module_name": "external_lonespear_wrapper",
+      "module_file": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\lonespear\\wrapper.py",
+      "load_ok": true,
+      "action_ok": true,
+      "steps_executed": 720,
+      "runtime_error": null
+    },
+    {
+      "candidate": "ronin5205",
+      "module_name": "external_ronin5205_wrapper",
+      "module_file": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\ronin5205\\wrapper.py",
+      "load_ok": true,
+      "action_ok": true,
+      "steps_executed": 720,
+      "runtime_error": null
+    },
+    {
+      "candidate": "gzmcr",
+      "module_name": "external_gzmcr_wrapper",
+      "module_file": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\gzmcr\\wrapper.py",
+      "load_ok": true,
+      "action_ok": true,
+      "steps_executed": 720,
+      "runtime_error": null
+    }
+  ]
+}

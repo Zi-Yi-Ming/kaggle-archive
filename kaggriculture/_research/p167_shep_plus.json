@@ -1,0 +1,20 @@
+{
+  "base": {
+    "n": 6,
+    "wins": 6,
+    "win_rate": 1.0,
+    "mean_margin": 1797.0
+  },
+  "sp_s642_c60": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 1283.25
+  },
+  "sp_s636_c80": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 1210.25
+  }
+}

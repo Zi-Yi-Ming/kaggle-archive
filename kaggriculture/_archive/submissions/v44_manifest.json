@@ -1,0 +1,16 @@
+{
+  "version": "v44",
+  "classification": "evaluated_upgrade",
+  "protocol": "EXP282-283 clone-gated sale pre-emption on the frozen predecessor policy (release 43)",
+  "independent_reacting_confirmation_passed": true,
+  "complete_physical_audit_passed": true,
+  "isolated_runtime_passed": true,
+  "linux_replay_passed": true,
+  "live_recorded_rival_replay_games": 269,
+  "main_sha256": "797d9bca309d481e18cdbb675ce6d6de9967d266cbafb4c2352c68fb10264e2f",
+  "archive_sha256": "f5e41bd0ddad50a109f12381cc532cdc10b9e9d93dd6c6ab37cff47dfbc4916e",
+  "source_integrity": "PASS",
+  "archive_integrity": "PASS",
+  "optional_game_checks": "NOT RUN",
+  "live_rating_guarantee": null
+}

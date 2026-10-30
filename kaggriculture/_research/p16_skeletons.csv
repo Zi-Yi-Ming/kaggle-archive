@@ -1,0 +1,7 @@
+phase,day_start,day_end,strategic_intent,expected_state
+S0_SETUP,0,2,"hire; short WHEAT + long MELON; 2C+2S",money 3000->100; melon~12; animals~4
+S1_GROW,3,9,"water/care; STRAW mid; scale animals; land2",animals 8-12; straw 12-20
+S2_CASH_WINDOW,10,15,"harvest long; sell; livestock",money inflection; melon revenue
+S3_SCALE,16,25,"milk/wool/fert",product revenue
+S4_TERMINAL,26,29,liquidate,final bank
+source,R2 milestones d0/1/5/7/10,not a tape,,

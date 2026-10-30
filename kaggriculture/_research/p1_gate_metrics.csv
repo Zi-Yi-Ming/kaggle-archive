@@ -1,0 +1,6 @@
+product,local_R2_first_day_inv10_median,elite_median_first_day_inv10,delta_days,local_R2_P_sell_given_inv15,elite_P_sell_given_inv15,ratio_local_over_elite,local_n_inv15,local_n_list_inv15,elite_n_inv15,n_local_games
+STRAWBERRY,18,19,-1,0.010770505385252692,0.049345257106355796,0.21826830007266135,1207,13,12524,12
+MILK,22,18,4,0.058823529411764705,0.0197063003315964,2.985011312217195,238,14,10555,12
+WOOL,16,18,-2,0.062111801242236024,0.01397935474041062,4.443109313385347,161,10,26253,12
+MELON,11,11,0,,0.0,,0,0,227,12
+EGG,,,,,,,0,0,0,12

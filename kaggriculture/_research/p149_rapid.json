@@ -1,0 +1,38 @@
+{
+  "s636_c60": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 486.5
+  },
+  "s642_c60": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 461.0
+  },
+  "s642_c80": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 461.0
+  },
+  "s630_c60": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 369.5
+  },
+  "s636_c80_hi": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 485.75
+  },
+  "s642_c60_s2": {
+    "n": 8,
+    "wins": 8,
+    "win_rate": 1.0,
+    "mean_margin": 461.0
+  }
+}

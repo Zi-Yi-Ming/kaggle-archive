@@ -1,0 +1,16 @@
+{
+  "metav4": {
+    "n": 6,
+    "wins": 2,
+    "win_rate": 0.3333333333333333,
+    "mean_margin": 190.66666666666666
+  },
+  "shop": {
+    "n": 4,
+    "wins": 4,
+    "win_rate": 1.0,
+    "mean_margin": 5028.0
+  },
+  "dual": "FAIL",
+  "beats_shepherd": false
+}

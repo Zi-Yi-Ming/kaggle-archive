@@ -1,0 +1,653 @@
+{
+  "results": {
+    "kaggriculture-more-wheat-smarter-sales": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p95_again\\extracted\\kaggriculture-more-wheat-smarter-sales.py",
+      "vs_metav4": {
+        "cand": "kaggriculture-more-wheat-smarter-sales",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 78.0
+      },
+      "vs_shop_v7": {
+        "cand": "kaggriculture-more-wheat-smarter-sales",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16796.5
+      },
+      "vs_thomas": {
+        "cand": "kaggriculture-more-wheat-smarter-sales",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1840.0
+      },
+      "dual": false
+    },
+    "kaggriculture-market-rhythm-sale-policy": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p95_again\\extracted\\kaggriculture-market-rhythm-sale-policy.py",
+      "vs_metav4": {
+        "cand": "kaggriculture-market-rhythm-sale-policy",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -4325.5
+      },
+      "vs_shop_v7": {
+        "cand": "kaggriculture-market-rhythm-sale-policy",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 730.5
+      },
+      "vs_thomas": {
+        "cand": "kaggriculture-market-rhythm-sale-policy",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -709.0
+      },
+      "dual": false
+    },
+    "kaggriculture-auto-top1": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p95_again\\extracted\\kaggriculture-auto-top1.py",
+      "vs_metav4": {
+        "cand": "kaggriculture-auto-top1",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 78.0
+      },
+      "vs_shop_v7": {
+        "cand": "kaggriculture-auto-top1",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -16796.5
+      },
+      "vs_thomas": {
+        "cand": "kaggriculture-auto-top1",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 1840.0
+      },
+      "dual": false
+    },
+    "shop-router-0913": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p95_again\\extracted\\shop-router-0913.py",
+      "vs_metav4": {
+        "cand": "shop-router-0913",
+        "opp": "metav4",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -10016.0
+      },
+      "vs_shop_v7": {
+        "cand": "shop-router-0913",
+        "opp": "shop_v7",
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -13786.0
+      },
+      "vs_thomas": {
+        "cand": "shop-router-0913",
+        "opp": "thomas",
+        "n": 2,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -9952.0
+      },
+      "dual": false
+    },
+    "fieldcraft_2887": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p95_again\\extracted\\fieldcraft_pkg\\main.py",
+      "vs_metav4": {
+        "n": 4,
+        "wins": 2,
+        "win_rate": 0.5,
+        "mean_margin": 676.5
+      },
+      "vs_shop_v7": {
+        "n": 4,
+        "wins": 4,
+        "win_rate": 1.0,
+        "mean_margin": 9061.5
+      },
+      "vs_thomas": {
+        "n": 2,
+        "wins": 2,
+        "win_rate": 1.0,
+        "mean_margin": 6496.0
+      },
+      "dual": false,
+      "note": "Hak public 2887.4 sub 56258004; main+mirror_plan exact extract",
+      "pkg": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p95_again\\extracted\\fieldcraft_pkg"
+    },
+    "fieldcraft_2887_expanded": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p95_again\\extracted\\fieldcraft_pkg\\main.py",
+      "results": {
+        "metav4": {
+          "cand": "fieldcraft2887",
+          "opp": "metav4",
+          "n": 16,
+          "wins": 4,
+          "win_rate": 0.25,
+          "mean_margin": -1266.0
+        },
+        "shop_v7": {
+          "cand": "fieldcraft2887",
+          "opp": "shop_v7",
+          "n": 12,
+          "wins": 8,
+          "win_rate": 0.667,
+          "mean_margin": 3058.3
+        },
+        "thomas": {
+          "cand": "fieldcraft2887",
+          "opp": "thomas",
+          "n": 8,
+          "wins": 2,
+          "win_rate": 0.25,
+          "mean_margin": -307.5
+        },
+        "alperen": {
+          "cand": "fieldcraft2887",
+          "opp": "alperen",
+          "n": 6,
+          "wins": 6,
+          "win_rate": 1.0,
+          "mean_margin": 8265.7
+        },
+        "pipe16": {
+          "cand": "fieldcraft2887",
+          "opp": "pipe16",
+          "n": 6,
+          "wins": 2,
+          "win_rate": 0.333,
+          "mean_margin": 109.3
+        },
+        "kaito_v48": {
+          "cand": "fieldcraft2887",
+          "opp": "kaito_v48",
+          "n": 6,
+          "wins": 6,
+          "win_rate": 1.0,
+          "mean_margin": 24000.0
+        }
+      },
+      "gate": {
+        "wr_mv": 0.25,
+        "mean_margin_mv": -1266.0,
+        "wr_shop": 0.667,
+        "mean_margin_shop": 3058.3,
+        "field_wr": 0.519,
+        "collapses": [],
+        "slot_a": false,
+        "slot_b_signal": true,
+        "decision": "SLOT_B_SIGNAL_AUTH_REQUIRED",
+        "note": "Fieldcraft 2887 exact (main+mirror_plan); public claim 2887.4 sub 56258004"
+      },
+      "rows": {
+        "metav4": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 143078.0,
+            "ob": 136800.0,
+            "margin": 6278.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 143078.0,
+            "ob": 136800.0,
+            "margin": 6278.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 75346.0,
+            "ob": 80271.0,
+            "margin": -4925.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 75346.0,
+            "ob": 80271.0,
+            "margin": -4925.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 73960.0,
+            "ob": 74829.0,
+            "margin": -869.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 73960.0,
+            "ob": 74829.0,
+            "margin": -869.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cb": 72923.0,
+            "ob": 73627.0,
+            "margin": -704.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cb": 72923.0,
+            "ob": 73627.0,
+            "margin": -704.0,
+            "win": false
+          },
+          {
+            "seed": 5,
+            "seat0": true,
+            "cb": 90638.0,
+            "ob": 92464.0,
+            "margin": -1826.0,
+            "win": false
+          },
+          {
+            "seed": 5,
+            "seat0": false,
+            "cb": 90638.0,
+            "ob": 92464.0,
+            "margin": -1826.0,
+            "win": false
+          },
+          {
+            "seed": 6,
+            "seat0": true,
+            "cb": 81047.0,
+            "ob": 84679.0,
+            "margin": -3632.0,
+            "win": false
+          },
+          {
+            "seed": 6,
+            "seat0": false,
+            "cb": 81047.0,
+            "ob": 84679.0,
+            "margin": -3632.0,
+            "win": false
+          },
+          {
+            "seed": 7,
+            "seat0": true,
+            "cb": 91605.0,
+            "ob": 91059.0,
+            "margin": 546.0,
+            "win": true
+          },
+          {
+            "seed": 7,
+            "seat0": false,
+            "cb": 91605.0,
+            "ob": 91059.0,
+            "margin": 546.0,
+            "win": true
+          },
+          {
+            "seed": 8,
+            "seat0": true,
+            "cb": 81779.0,
+            "ob": 86775.0,
+            "margin": -4996.0,
+            "win": false
+          },
+          {
+            "seed": 8,
+            "seat0": false,
+            "cb": 81779.0,
+            "ob": 86775.0,
+            "margin": -4996.0,
+            "win": false
+          }
+        ],
+        "shop_v7": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 143625.0,
+            "ob": 135720.0,
+            "margin": 7905.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 143625.0,
+            "ob": 135720.0,
+            "margin": 7905.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 90127.0,
+            "ob": 79909.0,
+            "margin": 10218.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 90127.0,
+            "ob": 79909.0,
+            "margin": 10218.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 77090.0,
+            "ob": 74275.0,
+            "margin": 2815.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 77090.0,
+            "ob": 74275.0,
+            "margin": 2815.0,
+            "win": true
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cb": 72895.0,
+            "ob": 73522.0,
+            "margin": -627.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cb": 72895.0,
+            "ob": 73522.0,
+            "margin": -627.0,
+            "win": false
+          },
+          {
+            "seed": 5,
+            "seat0": true,
+            "cb": 91454.0,
+            "ob": 93478.0,
+            "margin": -2024.0,
+            "win": false
+          },
+          {
+            "seed": 5,
+            "seat0": false,
+            "cb": 91454.0,
+            "ob": 93478.0,
+            "margin": -2024.0,
+            "win": false
+          },
+          {
+            "seed": 6,
+            "seat0": true,
+            "cb": 82154.0,
+            "ob": 82091.0,
+            "margin": 63.0,
+            "win": true
+          },
+          {
+            "seed": 6,
+            "seat0": false,
+            "cb": 82154.0,
+            "ob": 82091.0,
+            "margin": 63.0,
+            "win": true
+          }
+        ],
+        "thomas": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 143307.0,
+            "ob": 136811.0,
+            "margin": 6496.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 143307.0,
+            "ob": 136811.0,
+            "margin": 6496.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 75721.0,
+            "ob": 79610.0,
+            "margin": -3889.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 75721.0,
+            "ob": 79610.0,
+            "margin": -3889.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 73895.0,
+            "ob": 76617.0,
+            "margin": -2722.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 73895.0,
+            "ob": 76617.0,
+            "margin": -2722.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": true,
+            "cb": 72716.0,
+            "ob": 73831.0,
+            "margin": -1115.0,
+            "win": false
+          },
+          {
+            "seed": 4,
+            "seat0": false,
+            "cb": 72716.0,
+            "ob": 73831.0,
+            "margin": -1115.0,
+            "win": false
+          }
+        ],
+        "alperen": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 145693.0,
+            "ob": 135839.0,
+            "margin": 9854.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 145693.0,
+            "ob": 135839.0,
+            "margin": 9854.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 91582.0,
+            "ob": 81777.0,
+            "margin": 9805.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 91582.0,
+            "ob": 81777.0,
+            "margin": 9805.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 78294.0,
+            "ob": 73156.0,
+            "margin": 5138.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 78294.0,
+            "ob": 73156.0,
+            "margin": 5138.0,
+            "win": true
+          }
+        ],
+        "pipe16": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 143062.0,
+            "ob": 136840.0,
+            "margin": 6222.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 143062.0,
+            "ob": 136840.0,
+            "margin": 6222.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 75337.0,
+            "ob": 80315.0,
+            "margin": -4978.0,
+            "win": false
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 75337.0,
+            "ob": 80315.0,
+            "margin": -4978.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 73939.0,
+            "ob": 74855.0,
+            "margin": -916.0,
+            "win": false
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 73939.0,
+            "ob": 74855.0,
+            "margin": -916.0,
+            "win": false
+          }
+        ],
+        "kaito_v48": [
+          {
+            "seed": 1,
+            "seat0": true,
+            "cb": 97771.0,
+            "ob": 76449.0,
+            "margin": 21322.0,
+            "win": true
+          },
+          {
+            "seed": 1,
+            "seat0": false,
+            "cb": 97771.0,
+            "ob": 76449.0,
+            "margin": 21322.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": true,
+            "cb": 72909.0,
+            "ob": 42029.0,
+            "margin": 30880.0,
+            "win": true
+          },
+          {
+            "seed": 2,
+            "seat0": false,
+            "cb": 72909.0,
+            "ob": 42029.0,
+            "margin": 30880.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": true,
+            "cb": 68781.0,
+            "ob": 48983.0,
+            "margin": 19798.0,
+            "win": true
+          },
+          {
+            "seed": 3,
+            "seat0": false,
+            "cb": 68781.0,
+            "ob": 48983.0,
+            "margin": 19798.0,
+            "win": true
+          }
+        ]
+      },
+      "updated": "2026-09-21T22:13:07"
+    }
+  },
+  "note": "P95 again dual-gate"
+}

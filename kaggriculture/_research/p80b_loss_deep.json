@@ -1,0 +1,728 @@
+[
+  {
+    "file": "episode-110855312-replay.json",
+    "names": [
+      "wadigongren",
+      "ZiYiMing"
+    ],
+    "our_seat": 1,
+    "rewards": [
+      96384.0,
+      95349.0
+    ],
+    "our_final": 95349.0,
+    "opp_final": 96384.0,
+    "margin": -1035.0,
+    "first_sell_step": {
+      "0": 1,
+      "1": 1
+    },
+    "sell_total_our": {
+      "WHEAT": 17327,
+      "FERTILIZER": 10391,
+      "WOOL": 6495,
+      "MILK": 8283,
+      "MELON": 6072,
+      "STRAWBERRY": 6326,
+      "EGG": 8018,
+      "CARROT": 17048,
+      "TOMATO": 6000
+    },
+    "sell_total_opp": {
+      "WHEAT": 17870,
+      "FERTILIZER": 10616,
+      "WOOL": 6495,
+      "MILK": 8283,
+      "MELON": 6072,
+      "STRAWBERRY": 6326,
+      "EGG": 8018,
+      "CARROT": 17048,
+      "TOMATO": 6000
+    },
+    "buy_total_our": {
+      "WHEAT": 436,
+      "MELON": 12,
+      "STRAWBERRY": 33,
+      "FERTILIZER": 51,
+      "CARROT": 28
+    },
+    "buy_total_opp": {
+      "WHEAT": 979,
+      "MELON": 12,
+      "STRAWBERRY": 33,
+      "FERTILIZER": 276,
+      "CARROT": 28
+    },
+    "late_sell_our_d25+": {
+      "MILK": 8093,
+      "STRAWBERRY": 6117,
+      "WOOL": 6165,
+      "WHEAT": 17154,
+      "FERTILIZER": 10092,
+      "EGG": 8018,
+      "CARROT": 17048,
+      "TOMATO": 6000,
+      "MELON": 6000
+    },
+    "late_sell_opp_d25+": {
+      "MILK": 8093,
+      "STRAWBERRY": 6117,
+      "WOOL": 6165,
+      "WHEAT": 17217,
+      "FERTILIZER": 10182,
+      "EGG": 8018,
+      "CARROT": 17048,
+      "TOMATO": 6000,
+      "MELON": 6000
+    },
+    "d29_sell_our": {
+      "WHEAT": 7044,
+      "FERTILIZER": 7019,
+      "EGG": 7016,
+      "CARROT": 6043,
+      "MILK": 6010,
+      "WOOL": 6020,
+      "STRAWBERRY": 6000,
+      "TOMATO": 6000,
+      "MELON": 6000
+    },
+    "d29_sell_opp": {
+      "WHEAT": 7044,
+      "FERTILIZER": 7019,
+      "EGG": 7016,
+      "CARROT": 6043,
+      "MILK": 6010,
+      "WOOL": 6020,
+      "STRAWBERRY": 6000,
+      "TOMATO": 6000,
+      "MELON": 6000
+    },
+    "shed_end_our": {
+      "CARROT": 0,
+      "COW": 0,
+      "EGG": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "MELON": 0,
+      "MILK": 0,
+      "SHEEP": 0,
+      "STRAWBERRY": 0,
+      "TOMATO": 0,
+      "WHEAT": 0,
+      "WOOL": 0
+    },
+    "shed_end_opp": {
+      "CARROT": 0,
+      "COW": 0,
+      "EGG": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "MELON": 0,
+      "MILK": 0,
+      "SHEEP": 0,
+      "STRAWBERRY": 0,
+      "TOMATO": 0,
+      "WHEAT": 0,
+      "WOOL": 0
+    },
+    "flip_to_negative": null,
+    "gap_min": -1035.0,
+    "gap_max": 0.0,
+    "gap_final": -1035.0,
+    "day_marks": {
+      "0": {
+        "our": 22.0,
+        "opp": 22.0,
+        "gap": 0.0
+      },
+      "5": {
+        "our": 797.0,
+        "opp": 797.0,
+        "gap": 0.0
+      },
+      "10": {
+        "our": 17172.0,
+        "opp": 17215.0,
+        "gap": -43.0
+      },
+      "15": {
+        "our": 25020.0,
+        "opp": 25159.0,
+        "gap": -139.0
+      },
+      "20": {
+        "our": 70955.0,
+        "opp": 71361.0,
+        "gap": -406.0
+      },
+      "25": {
+        "our": 77110.0,
+        "opp": 77948.0,
+        "gap": -838.0
+      },
+      "28": {
+        "our": 86781.0,
+        "opp": 87816.0,
+        "gap": -1035.0
+      },
+      "29": {
+        "our": 95349.0,
+        "opp": 96384.0,
+        "gap": -1035.0
+      }
+    },
+    "n_steps_paired": 720,
+    "meta": {
+      "episode_id": 110855312,
+      "create_time": "2026-09-19T14:17:41.425Z",
+      "our": 95349,
+      "opp": 96384,
+      "margin": -1035,
+      "opp_team": "wadigongren",
+      "opp_sub": 56357298
+    }
+  },
+  {
+    "file": "episode-110853137-replay.json",
+    "names": [
+      "ZiYiMing",
+      "Thomas Tschinkel"
+    ],
+    "our_seat": 0,
+    "rewards": [
+      103768.0,
+      104580.0
+    ],
+    "our_final": 103768.0,
+    "opp_final": 104580.0,
+    "margin": -812.0,
+    "first_sell_step": {
+      "0": 1,
+      "1": 1
+    },
+    "sell_total_our": {
+      "WHEAT": 17387,
+      "FERTILIZER": 10351,
+      "WOOL": 6214,
+      "MILK": 8352,
+      "MELON": 6072,
+      "EGG": 8095,
+      "STRAWBERRY": 6361,
+      "CARROT": 17070,
+      "TOMATO": 6000
+    },
+    "sell_total_opp": {
+      "WHEAT": 409,
+      "FERTILIZER": 1359,
+      "WOOL": 118,
+      "MILK": 310,
+      "MELON": 72,
+      "EGG": 95,
+      "STRAWBERRY": 273,
+      "CARROT": 134
+    },
+    "buy_total_our": {
+      "WHEAT": 295,
+      "MELON": 12,
+      "STRAWBERRY": 33,
+      "FERTILIZER": 94,
+      "CARROT": 49
+    },
+    "buy_total_opp": {
+      "WHEAT": 295,
+      "MELON": 12,
+      "STRAWBERRY": 33,
+      "FERTILIZER": 94,
+      "CARROT": 49
+    },
+    "late_sell_our_d25+": {
+      "STRAWBERRY": 6089,
+      "EGG": 8034,
+      "MILK": 8107,
+      "FERTILIZER": 10077,
+      "WOOL": 6057,
+      "WHEAT": 17144,
+      "CARROT": 17070,
+      "TOMATO": 6000,
+      "MELON": 6000
+    },
+    "late_sell_opp_d25+": {
+      "STRAWBERRY": 64,
+      "MILK": 89,
+      "FERTILIZER": 1085,
+      "EGG": 34,
+      "WHEAT": 166,
+      "WOOL": 17,
+      "CARROT": 134
+    },
+    "d29_sell_our": {
+      "WHEAT": 7042,
+      "FERTILIZER": 7014,
+      "EGG": 7016,
+      "CARROT": 6061,
+      "MILK": 6010,
+      "WOOL": 6013,
+      "STRAWBERRY": 6000,
+      "TOMATO": 6000,
+      "MELON": 6000
+    },
+    "d29_sell_opp": {
+      "WHEAT": 44,
+      "FERTILIZER": 20,
+      "CARROT": 109,
+      "EGG": 10,
+      "WOOL": 5,
+      "MILK": 19
+    },
+    "shed_end_our": {
+      "CARROT": 0,
+      "COW": 0,
+      "EGG": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "MELON": 0,
+      "MILK": 0,
+      "SHEEP": 0,
+      "STRAWBERRY": 0,
+      "TOMATO": 0,
+      "WHEAT": 0,
+      "WOOL": 0
+    },
+    "shed_end_opp": {
+      "CARROT": 0,
+      "COW": 0,
+      "EGG": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "MELON": 0,
+      "MILK": 0,
+      "SHEEP": 0,
+      "STRAWBERRY": 0,
+      "TOMATO": 0,
+      "WHEAT": 0,
+      "WOOL": 0
+    },
+    "flip_to_negative": null,
+    "gap_min": -812.0,
+    "gap_max": 0.0,
+    "gap_final": -812.0,
+    "day_marks": {
+      "0": {
+        "our": 22.0,
+        "opp": 22.0,
+        "gap": 0.0
+      },
+      "5": {
+        "our": 798.0,
+        "opp": 798.0,
+        "gap": 0.0
+      },
+      "10": {
+        "our": 16717.0,
+        "opp": 16717.0,
+        "gap": 0.0
+      },
+      "15": {
+        "our": 33396.0,
+        "opp": 33404.0,
+        "gap": -8.0
+      },
+      "20": {
+        "our": 63130.0,
+        "opp": 63153.0,
+        "gap": -23.0
+      },
+      "25": {
+        "our": 84832.0,
+        "opp": 85536.0,
+        "gap": -704.0
+      },
+      "28": {
+        "our": 95378.0,
+        "opp": 96180.0,
+        "gap": -802.0
+      },
+      "29": {
+        "our": 103768.0,
+        "opp": 104580.0,
+        "gap": -812.0
+      }
+    },
+    "n_steps_paired": 720,
+    "meta": {
+      "episode_id": 110853137,
+      "create_time": "2026-09-19T14:09:41.407Z",
+      "our": 103768,
+      "opp": 104580,
+      "margin": -812,
+      "opp_team": "Thomas Tschinkel",
+      "opp_sub": 56358231
+    }
+  },
+  {
+    "file": "episode-110851220-replay.json",
+    "names": [
+      "ZiYiMing",
+      "Master_S1ave"
+    ],
+    "our_seat": 0,
+    "rewards": [
+      64632.0,
+      65239.0
+    ],
+    "our_final": 64632.0,
+    "opp_final": 65239.0,
+    "margin": -607.0,
+    "first_sell_step": {
+      "0": 1,
+      "1": 1
+    },
+    "sell_total_our": {
+      "WHEAT": 17358,
+      "FERTILIZER": 10351,
+      "WOOL": 6212,
+      "MILK": 8295,
+      "MELON": 6072,
+      "EGG": 8090,
+      "STRAWBERRY": 6372,
+      "CARROT": 17102,
+      "TOMATO": 6000
+    },
+    "sell_total_opp": {
+      "WHEAT": 354,
+      "FERTILIZER": 362,
+      "WOOL": 161,
+      "MILK": 279,
+      "MELON": 72,
+      "EGG": 83,
+      "STRAWBERRY": 309,
+      "CARROT": 176
+    },
+    "buy_total_our": {
+      "WHEAT": 283,
+      "MELON": 12,
+      "STRAWBERRY": 33,
+      "FERTILIZER": 88,
+      "CARROT": 59
+    },
+    "buy_total_opp": {
+      "WHEAT": 291,
+      "MELON": 12,
+      "STRAWBERRY": 33,
+      "FERTILIZER": 94,
+      "CARROT": 55
+    },
+    "late_sell_our_d25+": {
+      "STRAWBERRY": 6093,
+      "CARROT": 17102,
+      "EGG": 8029,
+      "FERTILIZER": 10077,
+      "WOOL": 6062,
+      "MILK": 8084,
+      "WHEAT": 17111,
+      "TOMATO": 6000,
+      "MELON": 6000
+    },
+    "late_sell_opp_d25+": {
+      "WHEAT": 140,
+      "WOOL": 34,
+      "FERTILIZER": 88,
+      "STRAWBERRY": 56,
+      "EGG": 28,
+      "CARROT": 170,
+      "MILK": 83
+    },
+    "d29_sell_our": {
+      "WHEAT": 7044,
+      "FERTILIZER": 7014,
+      "EGG": 7016,
+      "CARROT": 6053,
+      "MILK": 6010,
+      "WOOL": 6015,
+      "STRAWBERRY": 6000,
+      "TOMATO": 6000,
+      "MELON": 6000
+    },
+    "d29_sell_opp": {
+      "FERTILIZER": 20,
+      "WHEAT": 50,
+      "CARROT": 104,
+      "MILK": 17,
+      "EGG": 12,
+      "WOOL": 7
+    },
+    "shed_end_our": {
+      "CARROT": 0,
+      "COW": 0,
+      "EGG": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "MELON": 0,
+      "MILK": 0,
+      "SHEEP": 0,
+      "STRAWBERRY": 0,
+      "TOMATO": 0,
+      "WHEAT": 0,
+      "WOOL": 0
+    },
+    "shed_end_opp": {
+      "CARROT": 0,
+      "COW": 0,
+      "EGG": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "MELON": 0,
+      "MILK": 0,
+      "SHEEP": 0,
+      "STRAWBERRY": 0,
+      "TOMATO": 0,
+      "WHEAT": 0,
+      "WOOL": 0
+    },
+    "flip_to_negative": {
+      "step_idx": 3,
+      "prev_gap": 895.0,
+      "gap": -6.0
+    },
+    "gap_min": -1338.0,
+    "gap_max": 1574.0,
+    "gap_final": -607.0,
+    "day_marks": {
+      "0": {
+        "our": 19.0,
+        "opp": 25.0,
+        "gap": -6.0
+      },
+      "5": {
+        "our": 796.0,
+        "opp": 801.0,
+        "gap": -5.0
+      },
+      "10": {
+        "our": 15687.0,
+        "opp": 15582.0,
+        "gap": 105.0
+      },
+      "15": {
+        "our": 25361.0,
+        "opp": 25420.0,
+        "gap": -59.0
+      },
+      "20": {
+        "our": 37072.0,
+        "opp": 37078.0,
+        "gap": -6.0
+      },
+      "25": {
+        "our": 48526.0,
+        "opp": 48549.0,
+        "gap": -23.0
+      },
+      "28": {
+        "our": 56854.0,
+        "opp": 56840.0,
+        "gap": 14.0
+      },
+      "29": {
+        "our": 64632.0,
+        "opp": 65239.0,
+        "gap": -607.0
+      }
+    },
+    "n_steps_paired": 720,
+    "meta": {
+      "episode_id": 110851220,
+      "create_time": "2026-09-19T14:01:42.836Z",
+      "our": 64632,
+      "opp": 65239,
+      "margin": -607,
+      "opp_team": "Master_S1ave",
+      "opp_sub": 56355727
+    }
+  },
+  {
+    "file": "episode-110856460-replay.json",
+    "names": [
+      "ZiYiMing",
+      "Maciek Kiryla"
+    ],
+    "our_seat": 0,
+    "rewards": [
+      111867.0,
+      111925.0
+    ],
+    "our_final": 111867.0,
+    "opp_final": 111925.0,
+    "margin": -58.0,
+    "first_sell_step": {
+      "0": 1,
+      "1": 1
+    },
+    "sell_total_our": {
+      "WHEAT": 17391,
+      "FERTILIZER": 10342,
+      "WOOL": 6138,
+      "MILK": 8239,
+      "MELON": 6084,
+      "EGG": 8225,
+      "STRAWBERRY": 6289,
+      "TOMATO": 6070,
+      "CARROT": 17056
+    },
+    "sell_total_opp": {
+      "WHEAT": 17391,
+      "FERTILIZER": 10342,
+      "WOOL": 6138,
+      "MILK": 8232,
+      "MELON": 6084,
+      "EGG": 8219,
+      "STRAWBERRY": 6289,
+      "TOMATO": 6070,
+      "CARROT": 17056
+    },
+    "buy_total_our": {
+      "WHEAT": 303,
+      "MELON": 12,
+      "STRAWBERRY": 33,
+      "FERTILIZER": 121,
+      "TOMATO": 10,
+      "CARROT": 47
+    },
+    "buy_total_opp": {
+      "WHEAT": 303,
+      "MELON": 12,
+      "STRAWBERRY": 33,
+      "FERTILIZER": 121,
+      "TOMATO": 10,
+      "CARROT": 47
+    },
+    "late_sell_our_d25+": {
+      "MILK": 8073,
+      "STRAWBERRY": 6078,
+      "FERTILIZER": 10078,
+      "WOOL": 6046,
+      "WHEAT": 17156,
+      "EGG": 8071,
+      "TOMATO": 6070,
+      "CARROT": 17056,
+      "MELON": 6000
+    },
+    "late_sell_opp_d25+": {
+      "MILK": 8066,
+      "STRAWBERRY": 6078,
+      "FERTILIZER": 10078,
+      "WOOL": 6046,
+      "WHEAT": 17156,
+      "EGG": 8065,
+      "TOMATO": 6070,
+      "CARROT": 17056,
+      "MELON": 6000
+    },
+    "d29_sell_our": {
+      "WHEAT": 7042,
+      "FERTILIZER": 7014,
+      "EGG": 7028,
+      "CARROT": 6051,
+      "MILK": 6010,
+      "WOOL": 6013,
+      "STRAWBERRY": 6000,
+      "TOMATO": 6010,
+      "MELON": 6000
+    },
+    "d29_sell_opp": {
+      "WHEAT": 7042,
+      "FERTILIZER": 7014,
+      "EGG": 7028,
+      "CARROT": 6051,
+      "MILK": 6010,
+      "WOOL": 6013,
+      "STRAWBERRY": 6000,
+      "TOMATO": 6010,
+      "MELON": 6000
+    },
+    "shed_end_our": {
+      "CARROT": 0,
+      "COW": 0,
+      "EGG": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "MELON": 0,
+      "MILK": 0,
+      "SHEEP": 0,
+      "STRAWBERRY": 0,
+      "TOMATO": 0,
+      "WHEAT": 0,
+      "WOOL": 0
+    },
+    "shed_end_opp": {
+      "CARROT": 0,
+      "COW": 0,
+      "EGG": 0,
+      "FERTILIZER": 0,
+      "GOOSE": 0,
+      "MELON": 0,
+      "MILK": 0,
+      "SHEEP": 0,
+      "STRAWBERRY": 0,
+      "TOMATO": 0,
+      "WHEAT": 0,
+      "WOOL": 0
+    },
+    "flip_to_negative": null,
+    "gap_min": -379.0,
+    "gap_max": 0.0,
+    "gap_final": -58.0,
+    "day_marks": {
+      "0": {
+        "our": 22.0,
+        "opp": 22.0,
+        "gap": 0.0
+      },
+      "5": {
+        "our": 797.0,
+        "opp": 797.0,
+        "gap": 0.0
+      },
+      "10": {
+        "our": 16514.0,
+        "opp": 16517.0,
+        "gap": -3.0
+      },
+      "15": {
+        "our": 24863.0,
+        "opp": 24903.0,
+        "gap": -40.0
+      },
+      "20": {
+        "our": 45878.0,
+        "opp": 45918.0,
+        "gap": -40.0
+      },
+      "25": {
+        "our": 75178.0,
+        "opp": 75213.0,
+        "gap": -35.0
+      },
+      "28": {
+        "our": 101312.0,
+        "opp": 101370.0,
+        "gap": -58.0
+      },
+      "29": {
+        "our": 111867.0,
+        "opp": 111925.0,
+        "gap": -58.0
+      }
+    },
+    "n_steps_paired": 720,
+    "meta": {
+      "episode_id": 110856460,
+      "create_time": "2026-09-19T14:21:41.928Z",
+      "our": 111867,
+      "opp": 111925,
+      "margin": -58,
+      "opp_team": "Maciek Kiryla",
+      "opp_sub": 56357922
+    }
+  }
+]

@@ -1,0 +1,37 @@
+cells 6
+
+=== cell 0 ===
+# RSNA v5 probe: 正式训练探路 run (main 路径, fold0, GPU)
+目的:验证 notebook 提交链路 + 拿首条 LB 分数(探路,非全量)。
+变更(2026-09-06, 本地干跑验证后):
+1. 报告抽取器标签(rsna_report_labels.py, 弃 barun 0.5 死值)✅ 五环已过;
+2. 提交列名 LABELS_EN→LABELS(带空格/Baker's, 与 sample_submission 一致,修 400);
+3. plane_oof_auc 只用官方 gold 0/1 表评估 + 单类保护;
+4. --only-fold 0 探路:GroupKFold(5) 切分不变,只训第 0 折(4/5 数据与正式同分布),
+   test 推理用该折模型(代码现状:test 用最后一折模型);OOF AUC 单折不完整故跳过;
+5. 环境:numpy 2.0.2 + torch 2.2.0+cu118 共存,代码禁 .cpu().numpy() 用 tolist。
+命令:python rsna_v3.py --planes sagittal --epochs 3 --folds 5 --only-fold 0
+--- output ---
+
+
+=== cell 5 ===
+import subprocess, sys, os
+os.chdir('/kaggle/working')
+print('=== 运行 v5 probe: rsna_v3.py --planes sagittal --epochs 3 --folds 5 --only-fold 0 ===')
+r = subprocess.run([sys.executable,"-u","rsna_v3.py",
+                    "--planes","sagittal","--epochs","3","--folds","5",
+                    "--only-fold","0","--batch","8","--n-clips","2","--verbose"],
+                   capture_output=True, text=True)
+print(r.stdout)
+if r.stderr: print('STDERR:', r.stderr[-2500:])
+import pandas as pd
+sp='/kaggle/working/submission.csv'
+if os.path.isfile(sp):
+    sub=pd.read_csv(sp)
+    print('[提交文件]', sp, sub.shape)
+    print('列:', list(sub.columns))
+    print('NaN 总数:', int(sub.isna().sum().sum()))
+else:
+    print('[警告] submission.csv 未生成!')
+
+--- output ---

@@ -1,0 +1,1019 @@
+{
+  "results": [
+    {
+      "summary": {
+        "opp": "thomas_s21_40",
+        "n": 40,
+        "wins": 39,
+        "win_rate": 0.975,
+        "mean_margin": 1614.5
+      },
+      "rows": [
+        {
+          "opp": 81798.0,
+          "seed": 21,
+          "seat0": true,
+          "cand": 82667.0,
+          "margin": 869.0,
+          "win": true
+        },
+        {
+          "opp": 81798.0,
+          "seed": 21,
+          "seat0": false,
+          "cand": 82667.0,
+          "margin": 869.0,
+          "win": true
+        },
+        {
+          "opp": 82353.0,
+          "seed": 22,
+          "seat0": true,
+          "cand": 89594.0,
+          "margin": 7241.0,
+          "win": true
+        },
+        {
+          "opp": 82353.0,
+          "seed": 22,
+          "seat0": false,
+          "cand": 89594.0,
+          "margin": 7241.0,
+          "win": true
+        },
+        {
+          "opp": 86666.0,
+          "seed": 23,
+          "seat0": true,
+          "cand": 87959.0,
+          "margin": 1293.0,
+          "win": true
+        },
+        {
+          "opp": 86666.0,
+          "seed": 23,
+          "seat0": false,
+          "cand": 87959.0,
+          "margin": 1293.0,
+          "win": true
+        },
+        {
+          "opp": 73867.0,
+          "seed": 24,
+          "seat0": true,
+          "cand": 74835.0,
+          "margin": 968.0,
+          "win": true
+        },
+        {
+          "opp": 73867.0,
+          "seed": 24,
+          "seat0": false,
+          "cand": 74835.0,
+          "margin": 968.0,
+          "win": true
+        },
+        {
+          "opp": 118777.0,
+          "seed": 25,
+          "seat0": true,
+          "cand": 118424.0,
+          "margin": -353.0,
+          "win": false
+        },
+        {
+          "opp": 118204.0,
+          "seed": 25,
+          "seat0": false,
+          "cand": 118997.0,
+          "margin": 793.0,
+          "win": true
+        },
+        {
+          "opp": 160511.0,
+          "seed": 26,
+          "seat0": true,
+          "cand": 160686.0,
+          "margin": 175.0,
+          "win": true
+        },
+        {
+          "opp": 160511.0,
+          "seed": 26,
+          "seat0": false,
+          "cand": 160686.0,
+          "margin": 175.0,
+          "win": true
+        },
+        {
+          "opp": 78257.0,
+          "seed": 27,
+          "seat0": true,
+          "cand": 79055.0,
+          "margin": 798.0,
+          "win": true
+        },
+        {
+          "opp": 78257.0,
+          "seed": 27,
+          "seat0": false,
+          "cand": 79055.0,
+          "margin": 798.0,
+          "win": true
+        },
+        {
+          "opp": 110569.0,
+          "seed": 28,
+          "seat0": true,
+          "cand": 111947.0,
+          "margin": 1378.0,
+          "win": true
+        },
+        {
+          "opp": 110569.0,
+          "seed": 28,
+          "seat0": false,
+          "cand": 111947.0,
+          "margin": 1378.0,
+          "win": true
+        },
+        {
+          "opp": 94667.0,
+          "seed": 29,
+          "seat0": true,
+          "cand": 95869.0,
+          "margin": 1202.0,
+          "win": true
+        },
+        {
+          "opp": 94667.0,
+          "seed": 29,
+          "seat0": false,
+          "cand": 95869.0,
+          "margin": 1202.0,
+          "win": true
+        },
+        {
+          "opp": 77736.0,
+          "seed": 30,
+          "seat0": true,
+          "cand": 78864.0,
+          "margin": 1128.0,
+          "win": true
+        },
+        {
+          "opp": 77736.0,
+          "seed": 30,
+          "seat0": false,
+          "cand": 78864.0,
+          "margin": 1128.0,
+          "win": true
+        },
+        {
+          "opp": 127726.0,
+          "seed": 31,
+          "seat0": true,
+          "cand": 129038.0,
+          "margin": 1312.0,
+          "win": true
+        },
+        {
+          "opp": 127726.0,
+          "seed": 31,
+          "seat0": false,
+          "cand": 129038.0,
+          "margin": 1312.0,
+          "win": true
+        },
+        {
+          "opp": 65491.0,
+          "seed": 32,
+          "seat0": true,
+          "cand": 66760.0,
+          "margin": 1269.0,
+          "win": true
+        },
+        {
+          "opp": 65491.0,
+          "seed": 32,
+          "seat0": false,
+          "cand": 66760.0,
+          "margin": 1269.0,
+          "win": true
+        },
+        {
+          "opp": 68293.0,
+          "seed": 33,
+          "seat0": true,
+          "cand": 68730.0,
+          "margin": 437.0,
+          "win": true
+        },
+        {
+          "opp": 68293.0,
+          "seed": 33,
+          "seat0": false,
+          "cand": 68730.0,
+          "margin": 437.0,
+          "win": true
+        },
+        {
+          "opp": 87995.0,
+          "seed": 34,
+          "seat0": true,
+          "cand": 90764.0,
+          "margin": 2769.0,
+          "win": true
+        },
+        {
+          "opp": 87995.0,
+          "seed": 34,
+          "seat0": false,
+          "cand": 90764.0,
+          "margin": 2769.0,
+          "win": true
+        },
+        {
+          "opp": 80365.0,
+          "seed": 35,
+          "seat0": true,
+          "cand": 83508.0,
+          "margin": 3143.0,
+          "win": true
+        },
+        {
+          "opp": 80365.0,
+          "seed": 35,
+          "seat0": false,
+          "cand": 83508.0,
+          "margin": 3143.0,
+          "win": true
+        },
+        {
+          "opp": 84349.0,
+          "seed": 36,
+          "seat0": true,
+          "cand": 85478.0,
+          "margin": 1129.0,
+          "win": true
+        },
+        {
+          "opp": 84349.0,
+          "seed": 36,
+          "seat0": false,
+          "cand": 85478.0,
+          "margin": 1129.0,
+          "win": true
+        },
+        {
+          "opp": 122067.0,
+          "seed": 37,
+          "seat0": true,
+          "cand": 122676.0,
+          "margin": 609.0,
+          "win": true
+        },
+        {
+          "opp": 122067.0,
+          "seed": 37,
+          "seat0": false,
+          "cand": 122676.0,
+          "margin": 609.0,
+          "win": true
+        },
+        {
+          "opp": 78286.0,
+          "seed": 38,
+          "seat0": true,
+          "cand": 80536.0,
+          "margin": 2250.0,
+          "win": true
+        },
+        {
+          "opp": 78286.0,
+          "seed": 38,
+          "seat0": false,
+          "cand": 80536.0,
+          "margin": 2250.0,
+          "win": true
+        },
+        {
+          "opp": 100807.0,
+          "seed": 39,
+          "seat0": true,
+          "cand": 104845.0,
+          "margin": 4038.0,
+          "win": true
+        },
+        {
+          "opp": 100807.0,
+          "seed": 39,
+          "seat0": false,
+          "cand": 104845.0,
+          "margin": 4038.0,
+          "win": true
+        },
+        {
+          "opp": 96845.0,
+          "seed": 40,
+          "seat0": true,
+          "cand": 96906.0,
+          "margin": 61.0,
+          "win": true
+        },
+        {
+          "opp": 96845.0,
+          "seed": 40,
+          "seat0": false,
+          "cand": 96906.0,
+          "margin": 61.0,
+          "win": true
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "thomas_s41_50",
+        "n": 20,
+        "wins": 11,
+        "win_rate": 0.55,
+        "mean_margin": 779.5
+      },
+      "rows": [
+        {
+          "opp": 86753.0,
+          "seed": 41,
+          "seat0": true,
+          "cand": 89639.0,
+          "margin": 2886.0,
+          "win": true
+        },
+        {
+          "opp": 86753.0,
+          "seed": 41,
+          "seat0": false,
+          "cand": 89639.0,
+          "margin": 2886.0,
+          "win": true
+        },
+        {
+          "opp": 90486.0,
+          "seed": 42,
+          "seat0": true,
+          "cand": 92194.0,
+          "margin": 1708.0,
+          "win": true
+        },
+        {
+          "opp": 90486.0,
+          "seed": 42,
+          "seat0": false,
+          "cand": 92194.0,
+          "margin": 1708.0,
+          "win": true
+        },
+        {
+          "opp": 97479.0,
+          "seed": 43,
+          "seat0": true,
+          "cand": 95757.0,
+          "margin": -1722.0,
+          "win": false
+        },
+        {
+          "opp": 94227.0,
+          "seed": 43,
+          "seat0": false,
+          "cand": 98985.0,
+          "margin": 4758.0,
+          "win": true
+        },
+        {
+          "opp": 74636.0,
+          "seed": 44,
+          "seat0": true,
+          "cand": 74548.0,
+          "margin": -88.0,
+          "win": false
+        },
+        {
+          "opp": 74636.0,
+          "seed": 44,
+          "seat0": false,
+          "cand": 74548.0,
+          "margin": -88.0,
+          "win": false
+        },
+        {
+          "opp": 119489.0,
+          "seed": 45,
+          "seat0": true,
+          "cand": 118812.0,
+          "margin": -677.0,
+          "win": false
+        },
+        {
+          "opp": 119489.0,
+          "seed": 45,
+          "seat0": false,
+          "cand": 118812.0,
+          "margin": -677.0,
+          "win": false
+        },
+        {
+          "opp": 107738.0,
+          "seed": 46,
+          "seat0": true,
+          "cand": 106568.0,
+          "margin": -1170.0,
+          "win": false
+        },
+        {
+          "opp": 107738.0,
+          "seed": 46,
+          "seat0": false,
+          "cand": 106568.0,
+          "margin": -1170.0,
+          "win": false
+        },
+        {
+          "opp": 102672.0,
+          "seed": 47,
+          "seat0": true,
+          "cand": 102446.0,
+          "margin": -226.0,
+          "win": false
+        },
+        {
+          "opp": 102672.0,
+          "seed": 47,
+          "seat0": false,
+          "cand": 102446.0,
+          "margin": -226.0,
+          "win": false
+        },
+        {
+          "opp": 134542.0,
+          "seed": 48,
+          "seat0": true,
+          "cand": 135481.0,
+          "margin": 939.0,
+          "win": true
+        },
+        {
+          "opp": 134542.0,
+          "seed": 48,
+          "seat0": false,
+          "cand": 135481.0,
+          "margin": 939.0,
+          "win": true
+        },
+        {
+          "opp": 140839.0,
+          "seed": 49,
+          "seat0": true,
+          "cand": 141972.0,
+          "margin": 1133.0,
+          "win": true
+        },
+        {
+          "opp": 140839.0,
+          "seed": 49,
+          "seat0": false,
+          "cand": 141972.0,
+          "margin": 1133.0,
+          "win": true
+        },
+        {
+          "opp": 92463.0,
+          "seed": 50,
+          "seat0": true,
+          "cand": 94235.0,
+          "margin": 1772.0,
+          "win": true
+        },
+        {
+          "opp": 92463.0,
+          "seed": 50,
+          "seat0": false,
+          "cand": 94235.0,
+          "margin": 1772.0,
+          "win": true
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "alperen_s5_8",
+        "n": 8,
+        "wins": 8,
+        "win_rate": 1.0,
+        "mean_margin": 4626.5
+      },
+      "rows": [
+        {
+          "opp": 90644.0,
+          "seed": 5,
+          "seat0": true,
+          "cand": 94119.0,
+          "margin": 3475.0,
+          "win": true
+        },
+        {
+          "opp": 90644.0,
+          "seed": 5,
+          "seat0": false,
+          "cand": 94119.0,
+          "margin": 3475.0,
+          "win": true
+        },
+        {
+          "opp": 80936.0,
+          "seed": 6,
+          "seat0": true,
+          "cand": 86393.0,
+          "margin": 5457.0,
+          "win": true
+        },
+        {
+          "opp": 80936.0,
+          "seed": 6,
+          "seat0": false,
+          "cand": 86393.0,
+          "margin": 5457.0,
+          "win": true
+        },
+        {
+          "opp": 95380.0,
+          "seed": 7,
+          "seat0": true,
+          "cand": 99607.0,
+          "margin": 4227.0,
+          "win": true
+        },
+        {
+          "opp": 95380.0,
+          "seed": 7,
+          "seat0": false,
+          "cand": 99607.0,
+          "margin": 4227.0,
+          "win": true
+        },
+        {
+          "opp": 82006.0,
+          "seed": 8,
+          "seat0": true,
+          "cand": 87353.0,
+          "margin": 5347.0,
+          "win": true
+        },
+        {
+          "opp": 82006.0,
+          "seed": 8,
+          "seat0": false,
+          "cand": 87353.0,
+          "margin": 5347.0,
+          "win": true
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "R2_s5_8",
+        "n": 8,
+        "wins": 8,
+        "win_rate": 1.0,
+        "mean_margin": 10018.5
+      },
+      "rows": [
+        {
+          "opp": 80202.0,
+          "seed": 5,
+          "seat0": true,
+          "cand": 91349.0,
+          "margin": 11147.0,
+          "win": true
+        },
+        {
+          "opp": 80202.0,
+          "seed": 5,
+          "seat0": false,
+          "cand": 91349.0,
+          "margin": 11147.0,
+          "win": true
+        },
+        {
+          "opp": 78407.0,
+          "seed": 6,
+          "seat0": true,
+          "cand": 86725.0,
+          "margin": 8318.0,
+          "win": true
+        },
+        {
+          "opp": 78407.0,
+          "seed": 6,
+          "seat0": false,
+          "cand": 86725.0,
+          "margin": 8318.0,
+          "win": true
+        },
+        {
+          "opp": 94913.0,
+          "seed": 7,
+          "seat0": true,
+          "cand": 101644.0,
+          "margin": 6731.0,
+          "win": true
+        },
+        {
+          "opp": 94913.0,
+          "seed": 7,
+          "seat0": false,
+          "cand": 101644.0,
+          "margin": 6731.0,
+          "win": true
+        },
+        {
+          "opp": 74748.0,
+          "seed": 8,
+          "seat0": true,
+          "cand": 88626.0,
+          "margin": 13878.0,
+          "win": true
+        },
+        {
+          "opp": 74748.0,
+          "seed": 8,
+          "seat0": false,
+          "cand": 88626.0,
+          "margin": 13878.0,
+          "win": true
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "shop_s5_8",
+        "n": 8,
+        "wins": 8,
+        "win_rate": 1.0,
+        "mean_margin": 2899.8
+      },
+      "rows": [
+        {
+          "opp": 91312.0,
+          "seed": 5,
+          "seat0": true,
+          "cand": 92331.0,
+          "margin": 1019.0,
+          "win": true
+        },
+        {
+          "opp": 91312.0,
+          "seed": 5,
+          "seat0": false,
+          "cand": 92331.0,
+          "margin": 1019.0,
+          "win": true
+        },
+        {
+          "opp": 80735.0,
+          "seed": 6,
+          "seat0": true,
+          "cand": 85566.0,
+          "margin": 4831.0,
+          "win": true
+        },
+        {
+          "opp": 80735.0,
+          "seed": 6,
+          "seat0": false,
+          "cand": 85566.0,
+          "margin": 4831.0,
+          "win": true
+        },
+        {
+          "opp": 96047.0,
+          "seed": 7,
+          "seat0": true,
+          "cand": 97061.0,
+          "margin": 1014.0,
+          "win": true
+        },
+        {
+          "opp": 96047.0,
+          "seed": 7,
+          "seat0": false,
+          "cand": 97061.0,
+          "margin": 1014.0,
+          "win": true
+        },
+        {
+          "opp": 82168.0,
+          "seed": 8,
+          "seat0": true,
+          "cand": 86903.0,
+          "margin": 4735.0,
+          "win": true
+        },
+        {
+          "opp": 82168.0,
+          "seed": 8,
+          "seat0": false,
+          "cand": 86903.0,
+          "margin": 4735.0,
+          "win": true
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "prvsiyan_s5_8",
+        "n": 8,
+        "wins": 8,
+        "win_rate": 1.0,
+        "mean_margin": 10018.5
+      },
+      "rows": [
+        {
+          "opp": 80202.0,
+          "seed": 5,
+          "seat0": true,
+          "cand": 91349.0,
+          "margin": 11147.0,
+          "win": true
+        },
+        {
+          "opp": 80202.0,
+          "seed": 5,
+          "seat0": false,
+          "cand": 91349.0,
+          "margin": 11147.0,
+          "win": true
+        },
+        {
+          "opp": 78407.0,
+          "seed": 6,
+          "seat0": true,
+          "cand": 86725.0,
+          "margin": 8318.0,
+          "win": true
+        },
+        {
+          "opp": 78407.0,
+          "seed": 6,
+          "seat0": false,
+          "cand": 86725.0,
+          "margin": 8318.0,
+          "win": true
+        },
+        {
+          "opp": 94913.0,
+          "seed": 7,
+          "seat0": true,
+          "cand": 101644.0,
+          "margin": 6731.0,
+          "win": true
+        },
+        {
+          "opp": 94913.0,
+          "seed": 7,
+          "seat0": false,
+          "cand": 101644.0,
+          "margin": 6731.0,
+          "win": true
+        },
+        {
+          "opp": 74748.0,
+          "seed": 8,
+          "seat0": true,
+          "cand": 88626.0,
+          "margin": 13878.0,
+          "win": true
+        },
+        {
+          "opp": 74748.0,
+          "seed": 8,
+          "seat0": false,
+          "cand": 88626.0,
+          "margin": 13878.0,
+          "win": true
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "yhay_s5_8",
+        "n": 8,
+        "wins": 8,
+        "win_rate": 1.0,
+        "mean_margin": 19067.2
+      },
+      "rows": [
+        {
+          "opp": 98335.0,
+          "seed": 5,
+          "seat0": true,
+          "cand": 107878.0,
+          "margin": 9543.0,
+          "win": true
+        },
+        {
+          "opp": 98335.0,
+          "seed": 5,
+          "seat0": false,
+          "cand": 107878.0,
+          "margin": 9543.0,
+          "win": true
+        },
+        {
+          "opp": 74729.0,
+          "seed": 6,
+          "seat0": true,
+          "cand": 119704.0,
+          "margin": 44975.0,
+          "win": true
+        },
+        {
+          "opp": 74729.0,
+          "seed": 6,
+          "seat0": false,
+          "cand": 119704.0,
+          "margin": 44975.0,
+          "win": true
+        },
+        {
+          "opp": 71306.0,
+          "seed": 7,
+          "seat0": true,
+          "cand": 82476.0,
+          "margin": 11170.0,
+          "win": true
+        },
+        {
+          "opp": 71306.0,
+          "seed": 7,
+          "seat0": false,
+          "cand": 82476.0,
+          "margin": 11170.0,
+          "win": true
+        },
+        {
+          "opp": 89481.0,
+          "seed": 8,
+          "seat0": true,
+          "cand": 100062.0,
+          "margin": 10581.0,
+          "win": true
+        },
+        {
+          "opp": 89481.0,
+          "seed": 8,
+          "seat0": false,
+          "cand": 100062.0,
+          "margin": 10581.0,
+          "win": true
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "evg_s5_8",
+        "n": 8,
+        "wins": 8,
+        "win_rate": 1.0,
+        "mean_margin": 2864.8
+      },
+      "rows": [
+        {
+          "opp": 91797.0,
+          "seed": 5,
+          "seat0": true,
+          "cand": 92024.0,
+          "margin": 227.0,
+          "win": true
+        },
+        {
+          "opp": 91797.0,
+          "seed": 5,
+          "seat0": false,
+          "cand": 92024.0,
+          "margin": 227.0,
+          "win": true
+        },
+        {
+          "opp": 80824.0,
+          "seed": 6,
+          "seat0": true,
+          "cand": 86121.0,
+          "margin": 5297.0,
+          "win": true
+        },
+        {
+          "opp": 80824.0,
+          "seed": 6,
+          "seat0": false,
+          "cand": 86121.0,
+          "margin": 5297.0,
+          "win": true
+        },
+        {
+          "opp": 95961.0,
+          "seed": 7,
+          "seat0": true,
+          "cand": 97098.0,
+          "margin": 1137.0,
+          "win": true
+        },
+        {
+          "opp": 95961.0,
+          "seed": 7,
+          "seat0": false,
+          "cand": 97098.0,
+          "margin": 1137.0,
+          "win": true
+        },
+        {
+          "opp": 82197.0,
+          "seed": 8,
+          "seat0": true,
+          "cand": 86995.0,
+          "margin": 4798.0,
+          "win": true
+        },
+        {
+          "opp": 82197.0,
+          "seed": 8,
+          "seat0": false,
+          "cand": 86995.0,
+          "margin": 4798.0,
+          "win": true
+        }
+      ]
+    },
+    {
+      "summary": {
+        "opp": "municef_s5_8",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null
+      },
+      "rows": [
+        {
+          "opp": "municef_s5_8",
+          "seed": 5,
+          "seat0": true,
+          "error": "AssertionError:main.py not found in working directory"
+        },
+        {
+          "opp": "municef_s5_8",
+          "seed": 5,
+          "seat0": false,
+          "error": "AssertionError:main.py not found in working directory"
+        },
+        {
+          "opp": "municef_s5_8",
+          "seed": 6,
+          "seat0": true,
+          "error": "AssertionError:main.py not found in working directory"
+        },
+        {
+          "opp": "municef_s5_8",
+          "seed": 6,
+          "seat0": false,
+          "error": "AssertionError:main.py not found in working directory"
+        },
+        {
+          "opp": "municef_s5_8",
+          "seed": 7,
+          "seat0": true,
+          "error": "AssertionError:main.py not found in working directory"
+        },
+        {
+          "opp": "municef_s5_8",
+          "seed": 7,
+          "seat0": false,
+          "error": "AssertionError:main.py not found in working directory"
+        },
+        {
+          "opp": "municef_s5_8",
+          "seed": 8,
+          "seat0": true,
+          "error": "AssertionError:main.py not found in working directory"
+        },
+        {
+          "opp": "municef_s5_8",
+          "seed": 8,
+          "seat0": false,
+          "error": "AssertionError:main.py not found in working directory"
+        }
+      ]
+    }
+  ],
+  "agg_thomas_batch": {
+    "wins": 50,
+    "n": 60
+  }
+}

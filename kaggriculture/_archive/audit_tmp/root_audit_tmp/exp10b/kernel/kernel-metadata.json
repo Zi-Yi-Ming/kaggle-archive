@@ -1,0 +1,13 @@
+{
+  "id": "ziyiming/exp10b-kernel-validation",
+  "title": "exp10b-kernel-validation",
+  "code_file": "exp10b_kernel.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

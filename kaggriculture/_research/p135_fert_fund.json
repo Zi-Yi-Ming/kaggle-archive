@@ -1,0 +1,16 @@
+{
+  "tape_plain": {
+    "n": 3,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_margin": -85058.66666666667,
+    "mean_cand": 38858.333333333336
+  },
+  "tape_fert_fund": {
+    "n": 3,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_margin": -140926.66666666666,
+    "mean_cand": 22569.666666666668
+  }
+}

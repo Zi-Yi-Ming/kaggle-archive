@@ -1,0 +1,5 @@
+variant,pku_ratio_d7_15,mean_bank,d10_cash,notes
+B0_accounting,0.23,8549,~100,stampede confirmed
+B1_sticky,0.022,16034,301,pku fixed cash not fixed
+R2_reference,0.02-0.04,130000+,17000,target
+decision,ROUTING_EFFECT_TOO_SMALL,,,STOP_ROUTING

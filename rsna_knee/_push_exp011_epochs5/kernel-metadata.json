@@ -1,0 +1,18 @@
+{
+  "id": "ziyiming/rsna-exp011-epochs5-sca-weights",
+  "title": "RSNA EXP011 epochs5 SCA weights",
+  "code_file": "rsna_exp011_epochs5_sca_weights_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "dataset_sources": [
+    "matteonaccarato/resnet34-imagenet-pth",
+    "ziyiming/torch-cu118-offline"
+  ],
+  "model_sources": []
+}

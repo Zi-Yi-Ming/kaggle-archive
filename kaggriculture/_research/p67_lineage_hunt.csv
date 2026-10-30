@@ -1,0 +1,7 @@
+error,name,status
+name 'plt' is not defined,adaptive_farming_strategy_for_kaggriculture,load_fail
+,adaptive_route_agent_v2,no_agent
+,kaggriculture_dynamic_route_agent,no_agent
+,kaggriculture_multi_route_farming_agent,no_agent
+,shape_the_shop_work_the_pasture_kaggriculture,no_agent
+,shape_the_shop_work_the_pasture_top_10,no_agent

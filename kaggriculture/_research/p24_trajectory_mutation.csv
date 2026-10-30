@@ -1,0 +1,5 @@
+label,s1,s2,s3,mean,delta_vs_T0,pos
+T0_R2,170460,186595,142077,166377,0,
+T1_R2_d9_12_CASH,54690,57405,47107,53067,-113310,0/3
+T2_R2_d0_5_MAIN,0,0,822,274,-166103,0/3
+DECISION,SEGMENT_MUTATION_DESTRUCTIVE,,,,"our production cannot drop-in replace R2 windows",

@@ -1,0 +1,4 @@
+architecture,novelty,mechanism,impl_cost,falsifiable,ig,selected,local_gate
+A_mode_machine,4,4,3,5,19,YES,FAIL_0_8_bankrupt
+B_receding_horizon,5,4,2,5,18,NO,not_built
+C_opp_counter,2,2,4,5,16,NO,H3_already_weak

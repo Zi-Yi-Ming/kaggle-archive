@@ -1,0 +1,13 @@
+{
+  "id": "ziyiming/rsna-v4-1-report-labels-smoke-gpu",
+  "title": "RSNA v4-1 report-labels smoke GPU",
+  "code_file": "rsna_v41_smoke_run.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["rsna-knee-abnormality-detection"],
+  "dataset_sources": ["matteonaccarato/resnet34-imagenet-pth"],
+  "model_sources": []
+}

@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "name": "h3x642_only",
+      "mv": {
+        "n": 12,
+        "wins": 12,
+        "win_rate": 1.0,
+        "mean_margin": 451.8333333333333
+      }
+    },
+    {
+      "name": "hybrid_tape_first",
+      "mv": {
+        "n": 12,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -144374.41666666666
+      }
+    }
+  ],
+  "best": {
+    "name": "h3x642_only",
+    "mv": {
+      "n": 12,
+      "wins": 12,
+      "win_rate": 1.0,
+      "mean_margin": 451.8333333333333
+    }
+  }
+}

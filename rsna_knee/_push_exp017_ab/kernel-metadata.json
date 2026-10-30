@@ -1,0 +1,18 @@
+{
+  "id": "ziyiming/rsna-exp017-fold0-validation-ab",
+  "title": "RSNA EXP017 fold0 validation AB",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "ziyiming/rsna-exp017-checkpoints",
+    "ziyiming/rsna-exp017-frozen-code"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "kernel_sources": []
+}

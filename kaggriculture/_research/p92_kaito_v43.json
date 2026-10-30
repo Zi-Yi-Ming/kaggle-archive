@@ -1,0 +1,250 @@
+{
+  "updated": "2026-09-21T13:18:58",
+  "src": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\public_nb\\kaito_v43\\main.py",
+  "sha256": "69f06a802b62aa08f28705dab5728eb924bb6a7c23ffe0164f65b104cc3dadf3",
+  "results": {
+    "vs_metav4": {
+      "cand": "kaito_v43",
+      "opp": "metav4",
+      "n": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -23604.0,
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 78874.0,
+          "ob": 100753.0,
+          "margin": -21879.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 78874.0,
+          "ob": 100753.0,
+          "margin": -21879.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 42885.0,
+          "ob": 73213.0,
+          "margin": -30328.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 42885.0,
+          "ob": 73213.0,
+          "margin": -30328.0,
+          "win": false
+        },
+        {
+          "seed": 3,
+          "seat0": true,
+          "cb": 58491.0,
+          "ob": 77096.0,
+          "margin": -18605.0,
+          "win": false
+        },
+        {
+          "seed": 3,
+          "seat0": false,
+          "cb": 58491.0,
+          "ob": 77096.0,
+          "margin": -18605.0,
+          "win": false
+        }
+      ]
+    },
+    "vs_shop_v7": {
+      "cand": "kaito_v43",
+      "opp": "shop_v7",
+      "n": 6,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -22422.3,
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 78346.0,
+          "ob": 99253.0,
+          "margin": -20907.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 78346.0,
+          "ob": 99253.0,
+          "margin": -20907.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 43000.0,
+          "ob": 73021.0,
+          "margin": -30021.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 43000.0,
+          "ob": 73021.0,
+          "margin": -30021.0,
+          "win": false
+        },
+        {
+          "seed": 3,
+          "seat0": true,
+          "cb": 49571.0,
+          "ob": 65910.0,
+          "margin": -16339.0,
+          "win": false
+        },
+        {
+          "seed": 3,
+          "seat0": false,
+          "cb": 49571.0,
+          "ob": 65910.0,
+          "margin": -16339.0,
+          "win": false
+        }
+      ]
+    },
+    "vs_thomas": {
+      "cand": "kaito_v43",
+      "opp": "thomas",
+      "n": 4,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -26375.5,
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 78704.0,
+          "ob": 101117.0,
+          "margin": -22413.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 78704.0,
+          "ob": 101117.0,
+          "margin": -22413.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 42581.0,
+          "ob": 72919.0,
+          "margin": -30338.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 42581.0,
+          "ob": 72919.0,
+          "margin": -30338.0,
+          "win": false
+        }
+      ]
+    },
+    "vs_alperen": {
+      "cand": "kaito_v43",
+      "opp": "alperen",
+      "n": 4,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -26197.5,
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 78451.0,
+          "ob": 100206.0,
+          "margin": -21755.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 78451.0,
+          "ob": 100206.0,
+          "margin": -21755.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 42148.0,
+          "ob": 72788.0,
+          "margin": -30640.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 42148.0,
+          "ob": 72788.0,
+          "margin": -30640.0,
+          "win": false
+        }
+      ]
+    },
+    "vs_pipe16": {
+      "cand": "kaito_v43",
+      "opp": "pipe16",
+      "n": 4,
+      "wins": 0,
+      "win_rate": 0.0,
+      "mean_margin": -26148.5,
+      "rows": [
+        {
+          "seed": 1,
+          "seat0": true,
+          "cb": 78863.0,
+          "ob": 100799.0,
+          "margin": -21936.0,
+          "win": false
+        },
+        {
+          "seed": 1,
+          "seat0": false,
+          "cb": 78863.0,
+          "ob": 100799.0,
+          "margin": -21936.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": true,
+          "cb": 42886.0,
+          "ob": 73247.0,
+          "margin": -30361.0,
+          "win": false
+        },
+        {
+          "seed": 2,
+          "seat0": false,
+          "cb": 42886.0,
+          "ob": 73247.0,
+          "margin": -30361.0,
+          "win": false
+        }
+      ]
+    }
+  },
+  "note": "P92 Kaito v43 exact recheck; no submit without auth"
+}

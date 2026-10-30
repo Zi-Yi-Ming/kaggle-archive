@@ -1,0 +1,7 @@
+test,pass,detail
+T1_repair_weed,True,['DIG']
+T6_queue_pop,True,"['PLANT', 'WHEAT']"
+T_project_shed,True,7
+T7_liquidate,False,MILK
+T_advance_skip_wheat,False,[]
+T_subtract_advanced,False,4

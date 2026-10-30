@@ -1,0 +1,280 @@
+{
+  "results": {
+    "adaptive_farming_html": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p51_extracted2\\adaptive_farming_strategy_for_kaggriculture.py",
+      "rows": [
+        {
+          "cand": "adaptive_farming_html",
+          "seed": 1,
+          "seat0": true,
+          "error": "object() takes no arguments"
+        },
+        {
+          "cand": "adaptive_farming_html",
+          "seed": 1,
+          "seat0": false,
+          "error": "object() takes no arguments"
+        },
+        {
+          "cand": "adaptive_farming_html",
+          "seed": 2,
+          "seat0": true,
+          "error": "object() takes no arguments"
+        },
+        {
+          "cand": "adaptive_farming_html",
+          "seed": 2,
+          "seat0": false,
+          "error": "object() takes no arguments"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "shape_pasture_html": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p51_extracted\\shape_the_shop_work_the_pasture_kaggriculture.py",
+      "rows": [
+        {
+          "cand": "shape_pasture_html",
+          "seed": 1,
+          "seat0": true,
+          "error": "object() takes no arguments"
+        },
+        {
+          "cand": "shape_pasture_html",
+          "seed": 1,
+          "seat0": false,
+          "error": "object() takes no arguments"
+        },
+        {
+          "cand": "shape_pasture_html",
+          "seed": 2,
+          "seat0": true,
+          "error": "object() takes no arguments"
+        },
+        {
+          "cand": "shape_pasture_html",
+          "seed": 2,
+          "seat0": false,
+          "error": "object() takes no arguments"
+        }
+      ],
+      "summary": {
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      }
+    },
+    "salem_main": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\top5_notebooks\\salemali7\\salemali7_main.py",
+      "rows": [
+        {
+          "cand": "salem_main",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 79984.0,
+          "thomas_bank": 129018.0,
+          "margin": -49034.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.7
+        },
+        {
+          "cand": "salem_main",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 79984.0,
+          "thomas_bank": 129018.0,
+          "margin": -49034.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 9.2
+        },
+        {
+          "cand": "salem_main",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 59453.0,
+          "thomas_bank": 92183.0,
+          "margin": -32730.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.9
+        },
+        {
+          "cand": "salem_main",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 59453.0,
+          "thomas_bank": 92183.0,
+          "margin": -32730.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 8.1
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -40882.0,
+        "errors": 0
+      }
+    },
+    "boatlee_v16_extract": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p41_extracted\\boatlee_v16_main.py",
+      "rows": [
+        {
+          "cand": "boatlee_v16_extract",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 79984.0,
+          "thomas_bank": 129018.0,
+          "margin": -49034.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.6
+        },
+        {
+          "cand": "boatlee_v16_extract",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 79984.0,
+          "thomas_bank": 129018.0,
+          "margin": -49034.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.5
+        },
+        {
+          "cand": "boatlee_v16_extract",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 59453.0,
+          "thomas_bank": 92183.0,
+          "margin": -32730.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        },
+        {
+          "cand": "boatlee_v16_extract",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 59453.0,
+          "thomas_bank": 92183.0,
+          "margin": -32730.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -40882.0,
+        "errors": 0
+      }
+    },
+    "rayk_c95": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p41_extracted\\rayk_c95_main.py",
+      "rows": [
+        {
+          "cand": "rayk_c95",
+          "seed": 1,
+          "seat0": true,
+          "cand_bank": 72060.0,
+          "thomas_bank": 121913.0,
+          "margin": -49853.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.7
+        },
+        {
+          "cand": "rayk_c95",
+          "seed": 1,
+          "seat0": false,
+          "cand_bank": 72060.0,
+          "thomas_bank": 121913.0,
+          "margin": -49853.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.6
+        },
+        {
+          "cand": "rayk_c95",
+          "seed": 2,
+          "seat0": true,
+          "cand_bank": 63867.0,
+          "thomas_bank": 86585.0,
+          "margin": -22718.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.3
+        },
+        {
+          "cand": "rayk_c95",
+          "seed": 2,
+          "seat0": false,
+          "cand_bank": 63867.0,
+          "thomas_bank": 86585.0,
+          "margin": -22718.0,
+          "win": false,
+          "status": [
+            "DONE",
+            "DONE"
+          ],
+          "sec": 5.4
+        }
+      ],
+      "summary": {
+        "n": 4,
+        "wins": 0,
+        "win_rate": 0.0,
+        "mean_margin": -36285.5,
+        "errors": 0
+      }
+    }
+  }
+}

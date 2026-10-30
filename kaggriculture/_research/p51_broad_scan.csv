@@ -1,0 +1,17 @@
+error,finn_L,finn_W,finn_mean,name,status,vs_R2_D,vs_R2_L,vs_R2_W,vs_R2_WL,vs_R2_mean
+,,,,103_128_fresh_public_v43_sparse_shop_hybrid,no_agent,,,,,
+,,,,159_160_vs_frontier_v20_weed_slip_recovery,no_agent,,,,,
+,,,,177_180_fresh_top_30_v21_1_conditional_memory,no_agent,,,,,
+,,,,25_27_strict_future_v27_midgame_meta_reset,no_agent,,,,,
+name 'HTML' is not defined,,,,adaptive_farming_strategy_for_kaggriculture,load_fail,,,,,
+,,,,harvestforge_x_high_throughput_farming,load_fail,,,,,
+module 'main' has no attribute '_SESSIONS',,,,kaggriculture_93_8_win_rate_public_state_router,load_fail,,,,,
+,0,3,188534.0,kaggriculture_fully_dynamic_autonomous_agent,ok,0,0,3,3,105411.0
+,0,3,188991.33333333334,kaggriculture_metacounter_r1_scored_agent,ok,0,0,3,3,105099.66666666667
+,,,,kaggriculture_multi_route_farming_agent,no_agent,,,,,
+,,,,kaggriculture_pipe_2_agent,no_agent,,,,,
+main.py integrity check failed.,,,,kaggriculture_v41_review_candidate,load_fail,,,,,
+,0,3,188991.33333333334,score2710_t23_kaggriculture_smart_harvest,ok,0,0,3,3,105099.66666666667
+,,,,shape_the_shop_work_the_pasture_top_10,no_agent,,,,,
+,,,,six_day_public_state_fieldbook,no_agent,,,,,
+,,,,v16_rc2_high_score_near_mirror_market_relay,load_fail,,,,,

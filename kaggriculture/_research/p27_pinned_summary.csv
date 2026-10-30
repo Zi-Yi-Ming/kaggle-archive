@@ -1,0 +1,11 @@
+phase,seed,kind,day,bank,delta,note
+T0,1,BASE,,148548,0,pinned
+T0,2,BASE,,167824,0,
+T0,3,BASE,,187389,0,
+P25_all,1-3,DROP_SELL|SKIP_HIRE|NO_WORK,7/10/14/25,,mean=-21987,3/36 pos best=+19
+P25_DROP_SELL,,,,-370,,3/12 pos all +19
+P25_SKIP_HIRE,,,,-39488,,0/12
+P25_NO_WORK,,,,-26102,,0/12
+P24_T1,1-3,R2+d9_12_OUR,9-12,,-95942_to_-155175,destructive
+P24_T2,1-3,R2+d0_5_OUR,0-5,,-145815_to_-187389,destructive
+DECISION,R2_DEEP_LOCAL_BASIN,,,,"no climbable direction under coarse ops",

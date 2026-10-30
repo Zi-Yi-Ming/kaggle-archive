@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "s630_c60_px1_m10",
+      "mv": {
+        "n": 12,
+        "wins": 12,
+        "win_rate": 1.0,
+        "mean_margin": 350.0
+      },
+      "start": 630,
+      "cap": 60
+    },
+    {
+      "name": "s636_c60_px1_m10",
+      "mv": {
+        "n": 12,
+        "wins": 12,
+        "win_rate": 1.0,
+        "mean_margin": 428.0
+      },
+      "start": 636,
+      "cap": 60
+    },
+    {
+      "name": "s642_c60_px1_m10",
+      "mv": {
+        "n": 12,
+        "wins": 12,
+        "win_rate": 1.0,
+        "mean_margin": 451.8333333333333
+      },
+      "start": 642,
+      "cap": 60
+    },
+    {
+      "name": "s648_c60_px1_m10",
+      "mv": {
+        "n": 12,
+        "wins": 10,
+        "win_rate": 0.8333333333333334,
+        "mean_margin": 293.1666666666667
+      },
+      "start": 648,
+      "cap": 60
+    },
+    {
+      "name": "s636_c100_px1_m10",
+      "mv": {
+        "n": 12,
+        "wins": 12,
+        "win_rate": 1.0,
+        "mean_margin": 428.0
+      },
+      "start": 636,
+      "cap": 100
+    }
+  ]
+}

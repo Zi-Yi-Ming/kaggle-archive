@@ -1,0 +1,13 @@
+{
+  "competition_sources": [
+    "kaggriculture"
+  ],
+  "language": "python",
+  "enable_internet": false,
+  "is_private": true,
+  "id": "ziyiming/kaggriculture-v11e-restore-r3",
+  "title": "Kaggriculture v11E restore R3",
+  "code_file": "main.py",
+  "enable_gpu": false,
+  "kernel_type": "script"
+}

@@ -1,0 +1,10 @@
+check,result,note
+melon_seeds_bought_B1,YES,13-21 per game
+melon_plant_cmds_B1,YES,14 per game
+melon_tiles_d1_d9,YES,11 plants in ground
+melon_shed_any_day,NO,shed.MELON=0 all snapshots
+melon_revenue_all_game,NO,0
+shop_path_coulp,UNLIKELY,plants stable 11
+rng_coulp,UNLIKELY,deterministic seed1 diag
+d10_d15_coulp,NO,paired deltas negative on cash
+decision,REJECTED_transfer,mechanism real on R2; not transferable via plant-only

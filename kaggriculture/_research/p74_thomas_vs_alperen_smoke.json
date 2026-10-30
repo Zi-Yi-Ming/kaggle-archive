@@ -1,0 +1,66 @@
+{
+  "cand": "D:\\\u684c\u9762\\Kaggle\\kaggriculture\\_external\\scan_20260919\\extracted\\thomas_2945_clean.py",
+  "alperen": "D:\\\u684c\u9762\\Kaggle\\kaggriculture\\_push_alperen\\main.py",
+  "games": [
+    {
+      "seed": 1,
+      "bank0": 150597.0,
+      "bank1": 148286.0,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 5.9,
+      "cand_seat": 0,
+      "cand_bank": 150597.0,
+      "alp_bank": 148286.0,
+      "cand_win": true
+    },
+    {
+      "seed": 1,
+      "bank0": 148286.0,
+      "bank1": 150597.0,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 9.6,
+      "cand_seat": 1,
+      "cand_bank": 150597.0,
+      "alp_bank": 148286.0,
+      "cand_win": true
+    },
+    {
+      "seed": 2,
+      "bank0": 79681.0,
+      "bank1": 70076.0,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 10.2,
+      "cand_seat": 0,
+      "cand_bank": 79681.0,
+      "alp_bank": 70076.0,
+      "cand_win": true
+    },
+    {
+      "seed": 2,
+      "bank0": 70076.0,
+      "bank1": 79681.0,
+      "status": [
+        "DONE",
+        "DONE"
+      ],
+      "sec": 10.0,
+      "cand_seat": 1,
+      "cand_bank": 79681.0,
+      "alp_bank": 70076.0,
+      "cand_win": true
+    }
+  ],
+  "cand_wins": 4,
+  "n": 4,
+  "gate_note": "smoke only; full gate needs 5/8 vs alperen + 2 elites both seats",
+  "submit": false
+}

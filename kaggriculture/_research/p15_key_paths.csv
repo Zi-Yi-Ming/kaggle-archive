@@ -1,0 +1,5 @@
+path,note
+WHEAT->FEED->ANIMAL->PRODUCT->CASH,classic feed coupling
+MELON->d10_CASH->BUY_ANIMAL->later_PRODUCT,cash-timing bridge
+ANIMAL->FERT->CROP or FERT->CASH,secondary output
+LAND->TILES->(CROP|STRUCT)->both portfolios,capacity contest

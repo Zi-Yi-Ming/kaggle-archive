@@ -1,0 +1,282 @@
+{
+  "metav4": "D:\\桌面\\Kaggle\\kaggriculture\\_push_metav4_v13\\main.py",
+  "shopv7": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\p70_extracted\\kaggriculture_shop_router_reactive_v7__0.py",
+  "results": {
+    "ahmedberatozer__kaggriculture-v49-funded": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py",
+      "vs_metav4": {
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "rows": [
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": true,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py, line 63)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": false,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py, line 63)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": true,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py, line 63)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": false,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py, line 63)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 1,
+          "seat0": true,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py, line 63)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 1,
+          "seat0": false,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py, line 63)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 2,
+          "seat0": true,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py, line 63)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 2,
+          "seat0": false,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v49-funded-sale-timing-and-worker.py, line 63)"
+        }
+      ]
+    },
+    "ahmedberatozer__kaggriculture-v50-early-": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\ahmedberatozer__kaggriculture-v50-early-yarn-commit.py",
+      "vs_metav4": {
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "rows": [
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": true,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v50-early-yarn-commit.py, line 63)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": false,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v50-early-yarn-commit.py, line 63)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": true,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v50-early-yarn-commit.py, line 63)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": false,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v50-early-yarn-commit.py, line 63)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 1,
+          "seat0": true,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v50-early-yarn-commit.py, line 63)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 1,
+          "seat0": false,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v50-early-yarn-commit.py, line 63)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 2,
+          "seat0": true,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v50-early-yarn-commit.py, line 63)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 2,
+          "seat0": false,
+          "error": "IndentationError:unindent does not match any outer indentation level (ahmedberatozer__kaggriculture-v50-early-yarn-commit.py, line 63)"
+        }
+      ]
+    },
+    "flexonafft__kaggriculture-multi-route-fa": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\flexonafft__kaggriculture-multi-route-farming-agent.py",
+      "vs_metav4": {
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "rows": [
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (flexonafft__kaggriculture-multi-route-farming-agent.py, line 42)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (flexonafft__kaggriculture-multi-route-farming-agent.py, line 42)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (flexonafft__kaggriculture-multi-route-farming-agent.py, line 42)"
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (flexonafft__kaggriculture-multi-route-farming-agent.py, line 42)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 1,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (flexonafft__kaggriculture-multi-route-farming-agent.py, line 42)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 1,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (flexonafft__kaggriculture-multi-route-farming-agent.py, line 42)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 2,
+          "seat0": true,
+          "error": "SyntaxError:unexpected character after line continuation character (flexonafft__kaggriculture-multi-route-farming-agent.py, line 42)"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 2,
+          "seat0": false,
+          "error": "SyntaxError:unexpected character after line continuation character (flexonafft__kaggriculture-multi-route-farming-agent.py, line 42)"
+        }
+      ]
+    },
+    "salemali7__kaggriculture-2900": {
+      "path": "D:\\桌面\\Kaggle\\kaggriculture\\_external\\scan_p86_hunt\\extracted\\salemali7__kaggriculture-2900.py",
+      "vs_metav4": {
+        "opp": "metav4",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "vs_shop_v7": {
+        "opp": "shop_v7",
+        "n": 0,
+        "wins": 0,
+        "win_rate": null,
+        "mean_margin": null,
+        "errors": 4
+      },
+      "rows": [
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "metav4",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "metav4",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 1,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 1,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 2,
+          "seat0": true,
+          "error": "NameError:name 'json' is not defined"
+        },
+        {
+          "opp": "shop_v7",
+          "seed": 2,
+          "seat0": false,
+          "error": "NameError:name 'json' is not defined"
+        }
+      ]
+    }
+  }
+}

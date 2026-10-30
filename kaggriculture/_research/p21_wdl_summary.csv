@@ -1,0 +1,7 @@
+opponent,tail,W,D,L,score,bank_mean,note
+rancher_rita,ALL,18,0,0,1.00,~25-43k,too_weak_saturated
+closer_cleo,ALL,0,0,18,0.00,~8-23k,too_strong_saturated
+broker_bea,MAIN,0,0,4,0.00,9622,
+broker_bea,CASH_WINDOW,0,0,4,0.00,17928,best_bank_under_all_L
+broker_bea,HERD_SCALE,0,0,4,0.00,~17k,
+DECISION,WDL_LABEL_SATURATED,,,,,"need knife-edge set or margin/pairwise outcome"
